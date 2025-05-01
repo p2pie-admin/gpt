@@ -1,27 +1,20 @@
-import { IExchangerData, IPrompt } from "../types";
+import { IExchangerData } from "../types";
 import callStrapi from "../services/callStrapi";
-import { sleep } from "../helper";
-import {
-  PromptsQuery,
-  LinksQuery,
-  UpdateDescriptions,
-} from "../services/queries";
+import { mylog } from "../helper";
+import { DescriptionQuery, UpdateDescriptions } from "../services/queries";
 import { callGPT, findPrompt } from "../services/gpt";
-
 import { scrape } from "../services/cheerio";
+import { generateRating } from "..";
 
-export const generateRating = () =>
-  +(Math.random() * (5 - 3.4) + 3.4).toFixed(2);
-
-export const filldescriptions = async () => {
+export const fillDescriptionsAuto = async () => {
   try {
     const promptDescription = await findPrompt("exchanger_description");
+    const data = await callStrapi(DescriptionQuery);
 
-    const data = await callStrapi(LinksQuery);
     const exchangers = data.exchangers.filter(
       (e: any) => e.ref_link
     ) as IExchangerData[];
-    console.log(`Exchangers without description found: ${exchangers.length}`);
+    mylog(`Exchangers without description found: ${exchangers.length}`);
 
     for (let e of exchangers) {
       const textBlocks = await scrape(e.ref_link);
@@ -34,7 +27,7 @@ export const filldescriptions = async () => {
         console.log(` ✅ \u001b[1;32m ___________________________`);
 
         if (res) {
-          const data = {
+          const updateData = {
             id: e.id,
             ru_description: res.ru_description || null,
             en_description: res.en_description || null,
@@ -43,15 +36,13 @@ export const filldescriptions = async () => {
             working_time: res.working_time || null,
             admin_rating: generateRating(),
           };
-
-          await callStrapi(UpdateDescriptions, data);
+          await callStrapi(UpdateDescriptions, updateData);
           console.log(`📙 \u001b[1;33m ${e.id} filled!`);
+          continue;
         }
-        // reply.send(JSON.stringify(res));
       }
-      await sleep(5000);
     }
   } catch (err) {
-    console.log(err);
+    console.error("❌ Error in fillDescriptions:", err);
   }
 };
