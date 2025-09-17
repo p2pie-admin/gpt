@@ -1,6 +1,6 @@
-import callStrapi from "../services/callStrapi";
-import { LinksQuery } from "../services/queries";
-import { IExchangerData, IScrapedBC } from "../types";
+import callStrapi from "../../services/callStrapi";
+import { LinksQuery } from "../../services/queries";
+import { IExchangerData, IScrapedBC } from "../../types";
 import {
   getEnding,
   getFinalUrl,
@@ -9,7 +9,7 @@ import {
   removeSame,
 } from "./helper";
 
-import { mylog, saveProgress } from "../helper";
+import { mylog, saveProgress } from "../../helper";
 import { readFileSync } from "fs";
 
 export const findxml = async () => {

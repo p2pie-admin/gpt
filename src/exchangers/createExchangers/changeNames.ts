@@ -1,12 +1,12 @@
 import { readFileSync } from "fs";
-import { IExchangerData, IScrapedBC } from "../types";
-import callStrapi from "../services/callStrapi";
+import { IExchangerData, IScrapedBC } from "../../types";
+import callStrapi from "../../services/callStrapi";
 import {
   CreateExchangerBC,
   LinksQuery,
   UpdateExchangerName,
-} from "../services/queries";
-import { delay, mylog } from "../helper";
+} from "../../services/queries";
+import { delay, mylog } from "../../helper";
 import { generateRating } from "../descriptions/helper";
 import { splitReadable } from "./helper";
 

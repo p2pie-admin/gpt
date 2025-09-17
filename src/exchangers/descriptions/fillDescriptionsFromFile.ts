@@ -1,10 +1,13 @@
-import { delay, mylog } from "../helper";
-import callStrapi from "../services/callStrapi";
-import { findPrompt, callGPT } from "../services/gpt";
-import { LinksQuery, UpdateDescriptions } from "../services/queries";
-import { IExchangerData } from "../types";
+import { delay, mylog } from "../../helper";
+import callStrapi from "../../services/callStrapi";
+import { findPrompt, callGPT } from "../../services/gpt";
+import { LinksQuery, UpdateDescriptions } from "../../services/queries";
+import { IExchangerData } from "../../types";
 import { getDomain } from "../xml/helper";
 import { generateRating, readHtmlFiles } from "./helper";
+import dotenv from "dotenv";
+
+dotenv.config();
 
 export default async () => {
   const fileData = (await readHtmlFiles()) as
@@ -39,7 +42,7 @@ export default async () => {
 
     if (textBlocks) {
       const prompt = promptDescription + " " + textBlocks.slice(0, 28_000);
-      const res = (await callGPT(prompt, ex.id, "gpt-4.1")) as any;
+      const res = (await callGPT(prompt, ex.id)) as any;
 
       mylog(` ✅  ---------------------------`);
       mylog(`  Blocks: ${textBlocks.length}`, "success");

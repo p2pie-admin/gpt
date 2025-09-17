@@ -1,79 +1,37 @@
 import { delay, mylog } from "../helper";
 import callStrapi from "../services/callStrapi";
 import { callGPT, findPrompt } from "../services/gpt";
-import { selectorQuery, TextBoxKeysQuery } from "../services/queries";
-import dirTextCreator from "./dirTextCreator";
+import { EnTextBoxKeysQuery, RuTextBoxKeysQuery } from "../services/queries";
+import { IDirText, TextBoxKey } from "../types";
+import createDirText, { createDirTextLocalization } from "./createDirText";
+
 import generateSlugs from "./generateSlugs";
+import { checkIfBothLocalesExist } from "./helper";
 import { destructureDirSlug } from "./pms";
 
 const DIR_TIMEOUT_MS = 30000; // 30 seconds timeout per directory
 
-async function handleDir(
-  dir: string,
-  slug: string,
-  textBoxes: { key: string; subtitle: string }[]
-) {
-  if (textBoxes.find((tb) => tb.key === dir || tb.subtitle === slug)) {
-    mylog(`Skipped ${dir}`, "warning");
-    return;
-  }
-
-  mylog(dir, "hidden");
-
-  const {
-    giveName,
-    giveCurCode,
-    giveSubgroupName,
-    getName,
-    getCurCode,
-    getSubgroupName,
-  } = destructureDirSlug(slug);
-  const promptStart = `${giveName} (${giveCurCode} ${
-    giveSubgroupName || ""
-  }) to ${getName} (${getCurCode} ${getSubgroupName || ""})`;
-
-  const promptEnd = await findPrompt(
-    `dir_${Math.floor(Math.random() * 5) + 1}`
-  );
-  await delay(1000);
-  const res = (await callGPT(`${promptStart} ${promptEnd}`, dir)) as any;
-
-  if (!res) {
-    mylog(`No response for ${dir}`, "error");
-    return;
-  }
-
-  const locales = ["en", "ru"] as const;
-  await Promise.all(
-    locales.map(async (locale) => {
-      if (res[`${locale}_description`]) {
-        const textBoxCreatedID = await dirTextCreator(
-          res[`${locale}_description`],
-          dir,
-          locale,
-          slug
-        );
-        mylog(`Text box created with ID: ${textBoxCreatedID}`, "success");
-      }
-    })
-  );
-
-  await delay(12000);
-}
-
-export async function fillDirs() {
+export default async () => {
   while (true) {
     try {
       const slugs = await generateSlugs();
 
-      const { textBoxes } = (await callStrapi(TextBoxKeysQuery)) as {
-        textBoxes: { key: string; subtitle: string }[];
+      const { textBoxes } = (await callStrapi(RuTextBoxKeysQuery)) as {
+        textBoxes: TextBoxKey[];
       };
+      const { textBoxes: EnTextBoxes } = (await callStrapi(
+        EnTextBoxKeysQuery
+      )) as {
+        textBoxes: { id: string; key: string }[];
+      }; // вытаскиваем все уже существующие слаги для обеих локализаций
+
+      checkIfBothLocalesExist(textBoxes, EnTextBoxes);
 
       for (const [dir, slug] of Object.entries(slugs)) {
         try {
           await Promise.race([
-            handleDir(dir, slug, textBoxes),
+            // если уже есть, пропускает, иначе создает задание для chatGPT
+            handleDir(slug, textBoxes),
             new Promise((_, reject) =>
               setTimeout(
                 () => reject(new Error(`Timeout for ${dir}`)),
@@ -91,8 +49,67 @@ export async function fillDirs() {
 
       break; // All done
     } catch (err) {
-      mylog("fillDirs failed. Restarting in 5 seconds...", "error");
+      mylog("fill_dirs failed. Restarting in 5 seconds...", "error");
       await delay(5000);
     }
+  }
+};
+
+async function handleDir(slug: string, textBoxes: { key: string }[]) {
+  if (textBoxes.find((tb) => tb.key === slug)) {
+    mylog(`Skipped ${slug}`, "hidden");
+    return;
+  }
+
+  // Распаковываем slug
+  const {
+    giveName,
+    giveCurCode,
+    giveSubgroupName,
+    getName,
+    getCurCode,
+    getSubgroupName,
+  } = destructureDirSlug(slug);
+
+  const promptStart = `${giveName} ${giveCurCode} ${
+    giveSubgroupName || ""
+  } -> ${getName} ${getCurCode} ${getSubgroupName || ""}`;
+  const promptEnd = await findPrompt("dir", Math.floor(Math.random() * 5) + 1);
+  await delay(3000);
+
+  // GPT отвечает сразу en и ru
+  const res = (await callGPT(`${promptStart} ${promptEnd}`, slug)) as {
+    en: IDirText;
+    ru: IDirText;
+  };
+
+  if (!res) {
+    mylog(`No response for ${slug}`, "error");
+    return;
+  }
+
+  const [section_give, section_get] = slug.split("_to_");
+
+  // 1. Create EN as base
+  const baseId = await createDirText({
+    dirText: res.en,
+    key: slug,
+  });
+  await delay(1000);
+
+  if (!baseId) {
+    mylog(`Failed to create EN base for ${slug}`, "error");
+    return;
+  }
+
+  mylog(`EN base created with ID: ${baseId}`, "success");
+
+  // 2. Create RU as localization of that base
+  const ruRes = await createDirTextLocalization({ dirText: res.ru, baseId });
+
+  if (ruRes) {
+    mylog(`RU localization created for ${slug}`, "success");
+  } else {
+    mylog(`Failed to create RU localization for ${slug}`, "error");
   }
 }

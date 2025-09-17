@@ -1,0 +1,16 @@
+{
+  "folder-color.pathColors": [
+    {
+      "folderPath": "gpt/frontend/src/main.tsx/",
+      "badge": "🦁"
+    },
+    {
+      "folderPath": "gpt/src/index.ts/",
+      "badge": "🦷"
+    },
+    {
+      "folderPath": "gpt/frontend/src/App.tsx/",
+      "badge": "🐸"
+    }
+  ]
+}

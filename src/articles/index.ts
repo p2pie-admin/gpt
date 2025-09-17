@@ -20,6 +20,7 @@ import { IArticleData, IArticleGPT, IPrompt } from "../types";
 dotenv.config();
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY as string;
+const model = (process.env.MODEL as string) || "gpt-4.1-nano";
 
 if (!OPENAI_API_KEY) {
   throw new Error(
@@ -91,7 +92,7 @@ export const fillArticles = async (sectionName: string) => {
       while (attempts < maxRetries) {
         try {
           const completion = await openai.chat.completions.create({
-            model: "gpt-4.1",
+            model,
             temperature: 0.7,
             messages: [{ role: "user", content: prompt }],
           });

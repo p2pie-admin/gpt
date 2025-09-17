@@ -1,12 +1,12 @@
-import { IExchangerData } from "../types";
-import callStrapi from "../services/callStrapi";
-import { mylog } from "../helper";
-import { DescriptionQuery, UpdateDescriptions } from "../services/queries";
-import { callGPT, findPrompt } from "../services/gpt";
-import { scrape } from "../services/cheerio";
+import { IExchangerData } from "../../types";
+import callStrapi from "../../services/callStrapi";
+import { mylog } from "../../helper";
+import { DescriptionQuery, UpdateDescriptions } from "../../services/queries";
+import { callGPT, findPrompt } from "../../services/gpt";
+import { scrape } from "../../services/cheerio";
 import { generateRating } from "./helper";
 
-export const fillDescriptionsAuto = async () => {
+export default async () => {
   try {
     const promptDescription = await findPrompt("exchanger_description");
     const data = await callStrapi(DescriptionQuery);
@@ -43,6 +43,6 @@ export const fillDescriptionsAuto = async () => {
       }
     }
   } catch (err) {
-    console.error(" loadExchangersHTML:", err);
+    console.error(" load_html:", err);
   }
 };

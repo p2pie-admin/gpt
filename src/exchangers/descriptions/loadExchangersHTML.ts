@@ -3,13 +3,13 @@ import fetch from "node-fetch"; // use axios if you prefer
 import CDP from "chrome-remote-interface";
 
 import * as fs from "fs/promises";
-import { mylog } from "../helper";
-import callStrapi from "../services/callStrapi";
-import { findPrompt } from "../services/gpt";
-import { DescriptionQuery } from "../services/queries";
-import { IExchangerData } from "../types";
+import { mylog } from "../../helper";
+import callStrapi from "../../services/callStrapi";
+import { findPrompt } from "../../services/gpt";
+import { DescriptionQuery } from "../../services/queries";
+import { IExchangerData } from "../../types";
 import { getDomain } from "../xml/helper";
-import { scrape } from "../services/cheerio";
+import { scrape } from "../../services/cheerio";
 
 //
 const range = [0, 100];
@@ -126,7 +126,7 @@ async function saveAllTabs() {
   await client.close();
 }
 
-export async function loadExchangersHTML() {
+export default async () => {
   await launchRealChrome();
   const data = await callStrapi(DescriptionQuery);
 
@@ -146,4 +146,4 @@ export async function loadExchangersHTML() {
   await saveAllTabs();
 
   mylog("Done!", "success");
-}
+};

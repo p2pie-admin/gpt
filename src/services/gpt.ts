@@ -21,9 +21,10 @@ const openai = new OpenAI({
 
 export const callGPT = async (
   prompt: string,
-  id: string,
-  model: string = "gpt-4.1-nano"
+  id: string
 ): Promise<any | null> => {
+  const model = (process.env.MODEL as string) || "gpt-4o-mini";
+  console.log("Model: ", model);
   if (!prompt) return null;
 
   const maxRetries = 3;
@@ -63,16 +64,28 @@ export const callGPT = async (
   return null;
 };
 
-export const findPrompt = async (name: string) => {
+/////////////////////////////////////////////////////////
+
+export const findPrompt = async (name: string, idx = 0) => {
   const promptData = (await callStrapi(PromptsQuery)) as {
     prompts: IPrompt[];
   };
+
+  let additionalDescription = "";
+
   const promptDescription = promptData?.prompts?.find(
     (p) => p.code.toLowerCase() == name
   )?.description;
+
+  if (idx) {
+    additionalDescription = promptData?.prompts?.find(
+      (p) => p.code.toLowerCase() == `${name}_${idx}`
+    )?.description as string;
+  }
+
   if (promptDescription) {
     mylog(`${name} prompt found`, "info");
-    return promptDescription;
+    return `${promptDescription} | ${additionalDescription}`;
   }
   mylog(`${name} no prompt found`, "error");
   return;

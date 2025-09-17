@@ -1,8 +1,11 @@
 import { readFileSync } from "fs";
-import { mylog, saveProgress } from "../helper";
-import { scrape } from "../services/cheerio";
-import { callGPT, findPrompt } from "../services/gpt";
-import { IScrapedBC } from "../types";
+import { mylog, saveProgress } from "../../helper";
+import { scrape } from "../../services/cheerio";
+import { callGPT, findPrompt } from "../../services/gpt";
+import { IScrapedBC } from "../../types";
+import dotenv from "dotenv";
+
+dotenv.config();
 
 export const parseBest = async () => {
   const scrapedData = await scrape(
@@ -13,7 +16,7 @@ export const parseBest = async () => {
   const promptBeginning = await findPrompt("parse_bestchange_exchangers");
   const prompt = promptBeginning + scrapedData;
   mylog(promptBeginning || "no prompt found", "info");
-  const res = await callGPT(prompt, "best", "gpt-4.1");
+  const res = await callGPT(prompt, "best");
   const prev = JSON.parse(
     readFileSync("bc-scraped.json", "utf-8")
   ) as IScrapedBC[];

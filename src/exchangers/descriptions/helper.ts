@@ -1,7 +1,7 @@
 import { JSDOM } from "jsdom";
 import { readdir, readFile } from "fs/promises";
 import { join } from "path";
-import { mylog } from "../helper";
+import { mylog } from "../../helper";
 
 export async function readHtmlFiles() {
   const folderPath = "./saved";

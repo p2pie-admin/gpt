@@ -20,7 +20,7 @@ export const AuthMutation = gql`
 
 export const PromptsQuery = gql`
   {
-    prompts {
+    prompts(pagination: { limit: 2000 }) {
       data {
         id
         attributes {
@@ -321,14 +321,23 @@ export const selectorQuery = gql`
 
 export const CreateTextBoxMutation = gql`
   mutation CreateTextBox(
-    $text: String
     $key: String
-    $subtitle: String
-    $locale: I18NLocaleCode
+    $text: String
+    $header: String
+    $subheader: String
+    $seo_description: String
+    $seo_title: String
   ) {
     createTextBox(
-      locale: $locale
-      data: { text: $text, key: $key, subtitle: $subtitle }
+      locale: "en"
+      data: {
+        text: $text
+        key: $key
+        subheader: $subheader
+        header: $header
+        seo_title: $seo_title
+        seo_description: $seo_description
+      }
     ) {
       data {
         id
@@ -337,14 +346,97 @@ export const CreateTextBoxMutation = gql`
   }
 `;
 
-export const TextBoxKeysQuery = gql`
+export const CreateTextBoxLocalizationMutation = gql`
+  mutation CreateTextBoxLocalization(
+    $baseId: ID!
+    $text: String
+    $header: String
+    $subheader: String
+    $seo_description: String
+    $seo_title: String
+  ) {
+    createTextBoxLocalization(
+      id: $baseId
+      locale: "ru"
+      data: {
+        text: $text
+        header: $header
+        subheader: $subheader
+        seo_description: $seo_description
+        seo_title: $seo_title
+      }
+    ) {
+      data {
+        id
+      }
+    }
+  }
+`;
+
+export const CreateDirsText = gql`
+  mutation CreateDirsText(
+    $locale: I18NLocaleCode
+    $section_give: ENUM_DIRSTEXT_SECTION_GIVE
+    $section_get: ENUM_DIRSTEXT_SECTION_GET
+    $text: String
+    $header: String
+    $subheader: String
+    $seo_description: String
+    $seo_title: String
+  ) {
+    createDirsText(
+      locale: $locale
+      data: {
+        section_give: $section_give
+        section_get: $section_get
+        text: $text
+        header: $header
+        subheader: $subheader
+        seo_description: $seo_description
+        seo_title: $seo_title
+      }
+    ) {
+      data {
+        id
+      }
+    }
+  }
+`;
+
+export const CreateDirsTextLocalization = gql`
+  mutation CreateDirsTextLocalization(
+    $id: ID!
+    $locale: I18NLocaleCode
+    $data: DirsTextInput!
+  ) {
+    createDirsTextLocalization(id: $id, locale: $locale, data: $data) {
+      data {
+        id
+      }
+    }
+  }
+`;
+
+export const RuTextBoxKeysQuery = gql`
   {
-    textBoxes(pagination: { limit: 50000 }) {
+    textBoxes(locale: "ru", pagination: { limit: 50000 }) {
       data {
         id
         attributes {
           key
-          subtitle
+        }
+      }
+    }
+  }
+`;
+
+export const EnTextBoxKeysQuery = gql`
+  {
+    textBoxes(locale: "en", pagination: { limit: 50000 }) {
+      data {
+        id
+        attributes {
+          key
         }
       }
     }
@@ -355,6 +447,85 @@ export const articleCodesQuery = gql`
   query Articles($locale: I18NLocaleCode) {
     articles(locale: $locale, pagination: { start: 0, limit: 1000 }) {
       data {
+        attributes {
+          code
+        }
+      }
+    }
+  }
+`;
+
+export const CreateMassDirsText = gql`
+  mutation CreateMassDirsText(
+    $code: String
+    $locale: I18NLocaleCode
+    $currency: ID
+    $isSell: Boolean
+    $text: String
+    $header: String
+    $subheader: String
+    $seo_description: String
+    $seo_title: String
+  ) {
+    createMassDirsText(
+      locale: $locale
+      data: {
+        code: $code
+        currency: $currency
+        isSell: $isSell
+        text: $text
+        header: $header
+        subheader: $subheader
+        seo_description: $seo_description
+        seo_title: $seo_title
+      }
+    ) {
+      data {
+        id
+      }
+    }
+  }
+`;
+
+export const CreateMassDirsTextLocalization = gql`
+  mutation CreateMassDirsTextLocalization(
+    $id: ID!
+    $code: String
+    $locale: I18NLocaleCode
+    $currency: ID
+    $isSell: Boolean
+    $text: String
+    $header: String
+    $subheader: String
+    $seo_description: String
+    $seo_title: String
+  ) {
+    createMassDirsTextLocalization(
+      id: $id
+      locale: $locale
+      data: {
+        code: $code
+        currency: $currency
+        isSell: $isSell
+        text: $text
+        header: $header
+        subheader: $subheader
+        seo_description: $seo_description
+        seo_title: $seo_title
+      }
+    ) {
+      data {
+        id
+      }
+    }
+  }
+`;
+
+export const CurrencyIdsQuery = gql`
+  {
+    currencies(pagination: { start: 0, limit: 1000 }) {
+      data {
+        id
         attributes {
           code
         }

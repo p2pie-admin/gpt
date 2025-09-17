@@ -18,15 +18,6 @@ export interface IPmLayoutsData {
   getArticleExists: boolean;
 }
 
-export interface IDirText {
-  id: string;
-  section_give: ISectionName;
-  section_get: ISectionName;
-  text: string;
-  title: string;
-  updatedAt: string;
-}
-
 export interface IPath {
   params: {
     exchange: string;

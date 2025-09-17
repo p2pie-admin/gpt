@@ -1,8 +1,8 @@
-import callStrapi from "../services/callStrapi";
-import { LinksQuery } from "../services/queries";
-import { IExchangerData, IScrapedBC } from "../types";
+import callStrapi from "../../services/callStrapi";
+import { LinksQuery } from "../../services/queries";
+import { IExchangerData, IScrapedBC } from "../../types";
 
-import { mylog } from "../helper";
+import { mylog } from "../../helper";
 
 export const checkHealthXML = async () => {
   const data = await callStrapi(LinksQuery);

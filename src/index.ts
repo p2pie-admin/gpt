@@ -1,20 +1,23 @@
 import Fastify from "fastify";
 import auth from "./services/auth";
 import db from "./db";
-import { findxml } from "./xml";
-import { fillRealLinks } from "./fillReal";
-import { parseBest } from "./parsebest";
-import { loadExchangersHTML } from "./descriptions/loadExchangersHTML";
+import { findxml } from "./exchangers/xml";
+import { fillRealLinks } from "./exchangers/fillReal";
+import { parseBest } from "./exchangers/parsebest";
+
 import { fillArticles } from "./articles";
-import { createExchangers } from "./createExchangers";
-import { checkHealthXML } from "./checkHealthXML";
+import { createExchangers } from "./exchangers/createExchangers";
+import { checkHealthXML } from "./exchangers/checkHealthXML";
 import { HTML } from "./HTML";
-import { fillDescriptionsAuto } from "./descriptions/fillDescriptionsAuto";
-import fillDescriptionsFromFile from "./descriptions/fillDescriptionsFromFile";
+import fillDescriptionsAuto from "./exchangers/descriptions/fillDescriptionsAuto";
+import fillDescriptionsFromFile from "./exchangers/descriptions/fillDescriptionsFromFile";
 import { gql } from "graphql-request";
 import callStrapi from "./services/callStrapi";
-import { fillDirs } from "./dirs";
-import { changeExchangerNames } from "./createExchangers/changeNames";
+import fillDirs from "./dirs";
+import { changeExchangerNames } from "./exchangers/createExchangers/changeNames";
+import loadHTML from "./exchangers/descriptions/loadExchangersHTML";
+import generateDefaultDirTexts from "./defaultDirTexts";
+import generateDefaultMassDirTexts from "./defaultMassDirTexts";
 
 const server = Fastify({ logger: true });
 
@@ -42,41 +45,32 @@ server.get("/create", async (req, reply) => {
   createExchangers();
 });
 
-server.get("/filldirs", async (req, reply) => {
-  fillDirs();
+server.get("/load_html", async (req, reply) => {
+  loadHTML();
 });
 
-server.get("/loadExchangersHTML", async (req, reply) => {
-  loadExchangersHTML();
-});
-
-server.get("/fillDescriptionAuto", async (req, reply) => {
+server.get("/descriptions_auto", async (req, reply) => {
   fillDescriptionsAuto();
 });
 
-server.get("/fillDescriptionsFromFile", async (req, reply) => {
+server.get("/descriptions_file", async (req, reply) => {
   fillDescriptionsFromFile();
 });
 
-server.get("/checkhealthy", async (req, reply) => {
-  //checkHealthXML();
-  const RootTextQuery = gql`
-    query TextBox($locale: I18NLocaleCode, $key: String) {
-      textBoxes(locale: $locale, filters: { key: { eqi: $key } }) {
-        data {
-          id
-          attributes {
-            title
-            subtitle
-            text
-          }
-        }
-      }
-    }
-  `;
-  const res = await callStrapi(RootTextQuery, { locale: "ru", key: "root" });
+server.get("/health", async (req, reply) => {
+  checkHealthXML();
+});
 
-  console.log("textBoxes", res);
+server.get("/fill_dirs", async (req, reply) => {
+  fillDirs();
+});
+
+server.get("/default_dirs", async (req, reply) => {
+  generateDefaultDirTexts();
+});
+
+server.get("/default_mass_dirs", async (req, reply) => {
+  generateDefaultMassDirTexts();
 });
 
 server.get("/section=:sectionName", async (request, reply) => {

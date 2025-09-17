@@ -1,8 +1,8 @@
 import { readFileSync } from "fs";
-import { IExchangerData, IScrapedBC } from "../types";
-import callStrapi from "../services/callStrapi";
-import { CreateExchangerBC, LinksQuery } from "../services/queries";
-import { delay, mylog } from "../helper";
+import { IExchangerData, IScrapedBC } from "../../types";
+import callStrapi from "../../services/callStrapi";
+import { CreateExchangerBC, LinksQuery } from "../../services/queries";
+import { delay, mylog } from "../../helper";
 import { generateRating } from "../descriptions/helper";
 
 export const createExchangers = async () => {

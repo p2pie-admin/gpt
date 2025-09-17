@@ -6,7 +6,7 @@ import { ISelector } from "../types/selector";
 import { getPms, getSlugs } from "./pms";
 
 export default async () => {
-  mylog("Starting fillDirs...");
+  mylog("Starting fill_dirs...");
   const parserFetcher = initParserFetcher();
   const possiblePairs = (await parserFetcher("possible_pairs")) as Record<
     string,

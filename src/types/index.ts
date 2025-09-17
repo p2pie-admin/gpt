@@ -46,3 +46,13 @@ export interface IScrapedBC {
   real_link?: string;
   xml?: string;
 }
+
+export interface IDirText {
+  header: string;
+  subheader: string;
+  text: string;
+  seo_description: string;
+  seo_title: string;
+}
+
+export type TextBoxKey = { id: string; key: string };

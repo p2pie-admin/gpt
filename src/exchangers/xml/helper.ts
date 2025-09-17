@@ -1,5 +1,5 @@
 import { https, http } from "follow-redirects";
-import { IExchangerData } from "../types";
+import { IExchangerData } from "../../types";
 
 // Helper: wait for ms
 

@@ -7,7 +7,7 @@ import {
   isRatesWastedString,
   isSimilarText,
   trimTextValues,
-} from "../descriptions/helper";
+} from "../exchangers/descriptions/helper";
 
 export async function scrape(
   url: string,

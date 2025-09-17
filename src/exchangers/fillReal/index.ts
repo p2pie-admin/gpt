@@ -1,8 +1,8 @@
 import puppeteer from "puppeteer";
 import { readFileSync, writeFileSync } from "fs";
-import { delay, makeRefLink, mylog, saveProgress } from "../helper";
+import { delay, makeRefLink, mylog, saveProgress } from "../../helper";
 
-import { IScrapedBC } from "../types";
+import { IScrapedBC } from "../../types";
 
 // эта штука превращает "bestchange.com/click.php?id=1289" в это  "geekchange.com"
 
