@@ -36,6 +36,8 @@ export const CreateArticle = gql`
   mutation CreateArticle(
     $header: String
     $subheader: String
+    $seo_title: String
+    $seo_description: String
     $code: String
     $chapters: JSON
     $stats: JSON
@@ -45,6 +47,8 @@ export const CreateArticle = gql`
       data: {
         header: $header
         subheader: $subheader
+        seo_title: $seo_title
+        seo_description: $seo_description
         code: $code
         stats: $stats
         chapters: $chapters
@@ -158,8 +162,8 @@ export const UpdateRefLinks = gql`
 `;
 
 export const UpdateExchangerName = gql`
-  mutation UpdateExchanger($id: ID!, $name: String) {
-    updateExchanger(id: $id, data: { name: $name }) {
+  mutation UpdateExchanger($id: ID!, $display_name: String) {
+    updateExchanger(id: $id, data: { display_name: $display_name }) {
       data {
         id
       }
@@ -533,3 +537,13 @@ export const CurrencyIdsQuery = gql`
     }
   }
 `;
+
+// export const UpdateExchangerStatusAndComment = gql`
+//   mutation UpdateExchanger($id: ID!, $ref_link: String) {
+//     updateExchanger(id: $id, data: { ref_link: $ref_link }) {
+//       data {
+//         id
+//       }
+//     }
+//   }
+// `;

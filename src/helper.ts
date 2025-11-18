@@ -17,12 +17,15 @@ export const createArticle = async (
     return;
   }
   try {
-    const { chapters, header, stats, subheader } = articleData;
+    const { chapters, header, stats, subheader, seo_title, seo_description } =
+      articleData;
     return (await callStrapi(CreateArticle, {
       chapters,
       header,
       stats,
       subheader,
+      seo_title,
+      seo_description,
       code: code.toLowerCase().replaceAll(" ", "_"),
       locale,
     })) as {
@@ -42,7 +45,8 @@ export const createLocalization = async (
   articleData: IArticleData
 ) => {
   try {
-    const { chapters, header, stats, subheader } = articleData;
+    const { chapters, header, stats, subheader, seo_description, seo_title } =
+      articleData;
     const res = await callStrapi(CreateArticleLocalization, {
       id: baseArticleId,
       locale,
@@ -51,6 +55,8 @@ export const createLocalization = async (
         header,
         stats,
         subheader,
+        seo_title,
+        seo_description,
       },
     });
     await delay(1000);

@@ -61,6 +61,17 @@ async function handleDir(slug: string, textBoxes: { key: string }[]) {
     return;
   }
 
+  const isCash = (slug && slug.startsWith("cash-")) || slug.includes("-cash-");
+
+  if (isCash) {
+    mylog(
+      "НЕ СОЗДАЕМ НАПРАВЛЕНИЯ С КЭШЕМ ТАК КАК ТАМ НУЖЕН ГОРОД, ИНАЧЕ ОНИ БУДУТ НЕ УНИКАЛЬНЫЕ",
+      "warning"
+    );
+
+    return;
+  }
+
   // Распаковываем slug
   const {
     giveName,

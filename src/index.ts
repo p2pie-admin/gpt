@@ -14,6 +14,8 @@ import fillDescriptionsFromFile from "./exchangers/descriptions/fillDescriptions
 import { gql } from "graphql-request";
 import callStrapi from "./services/callStrapi";
 import fillDirs from "./dirs";
+import fillCityDirs from "./dirs/fillCityDirs";
+import fillCities from "./dirs/fillCities";
 import { changeExchangerNames } from "./exchangers/createExchangers/changeNames";
 import loadHTML from "./exchangers/descriptions/loadExchangersHTML";
 import generateDefaultDirTexts from "./defaultDirTexts";
@@ -65,6 +67,14 @@ server.get("/fill_dirs", async (req, reply) => {
   fillDirs();
 });
 
+server.get("/fill_dirs_cities", async (req, reply) => {
+  fillCityDirs();
+});
+
+server.get("/fill_cities", async (req, reply) => {
+  fillCities();
+});
+
 server.get("/default_dirs", async (req, reply) => {
   generateDefaultDirTexts();
 });
@@ -78,6 +88,10 @@ server.get("/section=:sectionName", async (request, reply) => {
   fillArticles(sectionName);
 });
 
+server.get("/change_exchanger_names", async (request, reply) => {
+  changeExchangerNames();
+});
+
 // Start the server
 const port = +process.env.PORT!;
 const start = async () => {
@@ -89,4 +103,5 @@ const start = async () => {
     process.exit(1);
   }
 };
+
 start();

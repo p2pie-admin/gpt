@@ -14,12 +14,12 @@ export const fiatCurrencies = [
   "rub",
   "uah",
   "eur",
-  "gbp",
-  "gel",
-  "try",
-  "azn",
-  "som",
-  "cny",
+  // "gbp",
+  // "gel",
+  // "try",
+  // "azn",
+  // "som",
+  // "cny",
 ];
 
 const getOptionCode = (option: IOption, prefix?: string): string => {

@@ -1,3 +1,11 @@
+import codesToNames from "./codesToNames";
+
+interface ICityRecord {
+  codes: string[];
+  ru_name: string;
+  [key: string]: any;
+}
+
 export function splitReadable(word: string): string {
   // --- 1️⃣ Транслитерация кириллицы ---
   const translitMap: Record<string, string> = {
@@ -106,5 +114,58 @@ export function splitReadable(word: string): string {
     }
   }
 
-  return mergedWords.join(" ").trim();
+  return mergedWords.join("-").trim();
+}
+
+export function mapCityCodesToNames(
+  cities: ICityRecord[],
+  mapping: Record<string, string> = codesToNames
+): ICityRecord[] {
+  // Align first code with the key that corresponds to the current ru_name.
+  const nameToCode = new Map<string, string>();
+  for (const [code, name] of Object.entries(mapping)) {
+    const normalized = name.toLowerCase();
+    if (!nameToCode.has(normalized)) {
+      nameToCode.set(normalized, code);
+    }
+  }
+
+  return cities.map((city) => {
+    if (!Array.isArray(city.codes) || city.codes.length === 0) {
+      return city;
+    }
+
+    const desiredCode = nameToCode.get(city.ru_name.toLowerCase());
+    let nextCodes = [...city.codes];
+    if (desiredCode) {
+      if (nextCodes[0] !== desiredCode) {
+        const filtered = nextCodes.filter((code) => code !== desiredCode);
+        nextCodes = [desiredCode, ...filtered];
+      }
+    }
+
+    const deduped: string[] = [];
+    const seen = new Set<string>();
+    for (const code of nextCodes) {
+      if (typeof code !== "string") {
+        continue;
+      }
+      if (seen.has(code)) {
+        continue;
+      }
+      seen.add(code);
+      deduped.push(code);
+    }
+
+    const changed =
+      deduped.length !== city.codes.length ||
+      deduped.some((code, idx) => city.codes[idx] !== code);
+
+    return changed
+      ? {
+          ...city,
+          codes: deduped,
+        }
+      : city;
+  });
 }

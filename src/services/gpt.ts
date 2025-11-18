@@ -19,11 +19,17 @@ const openai = new OpenAI({
   apiKey: OPENAI_API_KEY,
 });
 
+type CallGPTOptions = {
+  model?: string;
+};
+
 export const callGPT = async (
   prompt: string,
-  id: string
+  id: string,
+  options?: CallGPTOptions
 ): Promise<any | null> => {
-  const model = (process.env.MODEL as string) || "gpt-4o-mini";
+  const model =
+    options?.model || (process.env.MODEL as string) || "gpt-4o-mini";
   console.log("Model: ", model);
   if (!prompt) return null;
 
@@ -66,26 +72,32 @@ export const callGPT = async (
 
 /////////////////////////////////////////////////////////
 
-export const findPrompt = async (name: string, idx = 0) => {
+export const findPrompt = async (name: string, idx?: number | number[]) => {
   const promptData = (await callStrapi(PromptsQuery)) as {
     prompts: IPrompt[];
   };
 
-  let additionalDescription = "";
+  const findByCode = (code: string) =>
+    promptData?.prompts?.find(
+      (p) => p.code.toLowerCase() === code.toLowerCase()
+    )?.description;
 
-  const promptDescription = promptData?.prompts?.find(
-    (p) => p.code.toLowerCase() == name
-  )?.description;
+  const promptDescription = findByCode(name);
+  const indices = Array.isArray(idx)
+    ? idx.filter((value) => typeof value === "number" && value > 0)
+    : typeof idx === "number" && idx > 0
+    ? [idx]
+    : [];
+  const additionalDescriptions = indices
+    .map((value) => findByCode(`${name}_${value}`))
+    .filter((description): description is string => Boolean(description));
 
-  if (idx) {
-    additionalDescription = promptData?.prompts?.find(
-      (p) => p.code.toLowerCase() == `${name}_${idx}`
-    )?.description as string;
-  }
-
-  if (promptDescription) {
+  if (promptDescription || additionalDescriptions.length) {
     mylog(`${name} prompt found`, "info");
-    return `${promptDescription} | ${additionalDescription}`;
+    const parts = [promptDescription, ...additionalDescriptions].filter(
+      Boolean
+    );
+    return parts.join(" | ");
   }
   mylog(`${name} no prompt found`, "error");
   return;

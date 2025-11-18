@@ -20,9 +20,12 @@ export const changeExchangerNames = async () => {
   for (const ex of exData) {
     const { name, id } = ex;
 
-    const newName = splitReadable(name);
+    //const newName = splitReadable(name);
+    const newName = name.replaceAll("-", "");
 
-    await callStrapi(UpdateExchangerName, { id, name: newName }).then(() => {});
+    await callStrapi(UpdateExchangerName, { id, display_name: newName }).then(
+      () => {}
+    );
     mylog(`Updated name for ${name} -> ${newName}`, "hidden");
     await delay(400);
   }

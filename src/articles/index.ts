@@ -166,15 +166,12 @@ export const fillArticles = async (sectionName: string) => {
               `❌ Failed to create 'ru' localization for ${pmName} after ${maxLocaleRetries} attempts.`,
               "error"
             );
-            // Optional: fallback to creating as a base article instead of localization
-            await createArticle(pmName, "ru", articleData.ru);
           }
         } else {
           mylog(
             `❌ Failed to create article for ${pmName} in 'en'. ID: ${articleEn?.createArticle.id}`,
             "error"
           );
-          await createArticle(pmName, "ru", articleData.ru);
         }
 
         await sleep(1000);
