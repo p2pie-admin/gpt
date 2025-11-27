@@ -1,4 +1,4 @@
-import { readFileSync } from "fs";
+import { existsSync, readFileSync } from "fs";
 import { mylog, saveProgress } from "../../helper";
 import { scrape } from "../../services/cheerio";
 import { callGPT, findPrompt } from "../../services/gpt";
@@ -17,9 +17,20 @@ export const parseBest = async () => {
   const prompt = promptBeginning + scrapedData;
   mylog(promptBeginning || "no prompt found", "info");
   const res = await callGPT(prompt, "best");
-  const prev = JSON.parse(
-    readFileSync("bc-scraped.json", "utf-8")
-  ) as IScrapedBC[];
+  let prev: IScrapedBC[] = [];
+
+  try {
+    if (existsSync("bc-scraped.json")) {
+      const existing = readFileSync("bc-scraped.json", "utf-8");
+      prev = existing ? JSON.parse(existing) : [];
+    } else {
+      // bootstrap file for the first run
+      saveProgress([], "bc-scraped.json");
+    }
+  } catch (error) {
+    mylog("Failed to read bc-scraped.json, starting fresh", "warning");
+  }
+
   const combined = Array.from(
     new Map([...res, ...prev].map((e) => [e.name, e])).values()
   );

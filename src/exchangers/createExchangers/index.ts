@@ -1,7 +1,11 @@
 import { readFileSync } from "fs";
 import { IExchangerData, IScrapedBC } from "../../types";
 import callStrapi from "../../services/callStrapi";
-import { CreateExchangerBC, LinksQuery } from "../../services/queries";
+import {
+  CreateExchangerBC,
+  LinksQuery,
+  MonitoringByNameQuery,
+} from "../../services/queries";
 import { delay, mylog } from "../../helper";
 import { generateRating } from "../descriptions/helper";
 
@@ -12,6 +16,17 @@ export const createExchangers = async () => {
   const exData = data.exchangers.filter(
     (e: any) => e.ref_link
   ) as IExchangerData[];
+
+  const monitoringName = "BestChange";
+  const monitoringData = await callStrapi(MonitoringByNameQuery, {
+    name: monitoringName,
+  });
+  const monitoringId = monitoringData?.monitorings?.[0]?.id;
+
+  if (!monitoringId) {
+    mylog(`Monitoring "${monitoringName}" not found`, "error");
+    return;
+  }
 
   const bc = JSON.parse(readFileSync("bc-xml.json", "utf-8")) as IScrapedBC[];
 
@@ -33,11 +48,20 @@ export const createExchangers = async () => {
 
     const data = {
       name,
-      status: "suspended",
+      status: "draft",
       rates_link: xml || null,
       ref_link: real_link,
       admin_rating: generateRating(),
-      bc_card_link: card || null,
+      monitorings:
+        card && monitoringId
+          ? [
+              {
+                __typename: "ComponentExchangerMonitoring",
+                link: card,
+                monitoring: monitoringId,
+              },
+            ]
+          : [],
     };
 
     await callStrapi(CreateExchangerBC, data).then(() => {

@@ -29,25 +29,33 @@ export const getPossibleEndingsXML = (exchangers: IExchangerData[]) => {
     const { rates_link, name } = exchanger;
 
     const ending = getEnding(rates_link);
+    if (!ending) continue;
     endings = [...endings, ending];
   }
 
   return ["", ...getRepeatedStrings(endings.filter((s) => s.length > 2))];
 };
 
-export const getEnding = (link: string) => {
-  const domain = link
-    .trim()
+export const getEnding = (link?: string) => {
+  if (!link) return "";
+
+  const trimmed = link.trim();
+  if (!trimmed) return "";
+
+  const domain = trimmed
     .replace(/https?:\/\/(www\.)?/i, "___")
     .split("/")[0]
     .replace("api.", "")
     .replace("___", "");
 
-  return link.split(domain)[1].split("?")[0];
+  const parts = trimmed.split(domain);
+  if (parts.length < 2) return "";
+
+  return parts[1].split("?")[0] || "";
 };
 
 export const getDomain = (link: string) => {
-  return link
+  return (link || "")
     .trim()
     .replace(/https?:\/\/(www\.)?/i, "")
     .split("/")[0]

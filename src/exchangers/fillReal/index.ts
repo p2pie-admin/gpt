@@ -1,5 +1,5 @@
 import puppeteer from "puppeteer";
-import { readFileSync, writeFileSync } from "fs";
+import { existsSync, readFileSync, writeFileSync } from "fs";
 import { delay, makeRefLink, mylog, saveProgress } from "../../helper";
 
 import { IScrapedBC } from "../../types";
@@ -30,9 +30,17 @@ export async function fillReal() {
     readFileSync("bc-scraped.json", "utf-8")
   ) as IScrapedBC[];
 
-  const saved = JSON.parse(
-    readFileSync("bc-real-links.json", "utf-8") || "[]"
-  ) as IScrapedBC[];
+  let saved: IScrapedBC[] = [];
+  try {
+    if (existsSync("bc-real-links.json")) {
+      const raw = readFileSync("bc-real-links.json", "utf-8");
+      saved = raw ? JSON.parse(raw) : [];
+    } else {
+      saveProgress([], "bc-real-links.json");
+    }
+  } catch (error) {
+    mylog("Failed to read bc-real-links.json, starting fresh", "warning");
+  }
 
   const bc = saved.length ? saved : initial;
 

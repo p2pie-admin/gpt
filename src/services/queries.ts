@@ -218,7 +218,7 @@ export const CreateExchangerBC = gql`
     $rates_link: String
     $ref_link: String
     $admin_rating: Float
-    $bc_card_link: String
+    $monitorings: [ExchangerMonitoringsDynamicZoneInput!]
   ) {
     createExchanger(
       data: {
@@ -227,7 +227,7 @@ export const CreateExchangerBC = gql`
         rates_link: $rates_link
         ref_link: $ref_link
         admin_rating: $admin_rating
-        exchanger_card: { bc_card_link: $bc_card_link }
+        monitorings: $monitorings
       }
     ) {
       data {
@@ -345,6 +345,19 @@ export const CreateTextBoxMutation = gql`
     ) {
       data {
         id
+      }
+    }
+  }
+`;
+
+export const MonitoringByNameQuery = gql`
+  query MonitoringByName($name: String) {
+    monitorings(filters: { name: { eqi: $name } }, pagination: { limit: 1 }) {
+      data {
+        id
+        attributes {
+          name
+        }
       }
     }
   }

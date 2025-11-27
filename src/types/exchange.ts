@@ -32,7 +32,12 @@ export type IPmData = {
 };
 
 export interface IParserSetting {
+  pause_between_loops?: number;
+  dirs_disabled?: string;
   cities: ICity[];
+  SD_best_rates?: number;
+  SD_worst_rates?: number;
+  [key: string]: unknown;
 }
 
 export interface IPossiblePmPair {

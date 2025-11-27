@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Документация Fastify-модуля</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        max-width: 960px;
+        margin: 0 auto;
+        line-height: 1.5;
+      }
+      h1,
+      h2 {
+        color: #1c3d5a;
+      }
+      ul {
+        padding-left: 1.2rem;
+      }
+      li {
+        margin-bottom: 0.35rem;
+      }
+      code {
+        background: #f2f4f7;
+        padding: 0.1rem 0.25rem;
+        border-radius: 4px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Fastify‑модуль gpt/src/index.ts</h1>
+    <p>
+      Модуль инициализирует веб‑сервер Fastify, который служит единым входом
+      для вспомогательных скриптов проекта агрегатора обменников. Каждая ручка
+      запускает отдельный сценарий обработки данных: парсинг BestChange,
+      получение реферальных ссылок, поиск XML‑фидов, создание карточек
+      обменников в Strapi, генерацию текстов направлений/городов, а также
+      заполнение статей и описаний.
+    </p>
+
+    <h2>Основные функции и эндпоинты</h2>
+    <ul>
+      <li>
+        <code>GET /parsebest</code> – вызывает <code>parseBest()</code> для
+        парсинга списка обменников BestChange и сохранения результата в
+        <code>bc-scraped.json</code>.
+      </li>
+      <li>
+        <code>GET /fillreal</code> – запускает <code>fillRealLinks()</code>,
+        который с помощью Puppeteer открывает страницы BestChange, снимает
+        ограничения и вытаскивает реальные ссылки обменников в
+        <code>bc-real-links.json</code>.
+      </li>
+      <li>
+        <code>GET /findxml</code> – инициирует <code>findxml()</code> для
+        перебора доменов обменников и поиска доступных XML‑фидов, результат
+        сохраняется в <code>bc-xml.json</code>.
+      </li>
+      <li>
+        <code>GET /create</code> – вызывает <code>createExchangers()</code>,
+        который сравнивает текущие данные Strapi и создаёт недостающие карточки
+        обменников через GraphQL‑мутации.
+      </li>
+      <li>
+        <code>GET /load_html</code> – запускает <code>loadHTML()</code> для
+        открытия сайтов обменников в реальном Chrome и сохранения HTML
+        снимков в директорию <code>saved/</code>.
+      </li>
+      <li>
+        <code>GET /descriptions_auto</code> – выполняет
+        <code>fillDescriptionsAuto()</code>, который скрапит сайты обменников,
+        отправляет данные в GPT и записывает описания в Strapi.
+      </li>
+      <li>
+        <code>GET /descriptions_file</code> – вызывает
+        <code>fillDescriptionsFromFile()</code>, читающий сохранённые HTML и
+        генерирующий описания на их основе.
+      </li>
+      <li>
+        <code>GET /health</code> – использует <code>checkHealthXML()</code> для
+        проверки доступности реферальных ссылок и XML‑фидов (HEAD‑запросы).
+      </li>
+      <li>
+        <code>GET /fill_dirs</code> – запускает <code>fillDirs()</code> для
+        генерации текстов направлений (EN/RU) по slug‑ам, отсутствующим в
+        Strapi.
+      </li>
+      <li>
+        <code>GET /fill_dirs_cities</code> – вызывает
+        <code>fillCityDirs()</code>, создающий текстовые блоки направлений с
+        привязкой к городам (slug + город).
+      </li>
+      <li>
+        <code>GET /fill_cities</code> – выполняет <code>fillCities()</code>,
+        формируя общие описания городов для страницы направлений.
+      </li>
+      <li>
+        <code>GET /default_dirs</code> – инициирует
+        <code>generateDefaultDirTexts()</code> для генерации запасных текстов
+        направлений по парам секций.
+      </li>
+      <li>
+        <code>GET /default_mass_dirs</code> – запускает
+        <code>generateDefaultMassDirTexts()</code>, создающий массовые тексты
+        для всех пар криптовалюта ↔ фиат.
+      </li>
+      <li>
+        <code>GET /section=:sectionName</code> – вызывает
+        <code>fillArticles(sectionName)</code> для генерации статей (EN + RU)
+        по заданному разделу селектора.
+      </li>
+      <li>
+        <code>GET /change_exchanger_names</code> – выполняет
+        <code>changeExchangerNames()</code>, нормализующий отображаемые названия
+        обменников (удаление дефисов и др.).
+      </li>
+    </ul>
+
+    <p>
+      Сервер запускается на порту из переменной окружения
+      <code>PORT</code> и требует успешной авторизации в Strapi (функция
+      <code>auth()</code>) перед выполнением автоматизированных сценариев.
+    </p>
+  </body>
+</html>

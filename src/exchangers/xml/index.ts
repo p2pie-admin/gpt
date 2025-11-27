@@ -10,7 +10,7 @@ import {
 } from "./helper";
 
 import { mylog, saveProgress } from "../../helper";
-import { readFileSync } from "fs";
+import { existsSync, readFileSync } from "fs";
 
 export const findxml = async () => {
   const data = await callStrapi(LinksQuery);
@@ -21,9 +21,17 @@ export const findxml = async () => {
   const possibleEndings = getPossibleEndingsXML(exData);
   console.log("possible endings:", possibleEndings);
 
-  const bc = JSON.parse(
-    readFileSync("bc-real-links.json", "utf-8")
-  ) as IScrapedBC[];
+  let bc: IScrapedBC[] = [];
+  try {
+    if (existsSync("bc-real-links.json")) {
+      const raw = readFileSync("bc-real-links.json", "utf-8");
+      bc = raw ? JSON.parse(raw) : [];
+    } else {
+      saveProgress([], "bc-real-links.json");
+    }
+  } catch (error) {
+    mylog("Failed to read bc-real-links.json, starting fresh", "warning");
+  }
 
   fillXML(bc, possibleEndings);
 };

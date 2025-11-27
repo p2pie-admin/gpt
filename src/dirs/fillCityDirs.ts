@@ -1,7 +1,10 @@
 import { delay, mylog } from "../helper";
 import callStrapi from "../services/callStrapi";
 import { callGPT, findPrompt } from "../services/gpt";
-import { initParserFetcher } from "../services/parserFetcher";
+import {
+  initParserFetcher,
+  NonEmptyCitiesResponse,
+} from "../services/parserFetcher";
 import {
   EnTextBoxKeysQuery,
   RuTextBoxKeysQuery,
@@ -15,12 +18,12 @@ import { ISelector, IPm } from "../types/selector";
 import { formatCityName, toCitySlug } from "./cityUtils";
 
 type CityDirections = Record<string, number>;
-type CitiesResponse = Record<string, CityDirections>;
+type CitiesResponse = NonEmptyCitiesResponse;
 
 const CITY_DIR_TIMEOUT_MS = 30000;
 
 export default async function fillCityDirs() {
-  const parserFetcher = initParserFetcher();
+  const parserClient = initParserFetcher();
   const cityModel =
     (process.env.CITY_MODEL as string) ||
     (process.env.MODEL as string) ||
@@ -28,9 +31,7 @@ export default async function fillCityDirs() {
 
   while (true) {
     try {
-      const cities = (await parserFetcher(
-        "non_empty_cities"
-      )) as CitiesResponse | null;
+      const cities = await parserClient.getNonEmptyCities();
 
       if (!cities || !Object.keys(cities).length) {
         throw new Error("non_empty_cities returned empty response");
