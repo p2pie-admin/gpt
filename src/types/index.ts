@@ -34,11 +34,18 @@ export interface IDescriptionData {
   partners?: string[];
 }
 
+export interface IExchangerMonitoring {
+  id?: string;
+  link?: string | null;
+  monitoring?: { id: string; name?: string };
+}
+
 export interface IExchangerData {
   id: string;
   name: string;
   rates_link: string;
   ref_link: string;
+  monitorings?: IExchangerMonitoring[];
 }
 
 export interface IScrapedBC {

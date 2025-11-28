@@ -127,6 +127,21 @@ export const LinksQuery = gql`
           name
           rates_link
           ref_link
+          monitorings {
+            __typename
+            ... on ComponentExchangerMonitoring {
+              id
+              link
+              monitoring {
+                data {
+                  id
+                  attributes {
+                    name
+                  }
+                }
+              }
+            }
+          }
         }
       }
     }
@@ -164,6 +179,19 @@ export const UpdateRefLinks = gql`
 export const UpdateExchangerName = gql`
   mutation UpdateExchanger($id: ID!, $display_name: String) {
     updateExchanger(id: $id, data: { display_name: $display_name }) {
+      data {
+        id
+      }
+    }
+  }
+`;
+
+export const UpdateExchangerMonitorings = gql`
+  mutation UpdateExchangerMonitorings(
+    $id: ID!
+    $monitorings: [ExchangerMonitoringsDynamicZoneInput!]
+  ) {
+    updateExchanger(id: $id, data: { monitorings: $monitorings }) {
       data {
         id
       }

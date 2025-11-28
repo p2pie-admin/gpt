@@ -5,6 +5,7 @@ import {
   CreateExchangerBC,
   LinksQuery,
   MonitoringByNameQuery,
+  UpdateExchangerMonitorings,
 } from "../../services/queries";
 import { delay, mylog } from "../../helper";
 import { generateRating } from "../descriptions/helper";
@@ -21,7 +22,7 @@ export const createExchangers = async () => {
   const monitoringData = await callStrapi(MonitoringByNameQuery, {
     name: monitoringName,
   });
-  const monitoringId = monitoringData?.monitorings?.[0]?.id;
+  const monitoringId = monitoringData?.monitorings?.[0]?.id?.toString();
 
   if (!monitoringId) {
     mylog(`Monitoring "${monitoringName}" not found`, "error");
@@ -42,6 +43,38 @@ export const createExchangers = async () => {
 
     if (exists.length) {
       exist += 1;
+      const existing = exists[0];
+
+      if (card && monitoringId) {
+        const hasMonitoring = existing.monitorings?.some(
+          (m) => m.monitoring?.id?.toString() === monitoringId
+        );
+
+        if (!hasMonitoring) {
+          const existingMonitorings =
+            existing.monitorings
+              ?.map((m) => ({
+                __typename: "ComponentExchangerMonitoring",
+                link: m.link,
+                monitoring: m.monitoring?.id,
+              }))
+              .filter((m) => m.monitoring) || [];
+
+          existingMonitorings.push({
+            __typename: "ComponentExchangerMonitoring",
+            link: card,
+            monitoring: monitoringId,
+          });
+
+          await callStrapi(UpdateExchangerMonitorings, {
+            id: existing.id,
+            monitorings: existingMonitorings,
+          });
+
+          mylog(`Added monitoring for existing ${name}`, "success");
+        }
+      }
+
       mylog(`${bc.length - index} Exists: ${name}`, "hidden");
       continue;
     }
