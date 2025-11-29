@@ -6,7 +6,7 @@ import * as fs from "fs/promises";
 import { mylog } from "../../helper";
 import callStrapi from "../../services/callStrapi";
 import { findPrompt } from "../../services/gpt";
-import { DescriptionQuery } from "../../services/queries";
+import { EmptyDescriptionQuery } from "../../services/queries";
 import { IExchangerData } from "../../types";
 import { getDomain } from "../xml/helper";
 import { scrape } from "../../services/cheerio";
@@ -128,7 +128,7 @@ async function saveAllTabs() {
 
 export default async () => {
   await launchRealChrome();
-  const data = await callStrapi(DescriptionQuery);
+  const data = await callStrapi(EmptyDescriptionQuery);
 
   const exchangers = data.exchangers.filter(
     (e: any) => e.ref_link

@@ -1,3 +1,4 @@
+import { capitalize } from "../../helper";
 import codesToNames from "./codesToNames";
 
 interface ICityRecord {
@@ -169,3 +170,74 @@ export function mapCityCodesToNames(
       : city;
   });
 }
+
+export const extentionsToRemove = [
+  "-com",
+  "-net",
+  "-org",
+  "-io",
+  "-co",
+  "-ai",
+  "-dev",
+  "-info",
+  "-biz",
+  "-xyz",
+  "-me",
+  "-us",
+  "-uk",
+  "-ru",
+  "-de",
+  "-fr",
+  "-jp",
+  "-cn",
+  "-in",
+  "-ca",
+  "-au",
+  "-nl",
+  "-ch",
+  "-se",
+  "-no",
+  "-fi",
+  "-es",
+  "-it",
+  "-pl",
+  "-br",
+  "-kr",
+  "-tv",
+  "-top",
+  "-shop",
+  "-online",
+  "-site",
+  "-cloud",
+  "-digital",
+  "-tech",
+  "-solutions",
+  "-link",
+];
+
+export const convertSlug = (oldSlug: string) => {
+  const parts = oldSlug.split("-");
+  const lastPart = parts[parts.length - 1];
+
+  if (lastPart && extentionsToRemove.includes(lastPart)) {
+    parts.pop(); // remove last segment safely
+    return parts.join("-");
+  }
+
+  return oldSlug;
+};
+
+export const convertName = (slug: string) => {
+  // Top-ex -> Top-ex
+  // Top-exotic -> Top exotic
+  const [part1, part2] = slug.split("-");
+
+  if (part1.length > 3 && part2?.length > 3) {
+    return `${capitalize(part1)} ${capitalize(part2)}`;
+  }
+  return part2?.length
+    ? `${part1.length < 3 ? part1.toUpperCase() : capitalize(part1)}-${
+        part2.length < 3 ? part2.toUpperCase() : capitalize(part2.toLowerCase())
+      }`
+    : capitalize(slug);
+};

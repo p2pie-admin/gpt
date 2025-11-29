@@ -125,8 +125,14 @@ export const LinksQuery = gql`
         id
         attributes {
           name
+          display_name
           rates_link
           ref_link
+          exchanger_card {
+            telegram
+            email
+            phone_number
+          }
           monitorings {
             __typename
             ... on ComponentExchangerMonitoring {
@@ -148,10 +154,10 @@ export const LinksQuery = gql`
   }
 `;
 
-export const DescriptionQuery = gql`
+export const EmptyDescriptionQuery = gql`
   {
     exchangers(
-      pagination: { limit: 1000 }
+      pagination: { limit: 10000 }
       filters: { exchanger_card: { ru_description: { notNull: false } } }
     ) {
       data {
@@ -177,8 +183,11 @@ export const UpdateRefLinks = gql`
 `;
 
 export const UpdateExchangerName = gql`
-  mutation UpdateExchanger($id: ID!, $display_name: String) {
-    updateExchanger(id: $id, data: { display_name: $display_name }) {
+  mutation UpdateExchanger($id: ID!, $display_name: String, $name: String) {
+    updateExchanger(
+      id: $id
+      data: { display_name: $display_name, name: $name }
+    ) {
       data {
         id
       }
@@ -187,11 +196,8 @@ export const UpdateExchangerName = gql`
 `;
 
 export const UpdateExchangerMonitorings = gql`
-  mutation UpdateExchangerMonitorings(
-    $id: ID!
-    $monitorings: [ExchangerMonitoringsDynamicZoneInput!]
-  ) {
-    updateExchanger(id: $id, data: { monitorings: $monitorings }) {
+  mutation UpdateExchangerMonitorings($id: ID!, $data: ExchangerInput!) {
+    updateExchanger(id: $id, data: $data) {
       data {
         id
       }
@@ -240,26 +246,36 @@ export const UpdateDescriptions = gql`
 `;
 
 export const CreateExchangerBC = gql`
-  mutation createExchangerBC(
-    $name: String
-    $status: ENUM_EXCHANGER_STATUS
-    $rates_link: String
-    $ref_link: String
-    $admin_rating: Float
-    $monitorings: [ExchangerMonitoringsDynamicZoneInput!]
-  ) {
-    createExchanger(
-      data: {
-        name: $name
-        status: $status
-        rates_link: $rates_link
-        ref_link: $ref_link
-        admin_rating: $admin_rating
-        monitorings: $monitorings
-      }
-    ) {
+  mutation createExchangerBC($data: ExchangerInput!) {
+    createExchanger(data: $data) {
       data {
         id
+      }
+    }
+  }
+`;
+
+export const ExchangerByName = gql`
+  query ExchangerByName($name: String!) {
+    exchangers(filters: { name: { eqi: $name } }, pagination: { limit: 1 }) {
+      data {
+        id
+        attributes {
+          name
+        }
+      }
+    }
+  }
+`;
+
+export const ExchangerAdminComment = gql`
+  query ExchangerAdminComment($id: ID!) {
+    exchanger(id: $id) {
+      data {
+        id
+        attributes {
+          admin_comment
+        }
       }
     }
   }

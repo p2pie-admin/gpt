@@ -1,8 +1,40 @@
 import callStrapi from "../../services/callStrapi";
-import { LinksQuery } from "../../services/queries";
+import {
+  ExchangerAdminComment,
+  ExchangerByName,
+  LinksQuery,
+  UpdateExchangerMonitorings,
+} from "../../services/queries";
 import { IExchangerData, IScrapedBC } from "../../types";
 
 import { mylog } from "../../helper";
+
+const AddComment = async (name: string, text: string) => {
+  if (!text) return;
+
+  const data = await callStrapi(ExchangerByName, { name });
+  const exchanger = data?.exchangers?.[0];
+  if (!exchanger?.id) {
+    mylog(`No exchanger found for comment: ${name}`, "warning");
+    return;
+  }
+
+  let current = "";
+  const commentData = await callStrapi(ExchangerAdminComment, {
+    id: exchanger.id,
+  });
+
+  current = commentData?.exchanger?.admin_comment || "";
+  const admin_comment = `${current}${text}`;
+
+  const res = await callStrapi(UpdateExchangerMonitorings, {
+    id: exchanger.id,
+    data: { admin_comment },
+  });
+  if (res === undefined) {
+    mylog(`Failed to add comment for ${name}`, "warning");
+  }
+};
 
 export const checkHealthXML = async () => {
   const data = await callStrapi(LinksQuery);
@@ -38,11 +70,19 @@ export const checkHealthXML = async () => {
 
     try {
       let responseXML = await fetch(xml, { method: "HEAD" });
-      let responseLink = await fetch(link, { method: "HEAD" });
+      let responseLink = await fetch(link, { method: "GET" });
+
       if (responseLink.ok) {
-        healthyLink = [...healthyLink, link];
+        const contentType = responseLink.headers.get("content-type") || "";
+        if (/html/i.test(contentType)) {
+          healthyLink = [...healthyLink, link];
+        } else {
+          unhealthyLink = [...unhealthyLink, link];
+          await AddComment(exchanger.name, "\n ссылка на сайт сломана");
+        }
       } else {
         unhealthyLink = [...unhealthyLink, link];
+        await AddComment(exchanger.name, "\n ссылка на сайт сломана");
       }
       if (responseXML.ok) {
         const contentType = responseXML.headers.get("content-type") || "";
@@ -54,14 +94,22 @@ export const checkHealthXML = async () => {
         }
         accessibleXML = [...accessibleXML, xml];
         mylog(xml, "warning");
+        await AddComment(exchanger.name, "\n xml подозрительная");
         continue;
       }
 
       unhealthyXML = [...unhealthyXML, xml];
       mylog(xml, "error");
+      await AddComment(exchanger.name, "\n xml сломана");
     } catch (error) {
       errors = [...errors, xml || link];
       mylog(xml || link, "error");
+      const parts: string[] = [];
+      if (xml) parts.push("\n xml сломана");
+      if (link) parts.push("\n ссылка на сайт сломана");
+      if (parts.length) {
+        await AddComment(exchanger.name, parts.join(""));
+      }
       continue;
     }
   }

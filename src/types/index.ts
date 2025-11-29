@@ -45,13 +45,27 @@ export interface IExchangerData {
   name: string;
   rates_link: string;
   ref_link: string;
+  display_name?: string;
+  exchanger_card?: {
+    telegram?: string;
+    email?: string;
+    phone_number?: string;
+  };
+  admin_comment?: string;
   monitorings?: IExchangerMonitoring[];
 }
 
 export interface IScrapedBC {
   name: string;
-  link: string;
-  card: string;
+  display_name?: string;
+  link?: string;
+  link_best?: string;
+  link_kurs?: string;
+  link_sumo?: string;
+  email?: string;
+  phone_number?: string;
+  telegram?: string;
+  card?: string;
   real_link?: string;
   xml?: string;
 }

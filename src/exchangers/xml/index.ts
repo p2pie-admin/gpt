@@ -12,6 +12,13 @@ import {
 import { mylog, saveProgress } from "../../helper";
 import { existsSync, readFileSync } from "fs";
 
+const buildBestchangeLink = (link?: string) => {
+  if (!link) return undefined;
+  return link.startsWith("http")
+    ? link
+    : `https://www.bestchange.ru${link.startsWith("/") ? "" : "/"}${link}`;
+};
+
 export const findxml = async () => {
   const data = await callStrapi(LinksQuery);
   const exData = data.exchangers.filter(
@@ -39,6 +46,14 @@ export const findxml = async () => {
 async function fillXML(bc: IScrapedBC[], possibleEndings: string[]) {
   //let results = {} as { [key: string]: string };
   const starts = ["", "api."];
+
+  for (const exchanger of bc) {
+    const bestLink = buildBestchangeLink(exchanger.link_best || exchanger.card);
+    if (bestLink) exchanger.link_best = bestLink;
+    if ("card" in exchanger) {
+      delete (exchanger as any).card;
+    }
+  }
 
   for (const [index, exchanger] of bc.entries()) {
     if (!exchanger.real_link) continue;

@@ -1,7 +1,10 @@
 import { IExchangerData } from "../../types";
 import callStrapi from "../../services/callStrapi";
 import { mylog } from "../../helper";
-import { DescriptionQuery, UpdateDescriptions } from "../../services/queries";
+import {
+  EmptyDescriptionQuery,
+  UpdateDescriptions,
+} from "../../services/queries";
 import { callGPT, findPrompt } from "../../services/gpt";
 import { scrape } from "../../services/cheerio";
 import { generateRating } from "./helper";
@@ -9,9 +12,9 @@ import { generateRating } from "./helper";
 export default async () => {
   try {
     const promptDescription = await findPrompt("exchanger_description");
-    const data = await callStrapi(DescriptionQuery);
+    const empty = await callStrapi(EmptyDescriptionQuery);
 
-    const exchangers = data.exchangers.filter(
+    const exchangers = empty.exchangers.filter(
       (e: any) => e.ref_link
     ) as IExchangerData[];
     mylog(`Exchangers without description found: ${exchangers.length}`);
