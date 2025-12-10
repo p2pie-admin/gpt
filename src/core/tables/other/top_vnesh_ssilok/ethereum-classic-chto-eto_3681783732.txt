@@ -1,0 +1,81 @@
+Популярные внешние ссылки на домены по группе запросов: "ethereum classic что это"
+
+Домен: github.com встречается на 3 из 10 популярных документов
+   URL: https://github.com/ethereumclassic/ethereumclassic.github.io#translations - 1 раз(а)
+   URL: https://github.com/ethereumclassic - 2 раз(а)
+   URL: https://github.com/ethereumclassic/core-geth - 1 раз(а)
+   URL: https://github.com/ethereumproject/go-ethereum - 1 раз(а)
+   URL: https://github.com/ethereumproject/go-ethereum/releases/tag/v6.0.8 - 1 раз(а)
+
+Домен: reddit.com встречается на 3 из 10 популярных документов
+   URL: https://reddit.com/r/ethereumclassic - 1 раз(а)
+   URL: https://www.reddit.com/r/EthereumClassic - 1 раз(а)
+   URL: https://www.reddit.com/r/CoinMarketCap - 1 раз(а)
+
+Домен: t.me встречается на 3 из 10 популярных документов
+   URL: https://t.me/rbc_news - 1 раз(а)
+   URL: https://t.me/CoinMarketCapAnnouncements - 1 раз(а)
+   URL: https://t.me/forklog - 3 раз(а)
+
+Домен: instagram.com встречается на 2 из 10 популярных документов
+   URL: https://www.instagram.com/coinmarketcap - 1 раз(а)
+   URL: https://www.instagram.com/forklog - 1 раз(а)
+
+Домен: x.com встречается на 2 из 10 популярных документов
+   URL: https://x.com/EthClassicDAO/status/1940181444955152404 - 1 раз(а)
+   URL: https://x.com/ForkLog - 2 раз(а)
+
+Домен: youtube.com встречается на 2 из 10 популярных документов
+   URL: https://www.youtube.com/channel/UCnhdZlwVd6ocXGhdSyV9Axg/?sub_confirmation=1 - 1 раз(а)
+   URL: https://www.youtube.com/@forklog - 2 раз(а)
+
+Домен: iohk.io встречается на 2 из 10 популярных документов
+   URL: https://iohk.io/team - 1 раз(а)
+   URL: https://iohk.io/en/research/library/papers/a-proposal-for-an-ethereum-classic-treasury-system - 1 раз(а)
+
+Домен: discord.com встречается на 1 документах 2 раз
+   URL: https://discord.com/invite/Tq57jxSwsa - 1 раз(а)
+   URL: https://discord.com/invite/hQs894U - 1 раз(а)
+
+Домен: en.wikipedia.org встречается на 1 документах 3 раз
+   URL: https://en.wikipedia.org/wiki/The_DAO_(organization) - 1 раз(а)
+   URL: https://en.wikipedia.org/wiki/Bitcoin_Gold - 1 раз(а)
+   URL: https://en.wikipedia.org/wiki/Ethereum_Classic - 1 раз(а)
+
+Домен: web.archive.org встречается на 1 документах 26 раз
+   URL: https://web.archive.org/web/20171208105909/https://ethereumclassic.github.io/assets/ETC_Declaration_of_Independence.pdf - 1 раз(а)
+   URL: https://web.archive.org/web/20180112042428/https://dexaran.github.io/nameservice/#help - 1 раз(а)
+   URL: https://web.archive.org/web/20170316124832/https://www.cryptocoinsnews.com/ethereum-classic-hardforks-successfully - 1 раз(а)
+   URL: https://web.archive.org/web/20170427004033/http://www.coindesk.com/ethereum-classic-diehard-fork - 1 раз(а)
+   URL: https://web.archive.org/web/20170428075642/http://gastracker.io/stats/nodes - 1 раз(а)
+
+Домен: gastracker.io встречается на 1 документах 3 раз
+   URL: http://gastracker.io/stats/nodes - 1 раз(а)
+   URL: http://gastracker.io/stats/hashrate - 1 раз(а)
+   URL: http://gastracker.io - 1 раз(а)
+
+Домен: wikidata.org встречается на 1 документах 2 раз
+   URL: https://www.wikidata.org/wiki/Special:EntityPage/Q29583124 - 1 раз(а)
+   URL: https://www.wikidata.org/wiki/Special:EntityPage/Q29583124#sitelinks-wikipedia - 1 раз(а)
+
+Домен: foundation.wikimedia.org встречается на 1 документах 4 раз
+   URL: https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru - 1 раз(а)
+   URL: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru - 1 раз(а)
+   URL: https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru - 1 раз(а)
+   URL: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement - 1 раз(а)
+
+Домен: data.ruwiki.ru встречается на 1 документах 2 раз
+   URL: https://data.ruwiki.ru/wiki/Special:EntityPage/Q29583124#sitelinks-wikipedia - 1 раз(а)
+   URL: https://data.ruwiki.ru/wiki/Special:EntityPage/Q29583124 - 1 раз(а)
+
+Домен: meta.ruwiki.ru встречается на 1 документах 5 раз
+   URL: https://meta.ruwiki.ru/wiki/Условия_использования - 1 раз(а)
+   URL: https://meta.ruwiki.ru/wiki/Политика_конфиденциальности - 1 раз(а)
+   URL: https://meta.ruwiki.ru/wiki/%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0 - 1 раз(а)
+   URL: https://meta.ruwiki.ru/wiki/%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8 - 1 раз(а)
+   URL: https://meta.ruwiki.ru/wiki/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F - 1 раз(а)
+
+Домен: ethereumclassic.org встречается на 1 документах 2 раз
+   URL: https://ethereumclassic.org/why-classic/sound-money - 1 раз(а)
+   URL: https://ethereumclassic.org/services/apps - 1 раз(а)
+

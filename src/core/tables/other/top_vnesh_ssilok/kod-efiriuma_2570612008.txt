@@ -1,0 +1,123 @@
+Популярные внешние ссылки на домены по группе запросов: "код эфириума"
+
+Домен: github.com встречается на 5 из 10 популярных документов
+   URL: https://github.com/ethereum/wiki/wiki/Ethereum-Wire-Protocol - 1 раз(а)
+   URL: https://github.com/ethereum/wiki/wiki/%C3%90%CE%9EVp2p-Wire-Protocol - 1 раз(а)
+   URL: https://github.com/ethereum/go-ethereum - 2 раз(а)
+   URL: https://github.com/ethereum/go-ethereum/blob/ff2c966e7f0550f4c0cb2b482d1af3064e6db0fe/params/bootnodes.go - 1 раз(а)
+   URL: https://github.com/golang/go/wiki/Conferences - 2 раз(а)
+
+Домен: geth.ethereum.org встречается на 4 из 10 популярных документов
+   URL: https://geth.ethereum.org - 5 раз(а)
+   URL: https://geth.ethereum.org/downloads - 3 раз(а)
+   URL: https://geth.ethereum.org/docs/getting-started/installing-geth - 2 раз(а)
+   URL: https://geth.ethereum.org/docs/fundamentals/command-line-options - 4 раз(а)
+   URL: https://geth.ethereum.org/docs/developers/dapp-developer/native-bindings - 2 раз(а)
+
+Домен: discord.gg встречается на 3 из 10 популярных документов
+   URL: https://discord.gg/nthXNEv - 2 раз(а)
+   URL: https://discord.gg/invite/nthXNEv - 2 раз(а)
+   URL: https://discord.gg/ethereum-org - 1 раз(а)
+
+Домен: x.com встречается на 3 из 10 популярных документов
+   URL: https://x.com/go_ethereum - 2 раз(а)
+   URL: https://x.com/ethdotorg - 1 раз(а)
+
+Домен: youtube.com встречается на 3 из 10 популярных документов
+   URL: https://www.youtube.com/geeksforgeeksvideos - 1 раз(а)
+   URL: https://www.youtube.com/watch?v=MVyv4t0OKe4 - 1 раз(а)
+   URL: https://www.youtube.com/watch?v=FPuKCmFN2c8 - 1 раз(а)
+   URL: http://www.youtube.com/@Habr_com - 1 раз(а)
+
+Домен: jsonrpc.org встречается на 2 из 10 популярных документов
+   URL: https://www.jsonrpc.org/specification - 2 раз(а)
+
+Домен: goreportcard.com встречается на 2 из 10 популярных документов
+   URL: https://goreportcard.com/report/github.com/ethereum/go-ethereum - 2 раз(а)
+
+Домен: app.travis-ci.com встречается на 2 из 10 популярных документов
+   URL: https://app.travis-ci.com/github/ethereum/go-ethereum - 2 раз(а)
+
+Домен: docs.soliditylang.org встречается на 2 из 10 популярных документов
+   URL: https://docs.soliditylang.org/en/develop/abi-spec.html - 2 раз(а)
+
+Домен: ethereum.org встречается на 2 из 10 популярных документов
+   URL: https://ethereum.org/en/developers/docs/data-structures-and-encoding/rlp - 2 раз(а)
+   URL: https://ethereum.org/en/developers/docs/apis/json-rpc - 2 раз(а)
+   URL: https://ethereum.org/en/roadmap/merge - 2 раз(а)
+
+Домен: golang.org встречается на 2 из 10 популярных документов
+   URL: https://golang.org/doc/effective_go.html#formatting - 2 раз(а)
+   URL: https://golang.org/cmd/gofmt - 2 раз(а)
+   URL: https://golang.org/doc/effective_go.html#commentary - 2 раз(а)
+
+Домен: gnu.org встречается на 2 из 10 популярных документов
+   URL: https://www.gnu.org/licenses/lgpl-3.0.en.html - 2 раз(а)
+   URL: https://www.gnu.org/licenses/gpl-3.0.en.html - 2 раз(а)
+
+Домен: go.dev встречается на 1 документах 36 раз
+   URL: https://go.dev - 3 раз(а)
+   URL: https://go.dev/solutions#case-studies - 3 раз(а)
+   URL: https://go.dev/solutions#use-cases - 3 раз(а)
+   URL: https://go.dev/security - 2 раз(а)
+   URL: https://go.dev/learn - 2 раз(а)
+
+Домен: reddit.com встречается на 1 документах 2 раз
+   URL: https://www.reddit.com/r/golang - 1 раз(а)
+   URL: https://reddit.com/r/golang - 1 раз(а)
+
+Домен: stackoverflow.com встречается на 1 документах 2 раз
+   URL: https://stackoverflow.com/collectives/go - 1 раз(а)
+   URL: https://stackoverflow.com/questions/tagged/go?tab=Newest - 1 раз(а)
+
+Домен: bitcoinmagazine.com встречается на 1 документах 4 раз
+   URL: http://bitcoinmagazine.com/8640/an-exploration-of-intrinsic-value-what-it-is-why-bitcoin-doesnt-have-it-and-why-bitcoin-does-have-it - 2 раз(а)
+   URL: http://bitcoinmagazine.com/7050/bootstrapping-a-decentralized-autonomous-corporation-part-i - 2 раз(а)
+
+Домен: en.bitcoin.it встречается на 1 документах 4 раз
+   URL: https://en.bitcoin.it/wiki/Smart_Property - 2 раз(а)
+   URL: https://en.bitcoin.it/wiki/Contracts - 1 раз(а)
+   URL: https://en.bitcoin.it/wiki/Scalability#Simplified_payment_verification - 1 раз(а)
+
+Домен: namecoin.org встречается на 1 документах 4 раз
+   URL: http://namecoin.org - 2 раз(а)
+   URL: https://namecoin.org - 2 раз(а)
+
+Домен: nakamotoinstitute.org встречается на 1 документах 4 раз
+   URL: https://nakamotoinstitute.org/finney/rpow - 2 раз(а)
+   URL: https://nakamotoinstitute.org/secure-property-titles - 2 раз(а)
+
+Домен: wikipedia.org встречается на 1 документах 5 раз
+   URL: https://wikipedia.org/wiki/Domain_Name_System - 1 раз(а)
+   URL: https://wikipedia.org/wiki/Liquid_democracy - 1 раз(а)
+   URL: https://wikipedia.org/wiki/Zooko s_triangle - 1 раз(а)
+   URL: https://wikipedia.org/wiki/Merkle_tree - 1 раз(а)
+   URL: https://wikipedia.org/wiki/Patricia_tree - 1 раз(а)
+
+Домен: web.archive.org встречается на 1 документах 6 раз
+   URL: https://web.archive.org/web/20250427212319/https://github.com/ethereum/wiki/issues/447#issuecomment-316972260#issuecomment-316972260 - 1 раз(а)
+   URL: https://web.archive.org/web/20140623061815/http://sourceforge.net/p/bitcoin/mailman/message/31709140 - 2 раз(а)
+   URL: https://web.archive.org/web/20250427212320/https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-RLP - 1 раз(а)
+   URL: https://web.archive.org/web/20250427212320/https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Patricia-Tree - 1 раз(а)
+   URL: https://web.archive.org/web/20250427212319/https://github.com/ethereum/wiki/blob/old-before-deleting-all-files-go-to-wiki-wiki-instead/old-whitepaper-for-historical-reference.md - 1 раз(а)
+
+Домен: crowdin.com встречается на 1 документах 3 раз
+   URL: https://crowdin.com/profile/dovbyshbgd - 1 раз(а)
+   URL: https://crowdin.com/profile/zhooookova - 1 раз(а)
+   URL: https://crowdin.com/profile/sumtranslator - 1 раз(а)
+
+Домен: packaging.python.org встречается на 1 документах 4 раз
+   URL: https://packaging.python.org/tutorials/installing-packages - 2 раз(а)
+   URL: https://packaging.python.org/tutorials/packaging-projects - 1 раз(а)
+   URL: https://packaging.python.org - 1 раз(а)
+
+Домен: python.org встречается на 1 документах 3 раз
+   URL: https://www.python.org/dev/peps/pep-0541 - 1 раз(а)
+   URL: https://www.python.org/psf-landing - 2 раз(а)
+
+Домен: policies.python.org встречается на 1 документах 4 раз
+   URL: https://policies.python.org/pypi.org/Terms-of-Service - 1 раз(а)
+   URL: https://policies.python.org/python.org/code-of-conduct - 1 раз(а)
+   URL: https://policies.python.org/pypi.org/Privacy-Notice - 1 раз(а)
+   URL: https://policies.python.org/pypi.org/Acceptable-Use-Policy - 1 раз(а)
+

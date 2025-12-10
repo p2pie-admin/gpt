@@ -1,0 +1,24 @@
+Популярные внешние ссылки на домены по группе запросов: "bitcoin classic"
+
+Домен: github.com встречается на 2 из 10 популярных документов
+   URL: https://github.com/Bitcoinclassicxbt/classic2 - 1 раз(а)
+   URL: https://github.com/BitcoinBXC - 1 раз(а)
+
+Домен: egorovdigital.com встречается на 1 документах 2 раз
+   URL: https://egorovdigital.com/cryptoru?utm_source=cryptoru&utm_medium=bmenu&utm_campaign=kurs - 1 раз(а)
+   URL: https://egorovdigital.com/cryptoru?utm_source=cryptoru utm_medium=mmenu utm_campaign=kurs - 1 раз(а)
+
+Домен: wikidata.org встречается на 1 документах 2 раз
+   URL: https://www.wikidata.org/wiki/Special:EntityPage/Q22906775#sitelinks-wikipedia - 1 раз(а)
+   URL: https://www.wikidata.org/wiki/Special:EntityPage/Q22906775 - 1 раз(а)
+
+Домен: mediawiki.org встречается на 1 документах 2 раз
+   URL: https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid - 1 раз(а)
+   URL: https://www.mediawiki.org - 1 раз(а)
+
+Домен: foundation.wikimedia.org встречается на 1 документах 4 раз
+   URL: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use - 1 раз(а)
+   URL: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy - 1 раз(а)
+   URL: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct - 1 раз(а)
+   URL: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement - 1 раз(а)
+

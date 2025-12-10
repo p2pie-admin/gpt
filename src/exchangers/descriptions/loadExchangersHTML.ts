@@ -3,18 +3,14 @@ import fetch from "node-fetch"; // use axios if you prefer
 import CDP from "chrome-remote-interface";
 
 import * as fs from "fs/promises";
-import { mylog } from "../../helper";
+import { delay, mylog } from "../../helper";
 import callStrapi from "../../services/callStrapi";
-import { findPrompt } from "../../services/gpt";
 import { EmptyDescriptionQuery } from "../../services/queries";
 import { IExchangerData } from "../../types";
 import { getDomain } from "../xml/helper";
 import { scrape } from "../../services/cheerio";
 
-//
-const range = [0, 100];
-// фигачим [0 100] [100 200] [200 300] итд
-//
+const BATCH_SIZE = 10; // process exchangers in small batches to allow loading
 
 const CHROME_PATH =
   "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome";
@@ -120,13 +116,29 @@ async function saveAllTabs() {
       mylog(`Saved: ${filename}`, "success");
 
       await pageClient.close();
+      await Target.closeTarget({ targetId: target.targetId });
     }
   }
 
   await client.close();
 }
 
+async function ensureChromeAvailable() {
+  try {
+    await fetch(DEBUGGING_URL).then((res) => res.json());
+  } catch {
+    await launchRealChrome();
+  }
+}
+
 export default async () => {
+  // gather already-saved filenames to skip duplicates
+  const savedFiles = new Set<string>(
+    (await fs.readdir("./saved").catch(() => []))
+      .filter((f) => f.endsWith(".html"))
+      .map((f) => f.toLowerCase())
+  );
+
   await launchRealChrome();
   const data = await callStrapi(EmptyDescriptionQuery);
 
@@ -134,16 +146,46 @@ export default async () => {
     (e: any) => e.ref_link
   ) as IExchangerData[];
   mylog(`Exchangers without description found: ${exchangers.length}`);
-  const urls = exchangers.map((e) => e.ref_link).slice(range[0], range[1]);
+  const urls = exchangers
+    .map((e) => e.ref_link)
+    .filter((url) => {
+      const fname = `${getDomain(url)}.html`.toLowerCase();
+      return !savedFiles.has(fname);
+    });
 
-  await openTabs(urls);
+  mylog(`After skipping saved files, to open: ${urls.length}`, "important");
 
-  mylog("Please solve captchas and press ENTER to continue...");
-  await new Promise<void>((resolve) => {
-    process.stdin.once("data", () => resolve());
-  });
+  for (let start = 0; start < urls.length; ) {
+    const batch = urls.slice(start, start + BATCH_SIZE);
+    if (!batch.length) continue;
 
-  await saveAllTabs();
+    mylog(
+      `Opening batch ${start + 1}-${start + batch.length} of ${urls.length}`,
+      "important"
+    );
+
+    await ensureChromeAvailable();
+
+    try {
+      await openTabs(batch);
+
+      mylog("Waiting 10 seconds for pages to load...", "important");
+      await delay(10_000);
+
+      await saveAllTabs();
+      mylog(`Saved batch ${start + 1}-${start + batch.length}`, "success");
+      start += BATCH_SIZE;
+    } catch (error) {
+      mylog(
+        `Chrome connection failed, restarting and retrying batch starting at ${
+          start + 1
+        }`,
+        "warning"
+      );
+      await launchRealChrome();
+      // retry same batch without incrementing start
+    }
+  }
 
   mylog("Done!", "success");
 };

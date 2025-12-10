@@ -46,6 +46,10 @@ export interface IExchangerData {
   rates_link: string;
   ref_link: string;
   display_name?: string;
+   telegram?: string;
+   email?: string;
+   working_time?: string;
+   admin_rating?: number | null;
   exchanger_card?: {
     telegram?: string;
     email?: string;

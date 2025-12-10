@@ -1,0 +1,100 @@
+Популярные внешние ссылки на домены по группе запросов: "комиссия eth"
+
+Домен: t.me встречается на 5 из 10 популярных документов
+   URL: https://t.me/forklog - 3 раз(а)
+   URL: https://t.me/deficlubsupport - 1 раз(а)
+   URL: https://t.me/sergey_cryptobot?start=start - 1 раз(а)
+   URL: https://t.me/konenkov_official/95 - 1 раз(а)
+   URL: https://t.me/konenkov_official - 1 раз(а)
+
+Домен: instagram.com встречается на 4 из 10 популярных документов
+   URL: https://www.instagram.com/forklog - 1 раз(а)
+   URL: https://instagram.com/slava_konenkov - 1 раз(а)
+   URL: https://www.instagram.com/croptywallet - 2 раз(а)
+   URL: https://www.instagram.com/getblockcrypto - 3 раз(а)
+
+Домен: etherscan.io встречается на 4 из 10 популярных документов
+   URL: https://etherscan.io/gastracker - 2 раз(а)
+   URL: https://etherscan.io/gastracker#chart_gasprice - 2 раз(а)
+   URL: https://etherscan.io/chart/gasprice - 1 раз(а)
+
+Домен: youtube.com встречается на 4 из 10 популярных документов
+   URL: https://www.youtube.com/@forklog - 2 раз(а)
+   URL: https://www.youtube.com/@SvyatoslavKonenkov - 1 раз(а)
+   URL: https://www.youtube.com/@croptytv - 2 раз(а)
+   URL: http://www.youtube.com/@Habr_com - 1 раз(а)
+
+Домен: x.com встречается на 4 из 10 популярных документов
+   URL: https://x.com/ethdotorg - 1 раз(а)
+   URL: https://x.com/ForkLog - 2 раз(а)
+   URL: https://x.com/cropty_app - 2 раз(а)
+   URL: https://x.com/VitalikButerin/status/1463953274806038542 - 1 раз(а)
+
+Домен: ethereum.org встречается на 3 из 10 популярных документов
+   URL: https://ethereum.org/ru/developers/docs/gas - 1 раз(а)
+   URL: https://ethereum.org/en/developers/docs/scaling - 1 раз(а)
+   URL: https://ethereum.org/en/roadmap/merge - 1 раз(а)
+   URL: https://ethereum.org/en/history#london - 1 раз(а)
+   URL: https://ethereum.org/en/developers/docs/gas/#base-fee - 1 раз(а)
+
+Домен: tiktok.com встречается на 2 из 10 популярных документов
+   URL: https://www.tiktok.com/@konenkof - 1 раз(а)
+   URL: https://www.tiktok.com/@croptywallet - 2 раз(а)
+
+Домен: apps.apple.com встречается на 2 из 10 популярных документов
+   URL: https://apps.apple.com/app/apple-store/id1624901793?pt=125031953 ct=header mt=8 - 1 раз(а)
+   URL: https://apps.apple.com/app/apple-store/id1624901793?pt=125031953 ct=fees_coin mt=8 - 1 раз(а)
+   URL: https://apps.apple.com/app/apple-store/id1624901793?pt=125031953 ct=footer-apps mt=8 - 1 раз(а)
+   URL: https://apps.apple.com/ru/app/%D1%80%D0%B1%D0%BA-%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5/id483524731 - 1 раз(а)
+
+Домен: medium.com встречается на 2 из 10 популярных документов
+   URL: https://medium.com/coinmonks/8-ways-of-reducing-the-gas-consumption-of-your-smart-contracts-9a506b339c0a - 1 раз(а)
+   URL: https://medium.com/etherscan-blog - 1 раз(а)
+
+Домен: github.com встречается на 2 из 10 популярных документов
+   URL: https://github.com/ethereum/ethereum-org-website/tree/dev/public/content/developers/docs/gas/index.md - 1 раз(а)
+   URL: https://github.com/ethereum/ethereum-org-website - 1 раз(а)
+   URL: https://github.com/fullstack-development - 1 раз(а)
+
+Домен: branch.wallet.bitcoin.com встречается на 1 документах 3 раз
+   URL: https://branch.wallet.bitcoin.com/IcoZUu1I7Ab - 2 раз(а)
+   URL: https://branch.wallet.bitcoin.com/Nl9DYZUZXAb - 1 раз(а)
+
+Домен: downloads.intercomcdn.com встречается на 1 документах 3 раз
+   URL: https://downloads.intercomcdn.com/i/o/651730782/a6a8baad0647ecd059991ff5/IMG_B0BC38F18434-1.jpeg?expires=1762986600 signature=df901e5fba09fad94ce5336e6615c2dfe505c446ccd43228bd2a63771c93f180 req=ciUmEcp%2BmoldFb4f3HP0gC0%2BpehpigquBNf8OF4aVSLYUC02R%2F083ScxnW0T%0A74Q%3D%0A - 1 раз(а)
+   URL: https://downloads.intercomcdn.com/i/o/651732054/a575cbb11904b40026ee1ca1/IMG_A80855D8431B-1+2.jpeg?expires=1762986600 signature=32b743bad7d4ca5ef9ec72b50a808224dea7a4b39ef01c0b61538ebe5cfee12d req=ciUmEcp8nYRbFb4f3HP0gPw4j9%2FRvmm6RfAE4vBAY9jbnI8phKNSYSe0efJJ%0Aw28%3D%0A - 1 раз(а)
+   URL: https://downloads.intercomcdn.com/i/o/651733023/f549d8f9b04eda3d33376099/Untitled.png?expires=1762986600 signature=4ad81ab9cb76e8a42028305ed8fd2cdcfb46788faac7a90d4627564e1fe6c786 req=ciUmEcp9nYNcFb4f3HP0gHnWWHjY1eoKQt7Qx27KCVXel30MaSY8Eotoon8i%0A8to%3D%0A - 1 раз(а)
+
+Домен: crowdin.com встречается на 1 документах 3 раз
+   URL: https://crowdin.com/profile/blockson - 1 раз(а)
+   URL: https://crowdin.com/profile/ViktorOn - 1 раз(а)
+   URL: https://crowdin.com/profile/yani4ek - 1 раз(а)
+
+Домен: info.etherscan.com встречается на 1 документах 9 раз
+   URL: https://info.etherscan.com/site-settings - 1 раз(а)
+   URL: https://info.etherscan.com/optimized-search-bar - 1 раз(а)
+   URL: https://info.etherscan.com/public-name-tags-labels - 1 раз(а)
+   URL: https://info.etherscan.com/cards - 1 раз(а)
+   URL: https://info.etherscan.com - 3 раз(а)
+
+Домен: chat.blockscan.com встречается на 1 документах 3 раз
+   URL: https://chat.blockscan.com - 2 раз(а)
+   URL: https://chat.blockscan.com/start - 1 раз(а)
+
+Домен: ethereumprice.org встречается на 1 документах 3 раз
+   URL: https://ethereumprice.org/gas - 1 раз(а)
+   URL: https://ethereumprice.org/visit/tenderly - 1 раз(а)
+   URL: https://ethereumprice.org/visit/defi-saver - 1 раз(а)
+
+Домен: salebot.site встречается на 1 документах 2 раз
+   URL: https://salebot.site/37fba850be21ba115083f5184664884f_1?domain=defi_konekov_bot start=c1716373430267-ds utm_source=Sait utm_medium=Vijet - 1 раз(а)
+   URL: https://salebot.site/37fba850be21ba115083f5184664884f_1?domain=defi_konekov_bot start=c1716373430267-ds utm_source=Sait utm_medium=Blog - 1 раз(а)
+
+Домен: eips.ethereum.org встречается на 1 документах 2 раз
+   URL: https://eips.ethereum.org/EIPS/eip-1559 - 1 раз(а)
+   URL: https://eips.ethereum.org/EIPS/eip-2930 - 1 раз(а)
+
+Домен: telegram.me встречается на 1 документах 2 раз
+   URL: https://telegram.me/metalampru - 1 раз(а)
+   URL: https://telegram.me/habr_com - 1 раз(а)
+

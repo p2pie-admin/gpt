@@ -106,6 +106,7 @@ export const makeRefLink = (link: string) => {
     .replace(/https?:\/\/(www\.)?/i, "___")
     .split("/")[0]
     .replace("api.", "")
+    .replace("xml.", "")
     .replace("___", "https://");
 };
 

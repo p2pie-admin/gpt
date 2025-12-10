@@ -9,7 +9,33 @@ import { IExchangerData, IScrapedBC } from "../../types";
 
 import { mylog } from "../../helper";
 
-const AddComment = async (name: string, text: string) => {
+const logDuplicateLinks = (exchangers: IExchangerData[]) => {
+  type Key = "ref_link" | "rates_link";
+  const logForKey = (key: Key) => {
+    const map = new Map<string, { id: string | number; name: string }[]>();
+    for (const ex of exchangers) {
+      const value = ex[key];
+      if (!value) continue;
+      const list = map.get(value) || [];
+      list.push({ id: ex.id, name: ex.name });
+      map.set(value, list);
+    }
+
+    for (const [value, list] of map.entries()) {
+      if (list.length < 2) continue;
+      const ids = list.map((i) => i.id).join(", ");
+      const names = list.map((i) => i.name).join(", ");
+      console.log(
+        `[DUPLICATE ${key}] value "${value}" shared by ids: [${ids}] (names: [${names}])`
+      );
+    }
+  };
+
+  logForKey("ref_link");
+  logForKey("rates_link");
+};
+
+export const AddComment = async (name: string, text: string) => {
   if (!text) return;
 
   const data = await callStrapi(ExchangerByName, { name });
@@ -39,6 +65,10 @@ const AddComment = async (name: string, text: string) => {
 export const checkHealthXML = async () => {
   const data = await callStrapi(LinksQuery);
   const exData = data.exchangers as IExchangerData[];
+
+  // Log any exchangers that share the same ref_link or rates_link before health checks
+  logDuplicateLinks(exData);
+
   let healthyLink = [] as string[];
   let unhealthyLink = [] as string[];
   let healthyXML = [] as string[];

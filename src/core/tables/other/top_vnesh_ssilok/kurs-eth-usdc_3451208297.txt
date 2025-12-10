@@ -1,0 +1,55 @@
+Популярные внешние ссылки на домены по группе запросов: "курс eth usdc"
+
+Домен: x.com встречается на 3 из 10 популярных документов
+   URL: https://x.com/tradingview - 1 раз(а)
+   URL: https://x.com/PrimeXBT - 1 раз(а)
+   URL: https://x.com/coinbase - 1 раз(а)
+
+Домен: instagram.com встречается на 3 из 10 популярных документов
+   URL: https://www.instagram.com/tradingview - 1 раз(а)
+   URL: https://www.instagram.com/primexbt_official - 1 раз(а)
+   URL: https://www.instagram.com/coinbase - 1 раз(а)
+
+Домен: tiktok.com встречается на 3 из 10 популярных документов
+   URL: https://www.tiktok.com/@tradingview - 1 раз(а)
+   URL: https://www.tiktok.com/@primexbt_official - 1 раз(а)
+   URL: https://www.tiktok.com/@coinbase - 1 раз(а)
+
+Домен: t.me встречается на 2 из 10 популярных документов
+   URL: https://t.me/tradingview - 1 раз(а)
+   URL: https://t.me/PrimeXBT_Global - 1 раз(а)
+
+Домен: reddit.com встречается на 2 из 10 популярных документов
+   URL: https://www.reddit.com/r/TradingView - 1 раз(а)
+   URL: https://www.reddit.com/r/PrimeXBT - 1 раз(а)
+
+Домен: youtube.com встречается на 2 из 10 популярных документов
+   URL: https://www.youtube.com/@TradingView - 1 раз(а)
+   URL: https://www.youtube.com/@PrimeXBT_Global - 1 раз(а)
+
+Домен: tradingview.com встречается на 1 документах 2 раз
+   URL: https://www.tradingview.com/pine-script-docs - 1 раз(а)
+   URL: https://www.tradingview.com/blog/ru - 1 раз(а)
+
+Домен: go.appxbt.link встречается на 1 документах 2 раз
+   URL: https://go.appxbt.link/my6s?af_web_dp=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fprimexbt-trading-investing%2Fid1522267195 af_c_id=footer - 1 раз(а)
+   URL: https://go.appxbt.link/my6s?af_web_dp=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.primexbt.trade af_c_id=footer - 1 раз(а)
+
+Домен: base.org встречается на 1 документах 7 раз
+   URL: https://base.org - 3 раз(а)
+   URL: https://www.base.org/build/base-account - 2 раз(а)
+   URL: https://www.base.org/build/onchainkit - 2 раз(а)
+
+Домен: ethereum.org встречается на 1 документах 2 раз
+   URL: https://ethereum.org/en/whitepaper - 1 раз(а)
+   URL: https://ethereum.org - 1 раз(а)
+
+Домен: circle.com встречается на 1 документах 2 раз
+   URL: https://www.circle.com/legal/mica-usdc-whitepaper - 1 раз(а)
+   URL: https://www.circle.com/en/usdc - 1 раз(а)
+
+Домен: coingecko.com встречается на 1 документах 3 раз
+   URL: https://www.coingecko.com/ru/Криптовалюты/0x49d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7?utm_source=geckoterminal utm_medium=referral utm_campaign=badge asset_platform_api_symbol=starknet - 1 раз(а)
+   URL: https://www.coingecko.com/ru/Криптовалюты/0x53c91253bc9682c04929ca02ed00b3e423f6710d2ee7e0d5ebb06f3ecf368a8?utm_source=geckoterminal utm_medium=referral utm_campaign=badge asset_platform_api_symbol=starknet - 1 раз(а)
+   URL: https://www.coingecko.com - 1 раз(а)
+

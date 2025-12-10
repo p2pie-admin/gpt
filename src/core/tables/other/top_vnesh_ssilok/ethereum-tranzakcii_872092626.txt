@@ -1,0 +1,118 @@
+Популярные внешние ссылки на домены по группе запросов: "ethereum транзакции"
+
+Домен: github.com встречается на 4 из 10 популярных документов
+   URL: https://github.com/Blockchair/Blockchair.Support/issues - 1 раз(а)
+   URL: https://github.com/Blockchair - 2 раз(а)
+   URL: https://github.com/ethereum/ethereum-org-website/tree/dev/public/content/developers/docs/transactions/index.md - 2 раз(а)
+   URL: https://github.com/ethereum/ethereum-org-website - 2 раз(а)
+   URL: https://github.com/pete-vielhaber - 1 раз(а)
+
+Домен: medium.com встречается на 3 из 10 популярных документов
+   URL: https://medium.com/etherscan-blog - 1 раз(а)
+   URL: https://medium.com/blockchain - 1 раз(а)
+   URL: https://medium.com/@tokenview - 1 раз(а)
+
+Домен: etherscan.io встречается на 3 из 10 популярных документов
+   URL: http://etherscan.io - 1 раз(а)
+   URL: https://etherscan.io/tx/0xd0dcbe007569fcfa1902dae0ab8b4e078efe42e231786312289b1eee5590f6a1 - 2 раз(а)
+   URL: https://etherscan.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48#code - 2 раз(а)
+   URL: https://etherscan.io/address/0x4f6742badb049791cd9a37ea913f2bac38d01279 - 2 раз(а)
+
+Домен: discord.gg встречается на 3 из 10 популярных документов
+   URL: https://discord.gg/ethereum-org - 2 раз(а)
+   URL: https://discord.gg/9WCeZqdVqu - 1 раз(а)
+
+Домен: x.com встречается на 2 из 10 популярных документов
+   URL: https://x.com/ethdotorg - 2 раз(а)
+
+Домен: warpcast.com встречается на 2 из 10 популярных документов
+   URL: https://warpcast.com/ethdotorg - 2 раз(а)
+
+Домен: devcon.org встречается на 2 из 10 популярных документов
+   URL: https://devcon.org - 2 раз(а)
+
+Домен: esp.ethereum.foundation встречается на 2 из 10 популярных документов
+   URL: https://esp.ethereum.foundation - 2 раз(а)
+
+Домен: docs.soliditylang.org встречается на 2 из 10 популярных документов
+   URL: https://docs.soliditylang.org/en/latest/abi-spec.html#formal-specification-of-the-encoding - 2 раз(а)
+   URL: https://docs.soliditylang.org/en/latest/contracts.html#view-functions - 2 раз(а)
+   URL: https://docs.soliditylang.org/en/latest/contracts.html#pure-functions - 2 раз(а)
+
+Домен: 4byte.directory встречается на 2 из 10 популярных документов
+   URL: https://www.4byte.directory/signatures - 2 раз(а)
+   URL: https://www.4byte.directory/signatures/?bytes4_signature=0xa9059cbb - 2 раз(а)
+
+Домен: takenobu-hs.github.io встречается на 2 из 10 популярных документов
+   URL: https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf - 4 раз(а)
+
+Домен: t.me встречается на 2 из 10 популярных документов
+   URL: https://t.me/BlockchairNews - 2 раз(а)
+   URL: https://t.me/tokenview_en - 1 раз(а)
+
+Домен: info.etherscan.com встречается на 1 документах 9 раз
+   URL: https://info.etherscan.com/site-settings - 1 раз(а)
+   URL: https://info.etherscan.com/optimized-search-bar - 1 раз(а)
+   URL: https://info.etherscan.com/navigating-the-etherscan-homepage - 1 раз(а)
+   URL: https://info.etherscan.com/etherscan-account-registration - 1 раз(а)
+   URL: https://info.etherscan.com - 3 раз(а)
+
+Домен: chat.blockscan.com встречается на 1 документах 3 раз
+   URL: https://chat.blockscan.com - 2 раз(а)
+   URL: https://chat.blockscan.com/start - 1 раз(а)
+
+Домен: downloads.intercomcdn.com встречается на 1 документах 2 раз
+   URL: https://downloads.intercomcdn.com/i/o/325972889/89100f5fab23567f240b2fb1/Untitled+%2811%29.png?expires=1762986600 signature=8f0f994feb507beec1d2a0c0465e403ca2824ffce0a722d9329fc90ac67d65a2 req=dyIiH858lYlWFb4f3HP0gN7hDTEnyXKvDDblAe0vX9pH0MiNBHHOcpHbL21G%0AdOIlxsrMnokyMStPPA%3D%3D%0A - 1 раз(а)
+   URL: https://downloads.intercomcdn.com/i/o/325972947/c89e32584e52906f8185f0f5/Untitled+%2812%29.png?expires=1762986600 signature=50a3bf884a0374b06eca05b40b95a4910efc16700b5d9d362a3f850dc63e77aa req=dyIiH858lIVYFb4f3HP0gCmT%2F3nWx3qE%2F7ho%2Fvt89n%2BRtWIAux7tuvAg4dWC%0Aavc93FAjmBDnrjXJPA%3D%3D%0A - 1 раз(а)
+
+Домен: bcdc.onelink.me встречается на 1 документах 4 раз
+   URL: https://bcdc.onelink.me/Q9T6/e82z0hd1 - 1 раз(а)
+   URL: https://bcdc.onelink.me/Q9T6/zq6z65wd - 2 раз(а)
+   URL: https://bcdc.onelink.me/Q9T6/rqaj7vej - 1 раз(а)
+
+Домен: crowdin.com встречается на 1 документах 3 раз
+   URL: https://crowdin.com/profile/dovbyshbgd - 1 раз(а)
+   URL: https://crowdin.com/profile/Totozao - 1 раз(а)
+   URL: https://crowdin.com/profile/ViktorOn - 1 раз(а)
+
+Домен: eips.ethereum.org встречается на 1 документах 6 раз
+   URL: https://eips.ethereum.org/EIPS/eip-1559 - 3 раз(а)
+   URL: https://eips.ethereum.org/EIPS/eip-2718 - 2 раз(а)
+   URL: https://eips.ethereum.org/EIPS/eip-2930 - 1 раз(а)
+
+Домен: tokenview.io встречается на 1 документах 9 раз
+   URL: https://tokenview.io - 1 раз(а)
+   URL: https://tokenview.io/en/about - 2 раз(а)
+   URL: https://tokenview.io/en/learn - 2 раз(а)
+   URL: https://tokenview.io/en/advertise - 1 раз(а)
+   URL: https://tokenview.io/en/protocol - 1 раз(а)
+
+Домен: services.tokenview.io встречается на 1 документах 9 раз
+   URL: http://services.tokenview.io - 1 раз(а)
+   URL: http://services.tokenview.io/en/product/api - 1 раз(а)
+   URL: http://services.tokenview.io/en/product/track - 1 раз(а)
+   URL: http://services.tokenview.io/en/product/transaction-track - 1 раз(а)
+   URL: http://services.tokenview.io/en/product/node-service - 1 раз(а)
+
+Домен: btc.tokenview.io встречается на 1 документах 3 раз
+   URL: https://btc.tokenview.io - 2 раз(а)
+   URL: https://btc.tokenview.io/en/address/12YHXHbhSBY7D32hz4iFgSohxcWNEvWqKF - 1 раз(а)
+
+Домен: oklinksupport.zendesk.com встречается на 1 документах 2 раз
+   URL: https://oklinksupport.zendesk.com/hc/zh-hk/articles/360027970151-Terms-of-Services - 1 раз(а)
+   URL: https://oklinksupport.zendesk.com/hc/zh-hk/articles/360027970111-Privacy-Policy-Statement - 1 раз(а)
+
+Домен: okx.com встречается на 1 документах 19 раз
+   URL: https://www.okx.com/ru - 1 раз(а)
+   URL: https://www.okx.com/ru/price/bitcoin-btc - 1 раз(а)
+   URL: https://www.okx.com/ru/price/ethereum-eth - 1 раз(а)
+   URL: https://www.okx.com/ru/price/cardano-ada - 1 раз(а)
+   URL: https://www.okx.com/ru/price/solana-sol - 1 раз(а)
+
+Домен: web3.okx.com встречается на 1 документах 5 раз
+   URL: https://web3.okx.com/ru - 1 раз(а)
+   URL: https://web3.okx.com/ru/wallet - 1 раз(а)
+   URL: https://web3.okx.com/ru/wallet/bitcoin - 1 раз(а)
+   URL: https://web3.okx.com/ru/wallet/ethereum - 1 раз(а)
+   URL: https://web3.okx.com/ru/wallet/solana - 1 раз(а)
+

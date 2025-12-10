@@ -111,3 +111,21 @@ export function hasRepeatedSubstrings(input: string): boolean {
 
 export const generateRating = () =>
   +(Math.random() * (5 - 3.4) + 3.4).toFixed(2);
+
+export const getAdditionalCoreText = async (): Promise<string | undefined> => {
+  try {
+    const filePath = "./src/core/tables/yadro.json";
+    const raw = await readFile(filePath, "utf-8");
+    const parsed = JSON.parse(raw);
+    if (parsed && typeof parsed === "object" && !Array.isArray(parsed)) {
+      return ` Important!!!
+      NEVER describe exchange directions, currencies or cities that exchanger doesnt support. If its not mentioned in EXCHANGER DATA - never use it. This is array of possible SEO keywords. Use at least one only if its mathing EXCHANGER DATA and it's not poor data: ${Object.keys(
+        parsed
+      )}`;
+    }
+    return;
+  } catch (err) {
+    mylog(`Failed to load yadro.json: ${err}`, "warning");
+    return;
+  }
+};

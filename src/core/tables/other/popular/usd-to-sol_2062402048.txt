@@ -1,0 +1,83 @@
+	1. Популярные слова в Title конкурентов:
+solana, usd, convert, sol, dollar, states, united
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	2. Популярные слова в Keyword конкурентов:
+----------
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	3. Популярные слова в Description конкурентов:
+usd, and, sol, solana, convert, live, with, dollar, time, real, exchange, easily, rates, for, our, the
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	4. Популярные слова в H1 конкурентов:
+sol, usd, convert, solana, dollar
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	5. Популярные слова в H2-H6 конкурентов:
+solana, sol, market, the, convert, price, what, usd, can, for, are, total, much, popular, conversions, learn, questions, about, has, how
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	6. Популярные слова у конкурентов:
+usd, solana, sol, market, for, the, convert, exchange, dollar, get, has, current, your, support, bitcoin, that, about, rate, what, ethereum, how, with, trading, all, you, data, and, price, crypto, buy
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	7. Популярные двухсловники у конкурентов:
+to solana, exchange rate
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	8. Популярные трехсловники у конкурентов:
+usd to sol, the last hours, in the last, the exchange rate, convert usd to
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	9. Популярные слова из текущего шлейфа ядра:
+usd, to, sol, solana
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	10. Подсветка из сниппетов:
+us, dollar, to, usd, sol, united, states, solana
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	11. Популярные слова в заголовках объявлений:
+----------
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	12. 2 слов запроса в заголовках объявлений:
+----------
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	13. 3 слов запроса в заголовках объявлений:
+----------
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	14. Популярные слова в тексте объявлений:
+----------
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	15. 2 слов запроса в тексте объявлений:
+----------
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	16. 3 слов запроса в тексте объявлений:
+----------
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	17. Популярные слова сниппетов:
+sol, usd, solana, convert, dollar, the, price
+

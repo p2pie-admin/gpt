@@ -1,0 +1,66 @@
+Популярные внешние ссылки на домены по группе запросов: "комиссия за перевод биткоина"
+
+Домен: t.me встречается на 3 из 10 популярных документов
+   URL: https://t.me/tradingview - 1 раз(а)
+   URL: https://t.me/StormGain - 1 раз(а)
+   URL: https://t.me/stormgain_news - 1 раз(а)
+   URL: https://t.me/BlockchairNews - 2 раз(а)
+
+Домен: instagram.com встречается на 2 из 10 популярных документов
+   URL: https://www.instagram.com/tradingview - 1 раз(а)
+   URL: https://www.instagram.com/stormgain.crypto - 1 раз(а)
+
+Домен: youtube.com встречается на 2 из 10 популярных документов
+   URL: http://www.youtube.com/@Habr_com - 1 раз(а)
+   URL: https://www.youtube.com/@TradingView - 1 раз(а)
+
+Домен: github.com встречается на 2 из 10 популярных документов
+   URL: https://github.com/bitcoin/bitcoin - 1 раз(а)
+   URL: https://github.com/Blockchair/Blockchair.Support/issues - 1 раз(а)
+   URL: https://github.com/Blockchair - 2 раз(а)
+
+Домен: branch.wallet.bitcoin.com встречается на 1 документах 11 раз
+   URL: https://branch.wallet.bitcoin.com/IcoZUu1I7Ab - 3 раз(а)
+   URL: https://branch.wallet.bitcoin.com/Nl9DYZUZXAb - 8 раз(а)
+
+Домен: downloads.intercomcdn.com встречается на 1 документах 13 раз
+   URL: https://downloads.intercomcdn.com/i/o/651783095/e08f034d095d01f55646684e/IMG_8093B67A18BE-1.jpeg?expires=1762986600 signature=061e055319d7321849564920af95a170e0e505d0bcbf21a2d3ddfea86c01f361 req=ciUmEcF9nYhaFb4f3HP0gACFn6XdzVgZ4lqjFP0JObsHApjUjyj8H%2F6VxffG%0AsOo%3D%0A - 1 раз(а)
+   URL: https://downloads.intercomcdn.com/i/o/651787326/ed05c28f0e3129fb3df48047/IMG_8093B67A18BE-1.jpeg?expires=1762986600 signature=db347ff3f4696f0fe3d402cfe9c99902dd5d8885c94e4721cd7e8bd4829ce07e req=ciUmEcF5noNZFb4f3HP0gBWKPJDubeWnTpW9zroBlQb4p9LfyfzGkZbVaaY%2B%0AxVw%3D%0A - 1 раз(а)
+   URL: https://downloads.intercomcdn.com/i/o/651795996/16a13addf26ddbd2c03f96d3/IMG_B0BC38F18434-1+%281%29.jpeg?expires=1762986600 signature=274cb8c334060524f38e5a6b12a6b6b73dfa936271742dd6edec45c2986ccc1b req=ciUmEcB7lIhZFb4f3HP0gGXYlmPiiUCI44cnlByXP8xrD3dkBhr1naw2kLir%0Ad2M%3D%0A - 1 раз(а)
+   URL: https://downloads.intercomcdn.com/i/o/651797445/a1d9b2642c6a000b362e67e6/IMG_B0BC38F18434-1.jpeg?expires=1762986600 signature=5d1d641668cc9bf12b4a2f667bba4adbbb978af8da7879cf549530a3371116b5 req=ciUmEcB5mYVaFb4f3HP0gBKMXmL%2FXNS3dQy4DRJSFuapR4SMKi48yt3wKlnN%0A8yw%3D%0A - 1 раз(а)
+   URL: https://downloads.intercomcdn.com/i/o/651798585/94973331bbcc8ad9b5c7f669/Untitled.png?expires=1762986600 signature=9852494793bac288bd6542cd22bffb23e2ec5f547e729f5959e968d2d0dbb564 req=ciUmEcB2mIlaFb4f3HP0gBpXPqohXyxTn8sR8iwU1EuWEyIIcfHy4bOQ%2BZ%2Bj%0ASHY%3D%0A - 1 раз(а)
+
+Домен: bitcoin.com встречается на 1 документах 3 раз
+   URL: https://bitcoin.com/get-started/what-is-a-bitcoin-transaction-accelerator - 2 раз(а)
+   URL: https://www.bitcoin.com/bitcoin-transaction-accelerator - 1 раз(а)
+
+Домен: bcdc.onelink.me встречается на 1 документах 3 раз
+   URL: https://bcdc.onelink.me/Q9T6/e82z0hd1 - 1 раз(а)
+   URL: https://bcdc.onelink.me/Q9T6/zq6z65wd - 2 раз(а)
+
+Домен: oklinksupport.zendesk.com встречается на 1 документах 2 раз
+   URL: https://oklinksupport.zendesk.com/hc/zh-hk/articles/360027970151-Terms-of-Services - 1 раз(а)
+   URL: https://oklinksupport.zendesk.com/hc/zh-hk/articles/360027970111-Privacy-Policy-Statement - 1 раз(а)
+
+Домен: okx.com встречается на 1 документах 19 раз
+   URL: https://www.okx.com/ru - 1 раз(а)
+   URL: https://www.okx.com/ru/price/bitcoin-btc - 1 раз(а)
+   URL: https://www.okx.com/ru/price/ethereum-eth - 1 раз(а)
+   URL: https://www.okx.com/ru/price/cardano-ada - 1 раз(а)
+   URL: https://www.okx.com/ru/price/solana-sol - 1 раз(а)
+
+Домен: web3.okx.com встречается на 1 документах 5 раз
+   URL: https://web3.okx.com/ru - 1 раз(а)
+   URL: https://web3.okx.com/ru/wallet - 1 раз(а)
+   URL: https://web3.okx.com/ru/wallet/bitcoin - 1 раз(а)
+   URL: https://web3.okx.com/ru/wallet/ethereum - 1 раз(а)
+   URL: https://web3.okx.com/ru/wallet/solana - 1 раз(а)
+
+Домен: tradingview.com встречается на 1 документах 2 раз
+   URL: https://www.tradingview.com/pine-script-docs - 1 раз(а)
+   URL: https://www.tradingview.com/blog/ru - 1 раз(а)
+
+Домен: stormgain.onelink.me встречается на 1 документах 2 раз
+   URL: https://stormgain.onelink.me/GZJb/zrx2jek1 - 1 раз(а)
+   URL: https://stormgain.onelink.me/GZJb/1d1l25ky - 1 раз(а)
+

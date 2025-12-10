@@ -1,0 +1,6536 @@
+{
+  "курс эфира": [
+    {
+      "request": "курс эфира",
+      "wordstat": 12850,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 1359
+    },
+    {
+      "request": "цена эфириума",
+      "wordstat": 653,
+      "commercial": 10,
+      "difficultyTop": 2,
+      "value": 1284
+    },
+    {
+      "request": "курс eth",
+      "wordstat": 2901,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 1250
+    },
+    {
+      "request": "eth usd",
+      "wordstat": 1338,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 1182
+    },
+    {
+      "request": "курс эфириума",
+      "wordstat": 7368,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 1144
+    },
+    {
+      "request": "эфириум курс",
+      "wordstat": 4641,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 1126
+    },
+    {
+      "request": "стоимость эфириума",
+      "wordstat": 653,
+      "commercial": 10,
+      "difficultyTop": 2,
+      "value": 1089
+    },
+    {
+      "request": "курс эфира к доллару",
+      "wordstat": 8648,
+      "commercial": 10,
+      "difficultyTop": 3,
+      "value": 955
+    },
+    {
+      "request": "эфириум в долларах",
+      "wordstat": 256,
+      "commercial": 10,
+      "difficultyTop": 2,
+      "value": 936
+    },
+    {
+      "request": "цена эфириума на сегодня",
+      "wordstat": 537,
+      "commercial": 10,
+      "difficultyTop": 2,
+      "value": 894
+    },
+    {
+      "request": "ethereum курс",
+      "wordstat": 485,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 801
+    },
+    {
+      "request": "эфириум цена",
+      "wordstat": 4302,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 767
+    },
+    {
+      "request": "цена эфира",
+      "wordstat": 2038,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 756
+    },
+    {
+      "request": "цена eth",
+      "wordstat": 658,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 703
+    },
+    {
+      "request": "эфир в долларах",
+      "wordstat": 256,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 673
+    }
+  ],
+  "курс биткоина": [
+    {
+      "request": "btc usd",
+      "wordstat": 6064,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 979
+    },
+    {
+      "request": "биткоин цена",
+      "wordstat": 23551,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 897
+    },
+    {
+      "request": "биткойн курс",
+      "wordstat": 3088,
+      "commercial": 8,
+      "difficultyTop": 4,
+      "value": 701
+    },
+    {
+      "request": "btc to usd",
+      "wordstat": 1078,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 694
+    },
+    {
+      "request": "курс биткоина",
+      "wordstat": 159368,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 688
+    },
+    {
+      "request": "биток курс",
+      "wordstat": 578,
+      "commercial": 7,
+      "difficultyTop": 4,
+      "value": 587
+    },
+    {
+      "request": "курс btc",
+      "wordstat": 2828,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 545
+    },
+    {
+      "request": "цена биткоина на сегодня",
+      "wordstat": 4913,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 526
+    },
+    {
+      "request": "цена btc",
+      "wordstat": 1081,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 494
+    },
+    {
+      "request": "курс биткоина к доллару",
+      "wordstat": 63298,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 480
+    },
+    {
+      "request": "курс btc к доллару",
+      "wordstat": 527,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 474
+    },
+    {
+      "request": "курс биткоина к доллару на сегодня",
+      "wordstat": 9954,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 464
+    },
+    {
+      "request": "стоимость биткоина",
+      "wordstat": 10070,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 463
+    },
+    {
+      "request": "цена на биткоин",
+      "wordstat": 278,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 458
+    },
+    {
+      "request": "bitcoin курс",
+      "wordstat": 2014,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 445
+    }
+  ],
+  "курс биткоина к рублю": [
+    {
+      "request": "btc в рубли",
+      "wordstat": 910,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 652
+    },
+    {
+      "request": "btc to rub",
+      "wordstat": 577,
+      "commercial": 8,
+      "difficultyTop": 4,
+      "value": 602
+    },
+    {
+      "request": "btc rub",
+      "wordstat": 2778,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 584
+    },
+    {
+      "request": "биткоины в рубли",
+      "wordstat": 1038,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 557
+    },
+    {
+      "request": "биткойн в рубли",
+      "wordstat": 468,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 511
+    },
+    {
+      "request": "битки в рубли",
+      "wordstat": 253,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 495
+    },
+    {
+      "request": "курс биткоина к рублю",
+      "wordstat": 33259,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 478
+    },
+    {
+      "request": "биткоин в рубли",
+      "wordstat": 5435,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 475
+    },
+    {
+      "request": "биткоин к рублю",
+      "wordstat": 4401,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 464
+    },
+    {
+      "request": "биткоин в рубль",
+      "wordstat": 236,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 456
+    },
+    {
+      "request": "биткоин в рублях",
+      "wordstat": 4000,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 444
+    },
+    {
+      "request": "btc к рублю",
+      "wordstat": 932,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 439
+    },
+    {
+      "request": "биткоин курс к рублю",
+      "wordstat": 5959,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 412
+    },
+    {
+      "request": "биткоин рубль",
+      "wordstat": 917,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 406
+    },
+    {
+      "request": "из биткоина в рубли",
+      "wordstat": 240,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 404
+    }
+  ],
+  "купить биткоин за рубли": [
+    {
+      "request": "обмен рубли на биткоин",
+      "wordstat": 127,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 479
+    },
+    {
+      "request": "обменять рубли на биткоин",
+      "wordstat": 288,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 354
+    },
+    {
+      "request": "купить btc за рубли",
+      "wordstat": 111,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 340
+    },
+    {
+      "request": "обменник рубли на биткоин",
+      "wordstat": 119,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 293
+    },
+    {
+      "request": "обмен рублей на биткоин",
+      "wordstat": 81,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 292
+    },
+    {
+      "request": "купить биткоин за рубли",
+      "wordstat": 641,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 277
+    }
+  ],
+  "криптообменник минск": [
+    {
+      "request": "криптообменник минск",
+      "wordstat": 44,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 370
+    }
+  ],
+  "курс usdt к рублю": [
+    {
+      "request": "курс usdt",
+      "wordstat": 12436,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 634
+    },
+    {
+      "request": "курс юсдт",
+      "wordstat": 6729,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 578
+    },
+    {
+      "request": "rub usdt",
+      "wordstat": 199,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 563
+    },
+    {
+      "request": "usdt в рубли",
+      "wordstat": 11564,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 559
+    },
+    {
+      "request": "usdt rub",
+      "wordstat": 2288,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 559
+    },
+    {
+      "request": "юсдт в рублях",
+      "wordstat": 298,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 509
+    },
+    {
+      "request": "usdt курс",
+      "wordstat": 1780,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 506
+    },
+    {
+      "request": "курс usdt к рублю",
+      "wordstat": 15375,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 486
+    },
+    {
+      "request": "юсдт в рубли",
+      "wordstat": 2221,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 463
+    },
+    {
+      "request": "usdt to rub",
+      "wordstat": 1282,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 458
+    },
+    {
+      "request": "usdt в рублях",
+      "wordstat": 2015,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 441
+    },
+    {
+      "request": "курс юсдт к рублю",
+      "wordstat": 3807,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 417
+    },
+    {
+      "request": "юсдт курс",
+      "wordstat": 451,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 405
+    },
+    {
+      "request": "юсдт рубль",
+      "wordstat": 301,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 373
+    },
+    {
+      "request": "usdt к рублю",
+      "wordstat": 5677,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 347
+    }
+  ],
+  "как пополнить криптокошелек": [
+    {
+      "request": "как пополнить криптокошелек",
+      "wordstat": 256,
+      "commercial": 0,
+      "difficultyTop": 4,
+      "value": 248
+    },
+    {
+      "request": "пополнить криптокошелек",
+      "wordstat": 100,
+      "commercial": 0,
+      "difficultyTop": 4,
+      "value": 229
+    },
+    {
+      "request": "пополнить биткоин кошелек",
+      "wordstat": 235,
+      "commercial": 1,
+      "difficultyTop": 5,
+      "value": 178
+    },
+    {
+      "request": "как пополнить биткоин кошелек",
+      "wordstat": 174,
+      "commercial": 0,
+      "difficultyTop": 5,
+      "value": 148
+    }
+  ],
+  "криптообменник москва": [
+    {
+      "request": "обменник криптовалют в москве",
+      "wordstat": 151,
+      "commercial": 6,
+      "difficultyTop": 4,
+      "value": 258
+    },
+    {
+      "request": "криптообменник москва",
+      "wordstat": 660,
+      "commercial": 3,
+      "difficultyTop": 5,
+      "value": 248
+    },
+    {
+      "request": "криптообменники в москве на наличные",
+      "wordstat": 157,
+      "commercial": 4,
+      "difficultyTop": 4,
+      "value": 212
+    },
+    {
+      "request": "крипто обменник москва",
+      "wordstat": 144,
+      "commercial": 5,
+      "difficultyTop": 5,
+      "value": 198
+    },
+    {
+      "request": "обмен криптовалюты в москве",
+      "wordstat": 246,
+      "commercial": 4,
+      "difficultyTop": 5,
+      "value": 187
+    },
+    {
+      "request": "крипто обменник в москве",
+      "wordstat": 103,
+      "commercial": 3,
+      "difficultyTop": 5,
+      "value": 166
+    },
+    {
+      "request": "обменники криптовалюты в москве",
+      "wordstat": 158,
+      "commercial": 3,
+      "difficultyTop": 5,
+      "value": 153
+    },
+    {
+      "request": "криптообменники в москве",
+      "wordstat": 350,
+      "commercial": 3,
+      "difficultyTop": 6,
+      "value": 139
+    }
+  ],
+  "криптообменник": [
+    {
+      "request": "обменник крипты",
+      "wordstat": 1033,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 772
+    },
+    {
+      "request": "обмен крипты",
+      "wordstat": 500,
+      "commercial": 4,
+      "difficultyTop": 3,
+      "value": 728
+    },
+    {
+      "request": "обменник криптовалют",
+      "wordstat": 2295,
+      "commercial": 5,
+      "difficultyTop": 3,
+      "value": 716
+    },
+    {
+      "request": "обмен криптовалюты",
+      "wordstat": 1202,
+      "commercial": 4,
+      "difficultyTop": 3,
+      "value": 677
+    },
+    {
+      "request": "обменник криптовалюты",
+      "wordstat": 1731,
+      "commercial": 5,
+      "difficultyTop": 3,
+      "value": 671
+    },
+    {
+      "request": "крипто обменник",
+      "wordstat": 393,
+      "commercial": 5,
+      "difficultyTop": 3,
+      "value": 649
+    },
+    {
+      "request": "обмен криптовалют",
+      "wordstat": 299,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 598
+    },
+    {
+      "request": "криптообменник",
+      "wordstat": 2627,
+      "commercial": 3,
+      "difficultyTop": 4,
+      "value": 555
+    },
+    {
+      "request": "криптообмен",
+      "wordstat": 59,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 535
+    },
+    {
+      "request": "обменять крипту",
+      "wordstat": 51,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 448
+    },
+    {
+      "request": "обменять криптовалюту",
+      "wordstat": 48,
+      "commercial": 4,
+      "difficultyTop": 3,
+      "value": 347
+    },
+    {
+      "request": "крипто обмен",
+      "wordstat": 43,
+      "commercial": 6,
+      "difficultyTop": 4,
+      "value": 320
+    },
+    {
+      "request": "криптовалютный обменник",
+      "wordstat": 43,
+      "commercial": 1,
+      "difficultyTop": 3,
+      "value": 292
+    }
+  ],
+  "sol rub": [
+    {
+      "request": "sol rub",
+      "wordstat": 192,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 600
+    },
+    {
+      "request": "sol в рубли",
+      "wordstat": 172,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 497
+    },
+    {
+      "request": "sol to rub",
+      "wordstat": 74,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 425
+    },
+    {
+      "request": "solana в рубли",
+      "wordstat": 86,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 388
+    },
+    {
+      "request": "курс солана к рублю",
+      "wordstat": 184,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 385
+    },
+    {
+      "request": "курс соланы к рублю",
+      "wordstat": 115,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 352
+    },
+    {
+      "request": "солана курс к рублю",
+      "wordstat": 76,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 322
+    },
+    {
+      "request": "солана в рубли",
+      "wordstat": 186,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 303
+    },
+    {
+      "request": "солана к рублю",
+      "wordstat": 110,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 274
+    },
+    {
+      "request": "солана курс к рублю на сегодня",
+      "wordstat": 98,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 257
+    },
+    {
+      "request": "солана в рублях",
+      "wordstat": 78,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 246
+    }
+  ],
+  "курс рубля к usdt": [
+    {
+      "request": "rub to usdt",
+      "wordstat": 178,
+      "commercial": 8,
+      "difficultyTop": 3,
+      "value": 709
+    },
+    {
+      "request": "руб в usdt",
+      "wordstat": 95,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 460
+    },
+    {
+      "request": "рубли в юсдт",
+      "wordstat": 169,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 320
+    },
+    {
+      "request": "обмен рублей на usdt",
+      "wordstat": 52,
+      "commercial": 8,
+      "difficultyTop": 4,
+      "value": 273
+    },
+    {
+      "request": "обменять рубли на usdt",
+      "wordstat": 48,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 267
+    },
+    {
+      "request": "курс рубля к usdt",
+      "wordstat": 324,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 198
+    }
+  ],
+  "криптообменник самара": [
+    {
+      "request": "криптообменник самара",
+      "wordstat": 74,
+      "commercial": 6,
+      "difficultyTop": 2,
+      "value": 606
+    },
+    {
+      "request": "криптообменник в самаре",
+      "wordstat": 45,
+      "commercial": 5,
+      "difficultyTop": 2,
+      "value": 498
+    }
+  ],
+  "обмен биткоина на рубли": [
+    {
+      "request": "обмен биткоина на рубли",
+      "wordstat": 131,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 470
+    },
+    {
+      "request": "обменник btc на рубли",
+      "wordstat": 41,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 383
+    },
+    {
+      "request": "обменять биткоин на рубли",
+      "wordstat": 44,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 351
+    },
+    {
+      "request": "обмен биткоинов на рубли",
+      "wordstat": 56,
+      "commercial": 7,
+      "difficultyTop": 4,
+      "value": 243
+    }
+  ],
+  "лайткоин курс": [
+    {
+      "request": "ltc usd",
+      "wordstat": 638,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 713
+    },
+    {
+      "request": "ltc to usd",
+      "wordstat": 176,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 519
+    },
+    {
+      "request": "лайткоин цена",
+      "wordstat": 235,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 476
+    },
+    {
+      "request": "курс ltc к доллару",
+      "wordstat": 349,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 443
+    },
+    {
+      "request": "litecoin цена",
+      "wordstat": 130,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 438
+    },
+    {
+      "request": "курс ltc",
+      "wordstat": 545,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 435
+    },
+    {
+      "request": "курс лайткоина к доллару",
+      "wordstat": 718,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 420
+    },
+    {
+      "request": "лайткоин курс",
+      "wordstat": 1308,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 416
+    },
+    {
+      "request": "лайткоин к доллару",
+      "wordstat": 224,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 411
+    },
+    {
+      "request": "курс лайткоина",
+      "wordstat": 1253,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 399
+    },
+    {
+      "request": "курс лайткоин к доллару",
+      "wordstat": 269,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 369
+    },
+    {
+      "request": "стоимость ltc",
+      "wordstat": 407,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 359
+    },
+    {
+      "request": "курс litecoin к доллару",
+      "wordstat": 207,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 352
+    },
+    {
+      "request": "ltc курс к доллару",
+      "wordstat": 97,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 350
+    },
+    {
+      "request": "ltc цена",
+      "wordstat": 93,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 334
+    }
+  ],
+  "криптовалюта в беларуси": [
+    {
+      "request": "криптовалюта в беларуси закон",
+      "wordstat": 43,
+      "commercial": 1,
+      "difficultyTop": 3,
+      "value": 252
+    },
+    {
+      "request": "крипта в беларуси",
+      "wordstat": 45,
+      "commercial": 1,
+      "difficultyTop": 4,
+      "value": 235
+    },
+    {
+      "request": "криптовалюта в беларуси",
+      "wordstat": 157,
+      "commercial": 1,
+      "difficultyTop": 5,
+      "value": 174
+    }
+  ],
+  "солана курс": [
+    {
+      "request": "solana usd",
+      "wordstat": 111,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 475
+    },
+    {
+      "request": "солана цена",
+      "wordstat": 1081,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 437
+    },
+    {
+      "request": "курс sol",
+      "wordstat": 661,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 436
+    },
+    {
+      "request": "sol usd",
+      "wordstat": 306,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 425
+    },
+    {
+      "request": "стоимость solana",
+      "wordstat": 120,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 379
+    },
+    {
+      "request": "sol to usd",
+      "wordstat": 308,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 365
+    },
+    {
+      "request": "солана курс",
+      "wordstat": 3784,
+      "commercial": 8,
+      "difficultyTop": 6,
+      "value": 335
+    },
+    {
+      "request": "курс соланы к доллару",
+      "wordstat": 1411,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 335
+    },
+    {
+      "request": "solana курс",
+      "wordstat": 1218,
+      "commercial": 8,
+      "difficultyTop": 6,
+      "value": 290
+    },
+    {
+      "request": "solana цена",
+      "wordstat": 1019,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 290
+    },
+    {
+      "request": "солана к доллару",
+      "wordstat": 240,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 289
+    },
+    {
+      "request": "курс sol к доллару",
+      "wordstat": 260,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 283
+    },
+    {
+      "request": "sol к доллару",
+      "wordstat": 108,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 276
+    },
+    {
+      "request": "стоимость солана",
+      "wordstat": 182,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 275
+    },
+    {
+      "request": "солана цена в долларах",
+      "wordstat": 476,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 272
+    }
+  ],
+  "криптообменник тюмень": [
+    {
+      "request": "криптообменник тюмень",
+      "wordstat": 122,
+      "commercial": 4,
+      "difficultyTop": 2,
+      "value": 636
+    },
+    {
+      "request": "крипто обменник тюмень",
+      "wordstat": 41,
+      "commercial": 3,
+      "difficultyTop": 2,
+      "value": 471
+    },
+    {
+      "request": "обмен криптовалюты тюмень",
+      "wordstat": 22,
+      "commercial": 6,
+      "difficultyTop": 2,
+      "value": 402
+    },
+    {
+      "request": "обменник криптовалют тюмень",
+      "wordstat": 26,
+      "commercial": 4,
+      "difficultyTop": 2,
+      "value": 379
+    }
+  ],
+  "курс рубля к биткоину": [
+    {
+      "request": "рубли в биткоин",
+      "wordstat": 175,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 432
+    },
+    {
+      "request": "рубли в btc",
+      "wordstat": 83,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 430
+    },
+    {
+      "request": "рубли в биткоины",
+      "wordstat": 159,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 411
+    },
+    {
+      "request": "rub to btc",
+      "wordstat": 52,
+      "commercial": 8,
+      "difficultyTop": 4,
+      "value": 382
+    },
+    {
+      "request": "из рублей в биткоин",
+      "wordstat": 77,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 323
+    },
+    {
+      "request": "курс рубля к биткоину",
+      "wordstat": 218,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 251
+    },
+    {
+      "request": "рубль к биткоину",
+      "wordstat": 76,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 237
+    }
+  ],
+  "криптообменник нижний новгород": [
+    {
+      "request": "обмен криптовалюты нижний новгород",
+      "wordstat": 39,
+      "commercial": 7,
+      "difficultyTop": 3,
+      "value": 264
+    },
+    {
+      "request": "криптообменник в нижнем новгороде",
+      "wordstat": 35,
+      "commercial": 4,
+      "difficultyTop": 3,
+      "value": 241
+    },
+    {
+      "request": "криптообменник нижний новгород",
+      "wordstat": 109,
+      "commercial": 4,
+      "difficultyTop": 4,
+      "value": 223
+    }
+  ],
+  "как перевести биткоины с кошелька на кошелек": [
+    {
+      "request": "как перевести биткоины с кошелька на кошелек",
+      "wordstat": 42,
+      "commercial": 0,
+      "difficultyTop": 4,
+      "value": 121
+    }
+  ],
+  "криптообменник екатеринбург": [
+    {
+      "request": "криптообменник екатеринбург",
+      "wordstat": 185,
+      "commercial": 5,
+      "difficultyTop": 2,
+      "value": 607
+    },
+    {
+      "request": "крипто обменник екатеринбург",
+      "wordstat": 35,
+      "commercial": 4,
+      "difficultyTop": 3,
+      "value": 269
+    },
+    {
+      "request": "обменник криптовалют екатеринбург",
+      "wordstat": 31,
+      "commercial": 4,
+      "difficultyTop": 3,
+      "value": 233
+    },
+    {
+      "request": "обмен криптовалюты екатеринбург",
+      "wordstat": 47,
+      "commercial": 5,
+      "difficultyTop": 4,
+      "value": 187
+    }
+  ],
+  "как вывести usdt в рубли": [
+    {
+      "request": "карта usdt",
+      "wordstat": 51,
+      "commercial": 2,
+      "difficultyTop": 4,
+      "value": 320
+    },
+    {
+      "request": "как вывести usdt в рубли",
+      "wordstat": 88,
+      "commercial": 0,
+      "difficultyTop": 5,
+      "value": 146
+    },
+    {
+      "request": "как вывести usdt в рубли на карту",
+      "wordstat": 52,
+      "commercial": 0,
+      "difficultyTop": 5,
+      "value": 105
+    }
+  ],
+  "обмен крипты на рубли": [
+    {
+      "request": "обменник криптовалюты на рубли",
+      "wordstat": 47,
+      "commercial": 8,
+      "difficultyTop": 1,
+      "value": 688
+    },
+    {
+      "request": "обмен крипты на рубли",
+      "wordstat": 78,
+      "commercial": 8,
+      "difficultyTop": 2,
+      "value": 647
+    },
+    {
+      "request": "обменник крипты на рубли",
+      "wordstat": 26,
+      "commercial": 8,
+      "difficultyTop": 2,
+      "value": 456
+    },
+    {
+      "request": "обменять крипту на рубли",
+      "wordstat": 74,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 406
+    },
+    {
+      "request": "обмен криптовалюты на рубли",
+      "wordstat": 59,
+      "commercial": 6,
+      "difficultyTop": 4,
+      "value": 222
+    },
+    {
+      "request": "продать криптовалюту за рубли обменники",
+      "wordstat": 26,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 209
+    },
+    {
+      "request": "обменять криптовалюту на рубли",
+      "wordstat": 27,
+      "commercial": 6,
+      "difficultyTop": 4,
+      "value": 170
+    }
+  ],
+  "можно ли покупать криптовалюту в россии": [
+    {
+      "request": "можно ли покупать криптовалюту в россии",
+      "wordstat": 183,
+      "commercial": 1,
+      "difficultyTop": 4,
+      "value": 188
+    },
+    {
+      "request": "крипта в россии",
+      "wordstat": 102,
+      "commercial": 0,
+      "difficultyTop": 6,
+      "value": 131
+    },
+    {
+      "request": "легальна ли криптовалюта в россии",
+      "wordstat": 98,
+      "commercial": 1,
+      "difficultyTop": 5,
+      "value": 125
+    },
+    {
+      "request": "криптовалюта запрещена в россии или нет",
+      "wordstat": 83,
+      "commercial": 1,
+      "difficultyTop": 5,
+      "value": 107
+    }
+  ],
+  "курс эфира к рублю": [
+    {
+      "request": "eth rub",
+      "wordstat": 496,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 448
+    },
+    {
+      "request": "эфир в рубли",
+      "wordstat": 306,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 355
+    },
+    {
+      "request": "eth в рубли",
+      "wordstat": 220,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 349
+    },
+    {
+      "request": "эфириум в рубли",
+      "wordstat": 509,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 347
+    },
+    {
+      "request": "eth к рублю",
+      "wordstat": 147,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 323
+    },
+    {
+      "request": "эфириум в рублях",
+      "wordstat": 180,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 282
+    },
+    {
+      "request": "эфир к рублю",
+      "wordstat": 835,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 279
+    },
+    {
+      "request": "курс эфира к рублю",
+      "wordstat": 1706,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 252
+    },
+    {
+      "request": "eth курс к рублю",
+      "wordstat": 90,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 246
+    },
+    {
+      "request": "курс eth к рублю",
+      "wordstat": 598,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 231
+    },
+    {
+      "request": "курс эфириума к рублю",
+      "wordstat": 1097,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 217
+    },
+    {
+      "request": "эфир курс к рублю",
+      "wordstat": 479,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 216
+    },
+    {
+      "request": "цена эфира в рублях",
+      "wordstat": 596,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 210
+    },
+    {
+      "request": "эфир в рублях",
+      "wordstat": 124,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 195
+    },
+    {
+      "request": "эфириум курс к рублю",
+      "wordstat": 426,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 194
+    }
+  ],
+  "trx в рублях": [
+    {
+      "request": "trx в рубли",
+      "wordstat": 404,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 576
+    },
+    {
+      "request": "trx в рублях",
+      "wordstat": 409,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 373
+    },
+    {
+      "request": "trx rub",
+      "wordstat": 133,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 366
+    },
+    {
+      "request": "trx to rub",
+      "wordstat": 140,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 333
+    },
+    {
+      "request": "trx к рублю",
+      "wordstat": 164,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 330
+    },
+    {
+      "request": "курс trx к рублю",
+      "wordstat": 182,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 282
+    },
+    {
+      "request": "трон в рубли",
+      "wordstat": 88,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 281
+    },
+    {
+      "request": "курс трона к рублю",
+      "wordstat": 224,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 275
+    }
+  ],
+  "криптообменник челябинск": [
+    {
+      "request": "криптообменник челябинск",
+      "wordstat": 74,
+      "commercial": 4,
+      "difficultyTop": 2,
+      "value": 529
+    },
+    {
+      "request": "обмен криптовалюты челябинск",
+      "wordstat": 32,
+      "commercial": 7,
+      "difficultyTop": 2,
+      "value": 426
+    },
+    {
+      "request": "криптообменники в челябинске",
+      "wordstat": 35,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 285
+    }
+  ],
+  "курс лайткоина к рублю": [
+    {
+      "request": "ltc rub",
+      "wordstat": 276,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 623
+    },
+    {
+      "request": "ltc to rub",
+      "wordstat": 88,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 441
+    },
+    {
+      "request": "ltc в рублях",
+      "wordstat": 467,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 381
+    },
+    {
+      "request": "ltc к рублю",
+      "wordstat": 159,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 328
+    },
+    {
+      "request": "лайткоин к рублю",
+      "wordstat": 424,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 327
+    },
+    {
+      "request": "курс ltc к рублю",
+      "wordstat": 424,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 327
+    },
+    {
+      "request": "ltc в рубли",
+      "wordstat": 128,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 315
+    },
+    {
+      "request": "курс лайткоина к рублю",
+      "wordstat": 713,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 296
+    },
+    {
+      "request": "курс ltc в рублях",
+      "wordstat": 241,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 288
+    },
+    {
+      "request": "лайткоин в рубли",
+      "wordstat": 127,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 264
+    },
+    {
+      "request": "ltc курс к рублю",
+      "wordstat": 77,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 238
+    },
+    {
+      "request": "курс лайткоин к рублю",
+      "wordstat": 124,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 226
+    },
+    {
+      "request": "курс ltc к рублю на сегодня",
+      "wordstat": 276,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 224
+    },
+    {
+      "request": "цена лайткоина к рублю",
+      "wordstat": 83,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 202
+    },
+    {
+      "request": "курс лайткоина в рублях",
+      "wordstat": 82,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 197
+    }
+  ],
+  "криптообменник волгоград": [
+    {
+      "request": "обменник криптовалют волгоград",
+      "wordstat": 23,
+      "commercial": 7,
+      "difficultyTop": 1,
+      "value": 554
+    },
+    {
+      "request": "криптообменник волгоград",
+      "wordstat": 54,
+      "commercial": 6,
+      "difficultyTop": 2,
+      "value": 521
+    }
+  ],
+  "конвертер биткоин": [
+    {
+      "request": "конвертер биткоин",
+      "wordstat": 227,
+      "commercial": 8,
+      "difficultyTop": 4,
+      "value": 404
+    },
+    {
+      "request": "конвертер криптовалют",
+      "wordstat": 173,
+      "commercial": 6,
+      "difficultyTop": 4,
+      "value": 323
+    },
+    {
+      "request": "конвертер криптовалюты",
+      "wordstat": 54,
+      "commercial": 7,
+      "difficultyTop": 4,
+      "value": 254
+    },
+    {
+      "request": "перевод криптовалюты",
+      "wordstat": 45,
+      "commercial": 1,
+      "difficultyTop": 4,
+      "value": 215
+    },
+    {
+      "request": "перевод криптовалюты в рубли",
+      "wordstat": 38,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 138
+    }
+  ],
+  "купить биткоин": [
+    {
+      "request": "купить btc",
+      "wordstat": 142,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 499
+    },
+    {
+      "request": "купить биткоин",
+      "wordstat": 3505,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 444
+    },
+    {
+      "request": "купить биткойн",
+      "wordstat": 316,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 308
+    },
+    {
+      "request": "купить биток",
+      "wordstat": 66,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 257
+    },
+    {
+      "request": "покупка биткоина",
+      "wordstat": 87,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 232
+    },
+    {
+      "request": "купить bitcoin",
+      "wordstat": 60,
+      "commercial": 6,
+      "difficultyTop": 5,
+      "value": 216
+    },
+    {
+      "request": "купить биткоин в россии",
+      "wordstat": 621,
+      "commercial": 6,
+      "difficultyTop": 6,
+      "value": 171
+    },
+    {
+      "request": "биткоин купить в россии",
+      "wordstat": 124,
+      "commercial": 5,
+      "difficultyTop": 6,
+      "value": 126
+    }
+  ],
+  "криптообменник спб": [
+    {
+      "request": "криптообменник спб",
+      "wordstat": 377,
+      "commercial": 3,
+      "difficultyTop": 5,
+      "value": 248
+    },
+    {
+      "request": "крипто обменник спб",
+      "wordstat": 96,
+      "commercial": 3,
+      "difficultyTop": 5,
+      "value": 187
+    },
+    {
+      "request": "обменник криптовалюты спб",
+      "wordstat": 64,
+      "commercial": 5,
+      "difficultyTop": 5,
+      "value": 155
+    },
+    {
+      "request": "обмен криптовалюты в спб",
+      "wordstat": 59,
+      "commercial": 4,
+      "difficultyTop": 5,
+      "value": 151
+    }
+  ],
+  "как купить криптовалюту в россии": [
+    {
+      "request": "где купить криптовалюту",
+      "wordstat": 233,
+      "commercial": 2,
+      "difficultyTop": 5,
+      "value": 193
+    },
+    {
+      "request": "как купить крипту",
+      "wordstat": 325,
+      "commercial": 1,
+      "difficultyTop": 6,
+      "value": 157
+    },
+    {
+      "request": "как купить криптовалюту",
+      "wordstat": 599,
+      "commercial": 0,
+      "difficultyTop": 6,
+      "value": 141
+    },
+    {
+      "request": "где купить криптовалюту в россии за рубли",
+      "wordstat": 141,
+      "commercial": 6,
+      "difficultyTop": 5,
+      "value": 134
+    },
+    {
+      "request": "как купить криптовалюту в россии",
+      "wordstat": 792,
+      "commercial": 3,
+      "difficultyTop": 6,
+      "value": 131
+    },
+    {
+      "request": "купить криптовалюту в россии",
+      "wordstat": 236,
+      "commercial": 4,
+      "difficultyTop": 6,
+      "value": 122
+    },
+    {
+      "request": "покупка криптовалюты в россии",
+      "wordstat": 129,
+      "commercial": 6,
+      "difficultyTop": 6,
+      "value": 112
+    }
+  ],
+  "обмен usdt на рубли": [
+    {
+      "request": "обмен usdt на рубли",
+      "wordstat": 291,
+      "commercial": 6,
+      "difficultyTop": 5,
+      "value": 252
+    },
+    {
+      "request": "обмен юсдт на рубли",
+      "wordstat": 56,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 197
+    },
+    {
+      "request": "продать usdt за рубли",
+      "wordstat": 87,
+      "commercial": 6,
+      "difficultyTop": 5,
+      "value": 189
+    },
+    {
+      "request": "обменять usdt на рубли",
+      "wordstat": 65,
+      "commercial": 6,
+      "difficultyTop": 5,
+      "value": 173
+    },
+    {
+      "request": "обменник usdt на рубли",
+      "wordstat": 91,
+      "commercial": 6,
+      "difficultyTop": 6,
+      "value": 125
+    }
+  ],
+  "обмен usdt на сбер": [
+    {
+      "request": "обмен usdt на сбер",
+      "wordstat": 20,
+      "commercial": 10,
+      "difficultyTop": 2,
+      "value": 526
+    }
+  ],
+  "обменник биткоин": [
+    {
+      "request": "обмен биткоина",
+      "wordstat": 277,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 706
+    },
+    {
+      "request": "обменник btc",
+      "wordstat": 281,
+      "commercial": 8,
+      "difficultyTop": 4,
+      "value": 496
+    },
+    {
+      "request": "обменник биткойн",
+      "wordstat": 61,
+      "commercial": 8,
+      "difficultyTop": 3,
+      "value": 477
+    },
+    {
+      "request": "обменять биткоин",
+      "wordstat": 64,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 457
+    },
+    {
+      "request": "обмен btc",
+      "wordstat": 92,
+      "commercial": 8,
+      "difficultyTop": 4,
+      "value": 452
+    },
+    {
+      "request": "обмен биткойн",
+      "wordstat": 36,
+      "commercial": 7,
+      "difficultyTop": 3,
+      "value": 452
+    },
+    {
+      "request": "bitcoin обменник",
+      "wordstat": 26,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 395
+    },
+    {
+      "request": "обменник биткоин",
+      "wordstat": 442,
+      "commercial": 6,
+      "difficultyTop": 5,
+      "value": 296
+    },
+    {
+      "request": "обмен на биткоин",
+      "wordstat": 37,
+      "commercial": 7,
+      "difficultyTop": 4,
+      "value": 276
+    }
+  ],
+  "криптообменник симферополь": [
+    {
+      "request": "криптообменник симферополь",
+      "wordstat": 40,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 335
+    }
+  ],
+  "как купить usdt": [
+    {
+      "request": "как купить юсдт",
+      "wordstat": 47,
+      "commercial": 4,
+      "difficultyTop": 4,
+      "value": 278
+    },
+    {
+      "request": "как купить usdt за рубли",
+      "wordstat": 287,
+      "commercial": 4,
+      "difficultyTop": 5,
+      "value": 207
+    },
+    {
+      "request": "usdt как купить",
+      "wordstat": 67,
+      "commercial": 3,
+      "difficultyTop": 5,
+      "value": 196
+    },
+    {
+      "request": "как купить usdt",
+      "wordstat": 289,
+      "commercial": 2,
+      "difficultyTop": 6,
+      "value": 170
+    }
+  ],
+  "эфир классик": [
+    {
+      "request": "ethereum classic",
+      "wordstat": 141,
+      "commercial": 3,
+      "difficultyTop": 3,
+      "value": 494
+    },
+    {
+      "request": "эфир классик курс",
+      "wordstat": 163,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 390
+    },
+    {
+      "request": "эфириум классик",
+      "wordstat": 78,
+      "commercial": 3,
+      "difficultyTop": 4,
+      "value": 303
+    },
+    {
+      "request": "эфириум классик цена",
+      "wordstat": 46,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 279
+    },
+    {
+      "request": "эфир классик",
+      "wordstat": 188,
+      "commercial": 4,
+      "difficultyTop": 5,
+      "value": 277
+    },
+    {
+      "request": "курс эфир классик",
+      "wordstat": 160,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 260
+    },
+    {
+      "request": "курс эфира классик",
+      "wordstat": 151,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 250
+    },
+    {
+      "request": "цена эфира классик",
+      "wordstat": 129,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 248
+    },
+    {
+      "request": "эфир классик цена",
+      "wordstat": 105,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 240
+    },
+    {
+      "request": "цена эфир классик",
+      "wordstat": 91,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 239
+    },
+    {
+      "request": "курс эфириум классик",
+      "wordstat": 154,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 236
+    },
+    {
+      "request": "цена эфириум классик",
+      "wordstat": 121,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 231
+    },
+    {
+      "request": "курс эфириума классик",
+      "wordstat": 79,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 201
+    },
+    {
+      "request": "эфириум классик курс",
+      "wordstat": 46,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 182
+    },
+    {
+      "request": "ethereum classic etc цена",
+      "wordstat": 46,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 164
+    }
+  ],
+  "криптообменник краснодар": [
+    {
+      "request": "криптообменник краснодар",
+      "wordstat": 189,
+      "commercial": 4,
+      "difficultyTop": 4,
+      "value": 287
+    },
+    {
+      "request": "крипто обменник краснодар",
+      "wordstat": 56,
+      "commercial": 4,
+      "difficultyTop": 4,
+      "value": 217
+    },
+    {
+      "request": "обмен криптовалюты краснодар",
+      "wordstat": 52,
+      "commercial": 6,
+      "difficultyTop": 4,
+      "value": 210
+    },
+    {
+      "request": "криптообменник в краснодаре",
+      "wordstat": 38,
+      "commercial": 3,
+      "difficultyTop": 4,
+      "value": 183
+    },
+    {
+      "request": "обменник криптовалюты краснодар",
+      "wordstat": 30,
+      "commercial": 6,
+      "difficultyTop": 4,
+      "value": 171
+    }
+  ],
+  "криптообменник казань": [
+    {
+      "request": "криптообменник казань",
+      "wordstat": 139,
+      "commercial": 4,
+      "difficultyTop": 3,
+      "value": 437
+    },
+    {
+      "request": "обменник криптовалют в казани",
+      "wordstat": 27,
+      "commercial": 7,
+      "difficultyTop": 2,
+      "value": 398
+    },
+    {
+      "request": "обмен криптовалюты казань",
+      "wordstat": 41,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 318
+    },
+    {
+      "request": "крипто обменник казань",
+      "wordstat": 23,
+      "commercial": 5,
+      "difficultyTop": 3,
+      "value": 287
+    },
+    {
+      "request": "обменник криптовалюты казань",
+      "wordstat": 31,
+      "commercial": 5,
+      "difficultyTop": 3,
+      "value": 268
+    },
+    {
+      "request": "обменники криптовалюты в казани",
+      "wordstat": 22,
+      "commercial": 5,
+      "difficultyTop": 4,
+      "value": 153
+    }
+  ],
+  "купить solana": [
+    {
+      "request": "купить солана",
+      "wordstat": 30,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 419
+    },
+    {
+      "request": "купить solana",
+      "wordstat": 43,
+      "commercial": 8,
+      "difficultyTop": 4,
+      "value": 326
+    },
+    {
+      "request": "купить sol",
+      "wordstat": 31,
+      "commercial": 6,
+      "difficultyTop": 4,
+      "value": 318
+    },
+    {
+      "request": "как купить solana",
+      "wordstat": 28,
+      "commercial": 2,
+      "difficultyTop": 4,
+      "value": 215
+    }
+  ],
+  "криптообменник владивосток": [
+    {
+      "request": "криптообменник владивосток",
+      "wordstat": 36,
+      "commercial": 6,
+      "difficultyTop": 2,
+      "value": 448
+    }
+  ],
+  "обмен сбп на биткоин": [
+    {
+      "request": "обмен сбп на биткоин",
+      "wordstat": 31,
+      "commercial": 10,
+      "difficultyTop": 2,
+      "value": 561
+    },
+    {
+      "request": "обменять рубли на биткоин через сбп",
+      "wordstat": 21,
+      "commercial": 10,
+      "difficultyTop": 2,
+      "value": 352
+    }
+  ],
+  "криптообменник красноярск": [
+    {
+      "request": "криптообменник красноярск",
+      "wordstat": 91,
+      "commercial": 7,
+      "difficultyTop": 3,
+      "value": 393
+    },
+    {
+      "request": "обмен криптовалюты красноярск",
+      "wordstat": 24,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 272
+    },
+    {
+      "request": "крипто обменник красноярск",
+      "wordstat": 22,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 263
+    },
+    {
+      "request": "обменник криптовалют красноярск",
+      "wordstat": 32,
+      "commercial": 7,
+      "difficultyTop": 4,
+      "value": 179
+    },
+    {
+      "request": "обменники криптовалюты в красноярске",
+      "wordstat": 23,
+      "commercial": 8,
+      "difficultyTop": 4,
+      "value": 151
+    }
+  ],
+  "купить usdt с расчетного счета": [
+    {
+      "request": "купить usdt с расчетного счета",
+      "wordstat": 26,
+      "commercial": 6,
+      "difficultyTop": 2,
+      "value": 374
+    }
+  ],
+  "криптообменник ростов на дону": [
+    {
+      "request": "криптообменник ростов на дону",
+      "wordstat": 87,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 344
+    },
+    {
+      "request": "крипто обменник ростов на дону",
+      "wordstat": 30,
+      "commercial": 5,
+      "difficultyTop": 4,
+      "value": 170
+    },
+    {
+      "request": "криптообменники в ростове на дону",
+      "wordstat": 31,
+      "commercial": 5,
+      "difficultyTop": 4,
+      "value": 161
+    }
+  ],
+  "usd и usdt в чем разница": [
+    {
+      "request": "usd и usdt в чем разница",
+      "wordstat": 67,
+      "commercial": 0,
+      "difficultyTop": 4,
+      "value": 205
+    },
+    {
+      "request": "чем отличается usd от usdt",
+      "wordstat": 29,
+      "commercial": 0,
+      "difficultyTop": 4,
+      "value": 159
+    }
+  ],
+  "курс usdt к доллару": [
+    {
+      "request": "tether usd",
+      "wordstat": 98,
+      "commercial": 7,
+      "difficultyTop": 4,
+      "value": 428
+    },
+    {
+      "request": "тезер курс",
+      "wordstat": 242,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 350
+    },
+    {
+      "request": "usdt usd",
+      "wordstat": 91,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 307
+    },
+    {
+      "request": "курс usdt к доллару",
+      "wordstat": 354,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 289
+    },
+    {
+      "request": "цена usdt",
+      "wordstat": 324,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 264
+    },
+    {
+      "request": "usdt в доллары",
+      "wordstat": 78,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 255
+    },
+    {
+      "request": "курс усдт к доллару",
+      "wordstat": 120,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 238
+    },
+    {
+      "request": "курс usdt к usd",
+      "wordstat": 59,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 226
+    },
+    {
+      "request": "тезер крипто цена",
+      "wordstat": 97,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 162
+    },
+    {
+      "request": "курс доллара usdt",
+      "wordstat": 86,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 158
+    },
+    {
+      "request": "курс юсдт к доллару на сегодня",
+      "wordstat": 60,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 151
+    },
+    {
+      "request": "usdt к доллару",
+      "wordstat": 127,
+      "commercial": 10,
+      "difficultyTop": 7,
+      "value": 127
+    },
+    {
+      "request": "стоимость usdt",
+      "wordstat": 130,
+      "commercial": 9,
+      "difficultyTop": 7,
+      "value": 124
+    }
+  ],
+  "как обменять рубли на биткоины": [
+    {
+      "request": "как обменять рубли на биткоин",
+      "wordstat": 37,
+      "commercial": 6,
+      "difficultyTop": 4,
+      "value": 189
+    },
+    {
+      "request": "как обменять рубли на биткоины",
+      "wordstat": 49,
+      "commercial": 4,
+      "difficultyTop": 4,
+      "value": 187
+    },
+    {
+      "request": "как перевести рубли в биткоины",
+      "wordstat": 34,
+      "commercial": 4,
+      "difficultyTop": 4,
+      "value": 171
+    }
+  ],
+  "курс трона к доллару": [
+    {
+      "request": "trx to usd",
+      "wordstat": 165,
+      "commercial": 6,
+      "difficultyTop": 4,
+      "value": 462
+    },
+    {
+      "request": "курс трх",
+      "wordstat": 149,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 357
+    },
+    {
+      "request": "курс trx к доллару",
+      "wordstat": 95,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 340
+    },
+    {
+      "request": "trx usd",
+      "wordstat": 109,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 333
+    },
+    {
+      "request": "trx криптовалюта цена",
+      "wordstat": 115,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 223
+    },
+    {
+      "request": "trx цена",
+      "wordstat": 79,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 216
+    },
+    {
+      "request": "tron курс",
+      "wordstat": 87,
+      "commercial": 7,
+      "difficultyTop": 6,
+      "value": 195
+    },
+    {
+      "request": "курс трона к доллару",
+      "wordstat": 193,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 169
+    },
+    {
+      "request": "курс трон к доллару",
+      "wordstat": 102,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 150
+    }
+  ],
+  "криптообменник новороссийск": [
+    {
+      "request": "криптообменник новороссийск",
+      "wordstat": 27,
+      "commercial": 6,
+      "difficultyTop": 2,
+      "value": 405
+    }
+  ],
+  "купить trx tron": [
+    {
+      "request": "купить tron",
+      "wordstat": 37,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 356
+    },
+    {
+      "request": "купить trx tron",
+      "wordstat": 140,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 264
+    }
+  ],
+  "usdt erc20": [
+    {
+      "request": "usdt erc20",
+      "wordstat": 139,
+      "commercial": 1,
+      "difficultyTop": 4,
+      "value": 385
+    },
+    {
+      "request": "erc20 и trc20 в чем разница usdt",
+      "wordstat": 60,
+      "commercial": 0,
+      "difficultyTop": 5,
+      "value": 111
+    },
+    {
+      "request": "usdt erc20 что это",
+      "wordstat": 59,
+      "commercial": 0,
+      "difficultyTop": 6,
+      "value": 106
+    }
+  ],
+  "криптообменник иркутск": [
+    {
+      "request": "криптообменник иркутск",
+      "wordstat": 64,
+      "commercial": 7,
+      "difficultyTop": 3,
+      "value": 393
+    },
+    {
+      "request": "крипто обменник иркутск",
+      "wordstat": 43,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 339
+    },
+    {
+      "request": "криптообменник в иркутске",
+      "wordstat": 39,
+      "commercial": 7,
+      "difficultyTop": 3,
+      "value": 323
+    },
+    {
+      "request": "обмен криптовалюты иркутск",
+      "wordstat": 28,
+      "commercial": 8,
+      "difficultyTop": 3,
+      "value": 297
+    },
+    {
+      "request": "обмен криптовалюты в иркутске",
+      "wordstat": 22,
+      "commercial": 8,
+      "difficultyTop": 3,
+      "value": 258
+    }
+  ],
+  "криптообменник в алматы": [
+    {
+      "request": "криптообменник в алматы",
+      "wordstat": 19,
+      "commercial": 9,
+      "difficultyTop": 2,
+      "value": 439
+    },
+    {
+      "request": "криптообменники алматы",
+      "wordstat": 17,
+      "commercial": 9,
+      "difficultyTop": 2,
+      "value": 435
+    }
+  ],
+  "купить usdt": [
+    {
+      "request": "купить usdt",
+      "wordstat": 942,
+      "commercial": 6,
+      "difficultyTop": 5,
+      "value": 395
+    },
+    {
+      "request": "usdt купить",
+      "wordstat": 221,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 323
+    },
+    {
+      "request": "купить юсдт",
+      "wordstat": 187,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 321
+    },
+    {
+      "request": "купить usdt по курсу",
+      "wordstat": 32,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 254
+    },
+    {
+      "request": "покупка usdt",
+      "wordstat": 85,
+      "commercial": 6,
+      "difficultyTop": 5,
+      "value": 251
+    },
+    {
+      "request": "где купить usdt",
+      "wordstat": 78,
+      "commercial": 3,
+      "difficultyTop": 6,
+      "value": 136
+    },
+    {
+      "request": "usdt где купить",
+      "wordstat": 29,
+      "commercial": 5,
+      "difficultyTop": 6,
+      "value": 114
+    }
+  ],
+  "криптообменник сочи": [
+    {
+      "request": "криптообменник сочи",
+      "wordstat": 38,
+      "commercial": 3,
+      "difficultyTop": 3,
+      "value": 337
+    },
+    {
+      "request": "криптообменник в сочи",
+      "wordstat": 28,
+      "commercial": 3,
+      "difficultyTop": 3,
+      "value": 294
+    }
+  ],
+  "курс биткоина к евро": [
+    {
+      "request": "bitcoin euro",
+      "wordstat": 75,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 251
+    },
+    {
+      "request": "курс биткоина к евро",
+      "wordstat": 188,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 245
+    },
+    {
+      "request": "цена биткоина на сегодня в евро",
+      "wordstat": 87,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 160
+    },
+    {
+      "request": "курс биткоина к евро сегодня",
+      "wordstat": 61,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 159
+    },
+    {
+      "request": "курс биткоина к евро на сегодня",
+      "wordstat": 59,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 147
+    }
+  ],
+  "обмен usdt": [
+    {
+      "request": "обмен usdt",
+      "wordstat": 185,
+      "commercial": 7,
+      "difficultyTop": 4,
+      "value": 485
+    },
+    {
+      "request": "usdt обменник",
+      "wordstat": 49,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 219
+    },
+    {
+      "request": "обменники usdt",
+      "wordstat": 46,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 209
+    },
+    {
+      "request": "обменник usdt",
+      "wordstat": 160,
+      "commercial": 7,
+      "difficultyTop": 6,
+      "value": 189
+    },
+    {
+      "request": "криптообменник usdt",
+      "wordstat": 33,
+      "commercial": 7,
+      "difficultyTop": 6,
+      "value": 110
+    }
+  ],
+  "курс доллара к usdt": [
+    {
+      "request": "usd usdt",
+      "wordstat": 51,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 284
+    },
+    {
+      "request": "курс доллара к usdt",
+      "wordstat": 95,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 227
+    },
+    {
+      "request": "доллар к usdt",
+      "wordstat": 29,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 208
+    },
+    {
+      "request": "курс доллара к usdt на сегодня",
+      "wordstat": 45,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 145
+    }
+  ],
+  "криптообменник воронеж": [
+    {
+      "request": "криптообменник воронеж",
+      "wordstat": 90,
+      "commercial": 5,
+      "difficultyTop": 4,
+      "value": 269
+    },
+    {
+      "request": "обмен криптовалюты воронеж",
+      "wordstat": 28,
+      "commercial": 6,
+      "difficultyTop": 4,
+      "value": 188
+    },
+    {
+      "request": "криптообменники в воронеже",
+      "wordstat": 24,
+      "commercial": 6,
+      "difficultyTop": 4,
+      "value": 181
+    }
+  ],
+  "обмен рублей на криптовалюту": [
+    {
+      "request": "обменять рубли на крипту",
+      "wordstat": 26,
+      "commercial": 10,
+      "difficultyTop": 3,
+      "value": 322
+    },
+    {
+      "request": "обменник рублей на крипту",
+      "wordstat": 23,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 295
+    },
+    {
+      "request": "рубли в крипту",
+      "wordstat": 24,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 284
+    },
+    {
+      "request": "обмен рублей на криптовалюту",
+      "wordstat": 39,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 212
+    }
+  ],
+  "криптообменник уфа": [
+    {
+      "request": "криптообменник уфа",
+      "wordstat": 133,
+      "commercial": 4,
+      "difficultyTop": 2,
+      "value": 705
+    },
+    {
+      "request": "криптообменники в уфе",
+      "wordstat": 41,
+      "commercial": 3,
+      "difficultyTop": 3,
+      "value": 324
+    },
+    {
+      "request": "обмен криптовалюты уфа",
+      "wordstat": 25,
+      "commercial": 7,
+      "difficultyTop": 3,
+      "value": 310
+    },
+    {
+      "request": "крипто обменник уфа",
+      "wordstat": 20,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 308
+    },
+    {
+      "request": "обменник криптовалют уфа",
+      "wordstat": 23,
+      "commercial": 4,
+      "difficultyTop": 3,
+      "value": 264
+    }
+  ],
+  "криптообменник новосибирск": [
+    {
+      "request": "криптообменники в новосибирске",
+      "wordstat": 35,
+      "commercial": 4,
+      "difficultyTop": 4,
+      "value": 172
+    },
+    {
+      "request": "криптообменник новосибирск",
+      "wordstat": 114,
+      "commercial": 4,
+      "difficultyTop": 5,
+      "value": 166
+    },
+    {
+      "request": "обмен криптовалюты новосибирск",
+      "wordstat": 28,
+      "commercial": 3,
+      "difficultyTop": 4,
+      "value": 157
+    },
+    {
+      "request": "криптообменник новосибирск адреса",
+      "wordstat": 34,
+      "commercial": 4,
+      "difficultyTop": 5,
+      "value": 107
+    }
+  ],
+  "купить usdt краснодар": [
+    {
+      "request": "купить usdt краснодар",
+      "wordstat": 20,
+      "commercial": 6,
+      "difficultyTop": 4,
+      "value": 195
+    }
+  ],
+  "обменник лайткоин": [
+    {
+      "request": "обменник лайткоин",
+      "wordstat": 33,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 273
+    },
+    {
+      "request": "litecoin обменник",
+      "wordstat": 22,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 164
+    }
+  ],
+  "как купить биткоин": [
+    {
+      "request": "как купить биткоин",
+      "wordstat": 1397,
+      "commercial": 0,
+      "difficultyTop": 6,
+      "value": 184
+    },
+    {
+      "request": "где купить биткоин",
+      "wordstat": 327,
+      "commercial": 3,
+      "difficultyTop": 6,
+      "value": 163
+    },
+    {
+      "request": "как купить биткойн",
+      "wordstat": 195,
+      "commercial": 0,
+      "difficultyTop": 6,
+      "value": 135
+    },
+    {
+      "request": "как купить биткоины",
+      "wordstat": 127,
+      "commercial": 1,
+      "difficultyTop": 6,
+      "value": 125
+    },
+    {
+      "request": "где можно купить биткоин",
+      "wordstat": 130,
+      "commercial": 5,
+      "difficultyTop": 6,
+      "value": 123
+    },
+    {
+      "request": "где купить биткоины",
+      "wordstat": 88,
+      "commercial": 3,
+      "difficultyTop": 6,
+      "value": 123
+    },
+    {
+      "request": "биткоин как купить",
+      "wordstat": 83,
+      "commercial": 0,
+      "difficultyTop": 6,
+      "value": 114
+    }
+  ],
+  "моментальный обмен криптовалют": [
+    {
+      "request": "моментальный обмен криптовалют",
+      "wordstat": 22,
+      "commercial": 6,
+      "difficultyTop": 2,
+      "value": 357
+    }
+  ],
+  "обменник крипты на карту": [
+    {
+      "request": "обменник криптовалюты на карту",
+      "wordstat": 18,
+      "commercial": 8,
+      "difficultyTop": 1,
+      "value": 529
+    },
+    {
+      "request": "обменник крипты на карту",
+      "wordstat": 47,
+      "commercial": 7,
+      "difficultyTop": 2,
+      "value": 518
+    },
+    {
+      "request": "обменник криптовалют на рубли на карту",
+      "wordstat": 17,
+      "commercial": 9,
+      "difficultyTop": 2,
+      "value": 304
+    },
+    {
+      "request": "обменник криптовалют на карту",
+      "wordstat": 15,
+      "commercial": 4,
+      "difficultyTop": 3,
+      "value": 206
+    }
+  ],
+  "мониторинг обменников криптовалюты": [
+    {
+      "request": "мониторинг обменников криптовалюты",
+      "wordstat": 156,
+      "commercial": 5,
+      "difficultyTop": 4,
+      "value": 227
+    },
+    {
+      "request": "проверенные обменники криптовалюты",
+      "wordstat": 53,
+      "commercial": 3,
+      "difficultyTop": 5,
+      "value": 114
+    },
+    {
+      "request": "топ криптообменников",
+      "wordstat": 63,
+      "commercial": 3,
+      "difficultyTop": 6,
+      "value": 111
+    }
+  ],
+  "криптообменник севастополь": [
+    {
+      "request": "криптообменник севастополь",
+      "wordstat": 24,
+      "commercial": 8,
+      "difficultyTop": 2,
+      "value": 424
+    }
+  ],
+  "купить trx за рубли": [
+    {
+      "request": "купить trx за рубли",
+      "wordstat": 94,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 329
+    },
+    {
+      "request": "купить трон за рубли",
+      "wordstat": 53,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 289
+    },
+    {
+      "request": "купить трх за рубли",
+      "wordstat": 40,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 277
+    },
+    {
+      "request": "купить trx tron за рубли",
+      "wordstat": 28,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 220
+    },
+    {
+      "request": "купить tron за рубли",
+      "wordstat": 38,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 178
+    },
+    {
+      "request": "купить trx за рубли криптовалюта",
+      "wordstat": 40,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 134
+    }
+  ],
+  "криптообменник ижевск": [
+    {
+      "request": "обменник криптовалют ижевск",
+      "wordstat": 24,
+      "commercial": 6,
+      "difficultyTop": 2,
+      "value": 392
+    },
+    {
+      "request": "криптообменник ижевск",
+      "wordstat": 52,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 375
+    },
+    {
+      "request": "криптообменники в ижевске",
+      "wordstat": 18,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 254
+    }
+  ],
+  "как продать биткоины за рубли через сбербанк": [
+    {
+      "request": "обмен биткоин на сбербанк",
+      "wordstat": 19,
+      "commercial": 10,
+      "difficultyTop": 1,
+      "value": 637
+    },
+    {
+      "request": "продать биткоин за рубли сбербанк курс",
+      "wordstat": 21,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 149
+    },
+    {
+      "request": "продать биткоин за рубли сбербанк",
+      "wordstat": 30,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 122
+    }
+  ],
+  "перевод usdt": [
+    {
+      "request": "оплата usdt",
+      "wordstat": 43,
+      "commercial": 1,
+      "difficultyTop": 4,
+      "value": 286
+    },
+    {
+      "request": "перевод usdt",
+      "wordstat": 55,
+      "commercial": 3,
+      "difficultyTop": 5,
+      "value": 209
+    },
+    {
+      "request": "usdt перевод",
+      "wordstat": 40,
+      "commercial": 1,
+      "difficultyTop": 5,
+      "value": 181
+    }
+  ],
+  "криптообменник в ставрополе": [
+    {
+      "request": "криптообменник в ставрополе",
+      "wordstat": 38,
+      "commercial": 7,
+      "difficultyTop": 3,
+      "value": 306
+    },
+    {
+      "request": "крипто обменник ставрополь",
+      "wordstat": 20,
+      "commercial": 7,
+      "difficultyTop": 3,
+      "value": 262
+    }
+  ],
+  "купить usdt за рубли": [
+    {
+      "request": "usdt купить за рубли",
+      "wordstat": 92,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 208
+    },
+    {
+      "request": "купить usdt за рубли",
+      "wordstat": 665,
+      "commercial": 7,
+      "difficultyTop": 6,
+      "value": 192
+    },
+    {
+      "request": "покупка usdt за рубли",
+      "wordstat": 78,
+      "commercial": 6,
+      "difficultyTop": 5,
+      "value": 185
+    },
+    {
+      "request": "купить юсдт за рубли",
+      "wordstat": 33,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 163
+    },
+    {
+      "request": "купить usdt за рубли обменник",
+      "wordstat": 41,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 134
+    },
+    {
+      "request": "где купить usdt за рубли",
+      "wordstat": 58,
+      "commercial": 6,
+      "difficultyTop": 6,
+      "value": 107
+    }
+  ],
+  "криптообменник ярославль": [
+    {
+      "request": "криптообменник ярославль",
+      "wordstat": 57,
+      "commercial": 8,
+      "difficultyTop": 2,
+      "value": 557
+    },
+    {
+      "request": "крипто обменник ярославль",
+      "wordstat": 25,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 279
+    },
+    {
+      "request": "обменник криптовалют ярославль",
+      "wordstat": 22,
+      "commercial": 7,
+      "difficultyTop": 3,
+      "value": 246
+    }
+  ],
+  "криптообменники в калининграде": [
+    {
+      "request": "крипто обменник калининград",
+      "wordstat": 26,
+      "commercial": 7,
+      "difficultyTop": 3,
+      "value": 276
+    },
+    {
+      "request": "криптообменник калининград",
+      "wordstat": 19,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 251
+    },
+    {
+      "request": "криптообменники в калининграде",
+      "wordstat": 49,
+      "commercial": 4,
+      "difficultyTop": 4,
+      "value": 187
+    }
+  ],
+  "купить эфир": [
+    {
+      "request": "купить эфир",
+      "wordstat": 128,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 307
+    },
+    {
+      "request": "купить eth",
+      "wordstat": 38,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 243
+    },
+    {
+      "request": "купить эфириум",
+      "wordstat": 59,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 227
+    }
+  ],
+  "btc usdt": [
+    {
+      "request": "btc usdt",
+      "wordstat": 2111,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 540
+    },
+    {
+      "request": "btc to usdt",
+      "wordstat": 241,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 345
+    },
+    {
+      "request": "курс btc к usdt",
+      "wordstat": 506,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 330
+    },
+    {
+      "request": "курс биткоина к usdt",
+      "wordstat": 1684,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 327
+    },
+    {
+      "request": "bitcoin usdt",
+      "wordstat": 180,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 299
+    },
+    {
+      "request": "биткоин usdt",
+      "wordstat": 103,
+      "commercial": 5,
+      "difficultyTop": 5,
+      "value": 254
+    },
+    {
+      "request": "курс btc usdt",
+      "wordstat": 53,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 224
+    },
+    {
+      "request": "курс биткоина usdt",
+      "wordstat": 75,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 211
+    },
+    {
+      "request": "btc usdt курс",
+      "wordstat": 168,
+      "commercial": 6,
+      "difficultyTop": 6,
+      "value": 186
+    },
+    {
+      "request": "btc в usdt",
+      "wordstat": 68,
+      "commercial": 8,
+      "difficultyTop": 6,
+      "value": 183
+    },
+    {
+      "request": "bitcoin курс к usdt",
+      "wordstat": 47,
+      "commercial": 5,
+      "difficultyTop": 5,
+      "value": 169
+    },
+    {
+      "request": "btc usdt цена",
+      "wordstat": 456,
+      "commercial": 10,
+      "difficultyTop": 7,
+      "value": 164
+    },
+    {
+      "request": "курс биткоина к usdt на сегодня",
+      "wordstat": 110,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 164
+    },
+    {
+      "request": "биткоин в usdt",
+      "wordstat": 44,
+      "commercial": 8,
+      "difficultyTop": 6,
+      "value": 142
+    },
+    {
+      "request": "bitcoin в usdt",
+      "wordstat": 38,
+      "commercial": 8,
+      "difficultyTop": 6,
+      "value": 137
+    }
+  ],
+  "usdt в евро": [
+    {
+      "request": "usdt to eur",
+      "wordstat": 37,
+      "commercial": 7,
+      "difficultyTop": 4,
+      "value": 329
+    },
+    {
+      "request": "usdt к евро",
+      "wordstat": 108,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 297
+    },
+    {
+      "request": "usdt euro",
+      "wordstat": 43,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 255
+    },
+    {
+      "request": "usdt в евро",
+      "wordstat": 264,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 235
+    },
+    {
+      "request": "usdt to euro",
+      "wordstat": 36,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 216
+    },
+    {
+      "request": "курс usdt к евро",
+      "wordstat": 249,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 200
+    },
+    {
+      "request": "курс юсдт к евро",
+      "wordstat": 72,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 153
+    },
+    {
+      "request": "курс usdt к евро на сегодня",
+      "wordstat": 38,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 100
+    }
+  ],
+  "криптообменник пермь": [
+    {
+      "request": "криптообменник пермь",
+      "wordstat": 53,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 387
+    },
+    {
+      "request": "обмен криптовалюты пермь",
+      "wordstat": 21,
+      "commercial": 6,
+      "difficultyTop": 4,
+      "value": 183
+    }
+  ],
+  "купить usdt дешево": [
+    {
+      "request": "купить usdt дешево",
+      "wordstat": 41,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 183
+    },
+    {
+      "request": "где купить usdt дешево за рубли",
+      "wordstat": 32,
+      "commercial": 6,
+      "difficultyTop": 5,
+      "value": 117
+    }
+  ],
+  "купить ltc за рубли": [
+    {
+      "request": "купить ltc за рубли",
+      "wordstat": 64,
+      "commercial": 10,
+      "difficultyTop": 3,
+      "value": 463
+    },
+    {
+      "request": "купить litecoin за рубли",
+      "wordstat": 24,
+      "commercial": 10,
+      "difficultyTop": 3,
+      "value": 315
+    },
+    {
+      "request": "купить лайткоин за рубли",
+      "wordstat": 21,
+      "commercial": 10,
+      "difficultyTop": 3,
+      "value": 303
+    },
+    {
+      "request": "обмен рубли на лайткоин",
+      "wordstat": 17,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 195
+    }
+  ],
+  "tether кошелек": [
+    {
+      "request": "tether кошелек",
+      "wordstat": 204,
+      "commercial": 8,
+      "difficultyTop": 4,
+      "value": 437
+    }
+  ],
+  "курс криптовалют": [
+    {
+      "request": "курс криптовалют",
+      "wordstat": 6966,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 317
+    },
+    {
+      "request": "курс криптовалюты",
+      "wordstat": 2462,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 265
+    },
+    {
+      "request": "курс крипты",
+      "wordstat": 587,
+      "commercial": 7,
+      "difficultyTop": 6,
+      "value": 254
+    },
+    {
+      "request": "цена крипты",
+      "wordstat": 109,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 199
+    },
+    {
+      "request": "цена криптовалюты",
+      "wordstat": 174,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 182
+    },
+    {
+      "request": "курс криптовалют на сегодня",
+      "wordstat": 972,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 178
+    },
+    {
+      "request": "криптовалюта курс",
+      "wordstat": 928,
+      "commercial": 9,
+      "difficultyTop": 7,
+      "value": 156
+    },
+    {
+      "request": "стоимость криптовалют",
+      "wordstat": 127,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 152
+    },
+    {
+      "request": "криптовалюта цена",
+      "wordstat": 706,
+      "commercial": 9,
+      "difficultyTop": 7,
+      "value": 150
+    },
+    {
+      "request": "цена криптовалют",
+      "wordstat": 66,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 150
+    },
+    {
+      "request": "стоимость криптовалюты",
+      "wordstat": 141,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 147
+    },
+    {
+      "request": "курс криптовалют к доллару",
+      "wordstat": 151,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 138
+    },
+    {
+      "request": "курс криптовалют сегодня",
+      "wordstat": 133,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 138
+    },
+    {
+      "request": "курс криптовалюты на сегодня",
+      "wordstat": 223,
+      "commercial": 8,
+      "difficultyTop": 6,
+      "value": 135
+    },
+    {
+      "request": "цена криптовалюты на сегодня",
+      "wordstat": 155,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 129
+    }
+  ],
+  "где купить биткоин дешевле всего": [
+    {
+      "request": "где купить биткоин дешевле всего",
+      "wordstat": 45,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 135
+    }
+  ],
+  "курс usdt trc20 к рублю": [
+    {
+      "request": "usdt trc20 в рубли",
+      "wordstat": 36,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 271
+    },
+    {
+      "request": "usdt trc20 курс в рублях",
+      "wordstat": 26,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 145
+    },
+    {
+      "request": "курс usdt trc20 к рублю",
+      "wordstat": 64,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 122
+    },
+    {
+      "request": "курс usdt trc20 к рублю на сегодня",
+      "wordstat": 26,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 112
+    }
+  ],
+  "eth usdt": [
+    {
+      "request": "eth usdt",
+      "wordstat": 1413,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 499
+    },
+    {
+      "request": "ethusdt",
+      "wordstat": 510,
+      "commercial": 6,
+      "difficultyTop": 5,
+      "value": 426
+    },
+    {
+      "request": "eth to usdt",
+      "wordstat": 42,
+      "commercial": 8,
+      "difficultyTop": 4,
+      "value": 349
+    },
+    {
+      "request": "курс eth к usdt",
+      "wordstat": 314,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 313
+    },
+    {
+      "request": "курс эфириума к usdt",
+      "wordstat": 133,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 230
+    },
+    {
+      "request": "eth usdt цена",
+      "wordstat": 47,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 229
+    },
+    {
+      "request": "eth в usdt",
+      "wordstat": 185,
+      "commercial": 8,
+      "difficultyTop": 6,
+      "value": 224
+    },
+    {
+      "request": "eth usdt курс",
+      "wordstat": 28,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 195
+    },
+    {
+      "request": "ethereum курс usdt",
+      "wordstat": 46,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 193
+    },
+    {
+      "request": "курс eth usdt",
+      "wordstat": 52,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 157
+    },
+    {
+      "request": "курс эфира к юсдт",
+      "wordstat": 89,
+      "commercial": 7,
+      "difficultyTop": 6,
+      "value": 147
+    },
+    {
+      "request": "эфир юсдт",
+      "wordstat": 27,
+      "commercial": 7,
+      "difficultyTop": 6,
+      "value": 147
+    }
+  ],
+  "sol usdt": [
+    {
+      "request": "solana usdt",
+      "wordstat": 279,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 528
+    },
+    {
+      "request": "solusdt",
+      "wordstat": 1058,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 514
+    },
+    {
+      "request": "sol usdt",
+      "wordstat": 1284,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 492
+    },
+    {
+      "request": "курс sol к usdt",
+      "wordstat": 42,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 310
+    },
+    {
+      "request": "sol usdt курс",
+      "wordstat": 153,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 295
+    },
+    {
+      "request": "solana в usdt",
+      "wordstat": 24,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 286
+    },
+    {
+      "request": "sol to usdt",
+      "wordstat": 78,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 277
+    },
+    {
+      "request": "курс solana к usdt",
+      "wordstat": 138,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 239
+    },
+    {
+      "request": "курс sol usdt",
+      "wordstat": 57,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 234
+    },
+    {
+      "request": "курс солана к usdt",
+      "wordstat": 87,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 223
+    },
+    {
+      "request": "sol в usdt",
+      "wordstat": 28,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 219
+    }
+  ],
+  "криптообменник омск": [
+    {
+      "request": "криптообменник омск",
+      "wordstat": 29,
+      "commercial": 5,
+      "difficultyTop": 3,
+      "value": 333
+    },
+    {
+      "request": "криптообменник в омске",
+      "wordstat": 23,
+      "commercial": 4,
+      "difficultyTop": 3,
+      "value": 278
+    }
+  ],
+  "купить криптовалюту": [
+    {
+      "request": "купить криптовалюту",
+      "wordstat": 880,
+      "commercial": 7,
+      "difficultyTop": 4,
+      "value": 459
+    },
+    {
+      "request": "купить крипту",
+      "wordstat": 602,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 372
+    },
+    {
+      "request": "продажа крипты",
+      "wordstat": 29,
+      "commercial": 6,
+      "difficultyTop": 4,
+      "value": 269
+    },
+    {
+      "request": "покупка крипты",
+      "wordstat": 86,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 241
+    },
+    {
+      "request": "продажа криптовалюты",
+      "wordstat": 71,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 191
+    },
+    {
+      "request": "криптовалюта купить",
+      "wordstat": 262,
+      "commercial": 6,
+      "difficultyTop": 6,
+      "value": 166
+    },
+    {
+      "request": "покупка криптовалюты",
+      "wordstat": 197,
+      "commercial": 4,
+      "difficultyTop": 6,
+      "value": 145
+    }
+  ],
+  "можно ли купить биткоин в россии": [
+    {
+      "request": "можно ли купить биткоин в россии",
+      "wordstat": 55,
+      "commercial": 0,
+      "difficultyTop": 5,
+      "value": 109
+    }
+  ],
+  "курс евро к usdt": [
+    {
+      "request": "евро к usdt",
+      "wordstat": 100,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 300
+    },
+    {
+      "request": "конвертация из евро в юсдт",
+      "wordstat": 106,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 287
+    },
+    {
+      "request": "конвертер евро к usdt",
+      "wordstat": 57,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 285
+    },
+    {
+      "request": "курс евро к usdt",
+      "wordstat": 184,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 283
+    },
+    {
+      "request": "евро в usdt",
+      "wordstat": 178,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 225
+    },
+    {
+      "request": "eur usdt",
+      "wordstat": 62,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 199
+    },
+    {
+      "request": "евро в юсдт",
+      "wordstat": 83,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 193
+    },
+    {
+      "request": "евро usdt",
+      "wordstat": 44,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 181
+    },
+    {
+      "request": "евро к юсдт",
+      "wordstat": 46,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 169
+    },
+    {
+      "request": "euro usdt",
+      "wordstat": 32,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 167
+    },
+    {
+      "request": "eur в usdt",
+      "wordstat": 36,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 165
+    },
+    {
+      "request": "eur to usdt",
+      "wordstat": 46,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 164
+    },
+    {
+      "request": "курс евро usdt",
+      "wordstat": 56,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 159
+    },
+    {
+      "request": "курс евро к юсдт",
+      "wordstat": 61,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 151
+    }
+  ],
+  "что можно купить за криптовалюту": [
+    {
+      "request": "что можно купить на криптовалюту",
+      "wordstat": 26,
+      "commercial": 0,
+      "difficultyTop": 3,
+      "value": 200
+    },
+    {
+      "request": "купить за криптовалюту",
+      "wordstat": 24,
+      "commercial": 3,
+      "difficultyTop": 4,
+      "value": 183
+    },
+    {
+      "request": "что можно купить за криптовалюту",
+      "wordstat": 92,
+      "commercial": 0,
+      "difficultyTop": 4,
+      "value": 182
+    },
+    {
+      "request": "что можно купить за крипту",
+      "wordstat": 23,
+      "commercial": 0,
+      "difficultyTop": 4,
+      "value": 149
+    }
+  ],
+  "обменять usdt на рубли в москве": [
+    {
+      "request": "обменять usdt на рубли в москве",
+      "wordstat": 26,
+      "commercial": 6,
+      "difficultyTop": 5,
+      "value": 110
+    }
+  ],
+  "криптообменник тбилиси": [
+    {
+      "request": "криптообменник тбилиси",
+      "wordstat": 37,
+      "commercial": 2,
+      "difficultyTop": 4,
+      "value": 200
+    }
+  ],
+  "крипто обменник без верификации": [
+    {
+      "request": "крипто обменник без верификации",
+      "wordstat": 41,
+      "commercial": 0,
+      "difficultyTop": 5,
+      "value": 104
+    }
+  ],
+  "криптообменник чебоксары": [
+    {
+      "request": "криптообменник чебоксары",
+      "wordstat": 49,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 341
+    }
+  ],
+  "купить usdt за рубли в москве": [
+    {
+      "request": "обмен usdt москва",
+      "wordstat": 40,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 183
+    },
+    {
+      "request": "купить usdt в москве",
+      "wordstat": 43,
+      "commercial": 5,
+      "difficultyTop": 6,
+      "value": 108
+    },
+    {
+      "request": "купить usdt москва",
+      "wordstat": 29,
+      "commercial": 4,
+      "difficultyTop": 6,
+      "value": 100
+    }
+  ],
+  "курс биткоина кэш": [
+    {
+      "request": "курс биткоина кэш",
+      "wordstat": 115,
+      "commercial": 6,
+      "difficultyTop": 5,
+      "value": 225
+    },
+    {
+      "request": "курс биткоин кэш",
+      "wordstat": 92,
+      "commercial": 5,
+      "difficultyTop": 5,
+      "value": 216
+    },
+    {
+      "request": "биткоин кэш курс к доллару",
+      "wordstat": 98,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 180
+    },
+    {
+      "request": "биткоин кэш курс",
+      "wordstat": 36,
+      "commercial": 5,
+      "difficultyTop": 5,
+      "value": 174
+    },
+    {
+      "request": "биткоин кэш цена",
+      "wordstat": 24,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 173
+    },
+    {
+      "request": "bitcoin cash курс",
+      "wordstat": 27,
+      "commercial": 6,
+      "difficultyTop": 5,
+      "value": 160
+    },
+    {
+      "request": "курс биткоин кэш к доллару",
+      "wordstat": 22,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 125
+    }
+  ],
+  "купить usdt за рубли казань": [
+    {
+      "request": "купить usdt за рубли казань",
+      "wordstat": 47,
+      "commercial": 6,
+      "difficultyTop": 4,
+      "value": 210
+    }
+  ],
+  "курс криптовалют к рублю": [
+    {
+      "request": "крипта в рубли",
+      "wordstat": 49,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 229
+    },
+    {
+      "request": "криптовалюта в рублях",
+      "wordstat": 45,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 176
+    },
+    {
+      "request": "курс криптовалют к рублю",
+      "wordstat": 218,
+      "commercial": 8,
+      "difficultyTop": 6,
+      "value": 148
+    },
+    {
+      "request": "крипта в рублях",
+      "wordstat": 43,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 144
+    },
+    {
+      "request": "криптовалюта курс к рублю",
+      "wordstat": 132,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 138
+    },
+    {
+      "request": "криптовалюта курс к рублю на сегодня",
+      "wordstat": 41,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 122
+    },
+    {
+      "request": "курс криптовалюты к рублю",
+      "wordstat": 45,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 106
+    }
+  ],
+  "обменник криптовалют в россии": [
+    {
+      "request": "обменник криптовалют в россии",
+      "wordstat": 155,
+      "commercial": 4,
+      "difficultyTop": 4,
+      "value": 245
+    },
+    {
+      "request": "обмен криптовалюты в россии",
+      "wordstat": 35,
+      "commercial": 3,
+      "difficultyTop": 5,
+      "value": 120
+    },
+    {
+      "request": "криптообменники в россии",
+      "wordstat": 150,
+      "commercial": 1,
+      "difficultyTop": 6,
+      "value": 112
+    }
+  ],
+  "купить эфириум за рубли": [
+    {
+      "request": "купить эфириум за рубли",
+      "wordstat": 45,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 249
+    },
+    {
+      "request": "купить эфир за рубли криптовалюта",
+      "wordstat": 20,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 158
+    }
+  ],
+  "криптообменник хабаровск": [
+    {
+      "request": "криптообменник хабаровск",
+      "wordstat": 31,
+      "commercial": 7,
+      "difficultyTop": 3,
+      "value": 312
+    }
+  ],
+  "купить ltc": [
+    {
+      "request": "купить лайткоин",
+      "wordstat": 50,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 324
+    },
+    {
+      "request": "купить ltc",
+      "wordstat": 76,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 287
+    },
+    {
+      "request": "купить litecoin",
+      "wordstat": 31,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 187
+    }
+  ],
+  "криптообменник тольятти": [
+    {
+      "request": "криптообменник тольятти",
+      "wordstat": 20,
+      "commercial": 7,
+      "difficultyTop": 4,
+      "value": 190
+    }
+  ],
+  "продать usdt": [
+    {
+      "request": "продать usdt",
+      "wordstat": 113,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 274
+    },
+    {
+      "request": "продажа usdt",
+      "wordstat": 26,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 193
+    },
+    {
+      "request": "продать юсдт",
+      "wordstat": 21,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 182
+    }
+  ],
+  "как купить криптовалюту в беларуси": [
+    {
+      "request": "как купить криптовалюту в беларуси с карточки",
+      "wordstat": 20,
+      "commercial": 1,
+      "difficultyTop": 4,
+      "value": 101
+    },
+    {
+      "request": "как купить криптовалюту в беларуси",
+      "wordstat": 46,
+      "commercial": 0,
+      "difficultyTop": 5,
+      "value": 100
+    }
+  ],
+  "криптообменник москва сити": [
+    {
+      "request": "криптообменник москва сити",
+      "wordstat": 194,
+      "commercial": 1,
+      "difficultyTop": 6,
+      "value": 112
+    }
+  ],
+  "криптообменник саратов": [
+    {
+      "request": "криптообменник саратов",
+      "wordstat": 43,
+      "commercial": 3,
+      "difficultyTop": 4,
+      "value": 214
+    },
+    {
+      "request": "криптообменник в саратове",
+      "wordstat": 21,
+      "commercial": 3,
+      "difficultyTop": 4,
+      "value": 163
+    }
+  ],
+  "купить биткоин за рубли тинькофф": [
+    {
+      "request": "купить биткоин за рубли тинькофф",
+      "wordstat": 32,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 117
+    }
+  ],
+  "перевести биткоин в доллары": [
+    {
+      "request": "перевести биткоин в доллары",
+      "wordstat": 30,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 140
+    }
+  ],
+  "как вывести деньги с крипто бота в тг на карту": [
+    {
+      "request": "как вывести деньги с крипто бота в тг на карту",
+      "wordstat": 114,
+      "commercial": 0,
+      "difficultyTop": 5,
+      "value": 98
+    }
+  ],
+  "фиат в криптовалюте что это": [
+    {
+      "request": "фиат это в криптовалюте",
+      "wordstat": 120,
+      "commercial": 0,
+      "difficultyTop": 3,
+      "value": 355
+    },
+    {
+      "request": "что такое фиат в криптовалюте",
+      "wordstat": 98,
+      "commercial": 0,
+      "difficultyTop": 3,
+      "value": 294
+    },
+    {
+      "request": "фиат в криптовалюте что это",
+      "wordstat": 125,
+      "commercial": 0,
+      "difficultyTop": 4,
+      "value": 217
+    },
+    {
+      "request": "что такое фиат в крипте",
+      "wordstat": 20,
+      "commercial": 0,
+      "difficultyTop": 4,
+      "value": 154
+    }
+  ],
+  "купить крипту в россии по карте": [
+    {
+      "request": "купить крипту в россии по карте",
+      "wordstat": 65,
+      "commercial": 5,
+      "difficultyTop": 4,
+      "value": 201
+    }
+  ],
+  "вывести биткоин на карту тинькофф": [
+    {
+      "request": "btc тинькофф",
+      "wordstat": 26,
+      "commercial": 8,
+      "difficultyTop": 2,
+      "value": 659
+    },
+    {
+      "request": "обменник биткоин на тинькофф",
+      "wordstat": 55,
+      "commercial": 10,
+      "difficultyTop": 3,
+      "value": 353
+    },
+    {
+      "request": "обмен bitcoin на тинькофф",
+      "wordstat": 36,
+      "commercial": 10,
+      "difficultyTop": 3,
+      "value": 342
+    },
+    {
+      "request": "вывести биткоин на карту тинькофф",
+      "wordstat": 75,
+      "commercial": 8,
+      "difficultyTop": 3,
+      "value": 323
+    }
+  ],
+  "usdt tron": [
+    {
+      "request": "usdt trx",
+      "wordstat": 66,
+      "commercial": 7,
+      "difficultyTop": 4,
+      "value": 427
+    },
+    {
+      "request": "usdt tron",
+      "wordstat": 100,
+      "commercial": 3,
+      "difficultyTop": 4,
+      "value": 399
+    }
+  ],
+  "trx usdt": [
+    {
+      "request": "tron usdt",
+      "wordstat": 81,
+      "commercial": 6,
+      "difficultyTop": 4,
+      "value": 417
+    },
+    {
+      "request": "trx to usdt",
+      "wordstat": 60,
+      "commercial": 8,
+      "difficultyTop": 4,
+      "value": 380
+    },
+    {
+      "request": "trx usdt",
+      "wordstat": 415,
+      "commercial": 7,
+      "difficultyTop": 6,
+      "value": 272
+    },
+    {
+      "request": "курс trx к usdt",
+      "wordstat": 109,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 258
+    },
+    {
+      "request": "trx в usdt",
+      "wordstat": 36,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 234
+    },
+    {
+      "request": "trx usdt курс",
+      "wordstat": 51,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 157
+    },
+    {
+      "request": "trx к usdt",
+      "wordstat": 24,
+      "commercial": 7,
+      "difficultyTop": 6,
+      "value": 137
+    }
+  ],
+  "обменники usdt в самаре": [
+    {
+      "request": "обменники usdt в самаре",
+      "wordstat": 16,
+      "commercial": 7,
+      "difficultyTop": 2,
+      "value": 394
+    }
+  ],
+  "обмен usdt на наличные": [
+    {
+      "request": "обмен usdt на наличные",
+      "wordstat": 64,
+      "commercial": 4,
+      "difficultyTop": 3,
+      "value": 362
+    }
+  ],
+  "купить usdt trc20 за рубли": [
+    {
+      "request": "купить usdt trc20",
+      "wordstat": 63,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 478
+    },
+    {
+      "request": "usdt trc20 купить",
+      "wordstat": 33,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 408
+    },
+    {
+      "request": "купить usdt trc20 за рубли",
+      "wordstat": 118,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 192
+    }
+  ],
+  "криптообменник казахстан": [
+    {
+      "request": "криптообменник казахстан",
+      "wordstat": 18,
+      "commercial": 4,
+      "difficultyTop": 4,
+      "value": 165
+    }
+  ],
+  "как продать криптовалюту": [
+    {
+      "request": "как продать крипту",
+      "wordstat": 33,
+      "commercial": 0,
+      "difficultyTop": 6,
+      "value": 92
+    }
+  ],
+  "usdt и usdc в чем разница": [
+    {
+      "request": "usdt usdc",
+      "wordstat": 41,
+      "commercial": 1,
+      "difficultyTop": 5,
+      "value": 205
+    },
+    {
+      "request": "usdc usdt",
+      "wordstat": 39,
+      "commercial": 2,
+      "difficultyTop": 6,
+      "value": 140
+    },
+    {
+      "request": "usdc и usdt отличия",
+      "wordstat": 79,
+      "commercial": 0,
+      "difficultyTop": 6,
+      "value": 110
+    }
+  ],
+  "как купить trx": [
+    {
+      "request": "как купить trx",
+      "wordstat": 39,
+      "commercial": 3,
+      "difficultyTop": 5,
+      "value": 179
+    }
+  ],
+  "курс эфириума классик к рублю на сегодня": [
+    {
+      "request": "цена эфир классик в рублях",
+      "wordstat": 168,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 210
+    },
+    {
+      "request": "эфириум классик цена в рублях",
+      "wordstat": 123,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 185
+    },
+    {
+      "request": "курс эфир классик к рублю",
+      "wordstat": 74,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 183
+    },
+    {
+      "request": "курс эфира классик в рублях",
+      "wordstat": 21,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 126
+    },
+    {
+      "request": "курс эфириума классик к рублю на сегодня",
+      "wordstat": 288,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 116
+    }
+  ],
+  "купить криптовалюту за рубли": [
+    {
+      "request": "купить криптовалюту за рубли",
+      "wordstat": 349,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 228
+    },
+    {
+      "request": "купить крипту за рубли без комиссии дешево",
+      "wordstat": 30,
+      "commercial": 8,
+      "difficultyTop": 3,
+      "value": 218
+    },
+    {
+      "request": "купить крипту за рубли",
+      "wordstat": 118,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 212
+    },
+    {
+      "request": "криптовалюта купить за рубли цена",
+      "wordstat": 20,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 162
+    },
+    {
+      "request": "криптовалюта купить за рубли",
+      "wordstat": 63,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 160
+    }
+  ],
+  "обмен крипты в тайланде": [
+    {
+      "request": "обмен крипты в тайланде",
+      "wordstat": 16,
+      "commercial": 6,
+      "difficultyTop": 5,
+      "value": 116
+    }
+  ],
+  "криптовалютный кошелек с выводом на карту": [
+    {
+      "request": "кошелек для вывода криптовалюты на карту",
+      "wordstat": 18,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 184
+    },
+    {
+      "request": "криптовалютный кошелек с выводом на карту",
+      "wordstat": 60,
+      "commercial": 4,
+      "difficultyTop": 4,
+      "value": 158
+    },
+    {
+      "request": "криптокошелек с выводом на карту",
+      "wordstat": 25,
+      "commercial": 2,
+      "difficultyTop": 4,
+      "value": 142
+    },
+    {
+      "request": "крипто кошелек с выводом на карту",
+      "wordstat": 53,
+      "commercial": 3,
+      "difficultyTop": 5,
+      "value": 116
+    }
+  ],
+  "купить биткоин без регистрации": [
+    {
+      "request": "купить биткоин без регистрации",
+      "wordstat": 17,
+      "commercial": 8,
+      "difficultyTop": 4,
+      "value": 157
+    }
+  ],
+  "криптообменники в батуми": [
+    {
+      "request": "криптообменник батуми",
+      "wordstat": 21,
+      "commercial": 7,
+      "difficultyTop": 1,
+      "value": 675
+    },
+    {
+      "request": "криптообменники в батуми",
+      "wordstat": 32,
+      "commercial": 9,
+      "difficultyTop": 2,
+      "value": 495
+    },
+    {
+      "request": "обмен криптовалюты батуми",
+      "wordstat": 20,
+      "commercial": 10,
+      "difficultyTop": 2,
+      "value": 434
+    }
+  ],
+  "криптообменник киров": [
+    {
+      "request": "криптообменник киров",
+      "wordstat": 19,
+      "commercial": 7,
+      "difficultyTop": 3,
+      "value": 303
+    }
+  ],
+  "как с криптокошелька перевести на карту сбербанка": [
+    {
+      "request": "как с криптокошелька перевести на карту сбербанка",
+      "wordstat": 41,
+      "commercial": 0,
+      "difficultyTop": 6,
+      "value": 50
+    }
+  ],
+  "криптообменник сургут": [
+    {
+      "request": "криптообменник сургут",
+      "wordstat": 16,
+      "commercial": 8,
+      "difficultyTop": 1,
+      "value": 638
+    }
+  ],
+  "trx это trc20 или нет": [
+    {
+      "request": "trx это trc20 или нет",
+      "wordstat": 45,
+      "commercial": 0,
+      "difficultyTop": 5,
+      "value": 136
+    }
+  ],
+  "usdt транзакции": [
+    {
+      "request": "usdt транзакции",
+      "wordstat": 16,
+      "commercial": 1,
+      "difficultyTop": 2,
+      "value": 419
+    },
+    {
+      "request": "транзакции usdt",
+      "wordstat": 14,
+      "commercial": 2,
+      "difficultyTop": 3,
+      "value": 278
+    },
+    {
+      "request": "посмотреть транзакции usdt",
+      "wordstat": 15,
+      "commercial": 2,
+      "difficultyTop": 3,
+      "value": 208
+    }
+  ],
+  "обменник тинькофф на биткоин": [
+    {
+      "request": "обменник тинькофф на биткоин",
+      "wordstat": 30,
+      "commercial": 6,
+      "difficultyTop": 2,
+      "value": 408
+    }
+  ],
+  "офлайн обменники криптовалют в москве": [
+    {
+      "request": "офлайн обменники криптовалют в москве",
+      "wordstat": 91,
+      "commercial": 1,
+      "difficultyTop": 6,
+      "value": 76
+    }
+  ],
+  "обменять биткоин на рубли на карту": [
+    {
+      "request": "обменять биткоин на рубли на карту",
+      "wordstat": 18,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 207
+    }
+  ],
+  "где лучше покупать криптовалюту": [
+    {
+      "request": "где лучше покупать криптовалюту",
+      "wordstat": 27,
+      "commercial": 1,
+      "difficultyTop": 6,
+      "value": 64
+    }
+  ],
+  "налог на криптовалюту в россии": [
+    {
+      "request": "налог на криптовалюту в россии",
+      "wordstat": 126,
+      "commercial": 2,
+      "difficultyTop": 6,
+      "value": 97
+    }
+  ],
+  "криптообменник екатеринбург usdt": [
+    {
+      "request": "купить usdt екатеринбург",
+      "wordstat": 20,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 268
+    },
+    {
+      "request": "криптообменник екатеринбург usdt",
+      "wordstat": 23,
+      "commercial": 5,
+      "difficultyTop": 5,
+      "value": 101
+    }
+  ],
+  "usdc в рубли": [
+    {
+      "request": "usdc в рубли",
+      "wordstat": 74,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 404
+    },
+    {
+      "request": "usdc к рублю",
+      "wordstat": 36,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 340
+    },
+    {
+      "request": "курс usdc к рублю",
+      "wordstat": 58,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 322
+    },
+    {
+      "request": "usdc курс к рублю",
+      "wordstat": 16,
+      "commercial": 10,
+      "difficultyTop": 5,
+      "value": 153
+    }
+  ],
+  "комиссия за перевод биткоина": [
+    {
+      "request": "комиссия сети биткоин",
+      "wordstat": 29,
+      "commercial": 3,
+      "difficultyTop": 6,
+      "value": 89
+    }
+  ],
+  "криптообменник барнаул": [
+    {
+      "request": "криптообменник барнаул",
+      "wordstat": 45,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 352
+    }
+  ],
+  "litecoin кошелек официальный сайт": [
+    {
+      "request": "ltc кошелек официальный сайт",
+      "wordstat": 20,
+      "commercial": 1,
+      "difficultyTop": 2,
+      "value": 313
+    },
+    {
+      "request": "litecoin кошелек официальный сайт",
+      "wordstat": 27,
+      "commercial": 3,
+      "difficultyTop": 3,
+      "value": 218
+    },
+    {
+      "request": "litecoin кошелек официальный",
+      "wordstat": 18,
+      "commercial": 2,
+      "difficultyTop": 3,
+      "value": 210
+    }
+  ],
+  "eth btc": [
+    {
+      "request": "eth btc",
+      "wordstat": 440,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 451
+    },
+    {
+      "request": "эфир биткоин",
+      "wordstat": 141,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 301
+    },
+    {
+      "request": "eth к btc",
+      "wordstat": 23,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 216
+    },
+    {
+      "request": "курс eth к btc",
+      "wordstat": 35,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 200
+    },
+    {
+      "request": "курс эфира к биткоину",
+      "wordstat": 22,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 146
+    },
+    {
+      "request": "эфириум к биткоину",
+      "wordstat": 67,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 141
+    },
+    {
+      "request": "курс эфириума к биткоину",
+      "wordstat": 76,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 123
+    }
+  ],
+  "ltc usdt": [
+    {
+      "request": "ltc usdt",
+      "wordstat": 382,
+      "commercial": 6,
+      "difficultyTop": 5,
+      "value": 390
+    },
+    {
+      "request": "курс ltc to usdt",
+      "wordstat": 182,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 268
+    },
+    {
+      "request": "ltc в usdt",
+      "wordstat": 79,
+      "commercial": 6,
+      "difficultyTop": 5,
+      "value": 267
+    },
+    {
+      "request": "ltc to usdt",
+      "wordstat": 50,
+      "commercial": 5,
+      "difficultyTop": 5,
+      "value": 225
+    },
+    {
+      "request": "ltc usdt курс",
+      "wordstat": 43,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 218
+    },
+    {
+      "request": "litecoin курс к usdt",
+      "wordstat": 60,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 194
+    },
+    {
+      "request": "курс ltc в usdt",
+      "wordstat": 210,
+      "commercial": 7,
+      "difficultyTop": 6,
+      "value": 186
+    },
+    {
+      "request": "курс ltc к usdt",
+      "wordstat": 101,
+      "commercial": 8,
+      "difficultyTop": 6,
+      "value": 166
+    },
+    {
+      "request": "курс ltc usdt",
+      "wordstat": 21,
+      "commercial": 8,
+      "difficultyTop": 6,
+      "value": 121
+    }
+  ],
+  "адреса криптообменников в москве": [
+    {
+      "request": "криптообменники в москве адреса",
+      "wordstat": 19,
+      "commercial": 4,
+      "difficultyTop": 4,
+      "value": 142
+    }
+  ],
+  "обмен trx на рубли": [
+    {
+      "request": "обмен trx на рубли",
+      "wordstat": 27,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 258
+    }
+  ],
+  "usdt btc": [
+    {
+      "request": "usdt btc",
+      "wordstat": 82,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 218
+    },
+    {
+      "request": "usdt в btc",
+      "wordstat": 29,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 215
+    },
+    {
+      "request": "usdt в btc курс",
+      "wordstat": 40,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 205
+    },
+    {
+      "request": "usdt в биткоин",
+      "wordstat": 23,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 178
+    },
+    {
+      "request": "курс usdt к btc",
+      "wordstat": 24,
+      "commercial": 8,
+      "difficultyTop": 6,
+      "value": 117
+    }
+  ],
+  "криптообменник ульяновск": [
+    {
+      "request": "криптообменник ульяновск",
+      "wordstat": 38,
+      "commercial": 8,
+      "difficultyTop": 3,
+      "value": 338
+    },
+    {
+      "request": "обменник криптовалют ульяновск",
+      "wordstat": 14,
+      "commercial": 8,
+      "difficultyTop": 3,
+      "value": 220
+    }
+  ],
+  "как работают криптообменники": [
+    {
+      "request": "криптообменник это",
+      "wordstat": 37,
+      "commercial": 0,
+      "difficultyTop": 5,
+      "value": 141
+    },
+    {
+      "request": "криптообменник что это",
+      "wordstat": 25,
+      "commercial": 0,
+      "difficultyTop": 5,
+      "value": 113
+    }
+  ],
+  "купить криптовалюту в москве": [
+    {
+      "request": "купить криптовалюту в москве",
+      "wordstat": 119,
+      "commercial": 5,
+      "difficultyTop": 5,
+      "value": 164
+    }
+  ],
+  "bitcoin cash": [
+    {
+      "request": "биткоин кэш",
+      "wordstat": 96,
+      "commercial": 3,
+      "difficultyTop": 5,
+      "value": 245
+    },
+    {
+      "request": "bitcoin cash",
+      "wordstat": 126,
+      "commercial": 0,
+      "difficultyTop": 5,
+      "value": 227
+    },
+    {
+      "request": "btc cash",
+      "wordstat": 18,
+      "commercial": 1,
+      "difficultyTop": 5,
+      "value": 171
+    },
+    {
+      "request": "bitcoin cash что это",
+      "wordstat": 18,
+      "commercial": 0,
+      "difficultyTop": 5,
+      "value": 109
+    }
+  ],
+  "как пополнить криптокошелек с карты тинькофф": [
+    {
+      "request": "как купить биткоин в тинькофф",
+      "wordstat": 15,
+      "commercial": 0,
+      "difficultyTop": 4,
+      "value": 122
+    }
+  ],
+  "как купить крипту за рубли по карте сбербанка": [
+    {
+      "request": "купить крипту в сбербанке",
+      "wordstat": 40,
+      "commercial": 1,
+      "difficultyTop": 6,
+      "value": 82
+    }
+  ],
+  "как открыть криптообменник в россии": [
+    {
+      "request": "как открыть криптообменник",
+      "wordstat": 46,
+      "commercial": 0,
+      "difficultyTop": 3,
+      "value": 266
+    },
+    {
+      "request": "как открыть криптообменник в россии",
+      "wordstat": 57,
+      "commercial": 0,
+      "difficultyTop": 3,
+      "value": 230
+    },
+    {
+      "request": "как открыть свой криптообменник",
+      "wordstat": 15,
+      "commercial": 0,
+      "difficultyTop": 4,
+      "value": 116
+    }
+  ],
+  "продать биткоин за рубли": [
+    {
+      "request": "продать биткоин",
+      "wordstat": 85,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 245
+    },
+    {
+      "request": "продать биткоин за рубли",
+      "wordstat": 135,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 207
+    },
+    {
+      "request": "продажа биткоина",
+      "wordstat": 18,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 159
+    }
+  ],
+  "usdt trc20 курс": [
+    {
+      "request": "usdt trc20 курс",
+      "wordstat": 26,
+      "commercial": 7,
+      "difficultyTop": 4,
+      "value": 259
+    },
+    {
+      "request": "курс usdt trc20",
+      "wordstat": 16,
+      "commercial": 8,
+      "difficultyTop": 4,
+      "value": 231
+    }
+  ],
+  "как продать биткоин": [
+    {
+      "request": "где продать биткоин",
+      "wordstat": 32,
+      "commercial": 5,
+      "difficultyTop": 6,
+      "value": 103
+    }
+  ],
+  "что такое usdt кошелек": [
+    {
+      "request": "адрес usdt",
+      "wordstat": 19,
+      "commercial": 1,
+      "difficultyTop": 5,
+      "value": 160
+    },
+    {
+      "request": "что такое usdt кошелек",
+      "wordstat": 36,
+      "commercial": 0,
+      "difficultyTop": 5,
+      "value": 125
+    }
+  ],
+  "биткоин кошелек в россии": [
+    {
+      "request": "биткоин кошелек в россии",
+      "wordstat": 294,
+      "commercial": 3,
+      "difficultyTop": 6,
+      "value": 135
+    }
+  ],
+  "криптообменник в томске": [
+    {
+      "request": "криптообменник томск",
+      "wordstat": 14,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 268
+    },
+    {
+      "request": "криптообменник в томске",
+      "wordstat": 16,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 257
+    }
+  ],
+  "офлайн обменники криптовалют": [
+    {
+      "request": "офлайн обменники криптовалют",
+      "wordstat": 135,
+      "commercial": 3,
+      "difficultyTop": 5,
+      "value": 159
+    },
+    {
+      "request": "оффлайн обменники криптовалюты",
+      "wordstat": 73,
+      "commercial": 1,
+      "difficultyTop": 5,
+      "value": 125
+    },
+    {
+      "request": "офлайн обменник криптовалюты",
+      "wordstat": 32,
+      "commercial": 3,
+      "difficultyTop": 5,
+      "value": 114
+    },
+    {
+      "request": "оффлайн обменник криптовалют",
+      "wordstat": 22,
+      "commercial": 3,
+      "difficultyTop": 5,
+      "value": 103
+    }
+  ],
+  "usdt sol": [
+    {
+      "request": "usdt solana",
+      "wordstat": 47,
+      "commercial": 8,
+      "difficultyTop": 4,
+      "value": 359
+    },
+    {
+      "request": "usdt sol",
+      "wordstat": 62,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 290
+    }
+  ],
+  "криптообменник новокузнецк": [
+    {
+      "request": "криптообменник новокузнецк",
+      "wordstat": 21,
+      "commercial": 8,
+      "difficultyTop": 2,
+      "value": 408
+    }
+  ],
+  "trx это": [
+    {
+      "request": "trx это",
+      "wordstat": 233,
+      "commercial": 0,
+      "difficultyTop": 3,
+      "value": 695
+    },
+    {
+      "request": "что такое trx",
+      "wordstat": 111,
+      "commercial": 0,
+      "difficultyTop": 4,
+      "value": 318
+    },
+    {
+      "request": "trx что это",
+      "wordstat": 73,
+      "commercial": 0,
+      "difficultyTop": 4,
+      "value": 313
+    },
+    {
+      "request": "trx это что",
+      "wordstat": 25,
+      "commercial": 0,
+      "difficultyTop": 4,
+      "value": 240
+    }
+  ],
+  "официальный сайт биткоина": [
+    {
+      "request": "сайт биткоина",
+      "wordstat": 21,
+      "commercial": 5,
+      "difficultyTop": 5,
+      "value": 166
+    },
+    {
+      "request": "официальный сайт биткоина",
+      "wordstat": 30,
+      "commercial": 2,
+      "difficultyTop": 5,
+      "value": 117
+    },
+    {
+      "request": "биткоин сайт официальный",
+      "wordstat": 24,
+      "commercial": 2,
+      "difficultyTop": 5,
+      "value": 113
+    }
+  ],
+  "купить usdt в уфе": [
+    {
+      "request": "купить usdt в уфе",
+      "wordstat": 14,
+      "commercial": 8,
+      "difficultyTop": 4,
+      "value": 207
+    }
+  ],
+  "как обменять usdt на рубли": [
+    {
+      "request": "как usdt перевести в рубли",
+      "wordstat": 23,
+      "commercial": 1,
+      "difficultyTop": 5,
+      "value": 103
+    }
+  ],
+  "криптообменник анталья": [
+    {
+      "request": "криптообменник анталья",
+      "wordstat": 24,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 298
+    }
+  ],
+  "криптовалюта в казахстане": [
+    {
+      "request": "криптовалюта в казахстане",
+      "wordstat": 84,
+      "commercial": 1,
+      "difficultyTop": 5,
+      "value": 145
+    },
+    {
+      "request": "крипта в казахстане",
+      "wordstat": 20,
+      "commercial": 1,
+      "difficultyTop": 5,
+      "value": 119
+    }
+  ],
+  "криптокошелек с выводом на карту в рублях без верификации": [
+    {
+      "request": "криптокошелек с выводом на карту в рублях без верификации",
+      "wordstat": 26,
+      "commercial": 2,
+      "difficultyTop": 4,
+      "value": 93
+    }
+  ],
+  "криптообменник ереван": [
+    {
+      "request": "криптообменник ереван",
+      "wordstat": 33,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 363
+    },
+    {
+      "request": "криптообменник в ереване",
+      "wordstat": 15,
+      "commercial": 6,
+      "difficultyTop": 4,
+      "value": 165
+    }
+  ],
+  "криптообменники в стамбуле": [
+    {
+      "request": "криптообменники в стамбуле",
+      "wordstat": 17,
+      "commercial": 4,
+      "difficultyTop": 4,
+      "value": 154
+    }
+  ],
+  "криптообменники в турции": [
+    {
+      "request": "криптообменники в турции",
+      "wordstat": 18,
+      "commercial": 4,
+      "difficultyTop": 5,
+      "value": 110
+    }
+  ],
+  "usdt eth": [
+    {
+      "request": "usdt eth",
+      "wordstat": 54,
+      "commercial": 7,
+      "difficultyTop": 4,
+      "value": 408
+    },
+    {
+      "request": "usdt ethereum",
+      "wordstat": 16,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 166
+    }
+  ],
+  "чем определяется цена биткоина": [
+    {
+      "request": "чем определяется цена биткоина",
+      "wordstat": 42,
+      "commercial": 0,
+      "difficultyTop": 5,
+      "value": 107
+    }
+  ],
+  "криптообменник рязань": [
+    {
+      "request": "криптообменник рязань",
+      "wordstat": 28,
+      "commercial": 5,
+      "difficultyTop": 3,
+      "value": 311
+    }
+  ],
+  "сети usdt": [
+    {
+      "request": "сети usdt",
+      "wordstat": 16,
+      "commercial": 0,
+      "difficultyTop": 4,
+      "value": 228
+    },
+    {
+      "request": "сеть usdt",
+      "wordstat": 16,
+      "commercial": 0,
+      "difficultyTop": 4,
+      "value": 228
+    },
+    {
+      "request": "usdt сеть",
+      "wordstat": 14,
+      "commercial": 1,
+      "difficultyTop": 4,
+      "value": 225
+    }
+  ],
+  "купить usdt в беларуси": [
+    {
+      "request": "купить usdt в беларуси",
+      "wordstat": 27,
+      "commercial": 8,
+      "difficultyTop": 4,
+      "value": 218
+    }
+  ],
+  "биткоин и криптовалюта в чем разница": [
+    {
+      "request": "крипта и биткоин разница",
+      "wordstat": 20,
+      "commercial": 0,
+      "difficultyTop": 5,
+      "value": 101
+    }
+  ],
+  "как вывести трон": [
+    {
+      "request": "как вывести трон",
+      "wordstat": 15,
+      "commercial": 1,
+      "difficultyTop": 5,
+      "value": 120
+    }
+  ],
+  "usdt erc20 кошелек": [
+    {
+      "request": "usdt erc20 кошелек",
+      "wordstat": 17,
+      "commercial": 2,
+      "difficultyTop": 4,
+      "value": 180
+    }
+  ],
+  "топ обменников биткоин": [
+    {
+      "request": "топ обменников биткоин",
+      "wordstat": 23,
+      "commercial": 0,
+      "difficultyTop": 7,
+      "value": 50
+    }
+  ],
+  "эфириум евро": [
+    {
+      "request": "эфириум евро",
+      "wordstat": 31,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 147
+    }
+  ],
+  "курс биткоина к эфиру": [
+    {
+      "request": "биткоин эфириум",
+      "wordstat": 48,
+      "commercial": 6,
+      "difficultyTop": 6,
+      "value": 133
+    },
+    {
+      "request": "курс биткоина к эфиру",
+      "wordstat": 56,
+      "commercial": 7,
+      "difficultyTop": 6,
+      "value": 118
+    },
+    {
+      "request": "биткоин в эфириум",
+      "wordstat": 23,
+      "commercial": 8,
+      "difficultyTop": 6,
+      "value": 108
+    }
+  ],
+  "usdc кошелек": [
+    {
+      "request": "usdc кошелек",
+      "wordstat": 15,
+      "commercial": 7,
+      "difficultyTop": 2,
+      "value": 544
+    }
+  ],
+  "bitcoin cash wallet": [
+    {
+      "request": "bitcoin cash wallet",
+      "wordstat": 12,
+      "commercial": 5,
+      "difficultyTop": 4,
+      "value": 170
+    }
+  ],
+  "ethereum erc20": [
+    {
+      "request": "ethereum erc20",
+      "wordstat": 17,
+      "commercial": 0,
+      "difficultyTop": 5,
+      "value": 129
+    }
+  ],
+  "курс лайткоина к биткоину": [
+    {
+      "request": "курс лайткоина к биткоину",
+      "wordstat": 35,
+      "commercial": 8,
+      "difficultyTop": 6,
+      "value": 97
+    }
+  ],
+  "купить usdt санкт петербург": [
+    {
+      "request": "купить usdt санкт петербург",
+      "wordstat": 88,
+      "commercial": 4,
+      "difficultyTop": 6,
+      "value": 103
+    }
+  ],
+  "со скольки лет можно покупать криптовалюту": [
+    {
+      "request": "со скольки лет можно покупать криптовалюту",
+      "wordstat": 15,
+      "commercial": 3,
+      "difficultyTop": 3,
+      "value": 154
+    }
+  ],
+  "стейблкоин курс к рублю на сегодня": [
+    {
+      "request": "стейблкоин курс к рублю на сегодня",
+      "wordstat": 14,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 142
+    }
+  ],
+  "как выводить usdt на карту тинькофф": [
+    {
+      "request": "как выводить usdt на карту тинькофф",
+      "wordstat": 17,
+      "commercial": 2,
+      "difficultyTop": 5,
+      "value": 80
+    }
+  ],
+  "купить биткоин быстро": [
+    {
+      "request": "купить биткоин быстро",
+      "wordstat": 33,
+      "commercial": 7,
+      "difficultyTop": 4,
+      "value": 231
+    }
+  ],
+  "bitcoin wallet": [
+    {
+      "request": "bitcoin wallet",
+      "wordstat": 182,
+      "commercial": 5,
+      "difficultyTop": 5,
+      "value": 264
+    }
+  ],
+  "касса криптовалютный обменник": [
+    {
+      "request": "касса криптовалютный обменник",
+      "wordstat": 13,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 96
+    }
+  ],
+  "криптообменник астана": [
+    {
+      "request": "криптообменник астана",
+      "wordstat": 21,
+      "commercial": 6,
+      "difficultyTop": 2,
+      "value": 440
+    }
+  ],
+  "криптообменник вологда": [
+    {
+      "request": "криптообменник вологда",
+      "wordstat": 32,
+      "commercial": 5,
+      "difficultyTop": 3,
+      "value": 314
+    }
+  ],
+  "криптообменник пятигорск": [
+    {
+      "request": "криптообменник пятигорск",
+      "wordstat": 16,
+      "commercial": 4,
+      "difficultyTop": 3,
+      "value": 237
+    }
+  ],
+  "обменники биткоин с минимальной комиссией": [
+    {
+      "request": "обменники биткоин с минимальной комиссией",
+      "wordstat": 29,
+      "commercial": 3,
+      "difficultyTop": 6,
+      "value": 57
+    }
+  ],
+  "альты в крипте это": [
+    {
+      "request": "альты в крипте это",
+      "wordstat": 30,
+      "commercial": 0,
+      "difficultyTop": 5,
+      "value": 133
+    },
+    {
+      "request": "что такое альткоины в криптовалюте",
+      "wordstat": 15,
+      "commercial": 0,
+      "difficultyTop": 4,
+      "value": 109
+    }
+  ],
+  "обмен usdt москва сити": [
+    {
+      "request": "обмен usdt москва сити",
+      "wordstat": 15,
+      "commercial": 2,
+      "difficultyTop": 5,
+      "value": 103
+    }
+  ],
+  "сеть трон": [
+    {
+      "request": "сеть трон",
+      "wordstat": 64,
+      "commercial": 0,
+      "difficultyTop": 4,
+      "value": 330
+    },
+    {
+      "request": "сеть tron",
+      "wordstat": 63,
+      "commercial": 0,
+      "difficultyTop": 4,
+      "value": 328
+    }
+  ],
+  "стоит ли покупать биткоин": [
+    {
+      "request": "стоит ли покупать биткоин",
+      "wordstat": 35,
+      "commercial": 2,
+      "difficultyTop": 7,
+      "value": 55
+    }
+  ],
+  "анонимные обменники криптовалют": [
+    {
+      "request": "анонимные обменники криптовалют",
+      "wordstat": 20,
+      "commercial": 6,
+      "difficultyTop": 6,
+      "value": 69
+    }
+  ],
+  "курс usdc": [
+    {
+      "request": "курс usdc",
+      "wordstat": 87,
+      "commercial": 8,
+      "difficultyTop": 6,
+      "value": 201
+    },
+    {
+      "request": "usdc курс",
+      "wordstat": 36,
+      "commercial": 8,
+      "difficultyTop": 6,
+      "value": 163
+    }
+  ],
+  "курс биткоина к лайткоину": [
+    {
+      "request": "btc ltc",
+      "wordstat": 46,
+      "commercial": 6,
+      "difficultyTop": 4,
+      "value": 399
+    },
+    {
+      "request": "курс биткоина к лайткоину",
+      "wordstat": 60,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 114
+    }
+  ],
+  "криптообменник тула": [
+    {
+      "request": "криптообменник тула",
+      "wordstat": 21,
+      "commercial": 7,
+      "difficultyTop": 3,
+      "value": 321
+    }
+  ],
+  "криптообменник иваново": [
+    {
+      "request": "криптообменник иваново",
+      "wordstat": 18,
+      "commercial": 4,
+      "difficultyTop": 3,
+      "value": 259
+    }
+  ],
+  "купить usdt за рубли с карты тинькофф": [
+    {
+      "request": "купить usdt за рубли с карты тинькофф",
+      "wordstat": 14,
+      "commercial": 6,
+      "difficultyTop": 6,
+      "value": 54
+    }
+  ],
+  "криптообменник белгород": [
+    {
+      "request": "криптообменник белгород",
+      "wordstat": 35,
+      "commercial": 3,
+      "difficultyTop": 4,
+      "value": 198
+    }
+  ],
+  "solusdt что это": [
+    {
+      "request": "solusdt что это",
+      "wordstat": 13,
+      "commercial": 1,
+      "difficultyTop": 5,
+      "value": 118
+    }
+  ],
+  "криптообменник череповец": [
+    {
+      "request": "криптообменник череповец",
+      "wordstat": 12,
+      "commercial": 9,
+      "difficultyTop": 2,
+      "value": 369
+    }
+  ],
+  "криптообменник курск": [
+    {
+      "request": "криптообменник курск",
+      "wordstat": 18,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 314
+    }
+  ],
+  "стейблкоин курс": [
+    {
+      "request": "стейблкоин курс",
+      "wordstat": 14,
+      "commercial": 9,
+      "difficultyTop": 4,
+      "value": 227
+    }
+  ],
+  "криптообменник липецк": [
+    {
+      "request": "криптообменник липецк",
+      "wordstat": 14,
+      "commercial": 5,
+      "difficultyTop": 4,
+      "value": 170
+    }
+  ],
+  "рубли в эфир": [
+    {
+      "request": "рубли в эфир",
+      "wordstat": 21,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 132
+    }
+  ],
+  "как покупать и продавать криптовалюту": [
+    {
+      "request": "как покупать и продавать криптовалюту",
+      "wordstat": 23,
+      "commercial": 2,
+      "difficultyTop": 5,
+      "value": 84
+    }
+  ],
+  "криптообменник кемерово": [
+    {
+      "request": "криптообменник кемерово",
+      "wordstat": 32,
+      "commercial": 9,
+      "difficultyTop": 2,
+      "value": 508
+    },
+    {
+      "request": "обмен криптовалюты кемерово",
+      "wordstat": 14,
+      "commercial": 9,
+      "difficultyTop": 2,
+      "value": 360
+    }
+  ],
+  "биток обменник": [
+    {
+      "request": "биток обменник",
+      "wordstat": 56,
+      "commercial": 2,
+      "difficultyTop": 2,
+      "value": 628
+    }
+  ],
+  "биткоин казань": [
+    {
+      "request": "биткоин казань",
+      "wordstat": 21,
+      "commercial": 4,
+      "difficultyTop": 4,
+      "value": 232
+    }
+  ],
+  "usdt bep20 в рубли": [
+    {
+      "request": "usdt bep20 в рубли",
+      "wordstat": 12,
+      "commercial": 10,
+      "difficultyTop": 4,
+      "value": 201
+    }
+  ],
+  "как продать биткоин за рубли": [
+    {
+      "request": "как продать биткоин за рубли",
+      "wordstat": 67,
+      "commercial": 0,
+      "difficultyTop": 6,
+      "value": 84
+    }
+  ],
+  "цена биткоина на сегодня в рублях и долларах": [
+    {
+      "request": "цена биткоина на сегодня в рублях и долларах",
+      "wordstat": 88,
+      "commercial": 10,
+      "difficultyTop": 7,
+      "value": 58
+    }
+  ],
+  "обмен usdt на рубли на карту": [
+    {
+      "request": "обменник usdt на карту",
+      "wordstat": 15,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 126
+    }
+  ],
+  "usdt usdc курс": [
+    {
+      "request": "usdt usdc курс",
+      "wordstat": 12,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 145
+    }
+  ],
+  "купить биткоин в москве": [
+    {
+      "request": "купить биткоин в москве",
+      "wordstat": 18,
+      "commercial": 6,
+      "difficultyTop": 5,
+      "value": 120
+    }
+  ],
+  "в москве закрылись криптообменники": [
+    {
+      "request": "в москве закрыли криптообменники",
+      "wordstat": 21,
+      "commercial": 0,
+      "difficultyTop": 6,
+      "value": 57
+    }
+  ],
+  "вывод криптовалюты на карту сбербанка законно ли это": [
+    {
+      "request": "вывод криптовалюты на карту сбербанка законно ли это",
+      "wordstat": 15,
+      "commercial": 0,
+      "difficultyTop": 7,
+      "value": 24
+    }
+  ],
+  "криптообменник пенза": [
+    {
+      "request": "криптообменник пенза",
+      "wordstat": 36,
+      "commercial": 3,
+      "difficultyTop": 4,
+      "value": 216
+    },
+    {
+      "request": "обменник криптовалют пенза",
+      "wordstat": 16,
+      "commercial": 2,
+      "difficultyTop": 4,
+      "value": 142
+    }
+  ],
+  "евро в биткоин": [
+    {
+      "request": "евро в биткоин",
+      "wordstat": 29,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 195
+    },
+    {
+      "request": "курс евро к биткоину",
+      "wordstat": 25,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 155
+    }
+  ],
+  "как продать usdt": [
+    {
+      "request": "как продать usdt",
+      "wordstat": 29,
+      "commercial": 3,
+      "difficultyTop": 5,
+      "value": 155
+    }
+  ],
+  "обмен криптовалюты в смоленске": [
+    {
+      "request": "криптообменник смоленск",
+      "wordstat": 12,
+      "commercial": 7,
+      "difficultyTop": 5,
+      "value": 108
+    },
+    {
+      "request": "обмен криптовалюты в смоленске",
+      "wordstat": 15,
+      "commercial": 8,
+      "difficultyTop": 5,
+      "value": 101
+    }
+  ],
+  "курс лайткоина к евро": [
+    {
+      "request": "курс лайткоина к евро",
+      "wordstat": 22,
+      "commercial": 9,
+      "difficultyTop": 5,
+      "value": 146
+    }
+  ],
+  "usdc erc20": [
+    {
+      "request": "usdc erc20",
+      "wordstat": 27,
+      "commercial": 3,
+      "difficultyTop": 4,
+      "value": 281
+    },
+    {
+      "request": "usdc erc20 что это",
+      "wordstat": 18,
+      "commercial": 1,
+      "difficultyTop": 5,
+      "value": 119
+    }
+  ],
+  "что можно купить за usdt": [
+    {
+      "request": "что можно купить за usdt",
+      "wordstat": 26,
+      "commercial": 0,
+      "difficultyTop": 4,
+      "value": 162
+    }
+  ],
+  "биток это": [
+    {
+      "request": "что такое биток",
+      "wordstat": 66,
+      "commercial": 0,
+      "difficultyTop": 5,
+      "value": 178
+    },
+    {
+      "request": "биток это",
+      "wordstat": 149,
+      "commercial": 0,
+      "difficultyTop": 6,
+      "value": 177
+    },
+    {
+      "request": "биток что это",
+      "wordstat": 28,
+      "commercial": 0,
+      "difficultyTop": 6,
+      "value": 103
+    }
+  ],
+  "купить эфириум за рубли сбербанк": [
+    {
+      "request": "купить эфириум за рубли сбербанк",
+      "wordstat": 12,
+      "commercial": 8,
+      "difficultyTop": 4,
+      "value": 134
+    }
+  ],
+  "продать крипту за наличку": [
+    {
+      "request": "продать крипту за наличку",
+      "wordstat": 13,
+      "commercial": 6,
+      "difficultyTop": 5,
+      "value": 103
+    }
+  ],
+  "обменять eth на usdt": [
+    {
+      "request": "обменять eth на usdt",
+      "wordstat": 20,
+      "commercial": 9,
+      "difficultyTop": 3,
+      "value": 324
+    }
+  ],
+  "криптообменник астрахань": [
+    {
+      "request": "криптообменник астрахань",
+      "wordstat": 17,
+      "commercial": 6,
+      "difficultyTop": 3,
+      "value": 256
+    }
+  ],
+  "как зарабатывать на обмене криптовалют": [
+    {
+      "request": "как зарабатывать на обмене криптовалют",
+      "wordstat": 16,
+      "commercial": 0,
+      "difficultyTop": 6,
+      "value": 46
+    }
+  ],
+  "доллар к лайткоину": [
+    {
+      "request": "доллар к лайткоину",
+      "wordstat": 14,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 95
+    }
+  ],
+  "биткоин карта": [
+    {
+      "request": "биткоин карта",
+      "wordstat": 19,
+      "commercial": 0,
+      "difficultyTop": 6,
+      "value": 92
+    }
+  ],
+  "как перевести usdt из erc20 в trc20": [
+    {
+      "request": "как перевести usdt из erc20 в trc20",
+      "wordstat": 15,
+      "commercial": 1,
+      "difficultyTop": 4,
+      "value": 111
+    }
+  ],
+  "usdt ltc": [
+    {
+      "request": "usdt ltc",
+      "wordstat": 19,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 146
+    }
+  ],
+  "биткоин в тг": [
+    {
+      "request": "биткоин в тг",
+      "wordstat": 22,
+      "commercial": 4,
+      "difficultyTop": 5,
+      "value": 169
+    }
+  ],
+  "криптообменник оренбург": [
+    {
+      "request": "криптообменник оренбург",
+      "wordstat": 21,
+      "commercial": 3,
+      "difficultyTop": 4,
+      "value": 172
+    }
+  ],
+  "криптообменник магнитогорск": [
+    {
+      "request": "криптообменник магнитогорск",
+      "wordstat": 11,
+      "commercial": 4,
+      "difficultyTop": 4,
+      "value": 130
+    }
+  ],
+  "usdc solana": [
+    {
+      "request": "usdc solana",
+      "wordstat": 11,
+      "commercial": 4,
+      "difficultyTop": 4,
+      "value": 210
+    }
+  ],
+  "криптообменник отзывы": [
+    {
+      "request": "криптообменник отзывы",
+      "wordstat": 17,
+      "commercial": 2,
+      "difficultyTop": 6,
+      "value": 74
+    }
+  ],
+  "etc usdt": [
+    {
+      "request": "etc usdt",
+      "wordstat": 59,
+      "commercial": 6,
+      "difficultyTop": 5,
+      "value": 272
+    }
+  ],
+  "сеть в криптовалюте это": [
+    {
+      "request": "сеть в криптовалюте это",
+      "wordstat": 13,
+      "commercial": 0,
+      "difficultyTop": 5,
+      "value": 90
+    }
+  ],
+  "можно ли покупать usdt в россии": [
+    {
+      "request": "можно ли покупать usdt в россии",
+      "wordstat": 29,
+      "commercial": 1,
+      "difficultyTop": 7,
+      "value": 44
+    }
+  ],
+  "ltc адрес": [
+    {
+      "request": "ltc адрес",
+      "wordstat": 12,
+      "commercial": 1,
+      "difficultyTop": 5,
+      "value": 143
+    }
+  ],
+  "лучший криптообменник в россии": [
+    {
+      "request": "лучший криптообменник в россии",
+      "wordstat": 20,
+      "commercial": 1,
+      "difficultyTop": 7,
+      "value": 40
+    }
+  ],
+  "как пополнить криптокошелек с карты сбербанка": [
+    {
+      "request": "как пополнить криптокошелек с карты сбербанка",
+      "wordstat": 96,
+      "commercial": 0,
+      "difficultyTop": 6,
+      "value": 65
+    }
+  ],
+  "криптовалюта в тайланде": [
+    {
+      "request": "криптовалюта в тайланде",
+      "wordstat": 15,
+      "commercial": 2,
+      "difficultyTop": 6,
+      "value": 67
+    }
+  ],
+  "что с эфиром": [
+    {
+      "request": "что с эфиром",
+      "wordstat": 14,
+      "commercial": 0,
+      "difficultyTop": 7,
+      "value": 58
+    }
+  ],
+  "курс биткоина на дату": [
+    {
+      "request": "курс биткоина на дату",
+      "wordstat": 21,
+      "commercial": 10,
+      "difficultyTop": 6,
+      "value": 99
+    }
+  ],
+  "топ 10 обменников криптовалют": [
+    {
+      "request": "топ 10 криптообменников",
+      "wordstat": 13,
+      "commercial": 1,
+      "difficultyTop": 5,
+      "value": 93
+    }
+  ],
+  "крипта обменник отзывы": [
+    {
+      "request": "крипта обменник отзывы",
+      "wordstat": 11,
+      "commercial": 1,
+      "difficultyTop": 4,
+      "value": 135
+    }
+  ],
+  "стейблкоин купить": [
+    {
+      "request": "стейблкоин купить",
+      "wordstat": 34,
+      "commercial": 6,
+      "difficultyTop": 6,
+      "value": 114
+    }
+  ],
+  "eth etc": [
+    {
+      "request": "eth etc",
+      "wordstat": 28,
+      "commercial": 6,
+      "difficultyTop": 5,
+      "value": 235
+    }
+  ],
+  "etc btc": [
+    {
+      "request": "etc btc",
+      "wordstat": 17,
+      "commercial": 9,
+      "difficultyTop": 6,
+      "value": 148
+    }
+  ],
+  "как открыть счет в криптовалюте": [
+    {
+      "request": "как открыть счет в криптовалюте",
+      "wordstat": 12,
+      "commercial": 0,
+      "difficultyTop": 7,
+      "value": 33
+    }
+  ],
+  "биткоин отзывы": [
+    {
+      "request": "биткоин отзывы",
+      "wordstat": 19,
+      "commercial": 1,
+      "difficultyTop": 6,
+      "value": 92
+    }
+  ],
+  "solana перевод": [
+    {
+      "request": "solana перевод",
+      "wordstat": 24,
+      "commercial": 1,
+      "difficultyTop": 6,
+      "value": 99
+    }
+  ],
+  "подтверждения биткоин": [
+    {
+      "request": "подтверждения биткоин",
+      "wordstat": 15,
+      "commercial": 0,
+      "difficultyTop": 6,
+      "value": 67
+    }
+  ],
+  "почему покупка usdt дешевле чем продажа": [
+    {
+      "request": "почему покупка usdt дешевле чем продажа",
+      "wordstat": 30,
+      "commercial": 0,
+      "difficultyTop": 6,
+      "value": 55
+    }
+  ],
+  "как вывести биткоины с холодного бумажного кошелька": [
+    {
+      "request": "как вывести биткоины с холодного бумажного кошелька",
+      "wordstat": 11,
+      "commercial": 0,
+      "difficultyTop": 6,
+      "value": 33
+    }
+  ],
+  "eth usdt что это": [
+    {
+      "request": "eth usdt что это",
+      "wordstat": 14,
+      "commercial": 3,
+      "difficultyTop": 6,
+      "value": 83
+    }
+  ],
+  "крипто перевод": [
+    {
+      "request": "крипто перевод",
+      "wordstat": 45,
+      "commercial": 1,
+      "difficultyTop": 7,
+      "value": 78
+    }
+  ],
+  "как вывести usdt с tonkeeper на карту": [
+    {
+      "request": "как вывести usdt с tonkeeper на карту",
+      "wordstat": 12,
+      "commercial": 0,
+      "difficultyTop": 7,
+      "value": 29
+    }
+  ],
+  "курс соланы к биткоину": [
+    {
+      "request": "курс соланы к биткоину",
+      "wordstat": 28,
+      "commercial": 8,
+      "difficultyTop": 7,
+      "value": 66
+    }
+  ],
+  "где вы работаете в криптовалюте": [
+    {
+      "request": "где вы работаете в криптовалюте",
+      "wordstat": 33,
+      "commercial": 1,
+      "difficultyTop": 8,
+      "value": 31
+    }
+  ],
+  "лучшие курсы по криптовалюте": [
+    {
+      "request": "лучшие курсы по криптовалюте",
+      "wordstat": 11,
+      "commercial": 1,
+      "difficultyTop": 8,
+      "value": 23
+    }
+  ],
+  "* Остальные": [
+    {
+      "request": "курс сол",
+      "wordstat": 402,
+      "commercial": 8,
+      "difficultyTop": 0,
+      "value": 3064
+    },
+    {
+      "request": "курс trx",
+      "wordstat": 339,
+      "commercial": 9,
+      "difficultyTop": 0,
+      "value": 3058
+    },
+    {
+      "request": "рубли в usdt",
+      "wordstat": 463,
+      "commercial": 10,
+      "difficultyTop": 0,
+      "value": 2810
+    },
+    {
+      "request": "курс трона",
+      "wordstat": 360,
+      "commercial": 7,
+      "difficultyTop": 0,
+      "value": 2695
+    }
+  ]
+}

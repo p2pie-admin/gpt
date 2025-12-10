@@ -45,7 +45,7 @@ export const findxml = async () => {
 
 async function fillXML(bc: IScrapedBC[], possibleEndings: string[]) {
   //let results = {} as { [key: string]: string };
-  const starts = ["", "api."];
+  const starts = ["", "api.", "xml."];
 
   for (const exchanger of bc) {
     const bestLink = buildBestchangeLink(exchanger.link_best || exchanger.card);

@@ -1,0 +1,83 @@
+	1. Популярные слова в Title конкурентов:
+rub, btc, обмен, bitcoin, обменять, наличные
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	2. Популярные слова в Keyword конкурентов:
+пункты, btc, обмен, bitcoin, курсы, список, обменные, rub, лучшие, обменников, обменники, мониторинг
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	3. Популярные слова в Description конкурентов:
+btc, rub, bitcoin, обмен, наиболее, rur
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	4. Популярные слова в H1 конкурентов:
+rub, bitcoin, btc, обмен, наличные
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	5. Популярные слова в H2-H6 конкурентов:
+bitcoin, обмена, криптовалюты, rur, обменников, криптовалюту
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	6. Популярные слова у конкурентов:
+rub, btc, usdt, ethereum, eth, bitcoin, usd, обмена, usdc, ton, tether, обмен, erc, можно, деньги, bnb, сбербанк, azn, cny, bep, sol, xrp, trc, сбп, litecoin, банк, наличные, uah
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	7. Популярные двухсловники у конкурентов:
+tether trc
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	8. Популярные трехсловники у конкурентов:
+tether polygon usdt, tether bep usdt, ethereum optimism eth, ethereum bep eth, tether erc usdt, tether trc usdt, tether ton usdt, wrapped btc wbtc, карта мир rub, bitcoin bep btcb, bitcoin ln btc, bereke bank kzt, tether optimism usdt, usd erc usdr, usdc arbitrum usdc, stablr usd erc, quantoz erc usdq, utopia usd uusd, binance usd busd, bitcoin cash bch, near protocol near, bitcoin sv bsv, ethereum arbitrum eth, trueusd erc tusd, wrapped eth weth, ethereum classic etc, tether sol usdt, mercado pago ars, official trump trump, yearn finance yfi, shiba bep shib, shiba erc shib, kaspi bank kzt, omg network omg, trueusd trc tusd, pax dollar usdp, usdc optimism usdc, sense bank uah, мтс банк rub, usdc polygon usdc, tether avalanche usdt, tether omni usdt, tether near usdt, ozon банк rub, atm nfc rub, jusan bank kzt, tether gold erc, gold erc xaut, usdc erc usdc, usdc trc usdc, usdc bep usdc, bnb bep bnb, usdc sol usdc, tether arbitrum usdt, otp bank uah
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	9. Популярные слова из текущего шлейфа ядра:
+на, рубли, крипту, рублей, криптовалюту, в, обменник, обмен, обменять, перевод, обменники, перевести, крипта
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	10. Подсветка из сниппетов:
+обменять, рубль, обменник, обмен, криптовалюта, обменивать, крипт, на, москва
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	11. Популярные слова в заголовках объявлений:
+----------
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	12. 2 слов запроса в заголовках объявлений:
+----------
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	13. 3 слов запроса в заголовках объявлений:
+----------
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	14. Популярные слова в тексте объявлений:
+----------
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	15. 2 слов запроса в тексте объявлений:
+----------
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	16. 3 слов запроса в тексте объявлений:
+----------
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	17. Популярные слова сниппетов:
+рубль, обмен, rub, btc
+

@@ -1,0 +1,83 @@
+	1. Популярные слова в Title конкурентов:
+btc, обмен, криптовалют, rub
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	2. Популярные слова в Keyword конкурентов:
+обмен, мониторинг, список, обменников, лучшие, курсы, обменники, обменные, пункты, валют
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	3. Популярные слова в Description конкурентов:
+btc, криптовалюты, выгодные
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	4. Популярные слова в H1 конкурентов:
+btc
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	5. Популярные слова в H2-H6 конкурентов:
+bitcoin
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	6. Популярные слова у конкурентов:
+btc, bitcoin, erc, tether, polygon, bank, bep, ethereum, bnb, cash, rub, avalanche, optimism
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	7. Популярные двухсловники у конкурентов:
+----------
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	8. Популярные трехсловники у конкурентов:
+tether bep usdt, tether near usdt, omg network omg, usd erc usdr, stablr usd erc, quantoz erc usdq, binance usd busd, pax dollar usdp, trueusd erc tusd, usdc optimism usdc, shiba bep shib, usdc arbitrum usdc, usdc polygon usdc, usdc sol usdc, usdc bep usdc, usdc trc usdc, usdc erc usdc, gold erc xaut, tether gold erc, shiba erc shib, ethereum optimism eth, yearn finance yfi, bitcoin cash bch, tether trc usdt, tether erc usdt, ethereum classic etc, wrapped eth weth, ethereum arbitrum eth, tether avalanche usdt, ethereum bep eth, bitcoin sv bsv, wrapped btc wbtc, trueusd trc tusd, bitcoin bep btcb, bitcoin ln btc, tether polygon usdt, tether ton usdt, tether optimism usdt, tether arbitrum usdt, tether omni usdt, near protocol near, official trump trump, mercado pago ars, tether sol usdt, bnb bep bnb, jusan bank kzt, kaspi bank kzt, bereke bank kzt, otp bank uah, sense bank uah, utopia usd uusd, atm nfc rub
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	9. Популярные слова из текущего шлейфа ядра:
+обменять, биткоин, обменник, обмен, где, btc, биткойн, биткоины, криптовалюты, биткоина, на, bitcoin, поменять, можно, битков, обменники, криптовалют, битки, обменивать
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	10. Подсветка из сниппетов:
+обмен, btc, обменник, bitcoin, криптовалюта
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	11. Популярные слова в заголовках объявлений:
+----------
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	12. 2 слов запроса в заголовках объявлений:
+----------
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	13. 3 слов запроса в заголовках объявлений:
+----------
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	14. Популярные слова в тексте объявлений:
+----------
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	15. 2 слов запроса в тексте объявлений:
+----------
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	16. 3 слов запроса в тексте объявлений:
+----------
+
+	* * * * * * * * * * * * * * * * * * * * *
+
+	17. Популярные слова сниппетов:
+обмен, криптовалюта, btc
+

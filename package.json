@@ -18,6 +18,7 @@
     "chrome-remote-interface": "^0.33.3",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
+    "exceljs": "^4.4.0",
     "fastify": "^4.26.2",
     "follow-redirects": "^1.15.9",
     "graphql": "^16.7.1",

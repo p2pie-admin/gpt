@@ -20,6 +20,8 @@ import { changeExchangerNames } from "./exchangers/createExchangers/changeNames"
 import loadHTML from "./exchangers/descriptions/loadExchangersHTML";
 import generateDefaultDirTexts from "./defaultDirTexts";
 import generateDefaultMassDirTexts from "./defaultMassDirTexts";
+import { tableFormatter } from "./core";
+import { readMyFile } from "./services/fileHandler";
 
 const server = Fastify({ logger: true });
 
@@ -92,12 +94,28 @@ server.get("/change_exchanger_names", async (request, reply) => {
   changeExchangerNames();
 });
 
+server.get("/table_formatter", async (request, reply) => {
+  try {
+    const result = await tableFormatter();
+    reply.send(
+      `table_formatter done (${Object.keys(result).length} sheets processed)`
+    );
+  } catch (error) {
+    server.log.error(error);
+    reply.status(500).send("table_formatter failed");
+  }
+});
+
 // Start the server
 const port = +process.env.PORT!;
 const start = async () => {
   try {
     await server.listen({ port, host: "0.0.0.0" });
     await auth();
+
+    // это работа с ядром
+
+    //const generated = await tableFormatter();
   } catch (err) {
     server.log.error(err);
     process.exit(1);

@@ -1,0 +1,83 @@
+Популярные внешние ссылки на домены по группе запросов: "солана курс"
+
+Домен: t.me встречается на 5 из 10 популярных документов
+   URL: https://t.me/tradingview - 1 раз(а)
+   URL: https://t.me/CoinMarketCapAnnouncements - 1 раз(а)
+   URL: https://t.me/solana - 1 раз(а)
+   URL: https://t.me/GetVerse/1 - 2 раз(а)
+   URL: https://t.me/coingecko - 1 раз(а)
+
+Домен: reddit.com встречается на 4 из 10 популярных документов
+   URL: https://www.reddit.com/r/TradingView - 1 раз(а)
+   URL: https://www.reddit.com/r/CoinMarketCap - 1 раз(а)
+   URL: https://www.reddit.com/r/solana - 1 раз(а)
+   URL: https://www.reddit.com/r/coingecko - 1 раз(а)
+
+Домен: solana.com встречается на 3 из 10 популярных документов
+   URL: https://solana.com - 3 раз(а)
+   URL: https://solana.com/solana-whitepaper.pdf - 2 раз(а)
+
+Домен: github.com встречается на 3 из 10 популярных документов
+   URL: https://github.com/solana-labs - 2 раз(а)
+   URL: https://github.com/solana-labs/solana - 1 раз(а)
+
+Домен: tradingview.com встречается на 3 из 10 популярных документов
+   URL: https://www.tradingview.com/pine-script-docs - 1 раз(а)
+   URL: https://www.tradingview.com/blog/ru - 1 раз(а)
+   URL: https://www.tradingview.com/symbols/SOLUSDT/?exchange=OKEX - 1 раз(а)
+   URL: https://www.tradingview.com - 1 раз(а)
+
+Домен: youtube.com встречается на 3 из 10 популярных документов
+   URL: https://www.youtube.com/@TradingView - 1 раз(а)
+   URL: https://www.youtube.com/channel/UCnhdZlwVd6ocXGhdSyV9Axg/?sub_confirmation=1 - 1 раз(а)
+   URL: https://www.youtube.com/@CoinGecko?sub_confirmation=1 - 1 раз(а)
+   URL: https://www.youtube.com/channel/UC-OTgwOAI7KmP0eDAtqN3Ow?sub_confirmation=1 - 1 раз(а)
+
+Домен: instagram.com встречается на 3 из 10 популярных документов
+   URL: https://www.instagram.com/tradingview - 1 раз(а)
+   URL: https://www.instagram.com/coinmarketcap - 1 раз(а)
+   URL: https://www.instagram.com/coingecko - 1 раз(а)
+
+Домен: binance.com встречается на 2 из 10 популярных документов
+   URL: https://www.binance.com/en/how-to-buy/solana - 1 раз(а)
+   URL: https://www.binance.com/en/trade/SOL_USDT - 1 раз(а)
+
+Домен: tiktok.com встречается на 2 из 10 популярных документов
+   URL: https://www.tiktok.com/@tradingview - 1 раз(а)
+   URL: https://www.tiktok.com/@coingeckotv - 1 раз(а)
+
+Домен: x.com встречается на 2 из 10 популярных документов
+   URL: https://x.com/tradingview - 1 раз(а)
+   URL: https://x.com/bitcoincom - 2 раз(а)
+
+Домен: solscan.io встречается на 2 из 10 популярных документов
+   URL: https://solscan.io/token/So11111111111111111111111111111111111111111 - 1 раз(а)
+   URL: https://solscan.io - 1 раз(а)
+
+Домен: coingecko.app.link встречается на 1 документах 11 раз
+   URL: https://coingecko.app.link/lTInCXLGz4 - 1 раз(а)
+   URL: https://coingecko.app.link/yaxgIjInuLb - 1 раз(а)
+   URL: https://coingecko.app.link/Nhgleb44aVb - 1 раз(а)
+   URL: https://coingecko.app.link/footer-android - 4 раз(а)
+   URL: https://coingecko.app.link/footer-ios - 4 раз(а)
+
+Домен: coindesk.com встречается на 1 документах 4 раз
+   URL: https://www.coindesk.com/ru/markets/2025/11/12/solana-drops-4-9-breaking-below-key-support-as-alameda-unlocks-continue - 2 раз(а)
+   URL: https://www.coindesk.com/ru/business/2025/11/12/pantera-backed-solana-company-to-tokenize-its-shares-with-superstate-s-opening-bell - 2 раз(а)
+
+Домен:  встречается на 1 документах 553 раз
+   URL: https:  www.yahoo.com  - 3 раз(а)
+   URL: https:  www.yahoo.com news  - 2 раз(а)
+   URL: https:  www.yahoo.com news us  - 2 раз(а)
+   URL: https:  www.yahoo.com news politics  - 2 раз(а)
+   URL: https:  www.yahoo.com events elections  - 3 раз(а)
+
+Домен: help.yahoo.com встречается на 1 документах 2 раз
+   URL: https://help.yahoo.com/kb/finance-for-web/SLN2310.html?locale=en_US - 1 раз(а)
+   URL: https://help.yahoo.com/kb/finance-for-web - 1 раз(а)
+
+Домен: guce.yahoo.com встречается на 1 документах 6 раз
+   URL: https://guce.yahoo.com/terms?locale=en-US - 2 раз(а)
+   URL: https://guce.yahoo.com/privacy-policy?locale=en-US - 2 раз(а)
+   URL: https://guce.yahoo.com/privacy-dashboard?locale=en-US - 2 раз(а)
+

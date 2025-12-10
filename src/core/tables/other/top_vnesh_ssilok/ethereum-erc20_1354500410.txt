@@ -1,0 +1,52 @@
+Популярные внешние ссылки на домены по группе запросов: "ethereum erc20"
+
+Домен: github.com встречается на 4 из 10 популярных документов
+   URL: https://github.com/okx/xlayer-docs - 1 раз(а)
+   URL: https://github.com/wackerow - 1 раз(а)
+   URL: https://github.com/pete-vielhaber - 1 раз(а)
+   URL: https://github.com/vittominacori - 1 раз(а)
+   URL: https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol - 1 раз(а)
+
+Домен: youtube.com встречается на 3 из 10 популярных документов
+   URL: https://www.youtube.com/channel/UCC5QUVNUPTO631J_Z2XOBZw - 1 раз(а)
+   URL: https://www.youtube.com/@crypto-ru - 3 раз(а)
+   URL: https://www.youtube.com/channel/UC9hQtWpGGNaZ8yiwFsBkRBg - 1 раз(а)
+
+Домен: x.com встречается на 3 из 10 популярных документов
+   URL: https://x.com/wallet - 1 раз(а)
+   URL: https://x.com/ethdotorg - 1 раз(а)
+   URL: https://x.com/beincrypto - 1 раз(а)
+
+Домен: eips.ethereum.org встречается на 3 из 10 популярных документов
+   URL: https://eips.ethereum.org/erc - 1 раз(а)
+   URL: https://eips.ethereum.org/EIPS/eip-20 - 3 раз(а)
+
+Домен: ethereum.org встречается на 2 из 10 популярных документов
+   URL: https://ethereum.org/en/developers/docs/standards/tokens/erc-20 - 2 раз(а)
+   URL: https://ethereum.org/en/developers/tutorials/erc20-annotated-code - 1 раз(а)
+   URL: https://ethereum.org/en/developers/docs/standards/tokens/erc-721 - 1 раз(а)
+   URL: https://ethereum.org/en/developers/docs/standards/tokens/erc-1155 - 1 раз(а)
+
+Домен: soliditylang.org встречается на 2 из 10 популярных документов
+   URL: https://soliditylang.org - 2 раз(а)
+
+Домен: beincrypto.com встречается на 2 из 10 популярных документов
+   URL: https://beincrypto.com/bonus-hunter - 3 раз(а)
+   URL: https://beincrypto.com/jobs - 4 раз(а)
+   URL: https://beincrypto.com/news - 1 раз(а)
+   URL: https://beincrypto.com/careers - 1 раз(а)
+   URL: https://beincrypto.com/unizen-defi-hack-million - 1 раз(а)
+
+Домен: instagram.com встречается на 2 из 10 популярных документов
+   URL: https://www.instagram.com/beincrypto - 1 раз(а)
+   URL: https://instagram.com/moonpay - 1 раз(а)
+
+Домен: t.me встречается на 2 из 10 популярных документов
+   URL: https://t.me/+tcLDoZNmHW1iNDQy - 4 раз(а)
+   URL: https://t.me/+zgEzKijlb305YTli - 6 раз(а)
+   URL: https://t.me/+0OR6Aad2-ps2ZWUy - 1 раз(а)
+
+Домен: egorovdigital.com встречается на 1 документах 2 раз
+   URL: https://egorovdigital.com/cryptoru?utm_source=cryptoru&utm_medium=bmenu&utm_campaign=kurs - 1 раз(а)
+   URL: https://egorovdigital.com/cryptoru?utm_source=cryptoru utm_medium=mmenu utm_campaign=kurs - 1 раз(а)
+

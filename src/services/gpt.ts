@@ -30,7 +30,7 @@ export const callGPT = async (
 ): Promise<any | null> => {
   const model =
     options?.model || (process.env.MODEL as string) || "gpt-4o-mini";
-  console.log("Model: ", model);
+  mylog(`Running ${id.toUpperCase()} on ${model}...`, "info");
   if (!prompt) return null;
 
   const maxRetries = 3;
@@ -62,7 +62,7 @@ export const callGPT = async (
     attempts++;
     if (attempts < maxRetries) {
       console.log(`🔄 Retrying in 5 seconds...`);
-      await sleep(5000);
+      await sleep(4000);
     }
   }
 

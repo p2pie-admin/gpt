@@ -1,0 +1,31 @@
+Популярные внешние ссылки на домены по группе запросов: "btc usdt"
+
+Домен: youtube.com встречается на 2 из 10 популярных документов
+   URL: https://www.youtube.com/@TradingView - 1 раз(а)
+   URL: https://www.youtube.com/channel/UCnhdZlwVd6ocXGhdSyV9Axg/?sub_confirmation=1 - 1 раз(а)
+
+Домен: instagram.com встречается на 2 из 10 популярных документов
+   URL: https://www.instagram.com/tradingview - 1 раз(а)
+   URL: https://www.instagram.com/coinmarketcap - 1 раз(а)
+
+Домен: t.me встречается на 2 из 10 популярных документов
+   URL: https://t.me/tradingview - 1 раз(а)
+   URL: https://t.me/CoinMarketCapAnnouncements - 1 раз(а)
+
+Домен: reddit.com встречается на 2 из 10 популярных документов
+   URL: https://www.reddit.com/r/TradingView - 1 раз(а)
+   URL: https://www.reddit.com/r/CoinMarketCap - 1 раз(а)
+
+Домен: tradingview.com встречается на 1 документах 2 раз
+   URL: https://www.tradingview.com/pine-script-docs - 1 раз(а)
+   URL: https://www.tradingview.com/blog/ru - 1 раз(а)
+
+Домен: app.appsflyer.com встречается на 1 документах 2 раз
+   URL: https://app.appsflyer.com/com.fusionmedia.investing?pid=direct_inv c=refactored af_adset=www af_ad=footer+install+buttons af_sub1=null af_sub_siteid=null click_id=null af_sub2=null af_sub3=null af_sub4=null af_sub5=null af_keywords=null af_ad_id=null af_adset_id=null af_pmod_priority=null - 1 раз(а)
+   URL: https://app.appsflyer.com/id909998122?pid=direct_inv c=refactored af_adset=www af_ad=footer+install+buttons af_sub1=null af_sub_siteid=null click_id=null af_sub2=null af_sub3=null af_sub4=null af_sub5=null af_keywords=null af_ad_id=null af_adset_id=null af_pmod_priority=null - 1 раз(а)
+
+Домен: cdn.investing.com встречается на 1 документах 3 раз
+   URL: https://cdn.investing.com/about-us/terms_and_conditions.pdf - 1 раз(а)
+   URL: https://cdn.investing.com/about-us/privacy_policy.pdf - 1 раз(а)
+   URL: https://cdn.investing.com/about-us/risk_warning.pdf - 1 раз(а)
+

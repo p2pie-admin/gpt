@@ -1,0 +1,53 @@
+Популярные внешние ссылки на домены по группе запросов: "usdc кошелек"
+
+Домен: t.me встречается на 4 из 10 популярных документов
+   URL: https://t.me/gemwallet - 1 раз(а)
+   URL: https://t.me/trustwallet - 1 раз(а)
+   URL: https://t.me/+j9qOH2mtGwJmZDli - 2 раз(а)
+   URL: https://t.me/matbea - 1 раз(а)
+   URL: https://t.me/matbea_community - 1 раз(а)
+
+Домен: instagram.com встречается на 4 из 10 популярных документов
+   URL: https://www.instagram.com/gemwallet - 1 раз(а)
+   URL: https://instagram.com/trustwallet - 1 раз(а)
+   URL: https://instagram.com/cryptomus - 1 раз(а)
+   URL: https://www.instagram.com/swissmoneyapp - 1 раз(а)
+
+Домен: youtube.com встречается на 4 из 10 популярных документов
+   URL: https://www.youtube.com/@gemwallet - 1 раз(а)
+   URL: https://www.youtube.com/@Trustwallet - 1 раз(а)
+   URL: https://www.youtube.com/@cryptomus - 1 раз(а)
+   URL: https://www.youtube.com/@MATBEA2014 - 1 раз(а)
+
+Домен: apps.apple.com встречается на 4 из 10 популярных документов
+   URL: https://apps.apple.com/app/apple-store/id1442083982?pt=118900606 - 1 раз(а)
+   URL: https://apps.apple.com/app/apple-store/id6448712670?mt=8&utm_source=website_assets - 1 раз(а)
+   URL: https://apps.apple.com/app/apple-store/id1288339409?mt=8 - 1 раз(а)
+   URL: https://apps.apple.com/us/app/chatmtb/id6745185079 - 1 раз(а)
+
+Домен: discord.gg встречается на 3 из 10 популярных документов
+   URL: https://discord.gg/4jpxtwT8r6 - 1 раз(а)
+   URL: https://discord.gg/trustwallet - 1 раз(а)
+   URL: https://discord.gg/9vHK6R9HkQ - 1 раз(а)
+
+Домен: reddit.com встречается на 2 из 10 популярных документов
+   URL: https://reddit.com/r/trustapp - 1 раз(а)
+   URL: https://www.reddit.com/user/Cryptomuscom - 1 раз(а)
+
+Домен: github.com встречается на 2 из 10 популярных документов
+   URL: https://github.com/gemwalletcom - 1 раз(а)
+   URL: https://github.com/trustwallet - 1 раз(а)
+
+Домен: medium.com встречается на 1 документах 17 раз
+   URL: https://medium.com/m/signin?operation=login redirect=https%3A%2F%2Fkaneseham.medium.com%2Fhow-to-create-usdc-wallet-best-usdc-wallet-ever-4b3a1df89bde source=post_page---top_nav_layout_nav-----------------------global_nav------------------ - 2 раз(а)
+   URL: https://medium.com/?source=post_page---top_nav_layout_nav----------------------------------------- - 1 раз(а)
+   URL: https://medium.com/m/signin?operation=register redirect=https%3A%2F%2Fmedium.com%2Fnew-story source=---top_nav_layout_nav-----------------------new_post_topnav------------------ - 1 раз(а)
+   URL: https://medium.com/search?source=post_page---top_nav_layout_nav----------------------------------------- - 1 раз(а)
+   URL: https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F4b3a1df89bde operation=register redirect=https%3A%2F%2Fkaneseham.medium.com%2Fhow-to-create-usdc-wallet-best-usdc-wallet-ever-4b3a1df89bde user=Eugene+Fomin userId=14b6d048f857 source=---header_actions--4b3a1df89bde---------------------clap_footer------------------ - 1 раз(а)
+
+Домен: policy.medium.com встречается на 1 документах 4 раз
+   URL: https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--4b3a1df89bde--------------------------------------- - 1 раз(а)
+   URL: https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----4b3a1df89bde--------------------------------------- - 1 раз(а)
+   URL: https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page-----4b3a1df89bde--------------------------------------- - 1 раз(а)
+   URL: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----4b3a1df89bde--------------------------------------- - 1 раз(а)
+

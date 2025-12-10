@@ -1,0 +1,86 @@
+Популярные внешние ссылки на домены по группе запросов: "криптовалюта телеграм цена"
+
+Домен: github.com встречается на 6 из 10 популярных документов
+   URL: https://github.com/ton-blockchain - 3 раз(а)
+   URL: https://github.com/newton-blockchain - 2 раз(а)
+   URL: https://github.com/chainsulting/Smart-Contract-Security-Audits/tree/master/TON - 1 раз(а)
+
+Домен: t.me встречается на 5 из 10 популярных документов
+   URL: https://t.me/tradingview - 1 раз(а)
+   URL: https://t.me/GetVerse/1 - 2 раз(а)
+   URL: https://t.me/CoinMarketCapAnnouncements - 1 раз(а)
+   URL: https://t.me/toncoin - 1 раз(а)
+   URL: https://t.me/coingecko - 1 раз(а)
+
+Домен: ton.org встречается на 5 из 10 популярных документов
+   URL: https://ton.org - 5 раз(а)
+   URL: https://ton.org/whitepaper.pdf - 5 раз(а)
+
+Домен: tonscan.org встречается на 4 из 10 популярных документов
+   URL: https://tonscan.org - 3 раз(а)
+   URL: https://tonscan.org/address/EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c - 1 раз(а)
+
+Домен: youtube.com встречается на 4 из 10 популярных документов
+   URL: https://www.youtube.com/@TradingView - 1 раз(а)
+   URL: https://www.youtube.com/channel/UCnhdZlwVd6ocXGhdSyV9Axg/?sub_confirmation=1 - 1 раз(а)
+   URL: https://www.youtube.com/@CoinGecko?sub_confirmation=1 - 1 раз(а)
+   URL: https://www.youtube.com/channel/UC-OTgwOAI7KmP0eDAtqN3Ow?sub_confirmation=1 - 1 раз(а)
+   URL: https://www.youtube.com/c/KuCoinExchange - 1 раз(а)
+
+Домен: instagram.com встречается на 4 из 10 популярных документов
+   URL: https://www.instagram.com/tradingview - 1 раз(а)
+   URL: https://www.instagram.com/coinmarketcap - 1 раз(а)
+   URL: https://www.instagram.com/coingecko - 1 раз(а)
+   URL: https://www.instagram.com/kucoinexchange - 1 раз(а)
+
+Домен: reddit.com встречается на 4 из 10 популярных документов
+   URL: https://www.reddit.com/r/TradingView - 1 раз(а)
+   URL: https://www.reddit.com/r/CoinMarketCap - 1 раз(а)
+   URL: https://www.reddit.com/r/coingecko - 1 раз(а)
+   URL: https://www.reddit.com/r/kucoin - 1 раз(а)
+
+Домен: x.com встречается на 3 из 10 популярных документов
+   URL: https://x.com/tradingview - 1 раз(а)
+   URL: https://x.com/bitcoincom - 2 раз(а)
+   URL: https://x.com/KuCoinCom - 1 раз(а)
+
+Домен: discord.com встречается на 2 из 10 популярных документов
+   URL: https://discord.com/invite/bitcoin-com - 2 раз(а)
+   URL: https://discord.com/invite/kucoinofficialserver - 1 раз(а)
+
+Домен: tonviewer.com встречается на 2 из 10 популярных документов
+   URL: https://tonviewer.com/EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c - 1 раз(а)
+   URL: https://tonviewer.com - 1 раз(а)
+
+Домен: etherscan.io встречается на 2 из 10 популярных документов
+   URL: https://etherscan.io/token/0x582d872a1b094fc48f5de31d3b73f2d9be47def1 - 2 раз(а)
+
+Домен: tiktok.com встречается на 2 из 10 популярных документов
+   URL: https://www.tiktok.com/@tradingview - 1 раз(а)
+   URL: https://www.tiktok.com/@coingeckotv - 1 раз(а)
+
+Домен: tradingview.com встречается на 1 документах 2 раз
+   URL: https://www.tradingview.com/pine-script-docs - 1 раз(а)
+   URL: https://www.tradingview.com/blog/ru - 1 раз(а)
+
+Домен: coingecko.app.link встречается на 1 документах 14 раз
+   URL: https://coingecko.app.link/lTInCXLGz4 - 1 раз(а)
+   URL: https://coingecko.app.link/yaxgIjInuLb - 1 раз(а)
+   URL: https://coingecko.app.link/Nhgleb44aVb - 1 раз(а)
+   URL: https://coingecko.app.link/footer-android - 4 раз(а)
+   URL: https://coingecko.app.link/footer-ios - 4 раз(а)
+
+Домен: geckoterminal.com встречается на 1 документах 4 раз
+   URL: https://www.geckoterminal.com/ton/tokens/EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c?utm_source=coingecko utm_medium=referral utm_campaign=livechart-btn - 1 раз(а)
+   URL: https://www.geckoterminal.com/ton/tokens/EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c?utm_source=coingecko utm_medium=referral utm_campaign=contract_selector - 1 раз(а)
+   URL: https://www.geckoterminal.com/eth/tokens/0x582d872a1b094fc48f5de31d3b73f2d9be47def1?utm_source=coingecko utm_medium=referral utm_campaign=contract_selector - 1 раз(а)
+   URL: https://www.geckoterminal.com/bsc/tokens/0x76a797a59ba2c17726896976b7b3747bfd1d220f?utm_source=coingecko utm_medium=referral utm_campaign=contract_selector - 1 раз(а)
+
+Домен: news.bitcoin.com встречается на 1 документах 4 раз
+   URL: https://news.bitcoin.com/ru/bitkoin-padaet-poskolku-rastut-opaseniya-po-povodu-puzyrya-ii - 2 раз(а)
+   URL: https://news.bitcoin.com/ru/transak-poluchaet-shest-novyh-licenzij-na-peredachu-deneg-v-ssha - 2 раз(а)
+
+Домен: coindesk.com встречается на 1 документах 4 раз
+   URL: https://www.coindesk.com/ru/coindesk-indices/2025/11/12/crypto-long-and-short-the-rise-of-datcos - 2 раз(а)
+   URL: https://www.coindesk.com/ru/markets/2025/11/12/bitcoin-slips-1-2-as-volume-thins-near-usd100k-support - 2 раз(а)
+

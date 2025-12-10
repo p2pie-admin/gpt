@@ -46,6 +46,7 @@ export const getEnding = (link?: string) => {
     .replace(/https?:\/\/(www\.)?/i, "___")
     .split("/")[0]
     .replace("api.", "")
+    .replace("xml.", "")
     .replace("___", "");
 
   const parts = trimmed.split(domain);

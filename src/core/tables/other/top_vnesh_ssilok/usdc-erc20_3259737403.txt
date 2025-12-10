@@ -1,0 +1,66 @@
+Популярные внешние ссылки на домены по группе запросов: "usdc erc20"
+
+Домен: circle.com встречается на 3 из 10 популярных документов
+   URL: https://www.circle.com/usdc - 4 раз(а)
+   URL: https://www.circle.com/developer - 4 раз(а)
+   URL: https://www.circle.com/en/multi-chain-usdc/ethereum - 2 раз(а)
+   URL: https://www.circle.com/en/multi-chain-usdc/solana - 1 раз(а)
+   URL: https://www.circle.com/en/multi-chain-usdc/arbitrum - 1 раз(а)
+
+Домен: instagram.com встречается на 2 из 10 популярных документов
+   URL: https://www.instagram.com/getblockcrypto - 3 раз(а)
+   URL: https://www.instagram.com/bestchange - 1 раз(а)
+
+Домен: t.me встречается на 2 из 10 популярных документов
+   URL: https://t.me/GetblockMagazine - 4 раз(а)
+   URL: https://t.me/AML_checking_getblocknet_bot - 3 раз(а)
+   URL: https://t.me/GetBlockMagazine - 1 раз(а)
+   URL: https://t.me/s/bestchange - 1 раз(а)
+
+Домен: x.com встречается на 2 из 10 популярных документов
+   URL: https://x.com/USDC - 1 раз(а)
+   URL: https://x.com/bestchangeeng - 1 раз(а)
+
+Домен: wikidata.org встречается на 1 документах 3 раз
+   URL: https://www.wikidata.org/wiki/Special:EntityPage/Q100781882#sitelinks-wikipedia - 1 раз(а)
+   URL: https://www.wikidata.org/wiki/Special:EntityPage/Q100781882 - 1 раз(а)
+   URL: https://www.wikidata.org/wiki/Q100781882#P856 - 1 раз(а)
+
+Домен: web.archive.org встречается на 1 документах 4 раз
+   URL: https://web.archive.org/web/20241203124342/https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf - 1 раз(а)
+   URL: https://web.archive.org/web/20201109011705/https://www.ft.com/content/9b1cf5dc-582e-11e8-bdb7-f6677d2e1ce8 - 1 раз(а)
+   URL: https://web.archive.org/web/20200606095247/https://www.reuters.com/article/us-crypto-currencies-circle/circle-raises-110-million-plans-to-create-dollar-pegged-cryptocurrency-idUSKCN1IG38R - 1 раз(а)
+   URL: https://web.archive.org/web/20210330032118/https://www.reuters.com/article/crypto-currency-visa/exclusive-visa-moves-to-allow-payment-settlements-using-cryptocurrency-idINKBN2BL0XI - 1 раз(а)
+
+Домен: ft.com встречается на 1 документах 2 раз
+   URL: https://www.ft.com/content/9b1cf5dc-582e-11e8-bdb7-f6677d2e1ce8 - 1 раз(а)
+   URL: https://www.ft.com/content/7676451f-23a9-42eb-a179-c3ebbcfc0bff - 1 раз(а)
+
+Домен: centre.io встречается на 1 документах 2 раз
+   URL: https://www.centre.io/usdc?hsLang=en - 1 раз(а)
+   URL: https://www.centre.io/usdc-transparency - 1 раз(а)
+
+Домен: fortune.com встречается на 1 документах 3 раз
+   URL: https://fortune.com/crypto/2023/08/23/usdc-base-cosmos-near-optimism-polkadot-polygon-pos-circle - 2 раз(а)
+   URL: https://fortune.com/crypto/2023/09/05/visa-stablecoin-usdc-solana-worldpay-nuvei-merchants-payments - 1 раз(а)
+
+Домен: reuters.com встречается на 1 документах 3 раз
+   URL: https://www.reuters.com/article/us-crypto-currencies-circle/circle-raises-110-million-plans-to-create-dollar-pegged-cryptocurrency-idUSKCN1IG38R - 1 раз(а)
+   URL: https://www.reuters.com/article/crypto-currency-visa/exclusive-visa-moves-to-allow-payment-settlements-using-cryptocurrency-idINKBN2BL0XI - 1 раз(а)
+   URL: https://www.reuters.com/technology/crypto-firm-circle-end-support-usdc-stablecoin-tron-blockchain-2024-02-21 - 1 раз(а)
+
+Домен: bloomberg.com встречается на 1 документах 2 раз
+   URL: https://www.bloomberg.com/news/articles/2023-03-16/us-bank-crisis-prompts-stablecoin-usdc-backer-s-flight-to-big-lenders - 1 раз(а)
+   URL: https://www.bloomberg.com/news/articles/2024-04-29/circle-s-usdc-takes-lead-in-stablecoin-transactions-visa-says - 1 раз(а)
+
+Домен: foundation.wikimedia.org встречается на 1 документах 5 раз
+   URL: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use - 1 раз(а)
+   URL: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy - 2 раз(а)
+   URL: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct - 1 раз(а)
+   URL: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement - 1 раз(а)
+
+Домен: web3.bitget.com встречается на 1 документах 5 раз
+   URL: https://web3.bitget.com - 1 раз(а)
+   URL: https://web3.bitget.com/en - 2 раз(а)
+   URL: https://web3.bitget.com/en/swap - 2 раз(а)
+

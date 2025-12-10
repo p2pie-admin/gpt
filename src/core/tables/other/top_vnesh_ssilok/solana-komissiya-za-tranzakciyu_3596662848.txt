@@ -1,0 +1,72 @@
+Популярные внешние ссылки на домены по группе запросов: "solana комиссия за транзакцию"
+
+Домен: t.me встречается на 6 из 10 популярных документов
+   URL: https://t.me/croptywallet - 2 раз(а)
+   URL: https://t.me/Datawallet_TG - 1 раз(а)
+   URL: https://t.me/Emcdnews - 1 раз(а)
+   URL: https://t.me/+j9qOH2mtGwJmZDli - 2 раз(а)
+   URL: https://t.me/GateCom_EN - 2 раз(а)
+
+Домен: instagram.com встречается на 5 из 10 популярных документов
+   URL: https://www.instagram.com/croptywallet - 2 раз(а)
+   URL: https://www.instagram.com/emcd_io - 1 раз(а)
+   URL: https://instagram.com/cryptomus - 1 раз(а)
+   URL: https://www.instagram.com/gate.com_global - 2 раз(а)
+
+Домен: youtube.com встречается на 5 из 10 популярных документов
+   URL: https://www.youtube.com/@croptytv - 2 раз(а)
+   URL: https://www.youtube.com/@emcd_io - 1 раз(а)
+   URL: https://www.youtube.com/@cryptomus - 1 раз(а)
+   URL: https://www.youtube.com/@GateExchange - 2 раз(а)
+   URL: https://www.youtube.com/watch?v=DE9ujwX7KM8 - 1 раз(а)
+
+Домен: x.com встречается на 5 из 10 популярных документов
+   URL: https://x.com/cropty_app - 2 раз(а)
+   URL: https://x.com/Datawalletcom - 1 раз(а)
+   URL: https://x.com/cryptomus - 1 раз(а)
+   URL: https://x.com/Gate - 2 раз(а)
+
+Домен: github.com встречается на 3 из 10 популярных документов
+   URL: https://github.com/anza-xyz/agave/blob/v2.1.13/sdk/fee-calculator/src/lib.rs#L70 - 1 раз(а)
+   URL: https://github.com/anza-xyz/agave/blob/e621336acad4f5d6e5b860eaa1b074b01c99253c/runtime/src/bank/fee_distribution.rs#L58-L62 - 1 раз(а)
+   URL: https://github.com/anza-xyz/agave/blob/v2.2.14/compute-budget/src/compute_budget_limits.rs#L47-L48 - 1 раз(а)
+   URL: https://github.com/solana-foundation/solana-improvement-documents/blob/main/proposals/0096-reward-collected-priority-fee-in-entirety.md - 1 раз(а)
+   URL: https://github.com/anza-xyz/agave/blob/v2.2.14/core/src/banking_stage/transaction_scheduler/receive_and_buffer.rs#L646 - 1 раз(а)
+
+Домен: tiktok.com встречается на 3 из 10 популярных документов
+   URL: https://www.tiktok.com/@croptywallet - 2 раз(а)
+   URL: https://www.tiktok.com/@gate_com - 2 раз(а)
+
+Домен: dune.com встречается на 2 из 10 популярных документов
+   URL: https://dune.com/lily212/solana-fee-tracker - 1 раз(а)
+   URL: https://dune.com/queries/3197218/5347662?address_t6c1ea=4DoNfFBfF7UokCC2FQzriy7yHK6DY6NVdYpuekQ5pRgg - 1 раз(а)
+
+Домен: web3.ldd678.com встречается на 2 из 10 популярных документов
+   URL: https://web3.ldd678.com/launchpad/bob - 2 раз(а)
+
+Домен: gatechain.io встречается на 2 из 10 популярных документов
+   URL: https://gatechain.io - 2 раз(а)
+
+Домен: umbraresearch.xyz встречается на 2 из 10 популярных документов
+   URL: https://www.umbraresearch.xyz/writings/lifecycle-of-a-solana-transaction#transaction-execution-and-ordering - 3 раз(а)
+   URL: https://www.umbraresearch.xyz/writings/solana-fees-part-1 - 1 раз(а)
+   URL: https://www.umbraresearch.xyz/writings/lifecycle-of-a-solana-transaction - 1 раз(а)
+   URL: https://www.umbraresearch.xyz/writings/mev-on-solana#priority-fees - 1 раз(а)
+   URL: https://www.umbraresearch.xyz/writings/mev-on-solana - 1 раз(а)
+
+Домен: apps.apple.com встречается на 1 документах 3 раз
+   URL: https://apps.apple.com/app/apple-store/id1624901793?pt=125031953 ct=header mt=8 - 1 раз(а)
+   URL: https://apps.apple.com/app/apple-store/id1624901793?pt=125031953 ct=fees_coin mt=8 - 1 раз(а)
+   URL: https://apps.apple.com/app/apple-store/id1624901793?pt=125031953 ct=footer-apps mt=8 - 1 раз(а)
+
+Домен: solana.com встречается на 1 документах 4 раз
+   URL: https://solana.com/docs/core/fees - 1 раз(а)
+   URL: https://solana.com/docs/core/fees#transaction-fees - 1 раз(а)
+   URL: https://solana.com/docs/core/fees#prioritization-fees - 1 раз(а)
+   URL: https://solana.com/docs/core/fees#rent - 1 раз(а)
+
+Домен: en.wikipedia.org встречается на 1 документах 3 раз
+   URL: https://en.wikipedia.org/wiki/Additive_increase/multiplicative_decrease - 1 раз(а)
+   URL: https://en.wikipedia.org/wiki/Medium_access_control - 1 раз(а)
+   URL: https://en.wikipedia.org/wiki/Market_clearing - 1 раз(а)
+

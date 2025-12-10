@@ -1,0 +1,51 @@
+Популярные внешние ссылки на домены по группе запросов: "официальный сайт биткоина"
+
+Домен: apps.apple.com встречается на 2 из 10 популярных документов
+   URL: https://apps.apple.com/us/app/bitcoin-com-wallet-buy-sell/id1252903728?ls=1 - 2 раз(а)
+   URL: https://apps.apple.com/us/app/blockchain-bitcoin-wallet/id493253309 - 1 раз(а)
+
+Домен: bitcoin.org встречается на 2 из 10 популярных документов
+   URL: https://bitcoin.org/en/bitcoin-paper - 1 раз(а)
+   URL: https://bitcoin.org/en/bitcoin-for-individuals - 2 раз(а)
+   URL: https://bitcoin.org/en/events - 2 раз(а)
+
+Домен: github.com встречается на 2 из 10 популярных документов
+   URL: https://github.com/bitcoinhk/bitcoinhk.github.io - 1 раз(а)
+   URL: https://github.com/blockchain - 1 раз(а)
+
+Домен: t.me встречается на 2 из 10 популярных документов
+   URL: https://t.me/GetVerse/1 - 2 раз(а)
+   URL: https://t.me/bitpointhk - 1 раз(а)
+   URL: https://t.me/bitcoinorghk - 1 раз(а)
+   URL: https://t.me/bitcoinhk - 5 раз(а)
+   URL: https://t.me/bitcoinhelpdesk - 1 раз(а)
+
+Домен: x.com встречается на 2 из 10 популярных документов
+   URL: https://x.com/bitcoincom - 2 раз(а)
+   URL: https://x.com/blockchain - 2 раз(а)
+
+Домен: wikidata.org встречается на 1 документах 3 раз
+   URL: https://www.wikidata.org/wiki/Special:EntityPage/Q48802153#sitelinks-wikipedia - 1 раз(а)
+   URL: https://www.wikidata.org/wiki/Special:EntityPage/Q48802153 - 1 раз(а)
+   URL: https://www.wikidata.org/wiki/Q48802153#P856 - 1 раз(а)
+
+Домен: bitcoin.com встречается на 1 документах 2 раз
+   URL: http://bitcoin.com - 1 раз(а)
+   URL: https://www.bitcoin.com - 1 раз(а)
+
+Домен: wsj.com встречается на 1 документах 4 раз
+   URL: https://www.wsj.com/articles/BL-MBB-19973 - 2 раз(а)
+   URL: https://www.wsj.com/articles/BL-MBB-19768 - 1 раз(а)
+   URL: https://www.wsj.com/articles/BL-MBB-19763 - 1 раз(а)
+
+Домен: foundation.wikimedia.org встречается на 1 документах 5 раз
+   URL: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use - 1 раз(а)
+   URL: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy - 2 раз(а)
+   URL: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct - 1 раз(а)
+   URL: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement - 1 раз(а)
+
+Домен: bcdc.onelink.me встречается на 1 документах 4 раз
+   URL: https://bcdc.onelink.me/Q9T6/9iu7vnid - 1 раз(а)
+   URL: https://bcdc.onelink.me/Q9T6/bqzgz0fe - 2 раз(а)
+   URL: https://bcdc.onelink.me/Q9T6/0diw5yi6 - 1 раз(а)
+

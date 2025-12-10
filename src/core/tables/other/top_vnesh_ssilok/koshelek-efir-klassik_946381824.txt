@@ -1,0 +1,76 @@
+Популярные внешние ссылки на домены по группе запросов: "кошелек эфир классик"
+
+Домен: github.com встречается на 4 из 10 популярных документов
+   URL: https://github.com/ethereumclassic/ethereumclassic.github.io#translations - 2 раз(а)
+   URL: https://github.com/poanetwork/nifty-wallet - 1 раз(а)
+   URL: https://github.com/ethereumclassic/ethereumclassic.github.io - 1 раз(а)
+   URL: https://github.com/AndrewGuarda - 1 раз(а)
+   URL: https://github.com/antsankov - 1 раз(а)
+
+Домен: discord.com встречается на 3 из 10 популярных документов
+   URL: https://discord.com/invite/dwxb6nf - 1 раз(а)
+   URL: https://discord.com/invite/Tq57jxSwsa - 2 раз(а)
+   URL: https://discord.com/invite/hQs894U - 2 раз(а)
+   URL: https://discord.com/invite/ledger - 1 раз(а)
+
+Домен: reddit.com встречается на 3 из 10 популярных документов
+   URL: https://reddit.com/r/ethereumclassic - 2 раз(а)
+   URL: https://www.reddit.com/r/ledgerwallet - 1 раз(а)
+
+Домен: t.me встречается на 2 из 10 популярных документов
+   URL: https://t.me/jerlis_lives_here - 2 раз(а)
+   URL: https://t.me/Emcdnews - 1 раз(а)
+   URL: https://t.me/bytwork - 2 раз(а)
+   URL: https://t.me/bytworkchannel - 2 раз(а)
+
+Домен: trustwallet.com встречается на 2 из 10 популярных документов
+   URL: https://trustwallet.com/ethereum-classic-wallet - 2 раз(а)
+   URL: https://trustwallet.com/ru - 1 раз(а)
+
+Домен: chainlist.org встречается на 2 из 10 популярных документов
+   URL: https://chainlist.org/chain/61 - 2 раз(а)
+
+Домен: netlify.com встречается на 2 из 10 популярных документов
+   URL: https://www.netlify.com - 2 раз(а)
+
+Домен: crowdin.com встречается на 2 из 10 популярных документов
+   URL: https://www.crowdin.com - 2 раз(а)
+
+Домен: x.com встречается на 2 из 10 популярных документов
+   URL: https://x.com/wallet - 1 раз(а)
+   URL: https://x.com/jerlis_here - 2 раз(а)
+
+Домен: exodus.com встречается на 2 из 10 популярных документов
+   URL: https://www.exodus.com - 2 раз(а)
+
+Домен: coinomi.com встречается на 2 из 10 популярных документов
+   URL: https://www.coinomi.com - 1 раз(а)
+   URL: https://www.coinomi.com/en - 1 раз(а)
+
+Домен: shop.ledger.com встречается на 2 из 10 популярных документов
+   URL: https://shop.ledger.com - 1 раз(а)
+   URL: https://shop.ledger.com/products/ledger-nano-s-plus?r=1ae3cd5dc982 - 1 раз(а)
+
+Домен: atomicwallet.io встречается на 2 из 10 популярных документов
+   URL: https://atomicwallet.io - 1 раз(а)
+   URL: https://atomicwallet.io/ru - 1 раз(а)
+
+Домен: instagram.com встречается на 2 из 10 популярных документов
+   URL: https://www.instagram.com/emcd_io - 1 раз(а)
+   URL: https://www.instagram.com/ledger - 1 раз(а)
+
+Домен: youtube.com встречается на 2 из 10 популярных документов
+   URL: https://www.youtube.com/@emcd_io - 1 раз(а)
+   URL: https://www.youtube.com/Ledger - 1 раз(а)
+
+Домен: ethereumclassic.org встречается на 2 из 10 популярных документов
+   URL: https://ethereumclassic.org/blog/2022-12-21-using-ethereum-classic-with-metamask - 1 раз(а)
+   URL: https://ethereumclassic.org/blog/2023-02-07-using-ethereum-classic-with-trust-wallet - 1 раз(а)
+   URL: https://ethereumclassic.org/blog/2023-02-21-using-ethereum-classic-with-ledger-nano-s - 1 раз(а)
+   URL: https://ethereumclassic.org/blog/2023-03-01-using-ethereum-classic-with-mycrypto - 1 раз(а)
+   URL: https://ethereumclassic.org/blog/2023-05-23-using-ethereum-classic-with-myetherwallet - 1 раз(а)
+
+Домен: cryptodaily.co.uk встречается на 1 документах 4 раз
+   URL: https://cryptodaily.co.uk/2024/04/emcd-cyberbank-sets-new-yield-standards-with-coinhold-savings-wallet - 2 раз(а)
+   URL: https://cryptodaily.co.uk/2024/11/top-10-web3-platforms-shaping-digital-assets-management-in-2024 - 2 раз(а)
+

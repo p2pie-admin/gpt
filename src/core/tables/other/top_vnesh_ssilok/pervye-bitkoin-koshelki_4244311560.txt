@@ -1,0 +1,311 @@
+Популярные внешние ссылки на домены по группе запросов: "первые биткоин кошельки"
+
+Домен: youtube.com встречается на 2 из 10 популярных документов
+   URL: https://www.youtube.com/watch?v=C5RKAD3Kb7k list=PLjSDyY6BQPVeaCKIMzqoxBBc7H_QDupPt index=4 - 1 раз(а)
+   URL: https://www.youtube.com/watch?v=ISUbNV8Pdk8 list=PLjSDyY6BQPVeaCKIMzqoxBBc7H_QDupPt index=7 - 1 раз(а)
+   URL: https://www.youtube.com/watch?v=C8W-gMz-AR0 list=PLjSDyY6BQPVeaCKIMzqoxBBc7H_QDupPt index=8 - 1 раз(а)
+   URL: https://www.youtube.com/user/alekseyros - 1 раз(а)
+   URL: http://www.youtube.com/@Habr_com - 1 раз(а)
+
+Домен: bbc.com встречается на 2 из 10 популярных документов
+   URL: https://www.bbc.com/russian/features-40795000 - 1 раз(а)
+   URL: https://www.bbc.com/news/technology-19633980 - 1 раз(а)
+   URL: https://www.bbc.com/russian/news-57374261 - 1 раз(а)
+   URL: https://www.bbc.com/russian/news-58466367 - 1 раз(а)
+   URL: https://www.bbc.com/russian/news-56038682 - 1 раз(а)
+
+Домен: wired.com встречается на 2 из 10 популярных документов
+   URL: https://www.wired.com/images_blogs/threatlevel/2012/05/Bitcoin-FBI.pdf - 1 раз(а)
+   URL: https://www.wired.com/story/after-10-years-bitcoin-changed-everything-nothing - 1 раз(а)
+   URL: https://www.wired.com/magazine/2011/11/mf_bitcoin/3 - 1 раз(а)
+   URL: https://www.wired.com/story/i-forgot-my-pin-an-epic-tale-of-losing-dollar30000-in-bitcoin - 1 раз(а)
+
+Домен: bitcoinmagazine.com встречается на 2 из 10 популярных документов
+   URL: https://bitcoinmagazine.com/tags/laszlo-hanyecz - 1 раз(а)
+   URL: https://bitcoinmagazine.com/guides/best-bitcoin-only-exchanges - 1 раз(а)
+   URL: https://bitcoinmagazine.com/about - 1 раз(а)
+   URL: https://bitcoinmagazine.com/articles/bitcoin-lightning-network-creators-fees-will-be-effectively-zero-1459955513 - 1 раз(а)
+
+Домен: x.com встречается на 1 документах 2 раз
+   URL: https://x.com/intent/post?url=https%3A%2F%2Fwww.nasdaq.com%2Farticles%2Fthe-evolution-of-bitcoin-wallets:-from-the-early-days-to-todays-modern-solutions text= - 1 раз(а)
+   URL: https://x.com/Nasdaq - 1 раз(а)
+
+Домен: unsplash.com встречается на 1 документах 6 раз
+   URL: https://unsplash.com/@drawkit?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText - 1 раз(а)
+   URL: https://unsplash.com/photos/FjMzj5NNDws?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText - 1 раз(а)
+   URL: https://unsplash.com/@cardmapr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText - 1 раз(а)
+   URL: https://unsplash.com/photos/XH2JFgT4Abc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText - 1 раз(а)
+   URL: https://unsplash.com/pt-br/@theshubhamdhage?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText - 1 раз(а)
+
+Домен: wikidata.org встречается на 1 документах 4 раз
+   URL: https://www.wikidata.org/wiki/Q19892282#sitelinks-wikipedia - 1 раз(а)
+   URL: https://www.wikidata.org/wiki/Q131723#identifiers - 1 раз(а)
+   URL: https://www.wikidata.org/wiki/Special:EntityPage/Q131723 - 1 раз(а)
+   URL: https://www.wikidata.org/wiki/Special:EntityPage/Q131723#sitelinks-wikipedia - 1 раз(а)
+
+Домен: bitcoin.org встречается на 1 документах 5 раз
+   URL: https://bitcoin.org/ru - 1 раз(а)
+   URL: https://bitcoin.org/ru/development - 1 раз(а)
+   URL: https://www.bitcoin.org/wiki/doku.php?id=api - 1 раз(а)
+   URL: https://www.bitcoin.org/bitcoin.pdf - 1 раз(а)
+   URL: https://www.bitcoin.org/ru - 1 раз(а)
+
+Домен: en.wikipedia.org встречается на 1 документах 18 раз
+   URL: https://en.wikipedia.org/wiki/Stefan_Brands - 1 раз(а)
+   URL: https://en.wikipedia.org/wiki/Random_seed - 1 раз(а)
+   URL: https://en.wikipedia.org/wiki/Money_Service_Business - 1 раз(а)
+   URL: https://en.wikipedia.org/wiki/colored_coins - 1 раз(а)
+   URL: https://en.wikipedia.org/wiki/Needham_%26_Company - 1 раз(а)
+
+Домен: github.com встречается на 1 документах 2 раз
+   URL: https://github.com/OpenAssets/open-assets-protocol/blob/master/specification.mediawiki - 1 раз(а)
+   URL: https://github.com/bitcoin - 1 раз(а)
+
+Домен: esquire.ru встречается на 1 документах 2 раз
+   URL: https://esquire.ru/bitcoin - 1 раз(а)
+   URL: http://esquire.ru/bitcoin - 1 раз(а)
+
+Домен: bitnovosti.com встречается на 1 документах 18 раз
+   URL: http://bitnovosti.com/2014/01/06/bitcoin-eto-finansovaya-platforma-s-raznymi-api - 1 раз(а)
+   URL: http://bitnovosti.com/2013/12/06/centrobanki-mira-pro-bitcoin - 1 раз(а)
+   URL: http://bitnovosti.com/2013/12/25/pizza-stoit-7-mln-dollarov - 1 раз(а)
+   URL: https://bitnovosti.com/2015/02/08/sekrety-i-surprizy-blockchain - 1 раз(а)
+   URL: http://bitnovosti.com/2013/12/20/bitcoin-ferma-v-hongkonge - 1 раз(а)
+
+Домен: web.archive.org встречается на 1 документах 289 раз
+   URL: https://web.archive.org/web/20140304143828/http://bitnovosti.com/2014/01/06/bitcoin-eto-finansovaya-platforma-s-raznymi-api - 1 раз(а)
+   URL: https://web.archive.org/web/20160327133402/https://geektimes.ru/post/222493 - 1 раз(а)
+   URL: https://web.archive.org/web/20170214113759/https://www.youtube.com/watch?v=Phw7BYZie2g - 1 раз(а)
+   URL: https://web.archive.org/web/20160520151935/http://bits.media/news/dolgosrochnye-plany-vitalika-buterina - 1 раз(а)
+   URL: https://web.archive.org/web/20130623053721/http://www.kommersant.ru/doc/2213241 - 1 раз(а)
+
+Домен: geektimes.ru встречается на 1 документах 2 раз
+   URL: https://geektimes.ru/post/222493 - 1 раз(а)
+   URL: https://geektimes.ru/post/279148 - 1 раз(а)
+
+Домен: bits.media встречается на 1 документах 12 раз
+   URL: http://bits.media/news/dolgosrochnye-plany-vitalika-buterina - 1 раз(а)
+   URL: http://bits.media/news/bitkoin-budet-vklyuchen-v-spisok-valyut-microsoft-excel-2016 - 1 раз(а)
+   URL: http://bits.media/bitcoin-address-theory - 1 раз(а)
+   URL: http://bits.media/bitcoin-address-practice - 1 раз(а)
+   URL: http://bits.media/transactions - 1 раз(а)
+
+Домен: kommersant.ru встречается на 1 документах 4 раз
+   URL: http://www.kommersant.ru/doc/2213241 - 1 раз(а)
+   URL: http://www.kommersant.ru/doc/2153233 - 1 раз(а)
+   URL: http://www.kommersant.ru/Doc/1656928 - 1 раз(а)
+   URL: https://www.kommersant.ru/doc/4594365 - 1 раз(а)
+
+Домен: habrahabr.ru встречается на 1 документах 6 раз
+   URL: http://habrahabr.ru/post/143587 - 1 раз(а)
+   URL: http://habrahabr.ru/company/host-tracker/blog/210126 - 1 раз(а)
+   URL: https://habrahabr.ru/company/zeptobars/blog/184506 - 1 раз(а)
+   URL: http://habrahabr.ru/post/139314 - 1 раз(а)
+   URL: http://habrahabr.ru/post/205534 - 1 раз(а)
+
+Домен: cbr.ru встречается на 1 документах 5 раз
+   URL: http://www.cbr.ru/press/PR.aspx?file=27012014_1825052.htm - 2 раз(а)
+   URL: http://www.cbr.ru/search/?text=биткойн - 1 раз(а)
+   URL: http://www.cbr.ru/search/?text=биткоин - 1 раз(а)
+   URL: http://www.cbr.ru/search/?text=bitcoin - 1 раз(а)
+
+Домен: forbes.ru встречается на 1 документах 2 раз
+   URL: http://www.forbes.ru/tehno/internet-i-telekommunikatsii/67492-virtualnyi-zolotoi-standart - 1 раз(а)
+   URL: https://www.forbes.ru/investicii/526518-kurs-bitkoina-vpervye-prevysil-100-000 - 1 раз(а)
+
+Домен: xakep.ru встречается на 1 документах 6 раз
+   URL: http://www.xakep.ru/post/60502 - 1 раз(а)
+   URL: http://www.xakep.ru/post/61745 - 1 раз(а)
+   URL: https://xakep.ru/2013/04/15/60452 - 1 раз(а)
+   URL: https://xakep.ru/2014/02/08/smart-bitcoin - 1 раз(а)
+   URL: https://xakep.ru/2016/01/18/cryptsy-face-bankruptcy - 1 раз(а)
+
+Домен: coindesk.com встречается на 1 документах 8 раз
+   URL: http://www.coindesk.com/bitcoin-foundation-standardise-bitcoin-symbol-code-next-year - 1 раз(а)
+   URL: https://www.coindesk.com/markets/2015/06/22/barclays-trials-bitcoin-tech-with-pilot-program - 1 раз(а)
+   URL: http://www.coindesk.com/goldman-sachs-report-says-bitcoin-could-shape-future-of-finance - 1 раз(а)
+   URL: https://www.coindesk.com/markets/2015/04/30/circle-raises-50-million-with-goldman-sachs-support - 1 раз(а)
+   URL: http://www.coindesk.com/swiss-bank-ubs-banks-absorb-benefits-bitcoin - 1 раз(а)
+
+Домен: mskagency.ru встречается на 1 документах 2 раз
+   URL: https://www.mskagency.ru/materials/2787331 - 1 раз(а)
+   URL: http://www.mskagency.ru/materials/2538927 - 1 раз(а)
+
+Домен: dx.doi.org встречается на 1 документах 2 раз
+   URL: https://dx.doi.org/10.1007%2F978-1-4757-0602-4_18 - 1 раз(а)
+   URL: https://dx.doi.org/10.5195/ledger.2018.127 - 1 раз(а)
+
+Домен: businessinsider.com встречается на 1 документах 4 раз
+   URL: http://www.businessinsider.com/bitcoin-history-cryptocurrency-satoshi-nakamoto-2017-12 - 1 раз(а)
+   URL: http://www.businessinsider.com/a-thief-is-attempting-to-hide-100-million-in-stolen-bitcoins-and-you-can-watch-it-live-right-now-2013-12 - 1 раз(а)
+   URL: http://www.businessinsider.com/roubini-bitcoin-is-a-ponzi-scheme-and-a-conduit-for-criminal-activities-2014-3 - 1 раз(а)
+   URL: http://www.businessinsider.com/warren-buffett-speaks-on-cnbc-2014-3?pundits_only=0 get_all_comments=1 no_reply_filter=1 - 1 раз(а)
+
+Домен: lenta.ru встречается на 1 документах 4 раз
+   URL: http://lenta.ru/articles/2013/04/03/bitcoins - 1 раз(а)
+   URL: https://lenta.ru/news/2017/07/26/detained - 1 раз(а)
+   URL: https://lenta.ru/news/2016/10/01/mavrodiafrica - 1 раз(а)
+   URL: https://lenta.ru/news/2017/10/04/pozoloti_ruchku - 1 раз(а)
+
+Домен: forbes.com встречается на 1 документах 4 раз
+   URL: https://www.forbes.com/sites/ericmack/2013/12/23/the-bitcoin-pizza-purchase-thats-worth-7-million-today - 1 раз(а)
+   URL: https://www.forbes.com/sites/jonmatonis/2012/04/26/be-your-own-bank-bitcoin-wallet-for-apple - 1 раз(а)
+   URL: https://www.forbes.com/forbes/2011/0509/technology-psilocybin-bitcoins-gavin-andresen-crypto-currency.html - 1 раз(а)
+   URL: https://www.forbes.com/sites/andreamorris/2018/10/29/bitcoin-predicted-to-be-the-nail-in-the-coffin-of-climate-change - 1 раз(а)
+
+Домен: reuters.com встречается на 1 документах 2 раз
+   URL: https://www.reuters.com/article/us-bitcoin-split-idUSKBN1AH5F1 - 1 раз(а)
+   URL: https://www.reuters.com/article/us-global-climatechange-crypto/producing-bitcoin-currency-could-void-climate-change-efforts-scientists-idUSKCN1N32RK - 1 раз(а)
+
+Домен: bloomberg.com встречается на 1 документах 5 раз
+   URL: https://www.bloomberg.com/video/bill-gates-bitcoin-is-exciting-because-it-s-cheap-dQ4qHV4~TLSnUIuIRfZBVA.html - 1 раз(а)
+   URL: https://www.bloomberg.com/news/articles/2022-02-26/ukraine-soliciting-crypto-donations-after-russian-invasion - 1 раз(а)
+   URL: https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=309314412 - 1 раз(а)
+   URL: https://www.bloomberg.com/news/articles/2022-05-20/bitmex-co-founder-arthur-hayes-sentenced-to-two-years-probation - 1 раз(а)
+   URL: https://www.bloomberg.com/news/2014-01-30/bitcoin-ponzi-scheme-worry-sparks-estonia-central-bank-caution.html - 1 раз(а)
+
+Домен: blockchain.info встречается на 1 документах 3 раз
+   URL: https://blockchain.info/address/1111111111111111111114oLvT2 - 1 раз(а)
+   URL: https://blockchain.info/address/1BitcoinEaterAddressDontSendf59kuE - 1 раз(а)
+   URL: https://blockchain.info/pools - 1 раз(а)
+
+Домен: tech.onliner.by встречается на 1 документах 2 раз
+   URL: http://tech.onliner.by/2013/11/28/bitcoins - 1 раз(а)
+   URL: https://tech.onliner.by/2022/04/28/car-sdelala-bitkoin-oficialnym-platezhnym-sredstvom-no-est-nyuans - 1 раз(а)
+
+Домен: arxiv.org встречается на 1 документах 2 раз
+   URL: http://arxiv.org/abs/1107.4524 - 1 раз(а)
+   URL: https://arxiv.org/pdf/1710.10377 - 1 раз(а)
+
+Домен: money.cnn.com встречается на 1 документах 2 раз
+   URL: http://money.cnn.com/2014/02/12/technology/security/bitcoin-attack - 1 раз(а)
+   URL: http://money.cnn.com/gallery/technology/2013/12/17/bitcoin-mine/index.html - 1 раз(а)
+
+Домен: economist.com встречается на 1 документах 2 раз
+   URL: https://www.economist.com/news/business/21638124-minting-digital-currency-has-become-big-ruthlessly-competitive-business-magic - 1 раз(а)
+   URL: https://www.economist.com/news/finance-and-economics/21599053-chronic-deflation-may-keep-bitcoin-displacing-its-fiat-rivals-money - 1 раз(а)
+
+Домен: rbc.ru встречается на 1 документах 10 раз
+   URL: https://www.rbc.ru/crypto/news/5a16a4d59a794796e0be5ef9 - 1 раз(а)
+   URL: https://www.rbc.ru/crypto/news/5eb9aabc9a7947071a652eb8 - 1 раз(а)
+   URL: https://www.rbc.ru/crypto/news/5a97c0e69a79474a03e38a11 - 1 раз(а)
+   URL: https://www.rbc.ru/crypto/news/60c061bd9a79473cfacba878 - 1 раз(а)
+   URL: https://www.rbc.ru/crypto - 1 раз(а)
+
+Домен: forklog.com встречается на 1 документах 7 раз
+   URL: http://forklog.com/sozdateli-lightning-network-komissiya-za-tranzaktsii-budet-stremitsya-k-nulyu - 1 раз(а)
+   URL: http://forklog.com/chto-takoe-segregated-witness-i-kak-on-mozhet-uluchshit-bitkoin - 1 раз(а)
+   URL: http://forklog.com/razrabotana-alternativa-lightning-network-pozvolyayushhaya-delat-mgnovennye-perevody-mezhdu-raznymi-blokchejnami - 1 раз(а)
+   URL: https://forklog.com/segwit2x-ili-staryj-novyj-hardfork-bitkoina - 1 раз(а)
+   URL: https://forklog.com/news/smi-tsentralnoafrikanskaya-respublika-vtoroj-v-mire-legalizovala-bitkoin - 1 раз(а)
+
+Домен: coinfox.ru встречается на 1 документах 6 раз
+   URL: http://www.coinfox.ru/novosti/5140-proekt-umnykh-kontraktov-rootstock-sobral-1-mln-investitsij - 1 раз(а)
+   URL: http://www.coinfox.ru/novosti/5070-satori-coin-physical-bitcoins-released-in-japan-2 - 1 раз(а)
+   URL: http://www.coinfox.ru/novosti/zakonodatelstvo/5021-japanese-government-approves-new-bitcoin-regulations-2 - 1 раз(а)
+   URL: http://www.coinfox.ru/novosti/5276-mmm-global-closing-down-republic-of-bitcoin-2 - 1 раз(а)
+   URL: http://www.coinfox.ru/novosti/obzory/2536-ispolnitelnyj-direktor-coinbase-bitkoin-zamenit-dollar-v-techenie-15-let - 1 раз(а)
+
+Домен: securitylab.ru встречается на 1 документах 2 раз
+   URL: http://www.securitylab.ru/news/443298.php - 1 раз(а)
+   URL: http://www.securitylab.ru/news/469645.php - 1 раз(а)
+
+Домен: cointelegraph.com встречается на 1 документах 2 раз
+   URL: http://cointelegraph.com/ru/news/113925/physical-bitcoins-are-back-finnish-exchange-targets-asian-market - 1 раз(а)
+   URL: http://cointelegraph.com/ru/news/after-40-years-of-looking-ron-paul-finds-bitcoin - 1 раз(а)
+
+Домен: plusworld.ru встречается на 1 документах 2 раз
+   URL: http://www.plusworld.ru/daily/singapur-planiruet-legalizovat-bitcoin-574 - 1 раз(а)
+   URL: http://www.plusworld.ru/daily/pochemu-nelzya-zapreschat-bitcoin-v-rossii - 1 раз(а)
+
+Домен: vedomosti.ru встречается на 1 документах 3 раз
+   URL: http://www.vedomosti.ru/finance/news/19690711/cb-kitaya-zapretil-bankam-operacii-s-bitcoin#ixzz2myQN49z2 - 1 раз(а)
+   URL: http://www.vedomosti.ru/finance/articles/2015/11/06/615768-sergei-mavrodi-razogrel-bitkoin - 1 раз(а)
+   URL: http://www.vedomosti.ru/finance/news/34285521/realnyj-shtraf-za-virtualnye-dengi - 1 раз(а)
+
+Домен: cryptorise.info встречается на 1 документах 2 раз
+   URL: http://cryptorise.info/news/bitcoin-thailand - 1 раз(а)
+   URL: http://cryptorise.info/news/bot-protiv-bitcoin-co-ltd - 1 раз(а)
+
+Домен: fincen.gov встречается на 1 документах 2 раз
+   URL: http://www.fincen.gov/news_room/speech/pdf/20130416.pdf - 1 раз(а)
+   URL: https://www.fincen.gov/news/news-releases/fincen-fines-btc-e-virtual-currency-exchange-110-million-facilitating-ransomware - 1 раз(а)
+
+Домен: rt.com встречается на 1 документах 2 раз
+   URL: https://rt.com/usa/bitcoin-sec-shavers-texas-231 - 1 раз(а)
+   URL: https://rt.com/op-edge/main-trends-of-2013-669 - 1 раз(а)
+
+Домен: tass.ru встречается на 1 документах 2 раз
+   URL: https://tass.ru/ekonomika/1293670 - 1 раз(а)
+   URL: https://tass.ru/info/20147255 - 1 раз(а)
+
+Домен: interfax.ru встречается на 1 документах 2 раз
+   URL: http://www.interfax.ru/business/523262 - 1 раз(а)
+   URL: https://www.interfax.ru/business/978334 - 1 раз(а)
+
+Домен: unian.net встречается на 1 документах 3 раз
+   URL: https://www.unian.net/economics/finance/za-dva-dnya-ukraincy-sobrali-dlya-armii-pochti-13-millionov-dollarov-v-kriptovalyute-novosti-ukraina-11722474.html - 1 раз(а)
+   URL: https://www.unian.net/economics/finance/zelenskiy-legalizoval-rynok-virtualnyh-aktivov-v-ukraine-novosti-ukraina-11746633.html - 1 раз(а)
+   URL: https://www.unian.net/techno/kriptobirzha-whitebit-obyavila-ob-integracii-s-diya-chtoby-pomogat-zhertvam-voyny-v-ukraine-11751013.html - 1 раз(а)
+
+Домен: cnbc.com встречается на 1 документах 2 раз
+   URL: https://www.cnbc.com/2022/02/27/ukraine-government-raises-over-10-million-in-cryptocurrency-donations.html - 1 раз(а)
+   URL: https://www.cnbc.com/2022/03/17/ukraine-legalizes-cryptocurrency-sector-as-donations-pour-in.html - 1 раз(а)
+
+Домен: ibtimes.co.uk встречается на 1 документах 4 раз
+   URL: http://www.ibtimes.co.uk/french-bitcoin-revolution-bnp-paribas-plans-add-crypto-its-currency-funds-1512360 - 1 раз(а)
+   URL: http://www.ibtimes.co.uk/ubs-reveals-its-interest-sidechains-well-ethereum-1519706 - 1 раз(а)
+   URL: http://www.ibtimes.co.uk/coinbase-ceo-bitcoin-surpass-dollar-reserve-currency-within-15-years-1512429 - 1 раз(а)
+   URL: http://www.ibtimes.co.uk/3d-printing-counterfeit-pharma-crypto-cctv-highlighted-digital-catapult-blockchain-pitchoff-1552392 - 1 раз(а)
+
+Домен: nasdaqomx.com встречается на 1 документах 2 раз
+   URL: http://www.nasdaqomx.com/newsroom/pressreleases/pressrelease?messageId=1361706  - 1 раз(а)
+   URL: http://www.nasdaqomx.com/newsroom/pressreleases/pressrelease?messageId=1373282  - 1 раз(а)
+
+Домен: wsj.com встречается на 1 документах 3 раз
+   URL: https://www.wsj.com/articles/a-bitcoin-technology-gets-nasdaq-test-1431296886 - 1 раз(а)
+   URL: https://www.wsj.com/articles/bitcoin-fund-may-have-contributed-to-currencys-rally-1449460380 - 1 раз(а)
+   URL: https://www.wsj.com/articles/bitmex-co-founder-sentenced-to-probation-on-u-s-compliance-charge-11655339914 - 1 раз(а)
+
+Домен: archive.today встречается на 1 документах 2 раз
+   URL: https://archive.today/20130615193647/http://www.technologyreview.com/review/425142/cryptocurrency - 1 раз(а)
+   URL: https://archive.today/20140322112607/https://www.mtgox.com - 1 раз(а)
+
+Домен: bitcoincharts.com встречается на 1 документах 3 раз
+   URL: http://bitcoincharts.com/charts/mtgoxUSD#rg10zczsg2013-02-17zeg2013-02-27ztgSzm1g10zm2g25zv - 1 раз(а)
+   URL: http://bitcoincharts.com/charts/mtgoxUSD#czsg2013-04-10zeg2013-04-12ztgSzm1g10zm2g25zv - 1 раз(а)
+   URL: http://bitcoincharts.com/charts/mtgoxUSD#czsg2013-11-10zeg2013-11-29ztgSzm1g10zm2g25zv - 1 раз(а)
+
+Домен: justice.gov встречается на 1 документах 2 раз
+   URL: https://www.justice.gov/usao-ndca/pr/russian-national-and-bitcoin-exchange-charged-21-count-indictment-operating-alleged - 1 раз(а)
+   URL: https://www.justice.gov/usao-sdny/pr/third-founder-cryptocurrency-exchange-pleads-guilty-bank-secrecy-act-violations - 1 раз(а)
+
+Домен: sro.sussex.ac.uk встречается на 1 документах 2 раз
+   URL: http://sro.sussex.ac.uk/id/eprint/85380/1/BitMEX_PriceDiscovery_Body2.pdf - 1 раз(а)
+   URL: http://sro.sussex.ac.uk/id/eprint/90585/1/Ether_Microstructure_AcceptedVersion.pdf - 1 раз(а)
+
+Домен: doi.org встречается на 1 документах 2 раз
+   URL: https://doi.org/10.1002%2Ffut.22050 - 1 раз(а)
+   URL: https://doi.org/10.1016%2Fj.irfa.2020.101506 - 1 раз(а)
+
+Домен: api.semanticscholar.org встречается на 1 документах 2 раз
+   URL: https://api.semanticscholar.org/CorpusID:216370312 - 1 раз(а)
+   URL: https://api.semanticscholar.org/CorpusID:219791961 - 1 раз(а)
+
+Домен: papers.ssrn.com встречается на 1 документах 2 раз
+   URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3353583 - 1 раз(а)
+   URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3511533 - 1 раз(а)
+
+Домен: foundation.wikimedia.org встречается на 1 документах 4 раз
+   URL: https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru - 1 раз(а)
+   URL: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru - 1 раз(а)
+   URL: https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru - 1 раз(а)
+   URL: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement - 1 раз(а)
+
+Домен: bit.ly встречается на 1 документах 5 раз
+   URL: https://bit.ly/47AaywY - 1 раз(а)
+   URL: https://bit.ly/3NywopR - 1 раз(а)
+   URL: https://bit.ly/3LhMMsY - 1 раз(а)
+   URL: https://bit.ly/3McxPtD - 1 раз(а)
+   URL: https://bit.ly/3FP9Yhp - 1 раз(а)
+

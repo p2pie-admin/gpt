@@ -1,0 +1,62 @@
+Популярные внешние ссылки на домены по группе запросов: "цена биткоина на сегодня в рублях и долларах"
+
+Домен: t.me встречается на 2 из 10 популярных документов
+   URL: https://t.me/bankirosru - 1 раз(а)
+   URL: https://t.me/bankiroshelp_bot - 1 раз(а)
+   URL: https://t.me/coingecko - 1 раз(а)
+   URL: https://t.me/coingeckonews - 1 раз(а)
+
+Домен: bitcoin.org встречается на 2 из 10 популярных документов
+   URL: https://bitcoin.org/en - 1 раз(а)
+   URL: https://bitcoin.org/bitcoin.pdf - 2 раз(а)
+   URL: https://www.bitcoin.org - 1 раз(а)
+
+Домен: github.com встречается на 2 из 10 популярных документов
+   URL: https://github.com/bitcoin - 2 раз(а)
+
+Домен: tracker.cpamerix.ru встречается на 1 документах 5 раз
+   URL: https://tracker.cpamerix.ru/67222826a9b1dbed5cd715a5?erid=sKjnGhcf5yReAaXV4MGpt4qqLeeRTX2MsJ9cNDhNVT29d1N&s2=menu - 1 раз(а)
+   URL: https://tracker.cpamerix.ru/65672b5af5e161e875f3ba7d?s2=logo&erid=CQH36pX5aDWtGdmHMJwhjPuZmvBvCiNAmVqXmDLTBzeZKy - 1 раз(а)
+   URL: https://tracker.cpamerix.ru/65672ddcf5e161e875f3c18a?erid=CQH36pX5aDWtGdmHMJwhjo6MQhGahyZP1kfj2vFEEaQYJc s2=listing - 1 раз(а)
+   URL: https://tracker.cpamerix.ru/65672e41f5e161e875f3c298?erid=CQH36pX5aDWtGdmHMJwhjwiG8MC3WtSEhaKLFru2x7VQjR s2=listing - 1 раз(а)
+   URL: https://tracker.cpamerix.ru/6769277e190795d8cd2f38d5?erid=sKjnGhcf5yReAaXV4NNDxFCZ5ehQNjpUADNzogi6Gf1Ym1n - 1 раз(а)
+
+Домен: redirect.appmetrica.yandex.com встречается на 1 документах 3 раз
+   URL: https://redirect.appmetrica.yandex.com/serve/1181697534620420717 - 1 раз(а)
+   URL: https://redirect.appmetrica.yandex.com/serve/821409572248922037 - 1 раз(а)
+   URL: https://redirect.appmetrica.yandex.com/serve/749351985727223104 - 1 раз(а)
+
+Домен: coingecko.app.link встречается на 1 документах 14 раз
+   URL: https://coingecko.app.link/lTInCXLGz4 - 1 раз(а)
+   URL: https://coingecko.app.link/yaxgIjInuLb - 1 раз(а)
+   URL: https://coingecko.app.link/Nhgleb44aVb - 1 раз(а)
+   URL: https://coingecko.app.link/footer-android - 4 раз(а)
+   URL: https://coingecko.app.link/footer-ios - 4 раз(а)
+
+Домен: youtube.com встречается на 1 документах 2 раз
+   URL: https://www.youtube.com/@CoinGecko?sub_confirmation=1 - 1 раз(а)
+   URL: https://www.youtube.com/channel/UC-OTgwOAI7KmP0eDAtqN3Ow?sub_confirmation=1 - 1 раз(а)
+
+Домен: gcko.io встречается на 1 документах 4 раз
+   URL: https://gcko.io/ledger - 1 раз(а)
+   URL: https://gcko.io/trezor - 1 раз(а)
+   URL: https://gcko.io/safepal - 1 раз(а)
+   URL: https://gcko.io/coingeckoads - 1 раз(а)
+
+Домен: reddit.com встречается на 1 документах 2 раз
+   URL: https://reddit.com/r/Bitcoin - 1 раз(а)
+   URL: https://www.reddit.com/r/coingecko - 1 раз(а)
+
+Домен: ru.beincrypto.com встречается на 1 документах 4 раз
+   URL: https://ru.beincrypto.com/top-monet-noyabrya-2025 - 2 раз(а)
+   URL: https://ru.beincrypto.com/bitkoin-uderzhatsya-100-000 - 2 раз(а)
+
+Домен: app.appsflyer.com встречается на 1 документах 2 раз
+   URL: https://app.appsflyer.com/com.fusionmedia.investing?pid=direct_inv c=refactored af_adset=www af_ad=footer+install+buttons af_sub1=null af_sub_siteid=null click_id=null af_sub2=null af_sub3=null af_sub4=null af_sub5=null af_keywords=null af_ad_id=null af_adset_id=null af_pmod_priority=null - 1 раз(а)
+   URL: https://app.appsflyer.com/id909998122?pid=direct_inv c=refactored af_adset=www af_ad=footer+install+buttons af_sub1=null af_sub_siteid=null click_id=null af_sub2=null af_sub3=null af_sub4=null af_sub5=null af_keywords=null af_ad_id=null af_adset_id=null af_pmod_priority=null - 1 раз(а)
+
+Домен: cdn.investing.com встречается на 1 документах 3 раз
+   URL: https://cdn.investing.com/about-us/terms_and_conditions.pdf - 1 раз(а)
+   URL: https://cdn.investing.com/about-us/privacy_policy.pdf - 1 раз(а)
+   URL: https://cdn.investing.com/about-us/risk_warning.pdf - 1 раз(а)
+
