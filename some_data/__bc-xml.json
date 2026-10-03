@@ -1,0 +1,1178 @@
+[
+  {
+    "display_name": "valuta-in-ua",
+    "name": "valuta-in-ua",
+    "real_link": "https://valuta.in.ua",
+    "xml": "https://www.valuta.in.ua/service/export/xml/7u1is711c48/"
+  },
+  {
+    "display_name": "avpay-pro",
+    "name": "avpay-pro",
+    "real_link": "https://avpay.pro",
+    "xml": "https://avpay.pro/exports/valuta.xml"
+  },
+  {
+    "display_name": "instabit-pro",
+    "name": "instabit-pro",
+    "real_link": "https://instabit.pro/",
+    "xml": "https://instabit.pro/exportxml.html"
+  },
+  {
+    "display_name": "1tab-co",
+    "name": "1tab-co",
+    "real_link": "https://1tab.co",
+    "xml": "https://1tab.co/service/export/xml/"
+  },
+  {
+    "display_name": "icon-finance",
+    "name": "icon-finance",
+    "real_link": "https://icon.finance",
+    "xml": "https://icon.finance/service/export/xml/Vg1ir75sk5p/"
+  },
+  {
+    "display_name": "flexy69-cc",
+    "name": "flexy69-cc",
+    "real_link": "https://flexy69.cc",
+    "xml": "https://www.flexy69.cc/service/export/xml/7Z1itcr5h49/"
+  },
+  {
+    "display_name": "scr-money",
+    "name": "scr-money",
+    "real_link": "https://scr.money",
+    "xml": "https://scr.money/request-exportxml.xml?hcron=xlkJwgmzcrFvNP8Zephb"
+  },
+  {
+    "display_name": "byselit-pro",
+    "name": "byselit-pro",
+    "real_link": "https://byselit.pro",
+    "xml": "https://byselit.pro/request-exportxml.xml"
+  },
+  {
+    "display_name": "bitexpay-io",
+    "name": "bitexpay-io",
+    "real_link": "https://bitexpay.io",
+    "xml": "https://www.bitexpay.io/service/export/xml/We1j5ja6u7s/"
+  },
+  {
+    "display_name": "waybit-pl",
+    "name": "waybit-pl",
+    "real_link": "https://waybit.pl",
+    "xml": "https://www.waybit.pl/service/export/xml/uR1irnkglfb/"
+  },
+  {
+    "display_name": "bitox-net",
+    "name": "bitox-net",
+    "real_link": "https://bitox.net",
+    "xml": "https://bitox.net/kurs.xml"
+  },
+  {
+    "display_name": "hodlbase-org",
+    "name": "hodlbase-org",
+    "real_link": "https://hodlbase.org",
+    "xml": "https://b.hodlbase.org/rates/xml"
+  },
+  {
+    "display_name": "exdex-ae",
+    "name": "exdex-ae",
+    "real_link": "https://exdex.ae",
+    "xml": "https://exdex.ae/request-exportxml.xml"
+  },
+  {
+    "display_name": "rbankexchange-io",
+    "name": "rbankexchange-io",
+    "real_link": "https://rbankexchange.io",
+    "xml": "https://rbstation.work/rates/xml"
+  },
+  {
+    "display_name": "xchainger-app",
+    "name": "xchainger-app",
+    "real_link": "https://xchainger.app",
+    "xml": "https://xchainger.app/service/export/xml/gi1j2ilujf5/"
+  },
+  {
+    "display_name": "tsunami-cash",
+    "name": "tsunami-cash",
+    "real_link": "https://tsunami.cash",
+    "xml": "https://www.tsunami.cash/service/export/xml/5J1hbq9livo/"
+  },
+  {
+    "display_name": "opgswap-com",
+    "name": "opgswap-com",
+    "real_link": "https://opgswap.com",
+    "xml": "https://www.opgswap.com/service/export/xml/VJ1it7o6uq9/"
+  },
+  {
+    "display_name": "ving-exchange",
+    "name": "ving-exchange",
+    "real_link": "https://ving.exchange",
+    "xml": "https://ving.exchange/request-exportxml.xml"
+  },
+  {
+    "display_name": "armchange-ru",
+    "name": "armchange-ru",
+    "real_link": "https://armchange.ru",
+    "xml": "https://armchange.ru/request-exportxml.xml"
+  },
+  {
+    "display_name": "blackrocket-site",
+    "name": "blackrocket-site",
+    "real_link": "https://blackrocket.site",
+    "xml": "https://blackrocket.site/request-exportxml.xml"
+  },
+  {
+    "display_name": "exlampa-com",
+    "name": "exlampa-com",
+    "real_link": "https://exlampa.com",
+    "xml": "https://exlampa.com/request-exportxml.xml"
+  },
+  {
+    "display_name": "doll-ex-com",
+    "name": "doll-ex-com",
+    "real_link": "https://doll-ex.com",
+    "xml": "https://doll-ex.com/request-exportxml.xml"
+  },
+  {
+    "display_name": "system-exchange",
+    "name": "system-exchange",
+    "real_link": "https://system.exchange",
+    "xml": "https://system.exchange/request-exportxml.xml"
+  },
+  {
+    "display_name": "exchange-bizon-com",
+    "name": "exchange-bizon-com",
+    "real_link": "https://exchange-bizon.com",
+    "xml": "https://www.exchange-bizon.com/service/export/xml/qZ1it7v5203/"
+  },
+  {
+    "display_name": "spaceswap-cc",
+    "name": "spaceswap-cc",
+    "real_link": "https://spaceswap.cc",
+    "xml": "https://spaceswap.cc/VALUTA.xml"
+  },
+  {
+    "display_name": "coinswap-es",
+    "name": "coinswap-es",
+    "real_link": "https://coinswap.es",
+    "xml": "https://www.coinswap.es/service/export/xml/rM1itpir0gt/"
+  },
+  {
+    "display_name": "buy-now-pro",
+    "name": "buy-now-pro",
+    "real_link": "https://buy-now.pro",
+    "xml": "https://buy-now.pro/exports/xml.xml"
+  },
+  {
+    "display_name": "mint-change-ru",
+    "name": "mint-change-ru",
+    "real_link": "https://mint-change.ru",
+    "xml": "https://mint-change.ru/exports/valuta.xml"
+  },
+  {
+    "display_name": "trirublya-com",
+    "name": "trirublya-com",
+    "real_link": "https://trirublya.com",
+    "xml": "https://trirublya.com/exports/valuta.xml"
+  },
+  {
+    "display_name": "exchange-mediap2p-pro",
+    "name": "exchange-mediap2p-pro",
+    "real_link": "https://exchange.mediap2p.pro",
+    "xml": "https://exchange.mediap2p.pro/request-exportxml.xml"
+  },
+  {
+    "display_name": "nordex-cc",
+    "name": "nordex-cc",
+    "real_link": "https://nordex.cc",
+    "xml": "https://nordex.cc/export.xml"
+  },
+  {
+    "display_name": "terminal-cash",
+    "name": "terminal-cash",
+    "real_link": "https://terminal.cash",
+    "xml": "https://terminal.cash/request-exportxml.xml"
+  },
+  {
+    "display_name": "sharks-exchange",
+    "name": "sharks-exchange",
+    "real_link": "https://sharks.exchange",
+    "xml": "https://sharks.exchange/request-exportxml.xml"
+  },
+  {
+    "display_name": "boss-exchange-com",
+    "name": "boss-exchange-com",
+    "real_link": "https://boss-exchange.com",
+    "xml": "https://www.boss-exchange.com/service/export/xml/c21j7h5l164/"
+  },
+  {
+    "display_name": "sho-po-kursu-com",
+    "name": "sho-po-kursu-com",
+    "real_link": "https://sho-po-kursu.com",
+    "xml": "https://www.sho-po-kursu.com/service/export/xml/Xz1it7kllq6/"
+  },
+  {
+    "display_name": "tarifex-io",
+    "name": "tarifex-io",
+    "real_link": "https://tarifex.io",
+    "xml": "https://tarifex.io/exports/monitoring.xml"
+  },
+  {
+    "display_name": "bullschange-com",
+    "name": "bullschange-com",
+    "real_link": "https://bullschange.com",
+    "xml": "https://xml.bullschange.com/request-exportxml.xml"
+  },
+  {
+    "display_name": "air-buy-exchange",
+    "name": "air-buy-exchange",
+    "real_link": "https://air-buy.exchange",
+    "xml": "https://www.air-buy.exchange/service/export/xml/Vg1itpg8kbk/"
+  },
+  {
+    "display_name": "getmoney-one",
+    "name": "getmoney-one",
+    "real_link": "https://getmoney.one",
+    "xml": "https://getmoney.one/request-exportxml.xml"
+  },
+  {
+    "display_name": "freechange-cc",
+    "name": "freechange-cc",
+    "real_link": "https://freechange.cc",
+    "xml": "https://freechange.cc/currencies.xml"
+  },
+  {
+    "display_name": "bigchange-pro",
+    "name": "bigchange-pro",
+    "real_link": "https://bigchange.pro",
+    "xml": "https://bigchange.pro/request-exportxml.xml"
+  },
+  {
+    "display_name": "crypto-rolex-com",
+    "name": "crypto-rolex-com",
+    "real_link": "https://crypto-rolex.com",
+    "xml": "https://www.crypto-rolex.com/service/export/xml/Aj1istpvfpg/"
+  },
+  {
+    "display_name": "ne1-nixexchange-net",
+    "name": "ne1-nixexchange-net",
+    "real_link": "https://ne1.nixexchange.net",
+    "xml": "https://nixexchange.com/best.xml"
+  },
+  {
+    "display_name": "greatchange-exchange",
+    "name": "greatchange-exchange",
+    "real_link": "https://greatchange.exchange",
+    "xml": "https://greatchange.exchange/api/rates.xml"
+  },
+  {
+    "display_name": "altswap-cc",
+    "name": "altswap-cc",
+    "real_link": "https://altswap.cc",
+    "xml": "https://altswap.cc/VALUTA.xml"
+  },
+  {
+    "display_name": "lupibit-kg",
+    "name": "lupibit-kg",
+    "real_link": "https://lupibit.kg",
+    "xml": "https://lupibit.kg/courses.xml"
+  },
+  {
+    "display_name": "simplexchange-pro",
+    "name": "simplexchange-pro",
+    "real_link": "https://simplexchange.pro",
+    "xml": "https://simplexchange.pro/exports/exchange.xml"
+  },
+  {
+    "display_name": "goodsmoney-io",
+    "name": "goodsmoney-io",
+    "real_link": "https://goodsmoney.io",
+    "xml": "https://goodsmoney.io/exports/kurses.xml"
+  },
+  {
+    "display_name": "whales-pro",
+    "name": "whales-pro",
+    "real_link": "https://whales.pro",
+    "xml": "https://whales.pro/api/v1/courses/"
+  },
+  {
+    "display_name": "mt-exchange",
+    "name": "mt-exchange",
+    "real_link": "https://mt.exchange",
+    "xml": "https://mt.exchange/rates-export/xml"
+  },
+  {
+    "display_name": "soprano-exchange",
+    "name": "soprano-exchange",
+    "real_link": "https://soprano.exchange",
+    "xml": "https://soprano.exchange/rates-export/xml"
+  },
+  {
+    "display_name": "currex-best",
+    "name": "currex-best",
+    "real_link": "https://currex.best",
+    "xml": "https://currex.best/exports/rates.xml"
+  },
+  {
+    "display_name": "ebitok-com",
+    "name": "ebitok-com",
+    "real_link": "https://ebitok.com",
+    "xml": "https://ebitok.com/api/listing/4R9UQJg94R"
+  },
+  {
+    "display_name": "topcash24-me",
+    "name": "topcash24-me",
+    "real_link": "https://topcash24.me",
+    "xml": "https://topcash24.me/ru/rates.xml"
+  },
+  {
+    "display_name": "hinadex-com",
+    "name": "hinadex-com",
+    "real_link": "https://hinadex.com",
+    "xml": "https://hinadex.com/rates.xml"
+  },
+  {
+    "display_name": "almazex-com",
+    "name": "almazex-com",
+    "real_link": "https://almazex.com",
+    "xml": "https://almazex.com/exports/courses.xml"
+  },
+  {
+    "display_name": "xn--24-9kcq8ahd-com",
+    "name": "xn--24-9kcq8ahd-com",
+    "real_link": "https://xn--24-9kcq8ahd.com",
+    "xml": "https://xn--24-9kcq8ahd.com/request-exportxml.xml?hcron=GdyeRq514KA"
+  },
+  {
+    "display_name": "moneyport-world",
+    "name": "moneyport-world",
+    "real_link": "https://moneyport.world/",
+    "xml": "https://moneyport.world/exports/moneyport.xml"
+  },
+  {
+    "display_name": "changeexpert-io",
+    "name": "changeexpert-io",
+    "real_link": "https://changeexpert.io",
+    "xml": "https://changeexpert.io/request-exportxml.xml"
+  },
+  {
+    "display_name": "prime-exchange-io",
+    "name": "prime-exchange-io",
+    "real_link": "https://prime-exchange.io",
+    "xml": "https://prime-exchange.io/request-exportxml.xml"
+  },
+  {
+    "display_name": "aura-legal",
+    "name": "aura-legal",
+    "real_link": "https://aura.legal",
+    "xml": "https://www.aura.legal/service/export/xml/1B1ir7bfd9u/"
+  },
+  {
+    "display_name": "cooperation-click",
+    "name": "cooperation-click",
+    "real_link": "https://cooperation.click",
+    "xml": "https://cooperation.click/request-exportxml.xml"
+  },
+  {
+    "display_name": "mine-exchange",
+    "name": "mine-exchange",
+    "real_link": "https://mine.exchange",
+    "xml": "https://mine.exchange/request-exportxml.xml"
+  },
+  {
+    "display_name": "gogobit-cc",
+    "name": "gogobit-cc",
+    "real_link": "https://gogobit.cc",
+    "xml": "https://gogobit.cc/request-exportxml.xml"
+  },
+  {
+    "display_name": "wikipays-com",
+    "name": "wikipays-com",
+    "real_link": "https://wikipays.com/",
+    "xml": "https://wikipays.com/request-exportxml.xml"
+  },
+  {
+    "display_name": "o-paxum-net",
+    "name": "o-paxum-net",
+    "real_link": "https://o-paxum.net",
+    "xml": "https://o-paxum.net/request-exportxml.xml"
+  },
+  {
+    "display_name": "w-box-io",
+    "name": "w-box-io",
+    "real_link": "https://w-box.io",
+    "xml": "https://w-box.io/request-exportxml.xml"
+  },
+  {
+    "display_name": "exline-pro",
+    "name": "exline-pro",
+    "real_link": "https://exline.pro/",
+    "xml": "https://exline.pro/request-exportxml.xml"
+  },
+  {
+    "display_name": "kupitman-pro",
+    "name": "kupitman-pro",
+    "real_link": "https://kupitman.pro",
+    "xml": "https://kupitman.pro/request-exportxml.xml"
+  },
+  {
+    "display_name": "monetkins-com",
+    "name": "monetkins-com",
+    "real_link": "https://monetkins.com",
+    "xml": "https://monetkins.com/bestexp.xml"
+  },
+  {
+    "display_name": "fury-exchange-com",
+    "name": "fury-exchange-com",
+    "real_link": "https://fury-exchange.com/",
+    "xml": "https://fury-exchange.com/rates-export/xml"
+  },
+  {
+    "display_name": "swap-line-com",
+    "name": "swap-line-com",
+    "real_link": "https://swap-line.com",
+    "xml": "https://www.swap-line.com/service/export/xml/ib1iribqnhm/"
+  },
+  {
+    "display_name": "coco-pay-com",
+    "name": "coco-pay-com",
+    "real_link": "https://coco-pay.com/",
+    "xml": "https://coco-pay.com/request-exportxml.xml"
+  },
+  {
+    "display_name": "exchange-express",
+    "name": "exchange-express",
+    "real_link": "https://exchange.express",
+    "xml": "https://exchange.express/request-exportxml.xml"
+  },
+  {
+    "display_name": "oborot-net",
+    "name": "oborot-net",
+    "real_link": "https://oborot.net",
+    "xml": "https://oborot.net/request-exportxml.xml"
+  },
+  {
+    "display_name": "inkognitoswap-com",
+    "name": "inkognitoswap-com",
+    "real_link": "https://inkognitoswap.com",
+    "xml": "https://www.inkognitoswap.com/service/export/xml/0q1is71lsr3/"
+  },
+  {
+    "display_name": "4ex-cash",
+    "name": "4ex-cash",
+    "real_link": "https://4ex.cash/",
+    "xml": "https://4ex.cash/rates.html?sType=xml"
+  },
+  {
+    "display_name": "premiumcash-exchange",
+    "name": "premiumcash-exchange",
+    "real_link": "https://premiumcash.exchange",
+    "xml": "https://premiumcash.exchange/request-exportxml.xml"
+  },
+  {
+    "display_name": "kursov24-org",
+    "name": "kursov24-org",
+    "real_link": "https://kursov24.org",
+    "xml": "https://kursov24.org/courses.xml"
+  },
+  {
+    "display_name": "bloom-exchange",
+    "name": "bloom-exchange",
+    "real_link": "https://bloom.exchange",
+    "xml": "https://bloom.exchange/export_kursov.xml"
+  },
+  {
+    "display_name": "bithunter-io",
+    "name": "bithunter-io",
+    "real_link": "https://bithunter.io/",
+    "xml": "https://bithunter.io/xml/rates.xml"
+  },
+  {
+    "display_name": "exway-io",
+    "name": "exway-io",
+    "real_link": "https://exway.io",
+    "xml": "https://top.exway.io/request-exportxml.xml"
+  },
+  {
+    "display_name": "ultrachange-biz",
+    "name": "ultrachange-biz",
+    "real_link": "https://ultrachange.biz",
+    "xml": "https://ultrachange.biz/affiliate.xml"
+  },
+  {
+    "display_name": "bulldog-exchange",
+    "name": "bulldog-exchange",
+    "real_link": "https://bulldog.exchange",
+    "xml": "https://www.bulldog.exchange/service/export/xml/AB1irg0uuof/"
+  },
+  {
+    "display_name": "moneta365-com",
+    "name": "moneta365-com",
+    "real_link": "https://moneta365.com",
+    "xml": "https://www.moneta365.com/service/export/xml/1r1ir5i4h93/"
+  },
+  {
+    "display_name": "mirexchange24-io",
+    "name": "mirexchange24-io",
+    "real_link": "https://mirexchange24.io",
+    "xml": "https://mirexchange24.io/request-exportxml.xml"
+  },
+  {
+    "display_name": "1-ripae-me",
+    "name": "1-ripae-me",
+    "real_link": "https://1.ripae.me",
+    "xml": "https://1.ripae.me/request-exportxml.xml"
+  },
+  {
+    "display_name": "i-obmen-bz",
+    "name": "i-obmen-bz",
+    "real_link": "https://i-obmen.bz",
+    "xml": "https://i-obmen.bz/request-exportxml.xml"
+  },
+  {
+    "display_name": "coinpaymaster-com",
+    "name": "coinpaymaster-com",
+    "real_link": "https://coinpaymaster.com",
+    "xml": "https://coinpaymaster.com/API/GetCoursesWP"
+  },
+  {
+    "display_name": "inside-exchange-com",
+    "name": "inside-exchange-com",
+    "real_link": "https://inside-exchange.com/",
+    "xml": "https://inside-exchange.com/request-exportxml.xml"
+  },
+  {
+    "display_name": "bittop-cash",
+    "name": "bittop-cash",
+    "real_link": "https://bittop.cash",
+    "xml": "https://bittop.cash/request-exportxml.xml"
+  },
+  {
+    "display_name": "exwm-cc",
+    "name": "exwm-cc",
+    "real_link": "https://exwm.cc",
+    "xml": "https://exwm.cc/request-exportxml.xml"
+  },
+  {
+    "display_name": "flashobmen-com",
+    "name": "flashobmen-com",
+    "real_link": "https://flashobmen.com",
+    "xml": "https://flashobmen.com/exportxml.xml"
+  },
+  {
+    "display_name": "bitcoinbox-io",
+    "name": "bitcoinbox-io",
+    "real_link": "https://bitcoinbox.io",
+    "xml": "https://www.bitcoinbox.io/service/export/xml/dW1iqomq2bf/"
+  },
+  {
+    "display_name": "7money-co",
+    "name": "7money-co",
+    "real_link": "https://7money.co",
+    "xml": "https://7money.co/utils/export?type=xml"
+  },
+  {
+    "display_name": "obmenoff-cc",
+    "name": "obmenoff-cc",
+    "real_link": "https://obmenoff.cc/",
+    "xml": "https://obmenoff.cc/request-exportxml.xml"
+  },
+  {
+    "display_name": "24bestex-com",
+    "name": "24bestex-com",
+    "real_link": "https://24bestex.com",
+    "xml": "https://24bestex.com/request-exportxml.xml"
+  },
+  {
+    "display_name": "streamx-cash",
+    "name": "streamx-cash",
+    "real_link": "https://streamx.cash",
+    "xml": "https://www.streamx.cash/service/export/xml/wU1it7vnr5h/"
+  },
+  {
+    "display_name": "crypto007-net",
+    "name": "crypto007-net",
+    "real_link": "https://crypto007.net",
+    "xml": "https://www.crypto007.net/service/export/xml/sb1ir8i4a18/"
+  },
+  {
+    "display_name": "obmen-money",
+    "name": "obmen-money",
+    "real_link": "https://obmen.money",
+    "xml": "https://obmen.money/request-exportxml.xml"
+  },
+  {
+    "display_name": "finansovich-exchange-com",
+    "name": "finansovich-exchange-com",
+    "real_link": "https://finansovich-exchange.com",
+    "xml": "https://finansovich-exchange.com/request-exportxml.xml"
+  },
+  {
+    "display_name": "ramon-money",
+    "name": "ramon-money",
+    "real_link": "https://ramon.money",
+    "xml": "https://ramon.money/site/rates"
+  },
+  {
+    "display_name": "wolfstreet-cash",
+    "name": "wolfstreet-cash",
+    "real_link": "https://wolfstreet.cash",
+    "xml": "https://wolfstreet.cash/request-exportxml.xml"
+  },
+  {
+    "display_name": "masxcrypto-com",
+    "name": "masxcrypto-com",
+    "real_link": "https://masxcrypto.com",
+    "xml": "https://www.masxcrypto.com/service/export/xml/211itpfq817/"
+  },
+  {
+    "display_name": "www-tradeto-cash",
+    "name": "www-tradeto-cash",
+    "real_link": "https://www.tradeto.cash",
+    "xml": "https://www.tradeto.cash/service/export/xml/fr1iqu01dio/"
+  },
+  {
+    "display_name": "yodaobmen-com",
+    "name": "yodaobmen-com",
+    "real_link": "https://yodaobmen.com",
+    "xml": "https://yodaobmen.com/exports/valuta.xml"
+  },
+  {
+    "display_name": "easyex-pro",
+    "name": "easyex-pro",
+    "real_link": "https://easyex.pro",
+    "xml": "https://easyex.pro/request-exportxml.xml"
+  },
+  {
+    "display_name": "appbit-net",
+    "name": "appbit-net",
+    "real_link": "https://appbit.net",
+    "xml": "https://appbit.net/request-exportxml.xml"
+  },
+  {
+    "display_name": "valley-cash",
+    "name": "valley-cash",
+    "real_link": "https://valley.cash",
+    "xml": "https://valley.cash/request-exportxml.xml"
+  },
+  {
+    "display_name": "wm-money",
+    "name": "wm-money",
+    "real_link": "https://wm.money",
+    "xml": "https://wm.money/request-exportxml.xml"
+  },
+  {
+    "display_name": "cash2pay-pro",
+    "name": "cash2pay-pro",
+    "real_link": "https://cash2pay.pro",
+    "xml": "https://cash2pay.pro/service/export/xml"
+  },
+  {
+    "display_name": "device-me",
+    "name": "device-me",
+    "real_link": "https://device.me",
+    "xml": "https://www.device.me/service/export/xml/q01itq8lge9/"
+  },
+  {
+    "display_name": "bitpayes-org",
+    "name": "bitpayes-org",
+    "real_link": "https://bitpayes.org",
+    "xml": "https://bitpayes.org/exportxml.htm"
+  },
+  {
+    "display_name": "satoshi-cx",
+    "name": "satoshi-cx",
+    "real_link": "https://satoshi.cx",
+    "xml": "https://satoshi.cx//request-exportxml.xml"
+  },
+  {
+    "display_name": "delets-online",
+    "name": "delets-online",
+    "real_link": "https://delets.online",
+    "xml": "https://delets.online/site/rates"
+  },
+  {
+    "display_name": "moscoin-exchanger-com",
+    "name": "moscoin-exchanger-com",
+    "real_link": "https://moscoin-exchanger.com",
+    "xml": "https://moscoin-exchanger.com/moscoin-exchangerKURSES.xml"
+  },
+  {
+    "display_name": "obmin-club",
+    "name": "obmin-club",
+    "real_link": "https://obmin.club",
+    "xml": "https://www.obmin.club/service/export/xml/ss1jb027cvq/"
+  },
+  {
+    "display_name": "miliex-online",
+    "name": "miliex-online",
+    "real_link": "https://miliex.online",
+    "xml": "https://miliex.online/request-exportxml.xml?hcron=d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "display_name": "citybit-pro",
+    "name": "citybit-pro",
+    "real_link": "https://citybit.pro",
+    "xml": "https://citybit.pro/exports/pryvatheshkurs.xml"
+  },
+  {
+    "display_name": "buybit-su",
+    "name": "buybit-su",
+    "real_link": "https://buybit.su/",
+    "xml": "https://buybit.su/courses.xml"
+  },
+  {
+    "display_name": "trustwayexchange-com",
+    "name": "trustwayexchange-com",
+    "real_link": "https://trustwayexchange.com",
+    "xml": "https://trustwayexchange.com/exporttwe.xml"
+  },
+  {
+    "display_name": "lincoln-money",
+    "name": "lincoln-money",
+    "real_link": "https://lincoln.money",
+    "xml": "https://www.lincoln.money/service/export/xml/L71it7gijsh/"
+  },
+  {
+    "display_name": "faceexchange-net",
+    "name": "faceexchange-net",
+    "real_link": "https://faceexchange.net",
+    "xml": "https://faceexchange.net/request-exportxml.xml"
+  },
+  {
+    "display_name": "tokentrade-site",
+    "name": "tokentrade-site",
+    "real_link": "https://tokentrade.site",
+    "xml": "https://tokentrade.site/request-exportxml.xml"
+  },
+  {
+    "display_name": "easybit-com",
+    "name": "easybit-com",
+    "real_link": "https://easybit.com",
+    "xml": "https://easybit.com/xml/rates"
+  },
+  {
+    "display_name": "geeexchange-com",
+    "name": "geeexchange-com",
+    "real_link": "https://geeexchange.com",
+    "xml": "https://geeexchange.com/export.xml"
+  },
+  {
+    "display_name": "bcx-exchange",
+    "name": "bcx-exchange",
+    "real_link": "https://bcx.exchange",
+    "xml": "https://bcx.exchange/service/export/xml/TV1itq4sgb6/"
+  },
+  {
+    "display_name": "expochange-org",
+    "name": "expochange-org",
+    "real_link": "https://expochange.org/",
+    "xml": "https://expochange.org/request-exportxml.xml"
+  },
+  {
+    "display_name": "ubimoney-shop",
+    "name": "ubimoney-shop",
+    "real_link": "https://ubimoney.shop",
+    "xml": "https://ubimoney.shop/exports/ubimoney.xml"
+  },
+  {
+    "display_name": "bixter-org",
+    "name": "bixter-org",
+    "real_link": "https://bixter.org",
+    "xml": "https://xml.bixter.org/valuta.xml"
+  },
+  {
+    "display_name": "hellchange-top",
+    "name": "hellchange-top",
+    "real_link": "https://hellchange.top",
+    "xml": "https://www.hellchange.top/service/export/xml/SJ1itkuj9i6/"
+  },
+  {
+    "display_name": "1million-exchange",
+    "name": "1million-exchange",
+    "real_link": "https://1million.exchange",
+    "xml": "https://1million.exchange/request-exportxml.xml"
+  },
+  {
+    "display_name": "btcchange24-com",
+    "name": "btcchange24-com",
+    "real_link": "https://btcchange24.com",
+    "xml": "https://www.btcchange24.com/service/export/xml/8V1iqeauro5/"
+  },
+  {
+    "display_name": "cross-market-net",
+    "name": "cross-market-net",
+    "real_link": "https://cross-market.net",
+    "xml": "https://cross-market.net/request-exportxml.xml"
+  },
+  {
+    "display_name": "drakkar-exchange",
+    "name": "drakkar-exchange",
+    "real_link": "https://drakkar.exchange",
+    "xml": "https://www.drakkar.exchange/service/export/xml/j61j2rn17f9/"
+  },
+  {
+    "display_name": "bitok777-net",
+    "name": "bitok777-net",
+    "real_link": "https://bitok777.net/",
+    "xml": "https://bitok777.net/request-exportxml.xml"
+  },
+  {
+    "display_name": "safuexchange-cc",
+    "name": "safuexchange-cc",
+    "real_link": "https://safuexchange.cc",
+    "xml": "https://safuexchange.cc/request-exportxml.xml"
+  },
+  {
+    "display_name": "ganesh-exchange",
+    "name": "ganesh-exchange",
+    "real_link": "https://ganesh.exchange",
+    "xml": "https://ganesh.exchange/request-exportxml.xml"
+  },
+  {
+    "display_name": "cryptomeow-io",
+    "name": "cryptomeow-io",
+    "real_link": "https://cryptomeow.io",
+    "xml": "https://cryptomeow.io/exports/courses.xml"
+  },
+  {
+    "display_name": "beeswap-gg",
+    "name": "beeswap-gg",
+    "real_link": "https://beeswap.gg",
+    "xml": "https://www.beeswap.gg/service/export/xml/Bg1ir7lapte/"
+  },
+  {
+    "display_name": "1mile-co",
+    "name": "1mile-co",
+    "real_link": "https://1mile.co",
+    "xml": "https://1mile.co/service/export/xml/WA1iqr4dkgs/"
+  },
+  {
+    "display_name": "paystore-pro",
+    "name": "paystore-pro",
+    "real_link": "https://paystore.pro",
+    "xml": "https://www.paystore.pro/service/export/xml/4i1ir8h73n9/"
+  },
+  {
+    "display_name": "bigbank-top",
+    "name": "bigbank-top",
+    "real_link": "https://bigbank.top",
+    "xml": "https://bigbank.top/request-exportxml.xml?hcron=9KLHcus874468734OEHeghcsHggPmnDwqd5438Fdwq"
+  },
+  {
+    "display_name": "axo-cash",
+    "name": "axo-cash",
+    "real_link": "https://axo.cash",
+    "xml": "https://www.axo.cash/service/export/xml/xZ1ism0mrgq/"
+  },
+  {
+    "display_name": "ru-bas-ru",
+    "name": "ru-bas-ru",
+    "real_link": "https://ru-bas.ru",
+    "xml": "https://www.ru-bas.ru/service/export/xml/vP1imcl0m4j/"
+  },
+  {
+    "display_name": "epichange-online",
+    "name": "epichange-online",
+    "real_link": "https://epichange.online",
+    "xml": "https://epichange.online/request-exportxml.xml"
+  },
+  {
+    "display_name": "sphera-exchange-com",
+    "name": "sphera-exchange-com",
+    "real_link": "https://sphera-exchange.com",
+    "xml": "https://sphera-exchange.com/request-exportxml.xml"
+  },
+  {
+    "display_name": "yogexchanger-com",
+    "name": "yogexchanger-com",
+    "real_link": "https://yogexchanger.com",
+    "xml": "https://www.yogexchanger.com/service/export/xml/iQ1itpm2v7d/"
+  },
+  {
+    "display_name": "macroexchange-store",
+    "name": "macroexchange-store",
+    "real_link": "https://macroexchange.store",
+    "xml": "https://macroexchange.store/service/export/xml/Tw1it8hq0f0/"
+  },
+  {
+    "display_name": "goldenswap-pro",
+    "name": "goldenswap-pro",
+    "real_link": "https://goldenswap.pro",
+    "xml": "https://www.goldenswap.pro/service/export/xml/jI1itl49pfg/"
+  },
+  {
+    "display_name": "groza-io",
+    "name": "groza-io",
+    "real_link": "https://groza.io",
+    "xml": "https://groza.io/exports/rates.xml"
+  },
+  {
+    "display_name": "spbwmcasher-ru",
+    "name": "spbwmcasher-ru",
+    "real_link": "https://spbwmcasher.ru",
+    "xml": "https://spbwmcasher.ru/request-exportxml.xml"
+  },
+  {
+    "display_name": "lovanpay-org",
+    "name": "lovanpay-org",
+    "real_link": "https://lovanpay.org",
+    "xml": "https://lovanpay.org/courses.xml"
+  },
+  {
+    "display_name": "vv-obmen-net",
+    "name": "vv-obmen-net",
+    "real_link": "https://vv-obmen.net",
+    "xml": "https://vv-obmen.net/request-exportxml.xml"
+  },
+  {
+    "display_name": "kriptotelo-com",
+    "name": "kriptotelo-com",
+    "real_link": "https://kriptotelo.com",
+    "xml": "https://kriptotelo.com/request-exportxml.xml?hcron=kshfp56JHKJKFkjdfkjvfdjhcdfv"
+  },
+  {
+    "display_name": "fasterix-pro",
+    "name": "fasterix-pro",
+    "real_link": "https://fasterix.pro",
+    "xml": "https://fasterix.pro/request-exportxml.xml"
+  },
+  {
+    "display_name": "quickex-io",
+    "name": "quickex-io",
+    "real_link": "https://quickex.io",
+    "xml": "https://quickex.io/api/v1/rates/public/xml"
+  },
+  {
+    "display_name": "revbit-net",
+    "name": "revbit-net",
+    "real_link": "https://revbit.net",
+    "xml": "https://revbit.net/api/v1/rates/public/xml"
+  },
+  {
+    "display_name": "fehupay-com",
+    "name": "fehupay-com",
+    "real_link": "https://fehupay.com",
+    "xml": "https://fehupay.com/best.xml"
+  },
+  {
+    "display_name": "ff-io",
+    "name": "ff-io",
+    "real_link": "https://ff.io",
+    "xml": "https://ff.io/rates/fixed.xml"
+  },
+  {
+    "display_name": "colibripay-pw",
+    "name": "colibripay-pw",
+    "real_link": "https://colibripay.pw",
+    "xml": "https://colibripay.pw/api/bestCourses"
+  },
+  {
+    "display_name": "go-go-exchange",
+    "name": "go-go-exchange",
+    "real_link": "https://go-go.exchange",
+    "xml": "https://www.go-go.exchange/service/export/xml/AH1iqtea647/"
+  },
+  {
+    "display_name": "uachanger-com",
+    "name": "uachanger-com",
+    "real_link": "https://uachanger.com",
+    "xml": "https://uachanger.com/request-exportxml.xml"
+  },
+  {
+    "display_name": "exbit-cc",
+    "name": "exbit-cc",
+    "real_link": "https://exbit.cc",
+    "xml": "https://xml.exbit.cc/valuta.xml"
+  },
+  {
+    "display_name": "cryptozeus-cc",
+    "name": "cryptozeus-cc",
+    "real_link": "https://cryptozeus.cc",
+    "xml": "https://cryptozeus.cc/courses.xml"
+  },
+  {
+    "display_name": "plannex-org",
+    "name": "plannex-org",
+    "real_link": "https://plannex.org",
+    "xml": "https://plannex.org/request-exportxml.xml"
+  },
+  {
+    "display_name": "changeum-io",
+    "name": "changeum-io",
+    "real_link": "https://changeum.io",
+    "xml": "https://changeum.io/api/v1/rates.xml"
+  },
+  {
+    "display_name": "lunabit-cc",
+    "name": "lunabit-cc",
+    "real_link": "https://lunabit.cc",
+    "xml": "https://lunabit.cc/request-exportxml.xml"
+  },
+  {
+    "display_name": "snapswap-io",
+    "name": "snapswap-io",
+    "real_link": "https://snapswap.io",
+    "xml": "https://snapswap.io/api/v1/Rate/rates.xml"
+  },
+  {
+    "display_name": "thegrail-exchange",
+    "name": "thegrail-exchange",
+    "real_link": "https://thegrail.exchange",
+    "xml": "https://thegrail.exchange/request-exportxml.xml"
+  },
+  {
+    "display_name": "ecash-expert",
+    "name": "ecash-expert",
+    "real_link": "https://ecash.expert/",
+    "xml": "https://ecash.expert/rates-export/xml"
+  },
+  {
+    "display_name": "f-change-biz",
+    "name": "f-change-biz",
+    "real_link": "https://f-change.biz",
+    "xml": "https://f-change.biz/request-exportxml.xml"
+  },
+  {
+    "display_name": "tuco-co",
+    "name": "tuco-co",
+    "real_link": "https://tuco.co",
+    "xml": "https://xml.tuco.co/valuta.xml"
+  },
+  {
+    "display_name": "xgram-io",
+    "name": "xgram-io",
+    "real_link": "https://xgram.io",
+    "xml": "https://xgram.io/api/rates"
+  },
+  {
+    "display_name": "cryptogin-cc",
+    "name": "cryptogin-cc",
+    "real_link": "https://cryptogin.cc",
+    "xml": "https://cryptogin.cc/courses.xml"
+  },
+  {
+    "display_name": "leoexchanger-net",
+    "name": "leoexchanger-net",
+    "real_link": "https://leoexchanger.net",
+    "xml": "https://leoexchanger.net/service/export/xml/HW1iqrgcf7v/"
+  },
+  {
+    "display_name": "swapcoin-cc",
+    "name": "swapcoin-cc",
+    "real_link": "https://swapcoin.cc",
+    "xml": "https://xml.swapcoin.cc/valuta.xml"
+  },
+  {
+    "display_name": "pangeya-exchange",
+    "name": "pangeya-exchange",
+    "real_link": "https://pangeya.exchange",
+    "xml": "https://pangeya.exchange/rates-export/xml/"
+  },
+  {
+    "display_name": "bitbox-pw",
+    "name": "bitbox-pw",
+    "real_link": "https://bitbox.pw",
+    "xml": "https://bitbox.pw/api/bestCourses"
+  },
+  {
+    "display_name": "dynasty-pay-com",
+    "name": "dynasty-pay-com",
+    "real_link": "https://dynasty-pay.com",
+    "xml": "https://dynasty-pay.com/request-exportxml.xml"
+  },
+  {
+    "display_name": "eurobit-cc",
+    "name": "eurobit-cc",
+    "real_link": "https://eurobit.cc",
+    "xml": "https://xml.eurobit.cc/valuta.xml"
+  },
+  {
+    "display_name": "darken-vip",
+    "name": "darken-vip",
+    "real_link": "https://darken.vip",
+    "xml": "https://darken.biz/site/rates"
+  },
+  {
+    "display_name": "novobitex-com",
+    "name": "novobitex-com",
+    "real_link": "https://novobitex.com",
+    "xml": "https://novobitex.com/request-exportxml.xml?hcron=HYeelGdyeRq514KAtejd"
+  },
+  {
+    "display_name": "kms-exchange-com",
+    "name": "kms-exchange-com",
+    "real_link": "https://kms-exchange.com",
+    "xml": "https://kms-exchange.com/request-exportxml.xml"
+  },
+  {
+    "display_name": "mason-ex-com",
+    "name": "mason-ex-com",
+    "real_link": "https://mason-ex.com",
+    "xml": "https://mason-ex.com/service/export/xml/121ir0kv21r/"
+  },
+  {
+    "display_name": "pushpayer-net",
+    "name": "pushpayer-net",
+    "real_link": "https://pushpayer.net/",
+    "xml": "https://pushpayer.net/request-exportxml32df234fl3.xml"
+  },
+  {
+    "display_name": "storebucks-io",
+    "name": "storebucks-io",
+    "real_link": "https://storebucks.io",
+    "xml": "https://storebucks.io/request-exportxml.xml"
+  },
+  {
+    "display_name": "bitflaming-com",
+    "name": "bitflaming-com",
+    "real_link": "https://bitflaming.com",
+    "xml": "https://bitflaming.com/courses.xml"
+  },
+  {
+    "display_name": "platov-co",
+    "name": "platov-co",
+    "real_link": "https://platov.co",
+    "xml": "https://platov.co/site/rates"
+  },
+  {
+    "display_name": "4ange-com",
+    "name": "4ange-com",
+    "real_link": "https://4ange.com",
+    "xml": "https://4ange.com/bestexp.xml"
+  },
+  {
+    "display_name": "crypster-net",
+    "name": "crypster-net",
+    "real_link": "https://crypster.net",
+    "xml": "https://xml.crypster.net/valuta.xml"
+  },
+  {
+    "display_name": "fastchange-me",
+    "name": "fastchange-me",
+    "real_link": "https://fastchange.me",
+    "xml": "https://xml.fastchange.me/valuta.xml"
+  },
+  {
+    "display_name": "bitmen-pro",
+    "name": "bitmen-pro",
+    "real_link": "https://bitmen.pro",
+    "xml": "https://bitmen.pro/rates-export/xml/bvfp54ua2y8o8udrbv78uulxcsknen9p"
+  },
+  {
+    "display_name": "lizex-io",
+    "name": "lizex-io",
+    "real_link": "https://lizex.io",
+    "xml": "https://api.lizex.io/coin/integration/xml/?limit=all&per_page=0"
+  },
+  {
+    "display_name": "all-cash",
+    "name": "all-cash",
+    "real_link": "https://all.cash",
+    "xml": "https://xml.all.cash/valuta.xml"
+  },
+  {
+    "display_name": "tyt-cash",
+    "name": "tyt-cash",
+    "real_link": "https://tyt.cash/",
+    "xml": "https://tyt.cash/request-secretexportxml983.xml"
+  }
+]

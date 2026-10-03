@@ -154,6 +154,58 @@ export const LinksQuery = gql`
   }
 `;
 
+export const ExchangersForMergeQuery = gql`
+  {
+    exchangers(pagination: { limit: 5000 }) {
+      data {
+        id
+        attributes {
+          name
+          display_name
+          rates_link
+          ref_link
+          status
+          admin_comment
+          admin_rating
+          exchanger_card {
+            telegram
+            email
+            phone_number
+            ru_description
+            en_description
+            working_time
+          }
+          logo {
+            data {
+              id
+              attributes {
+                name
+                alternativeText
+                url
+              }
+            }
+          }
+          monitorings {
+            __typename
+            ... on ComponentExchangerMonitoring {
+              id
+              link
+              monitoring {
+                data {
+                  id
+                  attributes {
+                    name
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+`;
+
 export const EmptyDescriptionQuery = gql`
   {
     exchangers(
@@ -589,6 +641,29 @@ export const CurrencyIdsQuery = gql`
         id
         attributes {
           code
+        }
+      }
+    }
+  }
+`;
+
+export const CreateOfficeMutation = gql`
+  mutation CreateOffice($data: OfficeInput!) {
+    createOffice(data: $data) {
+      data {
+        id
+      }
+    }
+  }
+`;
+
+export const OfficesQuery = gql`
+  {
+    offices(pagination: { limit: 5000 }) {
+      data {
+        id
+        attributes {
+          address
         }
       }
     }

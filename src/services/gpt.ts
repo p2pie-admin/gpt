@@ -23,6 +23,48 @@ type CallGPTOptions = {
   model?: string;
 };
 
+export const callGPTText = async (
+  prompt: string,
+  id: string,
+  options?: CallGPTOptions
+): Promise<string | null> => {
+  const model =
+    options?.model || (process.env.MODEL as string) || "gpt-4o-mini";
+  mylog(`Running ${id.toUpperCase()} on ${model}...`, "info");
+  if (!prompt) return null;
+
+  const maxRetries = 3;
+  let attempts = 0;
+
+  while (attempts < maxRetries) {
+    try {
+      const completion = await openai.chat.completions.create({
+        model,
+        messages: [{ role: "user", content: prompt.slice(0, 320_000) }],
+      });
+
+      const rawResult = completion?.choices?.[0]?.message?.content;
+      if (rawResult) return rawResult.trim();
+    } catch (error) {
+      mylog(
+        `❌ Error processing ${id} (Attempt ${
+          attempts + 1
+        } of ${maxRetries}): ${error}`,
+        "error"
+      );
+    }
+
+    attempts++;
+    if (attempts < maxRetries) {
+      console.log(`🔄 Retrying in 5 seconds...`);
+      await sleep(4000);
+    }
+  }
+
+  mylog(`❌ ${id} failed after ${maxRetries} attempts.`, "error");
+  return null;
+};
+
 export const callGPT = async (
   prompt: string,
   id: string,

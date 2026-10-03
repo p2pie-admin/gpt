@@ -1,0 +1,1352 @@
+[
+  {
+    "codes": ["ANAPA", "AAQ", "ANP"],
+    "coordinates": [45.0003, 37.325],
+    "en_country_name": "Russia",
+    "en_name": "Anapa",
+    "population": 0,
+    "preposition": "Анапе",
+    "ru_country_name": "Россия",
+    "ru_name": "Анапа"
+  },
+  {
+    "codes": ["ABA", "ABK"],
+    "coordinates": [53.72, 91.445],
+    "en_country_name": "Russia",
+    "en_name": "Abakan",
+    "population": 1,
+    "preposition": "Абакане",
+    "ru_country_name": "Россия",
+    "ru_name": "Абакан"
+  },
+  {
+    "codes": ["ADLER"],
+    "coordinates": [43.43, 39.91],
+    "en_country_name": "Russia",
+    "en_name": "Adler",
+    "population": 0,
+    "preposition": "Адлере",
+    "ru_country_name": "Россия",
+    "ru_name": "Адлер"
+  },
+  {
+    "codes": ["SOCHI", "SOCH", "SXI"],
+    "coordinates": [43.5853, 39.7203],
+    "en_country_name": "Russia",
+    "en_name": "Sochi",
+    "population": 1,
+    "preposition": "Сочи",
+    "ru_country_name": "Россия",
+    "ru_name": "Сочи"
+  },
+  {
+    "codes": ["ARKH", "ARH", "ARHK"],
+    "coordinates": [64.5399, 40.5152],
+    "en_country_name": "Russia",
+    "en_name": "Arkhangelsk",
+    "population": 1,
+    "preposition": "Архангельске",
+    "ru_country_name": "Россия",
+    "ru_name": "Архангельск"
+  },
+  {
+    "codes": ["ASTRA", "ASF", "ASKN"],
+    "coordinates": [46.3497, 48.0408],
+    "en_country_name": "Russia",
+    "en_name": "Astrakhan",
+    "population": 2,
+    "preposition": "Астрахани",
+    "ru_country_name": "Россия",
+    "ru_name": "Астрахань"
+  },
+  {
+    "codes": ["BRNL", "BAX", "BARN"],
+    "coordinates": [53.355, 83.7696],
+    "en_country_name": "Russia",
+    "en_name": "Barnaul",
+    "population": 2,
+    "preposition": "Барнауле",
+    "ru_country_name": "Россия",
+    "ru_name": "Барнаул"
+  },
+  {
+    "codes": ["BLGR", "BGO"],
+    "coordinates": [50.5977, 36.5859],
+    "en_country_name": "Russia",
+    "en_name": "Belgorod",
+    "population": 1,
+    "preposition": "Белгороде",
+    "ru_country_name": "Россия",
+    "ru_name": "Белгород"
+  },
+  {
+    "codes": ["BQE", "BOLG"],
+    "coordinates": [57.8854, 34.0606],
+    "en_country_name": "Russia",
+    "en_name": "Bologoye",
+    "population": 0,
+    "preposition": "Бологое",
+    "ru_country_name": "Россия",
+    "ru_name": "Бологое"
+  },
+  {
+    "codes": ["BLGVS", "BQS", "BLG"],
+    "coordinates": [50.2906, 127.5272],
+    "en_country_name": "Russia",
+    "en_name": "Blagoveshchensk",
+    "population": 1,
+    "preposition": "Благовещенске",
+    "ru_country_name": "Россия",
+    "ru_name": "Благовещенск"
+  },
+  {
+    "codes": ["BRN", "BRYK"],
+    "coordinates": [53.2521, 34.3717],
+    "en_country_name": "Russia",
+    "en_name": "Bryansk",
+    "population": 1,
+    "preposition": "Брянске",
+    "ru_country_name": "Россия",
+    "ru_name": "Брянск"
+  },
+  {
+    "codes": ["CEB"],
+    "coordinates": [54.9825, 60.3644],
+    "en_country_name": "Russia",
+    "en_name": "Chebarkul",
+    "population": 0,
+    "preposition": "Чебаркуле",
+    "ru_country_name": "Россия",
+    "ru_name": "Чебаркуль"
+  },
+  {
+    "codes": ["CHRP", "CEE"],
+    "coordinates": [59.1269, 37.9095],
+    "en_country_name": "Russia",
+    "en_name": "Cherepovets",
+    "population": 1,
+    "preposition": "Череповце",
+    "ru_country_name": "Россия",
+    "ru_name": "Череповец"
+  },
+  {
+    "codes": ["CHEL", "CEK", "CHLY"],
+    "coordinates": [55.1644, 61.4368],
+    "en_country_name": "Russia",
+    "en_name": "Chelyabinsk",
+    "population": 3,
+    "preposition": "Челябинске",
+    "ru_country_name": "Россия",
+    "ru_name": "Челябинск"
+  },
+  {
+    "codes": ["CHEB", "CSY"],
+    "coordinates": [56.1439, 47.2489],
+    "en_country_name": "Russia",
+    "en_name": "Cheboksary",
+    "population": 1,
+    "preposition": "Чебоксарах",
+    "ru_country_name": "Россия",
+    "ru_name": "Чебоксары"
+  },
+  {
+    "codes": ["CIP", "CHIS"],
+    "coordinates": [55.3638, 50.6422],
+    "en_country_name": "Russia",
+    "en_name": "Chistopol",
+    "population": 0,
+    "preposition": "Чистополе",
+    "ru_country_name": "Россия",
+    "ru_name": "Чистополь"
+  },
+  {
+    "codes": ["CRK"],
+    "coordinates": [44.2236, 42.0578],
+    "en_country_name": "Russia",
+    "en_name": "Cherkessk",
+    "population": 1,
+    "preposition": "Черкесске",
+    "ru_country_name": "Россия",
+    "ru_name": "Черкесск"
+  },
+  {
+    "codes": ["DME", "DMTV"],
+    "coordinates": [56.3425, 37.5201],
+    "en_country_name": "Russia",
+    "en_name": "Dmitrov",
+    "population": 0,
+    "preposition": "Дмитрове",
+    "ru_country_name": "Россия",
+    "ru_name": "Дмитров"
+  },
+  {
+    "codes": ["DYR", "ANAD"],
+    "coordinates": [64.7333, 177.5167],
+    "en_country_name": "Russia",
+    "en_name": "Anadyr",
+    "population": 0,
+    "preposition": "Анадыре",
+    "ru_country_name": "Россия",
+    "ru_name": "Анадырь"
+  },
+  {
+    "codes": ["DZN", "DZR"],
+    "coordinates": [56.242, 43.4545],
+    "en_country_name": "Russia",
+    "en_name": "Dzerzhinsk",
+    "population": 1,
+    "preposition": "Дзержинске",
+    "ru_country_name": "Россия",
+    "ru_name": "Дзержинск"
+  },
+  {
+    "codes": ["YLTS", "EAE", "ELEC"],
+    "coordinates": [52.6258, 38.501],
+    "en_country_name": "Russia",
+    "en_name": "Yelets",
+    "population": 1,
+    "preposition": "Ельце",
+    "ru_country_name": "Россия",
+    "ru_name": "Елец"
+  },
+  {
+    "codes": ["EIK", "YEK"],
+    "coordinates": [46.7112, 38.2738],
+    "en_country_name": "Russia",
+    "en_name": "Yeysk",
+    "population": 0,
+    "preposition": "Ейске",
+    "ru_country_name": "Россия",
+    "ru_name": "Ейск"
+  },
+  {
+    "codes": ["EKB", "SVX"],
+    "coordinates": [56.8389, 60.6057],
+    "en_country_name": "Russia",
+    "en_name": "Yekaterinburg",
+    "population": 3,
+    "preposition": "Екатеринбурге",
+    "ru_country_name": "Россия",
+    "ru_name": "Екатеринбург"
+  },
+  {
+    "codes": ["ELB", "YLB"],
+    "coordinates": [55.755, 52.0526],
+    "en_country_name": "Russia",
+    "en_name": "Yelabuga",
+    "population": 0,
+    "preposition": "Елабуге",
+    "ru_country_name": "Россия",
+    "ru_name": "Елабуга"
+  },
+  {
+    "codes": ["ENG", "EGL"],
+    "coordinates": [51.4839, 46.105],
+    "en_country_name": "Russia",
+    "en_name": "Engels",
+    "population": 1,
+    "preposition": "Энгельсе",
+    "ru_country_name": "Россия",
+    "ru_name": "Энгельс"
+  },
+  {
+    "codes": ["ESL", "ELST"],
+    "coordinates": [46.3083, 44.2703],
+    "en_country_name": "Russia",
+    "en_name": "Elista",
+    "population": 1,
+    "preposition": "Элисте",
+    "ru_country_name": "Россия",
+    "ru_name": "Элиста"
+  },
+  {
+    "codes": ["ESS", "YES"],
+    "coordinates": [44.0436, 42.8604],
+    "en_country_name": "Russia",
+    "en_name": "Yessentuki",
+    "population": 1,
+    "preposition": "Ессентуки",
+    "ru_country_name": "Россия",
+    "ru_name": "Ессентуки"
+  },
+  {
+    "codes": ["GDV", "GDOV"],
+    "coordinates": [58.7383, 27.8283],
+    "en_country_name": "Russia",
+    "en_name": "Gdov",
+    "population": 0,
+    "preposition": "Гдове",
+    "ru_country_name": "Россия",
+    "ru_name": "Гдов"
+  },
+  {
+    "codes": ["GLND", "GDZ", "GLDZ"],
+    "coordinates": [44.5631, 38.0792],
+    "en_country_name": "Russia",
+    "en_name": "Gelendzhik",
+    "population": 0,
+    "preposition": "Геленджике",
+    "ru_country_name": "Россия",
+    "ru_name": "Геленджик"
+  },
+  {
+    "codes": ["NNOV", "GOJ", "NNG"],
+    "coordinates": [56.3269, 44.0059],
+    "en_country_name": "Russia",
+    "en_name": "Nizhny-Novgorod",
+    "population": 3,
+    "preposition": "Нижнем Новгороде",
+    "ru_country_name": "Россия",
+    "ru_name": "Нижний Новгород"
+  },
+  {
+    "codes": ["GRM", "GUD"],
+    "coordinates": [43.3513, 46.1053],
+    "en_country_name": "Russia",
+    "en_name": "Gudermes",
+    "population": 0,
+    "preposition": "Гудермесе",
+    "ru_country_name": "Россия",
+    "ru_name": "Гудермес"
+  },
+  {
+    "codes": ["GRZ", "GRV", "GRNZ"],
+    "coordinates": [43.3178, 45.6985],
+    "en_country_name": "Russia",
+    "en_name": "Grozny",
+    "population": 1,
+    "preposition": "Грозном",
+    "ru_country_name": "Россия",
+    "ru_name": "Грозный"
+  },
+  {
+    "codes": ["GTN", "GCH"],
+    "coordinates": [59.5761, 30.1287],
+    "en_country_name": "Russia",
+    "en_name": "Gatchina",
+    "population": 0,
+    "preposition": "Гатчине",
+    "ru_country_name": "Россия",
+    "ru_name": "Гатчина"
+  },
+  {
+    "codes": ["GUS", "GKR"],
+    "coordinates": [55.6111, 40.6515],
+    "en_country_name": "Russia",
+    "en_name": "Gus-Khrustalny",
+    "population": 0,
+    "preposition": "Гусь-Хрустальном",
+    "ru_country_name": "Россия",
+    "ru_name": "Гусь-Хрустальный"
+  },
+  {
+    "codes": ["HMA", "KHMA"],
+    "coordinates": [61.0032, 69.0189],
+    "en_country_name": "Russia",
+    "en_name": "Khanty-Mansiysk",
+    "population": 1,
+    "preposition": "Ханты-Мансийске",
+    "ru_country_name": "Россия",
+    "ru_name": "Ханты-Мансийск"
+  },
+  {
+    "codes": ["HTA", "CHT"],
+    "coordinates": [52.034, 113.5009],
+    "en_country_name": "Russia",
+    "en_name": "Chita",
+    "population": 1,
+    "preposition": "Чите",
+    "ru_country_name": "Россия",
+    "ru_name": "Чита"
+  },
+  {
+    "codes": ["YARS", "YAR", "IAR"],
+    "coordinates": [57.6261, 39.8845],
+    "en_country_name": "Russia",
+    "en_name": "Yaroslavl",
+    "population": 2,
+    "preposition": "Ярославле",
+    "ru_country_name": "Россия",
+    "ru_name": "Ярославль"
+  },
+  {
+    "codes": ["IAV", "IVA"],
+    "coordinates": [56.9994, 40.9728],
+    "en_country_name": "Russia",
+    "en_name": "Ivanovo",
+    "population": 1,
+    "preposition": "Иваново",
+    "ru_country_name": "Россия",
+    "ru_name": "Иваново"
+  },
+  {
+    "codes": ["IGT", "NZN"],
+    "coordinates": [43.2253, 44.7648],
+    "en_country_name": "Russia",
+    "en_name": "Nazran",
+    "population": 0,
+    "preposition": "Назрани",
+    "ru_country_name": "Россия",
+    "ru_name": "Назрань"
+  },
+  {
+    "codes": ["IZHV", "IJK", "IZH"],
+    "coordinates": [56.8527, 53.2069],
+    "en_country_name": "Russia",
+    "en_name": "Izhevsk",
+    "population": 2,
+    "preposition": "Ижевске",
+    "ru_country_name": "Россия",
+    "ru_name": "Ижевск"
+  },
+  {
+    "codes": ["IRK", "IKT"],
+    "coordinates": [52.2869, 104.305],
+    "en_country_name": "Russia",
+    "en_name": "Irkutsk",
+    "population": 2,
+    "preposition": "Иркутске",
+    "ru_country_name": "Россия",
+    "ru_name": "Иркутск"
+  },
+  {
+    "codes": ["YOLA", "YSH", "JOK"],
+    "coordinates": [56.6343, 47.8826],
+    "en_country_name": "Russia",
+    "en_name": "Yoshkar-Ola",
+    "population": 1,
+    "preposition": "Йошкар-Оле",
+    "ru_country_name": "Россия",
+    "ru_name": "Йошкар-Ола"
+  },
+  {
+    "codes": ["KEM", "KEJ", "KMRV"],
+    "coordinates": [55.3556, 86.0868],
+    "en_country_name": "Russia",
+    "en_name": "Kemerovo",
+    "population": 2,
+    "preposition": "Кемерово",
+    "ru_country_name": "Россия",
+    "ru_name": "Кемерово"
+  },
+  {
+    "codes": ["KLNG", "KGD", "KALN"],
+    "coordinates": [54.7104, 20.4522],
+    "en_country_name": "Russia",
+    "en_name": "Kaliningrad",
+    "population": 1,
+    "preposition": "Калининграде",
+    "ru_country_name": "Россия",
+    "ru_name": "Калининград"
+  },
+  {
+    "codes": ["HABAR", "KHAB", "KHV"],
+    "coordinates": [48.4802, 135.0719],
+    "en_country_name": "Russia",
+    "en_name": "Khabarovsk",
+    "population": 2,
+    "preposition": "Хабаровске",
+    "ru_country_name": "Россия",
+    "ru_name": "Хабаровск"
+  },
+  {
+    "codes": ["KIROV", "KVX"],
+    "coordinates": [58.6035, 49.6676],
+    "en_country_name": "Russia",
+    "en_name": "Kirov",
+    "population": 1,
+    "preposition": "Кирове",
+    "ru_country_name": "Россия",
+    "ru_name": "Киров"
+  },
+  {
+    "codes": ["KIS", "KSL"],
+    "coordinates": [43.9133, 42.72],
+    "en_country_name": "Russia",
+    "en_name": "Kislovodsk",
+    "population": 1,
+    "preposition": "Кисловодске",
+    "ru_country_name": "Россия",
+    "ru_name": "Кисловодск"
+  },
+  {
+    "codes": ["KRSK", "KJA", "KRSN"],
+    "coordinates": [56.0153, 92.8932],
+    "en_country_name": "Russia",
+    "en_name": "Krasnoyarsk",
+    "population": 3,
+    "preposition": "Красноярске",
+    "ru_country_name": "Россия",
+    "ru_name": "Красноярск"
+  },
+  {
+    "codes": ["KLG", "KLF"],
+    "coordinates": [54.5144, 36.242],
+    "en_country_name": "Russia",
+    "en_name": "Kaluga",
+    "population": 1,
+    "preposition": "Калуге",
+    "ru_country_name": "Россия",
+    "ru_name": "Калуга"
+  },
+  {
+    "codes": ["KOST"],
+    "coordinates": [57.7679, 40.926],
+    "en_country_name": "Russia",
+    "en_name": "Kostroma",
+    "population": 1,
+    "preposition": "Костроме",
+    "ru_country_name": "Россия",
+    "ru_name": "Кострома"
+  },
+  {
+    "codes": ["KRASN", "KRR"],
+    "coordinates": [45.0355, 38.9753],
+    "en_country_name": "Russia",
+    "en_name": "Krasnodar",
+    "population": 2,
+    "preposition": "Краснодаре",
+    "ru_country_name": "Россия",
+    "ru_name": "Краснодар"
+  },
+  {
+    "codes": ["KRG", "KRO"],
+    "coordinates": [55.4401, 65.3411],
+    "en_country_name": "Russia",
+    "en_name": "Kurgan",
+    "population": 1,
+    "preposition": "Кургане",
+    "ru_country_name": "Россия",
+    "ru_name": "Курган"
+  },
+  {
+    "codes": ["KSZ", "KTL"],
+    "coordinates": [61.2522, 46.6339],
+    "en_country_name": "Russia",
+    "en_name": "Kotlas",
+    "population": 0,
+    "preposition": "Котласе",
+    "ru_country_name": "Россия",
+    "ru_name": "Котлас"
+  },
+  {
+    "codes": ["SMR", "SAMR", "KUF"],
+    "coordinates": [53.1959, 50.1002],
+    "en_country_name": "Russia",
+    "en_name": "Samara",
+    "population": 3,
+    "preposition": "Самаре",
+    "ru_country_name": "Россия",
+    "ru_name": "Самара"
+  },
+  {
+    "codes": ["KURSK"],
+    "coordinates": [51.7304, 36.1926],
+    "en_country_name": "Russia",
+    "en_name": "Kursk",
+    "population": 1,
+    "preposition": "Курске",
+    "ru_country_name": "Россия",
+    "ru_name": "Курск"
+  },
+  {
+    "codes": ["KXK"],
+    "coordinates": [50.55, 137],
+    "en_country_name": "Russia",
+    "en_name": "Komsomolsk-on-Amur",
+    "population": 1,
+    "preposition": "Комсомольске-на-Амуре",
+    "ru_country_name": "Россия",
+    "ru_name": "Комсомольск-на-Амуре"
+  },
+  {
+    "codes": ["KYZL", "KZL"],
+    "coordinates": [51.7191, 94.4377],
+    "en_country_name": "Russia",
+    "en_name": "Kyzyl",
+    "population": 1,
+    "preposition": "Кызыле",
+    "ru_country_name": "Россия",
+    "ru_name": "Кызыл"
+  },
+  {
+    "codes": ["KZN"],
+    "coordinates": [55.7941, 49.1115],
+    "en_country_name": "Russia",
+    "en_name": "Kazan",
+    "population": 3,
+    "preposition": "Казани",
+    "ru_country_name": "Россия",
+    "ru_name": "Казань"
+  },
+  {
+    "codes": ["SPB", "LED"],
+    "coordinates": [59.9343, 30.3351],
+    "en_country_name": "Russia",
+    "en_name": "Saint-Petersburg",
+    "population": 5,
+    "preposition": "Санкт-Петербурге",
+    "ru_country_name": "Россия",
+    "ru_name": "Санкт-Петербург"
+  },
+  {
+    "codes": ["LNG"],
+    "coordinates": [54.598, 52.4434],
+    "en_country_name": "Russia",
+    "en_name": "Leninogorsk",
+    "population": 0,
+    "preposition": "Лениногорске",
+    "ru_country_name": "Россия",
+    "ru_name": "Лениногорск"
+  },
+  {
+    "codes": ["SMLNK", "LNX"],
+    "coordinates": [54.7826, 32.0453],
+    "en_country_name": "Russia",
+    "en_name": "Smolensk",
+    "population": 1,
+    "preposition": "Смоленске",
+    "ru_country_name": "Россия",
+    "ru_name": "Смоленск"
+  },
+  {
+    "codes": ["LPT", "LPK"],
+    "coordinates": [52.6031, 39.5708],
+    "en_country_name": "Russia",
+    "en_name": "Lipetsk",
+    "population": 2,
+    "preposition": "Липецке",
+    "ru_country_name": "Россия",
+    "ru_name": "Липецк"
+  },
+  {
+    "codes": ["LYUB", "LUB"],
+    "coordinates": [55.6814, 37.8932],
+    "en_country_name": "Russia",
+    "en_name": "Lyubertsy",
+    "population": 1,
+    "preposition": "Люберцах",
+    "ru_country_name": "Россия",
+    "ru_name": "Люберцы"
+  },
+  {
+    "codes": ["LYU"],
+    "coordinates": [58.3641, 31.2437],
+    "en_country_name": "Russia",
+    "en_name": "Lyuban",
+    "population": 0,
+    "preposition": "Любани",
+    "ru_country_name": "Россия",
+    "ru_name": "Любань"
+  },
+  {
+    "codes": ["MHKL", "MCX", "MKH"],
+    "coordinates": [42.9849, 47.5046],
+    "en_country_name": "Russia",
+    "en_name": "Makhachkala",
+    "population": 2,
+    "preposition": "Махачкале",
+    "ru_country_name": "Россия",
+    "ru_name": "Махачкала"
+  },
+  {
+    "codes": ["MGNT", "MAGN", "MQF"],
+    "coordinates": [53.4072, 58.98],
+    "en_country_name": "Russia",
+    "en_name": "Magnitogorsk",
+    "population": 1,
+    "preposition": "Магнитогорске",
+    "ru_country_name": "Россия",
+    "ru_name": "Магнитогорск"
+  },
+  {
+    "codes": ["MIU"],
+    "coordinates": [55.0452, 60.1082],
+    "en_country_name": "Russia",
+    "en_name": "Miass",
+    "population": 1,
+    "preposition": "Миассе",
+    "ru_country_name": "Россия",
+    "ru_name": "Миасс"
+  },
+  {
+    "codes": ["MJZ"],
+    "coordinates": [62.5353, 113.9735],
+    "en_country_name": "Russia",
+    "en_name": "Mirny",
+    "population": 0,
+    "preposition": "Мирном",
+    "ru_country_name": "Россия",
+    "ru_name": "Мирный"
+  },
+  {
+    "codes": ["MRMK", "MURM", "MMK", "MRM"],
+    "coordinates": [68.9585, 33.0827],
+    "en_country_name": "Russia",
+    "en_name": "Murmansk",
+    "population": 1,
+    "preposition": "Мурманске",
+    "ru_country_name": "Россия",
+    "ru_name": "Мурманск"
+  },
+  {
+    "codes": ["MSK", "MOS", "MOW"],
+    "coordinates": [55.7558, 37.6176],
+    "en_country_name": "Russia",
+    "en_name": "Moscow",
+    "population": 6,
+    "preposition": "Москве",
+    "ru_country_name": "Россия",
+    "ru_name": "Москва"
+  },
+  {
+    "codes": ["MAG", "GDX"],
+    "coordinates": [59.5682, 150.8085],
+    "en_country_name": "Russia",
+    "en_name": "Magadan",
+    "population": 0,
+    "preposition": "Магадане",
+    "ru_country_name": "Россия",
+    "ru_name": "Магадан"
+  },
+  {
+    "codes": ["MRV"],
+    "coordinates": [44.2119, 43.135],
+    "en_country_name": "Russia",
+    "en_name": "Mineralnye-Vody",
+    "population": 0,
+    "preposition": "Минеральных Водах",
+    "ru_country_name": "Россия",
+    "ru_name": "Минеральные Воды"
+  },
+  {
+    "codes": ["MTY"],
+    "coordinates": [55.9116, 37.7308],
+    "en_country_name": "Russia",
+    "en_name": "Mytishchi",
+    "population": 1,
+    "preposition": "Мытищах",
+    "ru_country_name": "Россия",
+    "ru_name": "Мытищи"
+  },
+  {
+    "codes": ["MUO"],
+    "coordinates": [55.5632, 42.045],
+    "en_country_name": "Russia",
+    "en_name": "Murom",
+    "population": 1,
+    "preposition": "Муроме",
+    "ru_country_name": "Россия",
+    "ru_name": "Муром"
+  },
+  {
+    "codes": ["MYKP", "MYK"],
+    "coordinates": [44.6098, 40.1006],
+    "en_country_name": "Russia",
+    "en_name": "Maykop",
+    "population": 1,
+    "preposition": "Майкопе",
+    "ru_country_name": "Россия",
+    "ru_name": "Майкоп"
+  },
+  {
+    "codes": ["NAL"],
+    "coordinates": [43.4846, 43.6072],
+    "en_country_name": "Russia",
+    "en_name": "Nalchik",
+    "population": 1,
+    "preposition": "Нальчике",
+    "ru_country_name": "Россия",
+    "ru_name": "Нальчик"
+  },
+  {
+    "codes": ["NZHNV", "NVT"],
+    "coordinates": [60.9397, 76.5804],
+    "en_country_name": "Russia",
+    "en_name": "Nizhnevartovsk",
+    "population": 1,
+    "preposition": "Нижневартовске",
+    "ru_country_name": "Россия",
+    "ru_name": "Нижневартовск"
+  },
+  {
+    "codes": ["NKHDK", "NKHD", "NJK"],
+    "coordinates": [42.8253, 132.8924],
+    "en_country_name": "Russia",
+    "en_name": "Nakhodka",
+    "population": 1,
+    "preposition": "Находке",
+    "ru_country_name": "Россия",
+    "ru_name": "Находка"
+  },
+  {
+    "codes": ["NRM", "NNM"],
+    "coordinates": [67.6375, 53.0061],
+    "en_country_name": "Russia",
+    "en_name": "Naryan-Mar",
+    "population": 0,
+    "preposition": "Нарьян-Маре",
+    "ru_country_name": "Россия",
+    "ru_name": "Нарьян-Мар"
+  },
+  {
+    "codes": ["NOVOR", "NVR", "NOV", "NOY"],
+    "coordinates": [44.7235, 37.7681],
+    "en_country_name": "Russia",
+    "en_name": "Novorossiysk",
+    "population": 1,
+    "preposition": "Новороссийске",
+    "ru_country_name": "Россия",
+    "ru_name": "Новороссийск"
+  },
+  {
+    "codes": ["NVKZN", "NVK", "NQZ", "NOZ"],
+    "coordinates": [53.7557, 87.1099],
+    "en_country_name": "Russia",
+    "en_name": "Novokuznetsk",
+    "population": 2,
+    "preposition": "Новокузнецке",
+    "ru_country_name": "Россия",
+    "ru_name": "Новокузнецк"
+  },
+  {
+    "codes": ["NSK", "NVOS", "NOB", "OVB"],
+    "coordinates": [55.0084, 82.9357],
+    "en_country_name": "Russia",
+    "en_name": "Novosibirsk",
+    "population": 3,
+    "preposition": "Новосибирске",
+    "ru_country_name": "Россия",
+    "ru_name": "Новосибирск"
+  },
+  {
+    "codes": ["NZNTG", "NTG", "NTGL"],
+    "coordinates": [57.9101, 59.9813],
+    "en_country_name": "Russia",
+    "en_name": "Nizhny-Tagil",
+    "population": 1,
+    "preposition": "Нижнем Тагиле",
+    "ru_country_name": "Россия",
+    "ru_name": "Нижний Тагил"
+  },
+  {
+    "codes": ["NUX"],
+    "coordinates": [66.0833, 76.6333],
+    "en_country_name": "Russia",
+    "en_name": "Novy-Urengoy",
+    "population": 1,
+    "preposition": "Новом Уренгое",
+    "ru_country_name": "Россия",
+    "ru_name": "Новый Уренгой"
+  },
+  {
+    "codes": ["NYM"],
+    "coordinates": [65.5374, 72.516],
+    "en_country_name": "Russia",
+    "en_name": "Nadym",
+    "population": 0,
+    "preposition": "Надыме",
+    "ru_country_name": "Россия",
+    "ru_name": "Надым"
+  },
+  {
+    "codes": ["NZKMS", "NZK"],
+    "coordinates": [55.6362, 51.8246],
+    "en_country_name": "Russia",
+    "en_name": "Nizhnekamsk",
+    "population": 1,
+    "preposition": "Нижнекамске",
+    "ru_country_name": "Россия",
+    "ru_name": "Нижнекамск"
+  },
+  {
+    "codes": ["OBN"],
+    "coordinates": [55.1104, 36.5942],
+    "en_country_name": "Russia",
+    "en_name": "Obninsk",
+    "population": 1,
+    "preposition": "Обнинске",
+    "ru_country_name": "Россия",
+    "ru_name": "Обнинск"
+  },
+  {
+    "codes": ["OEL"],
+    "coordinates": [52.9715, 36.0649],
+    "en_country_name": "Russia",
+    "en_name": "Oryol",
+    "population": 1,
+    "preposition": "Орле",
+    "ru_country_name": "Россия",
+    "ru_name": "Орёл"
+  },
+  {
+    "codes": ["VLK", "OGZ"],
+    "coordinates": [43.0367, 44.6672],
+    "en_country_name": "Russia",
+    "en_name": "Vladikavkaz",
+    "population": 1,
+    "preposition": "Владикавказе",
+    "ru_country_name": "Россия",
+    "ru_name": "Владикавказ"
+  },
+  {
+    "codes": ["OKT"],
+    "coordinates": [54.4804, 53.4711],
+    "en_country_name": "Russia",
+    "en_name": "Oktyabrsky",
+    "population": 1,
+    "preposition": "Октябрьском",
+    "ru_country_name": "Россия",
+    "ru_name": "Октябрьский"
+  },
+  {
+    "codes": ["OMSK", "OMS"],
+    "coordinates": [54.9893, 73.3682],
+    "en_country_name": "Russia",
+    "en_name": "Omsk",
+    "population": 3,
+    "preposition": "Омске",
+    "ru_country_name": "Россия",
+    "ru_name": "Омск"
+  },
+  {
+    "codes": ["OREN", "ORE", "REN"],
+    "coordinates": [51.7682, 55.0969],
+    "en_country_name": "Russia",
+    "en_name": "Orenburg",
+    "population": 2,
+    "preposition": "Оренбурге",
+    "ru_country_name": "Россия",
+    "ru_name": "Оренбург"
+  },
+  {
+    "codes": ["ORYOL"],
+    "coordinates": [52.9715, 36.0649],
+    "en_country_name": "Russia",
+    "en_name": "Orel",
+    "population": 0,
+    "preposition": "Орле",
+    "ru_country_name": "Россия",
+    "ru_name": "Орел"
+  },
+  {
+    "codes": ["OZH"],
+    "coordinates": [55.8114, 38.9813],
+    "en_country_name": "Russia",
+    "en_name": "Orekhovo-Zuyevo",
+    "population": 1,
+    "preposition": "Орехово-Зуево",
+    "ru_country_name": "Россия",
+    "ru_name": "Орехово-Зуево"
+  },
+  {
+    "codes": ["PERM", "PEE", "PRM"],
+    "coordinates": [58.0104, 56.2294],
+    "en_country_name": "Russia",
+    "en_name": "Perm",
+    "population": 3,
+    "preposition": "Перми",
+    "ru_country_name": "Россия",
+    "ru_name": "Пермь"
+  },
+  {
+    "codes": ["PENZA"],
+    "coordinates": [53.1959, 45.0183],
+    "en_country_name": "Russia",
+    "en_name": "Penza",
+    "population": 2,
+    "preposition": "Пензе",
+    "ru_country_name": "Россия",
+    "ru_name": "Пенза"
+  },
+  {
+    "codes": ["PTRS", "PES"],
+    "coordinates": [61.789, 34.3596],
+    "en_country_name": "Russia",
+    "en_name": "Petrozavodsk",
+    "population": 1,
+    "preposition": "Петрозаводске",
+    "ru_country_name": "Россия",
+    "ru_name": "Петрозаводск"
+  },
+  {
+    "codes": ["PKC"],
+    "coordinates": [53.0219, 158.6463],
+    "en_country_name": "Russia",
+    "en_name": "Petropavlovsk-Kamchatsky",
+    "population": 1,
+    "preposition": "Петропавловске-Камчатском",
+    "ru_country_name": "Россия",
+    "ru_name": "Петропавловск-Камчатский"
+  },
+  {
+    "codes": ["PSK", "PKV"],
+    "coordinates": [57.8194, 28.331],
+    "en_country_name": "Russia",
+    "en_name": "Pskov",
+    "population": 1,
+    "preposition": "Пскове",
+    "ru_country_name": "Россия",
+    "ru_name": "Псков"
+  },
+  {
+    "codes": ["PTGR", "PYTG", "PYA", "PTG"],
+    "coordinates": [44.0486, 43.0594],
+    "en_country_name": "Russia",
+    "en_name": "Pyatigorsk",
+    "population": 1,
+    "preposition": "Пятигорске",
+    "ru_country_name": "Россия",
+    "ru_name": "Пятигорск"
+  },
+  {
+    "codes": ["PTK"],
+    "coordinates": [55.4242, 37.5546],
+    "en_country_name": "Russia",
+    "en_name": "Podolsk",
+    "population": 1,
+    "preposition": "Подольске",
+    "ru_country_name": "Россия",
+    "ru_name": "Подольск"
+  },
+  {
+    "codes": ["RGK"],
+    "coordinates": [51.9606, 85.9188],
+    "en_country_name": "Russia",
+    "en_name": "Gorno-Altaysk",
+    "population": 0,
+    "preposition": "Горно-Алтайске",
+    "ru_country_name": "Россия",
+    "ru_name": "Горно-Алтайск"
+  },
+  {
+    "codes": ["RSTV", "RST"],
+    "coordinates": [47.2357, 39.7015],
+    "en_country_name": "Russia",
+    "en_name": "Rostov",
+    "population": 1,
+    "preposition": "Ростове",
+    "ru_country_name": "Россия",
+    "ru_name": "Ростов"
+  },
+  {
+    "codes": ["SRT", "SRTV", "SAR", "RTW"],
+    "coordinates": [51.5336, 46.0343],
+    "en_country_name": "Russia",
+    "en_name": "Saratov",
+    "population": 2,
+    "preposition": "Саратове",
+    "ru_country_name": "Россия",
+    "ru_name": "Саратов"
+  },
+  {
+    "codes": ["RYB"],
+    "coordinates": [58.0446, 38.8426],
+    "en_country_name": "Russia",
+    "en_name": "Rybinsk",
+    "population": 1,
+    "preposition": "Рыбинске",
+    "ru_country_name": "Россия",
+    "ru_name": "Рыбинск"
+  },
+  {
+    "codes": ["RZN", "RYZN", "RYA"],
+    "coordinates": [54.6197, 39.74],
+    "en_country_name": "Russia",
+    "en_name": "Ryazan",
+    "population": 2,
+    "preposition": "Рязани",
+    "ru_country_name": "Россия",
+    "ru_name": "Рязань"
+  },
+  {
+    "codes": ["SKTK", "SYKT", "SYK", "SCW"],
+    "coordinates": [61.668, 50.8352],
+    "en_country_name": "Russia",
+    "en_name": "Syktyvkar",
+    "population": 1,
+    "preposition": "Сыктывкаре",
+    "ru_country_name": "Россия",
+    "ru_name": "Сыктывкар"
+  },
+  {
+    "codes": ["SGT", "SGC"],
+    "coordinates": [61.2536, 73.3964],
+    "en_country_name": "Russia",
+    "en_name": "Surgut",
+    "population": 1,
+    "preposition": "Сургуте",
+    "ru_country_name": "Россия",
+    "ru_name": "Сургут"
+  },
+  {
+    "codes": ["SHD"],
+    "coordinates": [56.0883, 63.6333],
+    "en_country_name": "Russia",
+    "en_name": "Shadrinsk",
+    "population": 0,
+    "preposition": "Шадринске",
+    "ru_country_name": "Россия",
+    "ru_name": "Шадринск"
+  },
+  {
+    "codes": ["SHT"],
+    "coordinates": [55.5757, 39.5362],
+    "en_country_name": "Russia",
+    "en_name": "Shatura",
+    "population": 0,
+    "preposition": "Шатуре",
+    "ru_country_name": "Россия",
+    "ru_name": "Шатура"
+  },
+  {
+    "codes": ["SHU"],
+    "coordinates": [56.8537, 41.3847],
+    "en_country_name": "Russia",
+    "en_name": "Shuya",
+    "population": 0,
+    "preposition": "Шуе",
+    "ru_country_name": "Россия",
+    "ru_name": "Шуя"
+  },
+  {
+    "codes": ["SIMF"],
+    "coordinates": [44.9521, 34.1024],
+    "en_country_name": "Russia",
+    "en_name": "Simferopol",
+    "population": 1,
+    "preposition": "Симферополе",
+    "ru_country_name": "Россия",
+    "ru_name": "Симферополь"
+  },
+  {
+    "codes": ["SRN", "SKX", "SARN"],
+    "coordinates": [54.1818, 45.186],
+    "en_country_name": "Russia",
+    "en_name": "Saransk",
+    "population": 1,
+    "preposition": "Саранске",
+    "ru_country_name": "Россия",
+    "ru_name": "Саранск"
+  },
+  {
+    "codes": ["SLI"],
+    "coordinates": [51.1614, 54.9913],
+    "en_country_name": "Russia",
+    "en_name": "Sol-Iletsk",
+    "population": 0,
+    "preposition": "Соль-Илецке",
+    "ru_country_name": "Россия",
+    "ru_name": "Соль-Илецк"
+  },
+  {
+    "codes": ["SLY"],
+    "coordinates": [66.5496, 66.6094],
+    "en_country_name": "Russia",
+    "en_name": "Salekhard",
+    "population": 0,
+    "preposition": "Салехарде",
+    "ru_country_name": "Россия",
+    "ru_name": "Салехард"
+  },
+  {
+    "codes": ["STAV", "STW"],
+    "coordinates": [45.0428, 41.9734],
+    "en_country_name": "Russia",
+    "en_name": "Stavropol",
+    "population": 1,
+    "preposition": "Ставрополе",
+    "ru_country_name": "Россия",
+    "ru_name": "Ставрополь"
+  },
+  {
+    "codes": ["STOS"],
+    "coordinates": [51.2967, 37.8352],
+    "en_country_name": "Russia",
+    "en_name": "Stary-Oskol",
+    "population": 1,
+    "preposition": "Старом Осколе",
+    "ru_country_name": "Россия",
+    "ru_name": "Старый Оскол"
+  },
+  {
+    "codes": ["SVRD", "SVM"],
+    "coordinates": [64.5635, 39.8339],
+    "en_country_name": "Russia",
+    "en_name": "Severodvinsk",
+    "population": 1,
+    "preposition": "Северодвинске",
+    "ru_country_name": "Россия",
+    "ru_name": "Северодвинск"
+  },
+  {
+    "codes": ["TAMB"],
+    "coordinates": [52.7212, 41.4523],
+    "en_country_name": "Russia",
+    "en_name": "Tambov",
+    "population": 1,
+    "preposition": "Тамбове",
+    "ru_country_name": "Россия",
+    "ru_name": "Тамбов"
+  },
+  {
+    "codes": ["TGN"],
+    "coordinates": [47.2411, 38.8677],
+    "en_country_name": "Russia",
+    "en_name": "Taganrog",
+    "population": 1,
+    "preposition": "Таганроге",
+    "ru_country_name": "Россия",
+    "ru_name": "Таганрог"
+  },
+  {
+    "codes": ["TYUM", "TYM", "TJM"],
+    "coordinates": [57.153, 65.5343],
+    "en_country_name": "Russia",
+    "en_name": "Tyumen",
+    "population": 2,
+    "preposition": "Тюмени",
+    "ru_country_name": "Россия",
+    "ru_name": "Тюмень"
+  },
+  {
+    "codes": ["TOB"],
+    "coordinates": [58.2018, 68.2535],
+    "en_country_name": "Russia",
+    "en_name": "Tobolsk",
+    "population": 1,
+    "preposition": "Тобольске",
+    "ru_country_name": "Россия",
+    "ru_name": "Тобольск"
+  },
+  {
+    "codes": ["TMSK", "TOM", "TOF"],
+    "coordinates": [56.4846, 84.9483],
+    "en_country_name": "Russia",
+    "en_name": "Tomsk",
+    "population": 2,
+    "preposition": "Томске",
+    "ru_country_name": "Россия",
+    "ru_name": "Томск"
+  },
+  {
+    "codes": ["TVER", "TVE"],
+    "coordinates": [56.8587, 35.9176],
+    "en_country_name": "Russia",
+    "en_name": "Tver",
+    "population": 1,
+    "preposition": "Твери",
+    "ru_country_name": "Россия",
+    "ru_name": "Тверь"
+  },
+  {
+    "codes": ["TYD"],
+    "coordinates": [55.1544, 124.7462],
+    "en_country_name": "Russia",
+    "en_name": "Tynda",
+    "population": 0,
+    "preposition": "Тынде",
+    "ru_country_name": "Россия",
+    "ru_name": "Тында"
+  },
+  {
+    "codes": ["ULK"],
+    "coordinates": [60.725, 114.9397],
+    "en_country_name": "Russia",
+    "en_name": "Lensk",
+    "population": 0,
+    "preposition": "Ленске",
+    "ru_country_name": "Россия",
+    "ru_name": "Ленск"
+  },
+  {
+    "codes": ["ULYA", "ULY", "ULV"],
+    "coordinates": [54.3142, 48.4031],
+    "en_country_name": "Russia",
+    "en_name": "Ulyanovsk",
+    "population": 2,
+    "preposition": "Ульяновске",
+    "ru_country_name": "Россия",
+    "ru_name": "Ульяновск"
+  },
+  {
+    "codes": ["UUD"],
+    "coordinates": [51.8335, 107.5843],
+    "en_country_name": "Russia",
+    "en_name": "Ulan-Ude",
+    "population": 1,
+    "preposition": "Улан-Удэ",
+    "ru_country_name": "Россия",
+    "ru_name": "Улан-Уде"
+  },
+  {
+    "codes": ["VKT"],
+    "coordinates": [67.4988, 64.0525],
+    "en_country_name": "Russia",
+    "en_name": "Vorkuta",
+    "population": 0,
+    "preposition": "Воркуте",
+    "ru_country_name": "Россия",
+    "ru_name": "Воркута"
+  },
+  {
+    "codes": ["VLAD", "VLD"],
+    "coordinates": [56.1291, 40.4077],
+    "en_country_name": "Russia",
+    "en_name": "Vladimir",
+    "population": 1,
+    "preposition": "Владимире",
+    "ru_country_name": "Россия",
+    "ru_name": "Владимир"
+  },
+  {
+    "codes": ["VLGD", "VOG", "VOLG"],
+    "coordinates": [48.708, 44.5133],
+    "en_country_name": "Russia",
+    "en_name": "Volgograd",
+    "population": 3,
+    "preposition": "Волгограде",
+    "ru_country_name": "Россия",
+    "ru_name": "Волгоград"
+  },
+  {
+    "codes": ["VUS"],
+    "coordinates": [60.7608, 46.3058],
+    "en_country_name": "Russia",
+    "en_name": "Veliky-Ustyug",
+    "population": 0,
+    "preposition": "Великом Устюге",
+    "ru_country_name": "Россия",
+    "ru_name": "Великий Устюг"
+  },
+  {
+    "codes": ["VVO", "VLD"],
+    "coordinates": [43.1155, 131.8855],
+    "en_country_name": "Russia",
+    "en_name": "Vladivostok",
+    "population": 2,
+    "preposition": "Владивостоке",
+    "ru_country_name": "Россия",
+    "ru_name": "Владивосток"
+  },
+  {
+    "codes": ["YAK", "YKS"],
+    "coordinates": [62.0355, 129.6755],
+    "en_country_name": "Russia",
+    "en_name": "Yakutsk",
+    "population": 1,
+    "preposition": "Якутске",
+    "ru_country_name": "Россия",
+    "ru_name": "Якутск"
+  },
+  {
+    "codes": ["ZLT"],
+    "coordinates": [55.1713, 59.6726],
+    "en_country_name": "Russia",
+    "en_name": "Zlatoust",
+    "population": 1,
+    "preposition": "Златоусте",
+    "ru_country_name": "Россия",
+    "ru_name": "Златоуст"
+  }
+]

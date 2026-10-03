@@ -45,15 +45,25 @@ export interface IExchangerData {
   name: string;
   rates_link: string;
   ref_link: string;
+  status?: string;
   display_name?: string;
    telegram?: string;
    email?: string;
    working_time?: string;
    admin_rating?: number | null;
+  logo?: {
+    id?: string;
+    name?: string;
+    alternativeText?: string;
+    url?: string;
+  };
   exchanger_card?: {
     telegram?: string;
     email?: string;
     phone_number?: string;
+    ru_description?: string;
+    en_description?: string;
+    working_time?: string;
   };
   admin_comment?: string;
   monitorings?: IExchangerMonitoring[];

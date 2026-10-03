@@ -1,0 +1,5698 @@
+[
+  {
+    "fsq_id": "666e4e8312db6f0c6b295124",
+    "name": "Minute Man Water Heaters",
+    "address": "398 Columbus Ave, Boston, MA 02116",
+    "categories": [
+      "Plumber"
+    ],
+    "phone": "(617) 999-3249",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "687c4b3dbab6c53ce7c50f98",
+    "name": "Plumbing Massachusetts",
+    "address": "120 Tremont St, Boston, MA 02108",
+    "categories": [
+      "Plumber"
+    ],
+    "phone": "(508) 440-2109",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "679286c825e8696f09173691",
+    "name": "A1 Discount Plumber - Fallriver",
+    "address": "fallriver, MA",
+    "categories": [
+      "Plumber"
+    ],
+    "phone": "(508) 337-8100",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "611893b80e447702a9e9ce1d",
+    "name": "Tesla Supercharger",
+    "address": "100 Cambridgeside Pl, Cambridge, MA 02141",
+    "categories": [
+      "Electric Vehicle Charging Station"
+    ],
+    "phone": "(877) 798-3752",
+    "email": "boston_ordersupport@tesla.com",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 45,
+    "reason": "no website, social-only signals"
+  },
+  {
+    "fsq_id": "47a2fb9a44aa4bbd3761bcd9",
+    "name": "Back Bay Handyman & Painter",
+    "address": "35-37 Stanhope St, United States, Boston, MA 02116",
+    "categories": [
+      "General Contractor"
+    ],
+    "phone": "(617) 431-1332",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "dd97a6944cfc49e21f559d17",
+    "name": "Ken's Painting & Handyman Services",
+    "address": "94 Chandler St, Boston, MA 02116",
+    "categories": [
+      "General Contractor"
+    ],
+    "phone": "(917) 251-1400",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "68e2078146e5a741f30d1b43",
+    "name": "The Cambridge Handyman",
+    "address": "55 Cambridge Parkway, Suite 7, Cambridge, MA 02142",
+    "categories": [
+      "Construction"
+    ],
+    "phone": "(617) 970-7625",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "01d15956bad74f4c4b3618a6",
+    "name": "Steve's Handyman Service",
+    "address": "94 B St, Boston, MA 02127",
+    "categories": [
+      "General Contractor"
+    ],
+    "phone": "(617) 268-4352",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "796828ab64324f116922759a",
+    "name": "Fulkerson Handyman And Painter",
+    "address": "3 Fulkerson St, Cambridge, MA 02141",
+    "categories": [
+      "General Contractor"
+    ],
+    "phone": "(617) 616-8447",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "53459943498effb5de4eb301",
+    "name": "Handyman Brookline",
+    "address": "250 Granite Street (Pearl Street), Cambridge, MA 02139",
+    "categories": [
+      "Hardware Store"
+    ],
+    "phone": "(617) 600-4823",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "671d30747e52965b452226f4",
+    "name": "Nexus Concrete Contractors Boston MA",
+    "address": "50 Milk St, Boston, MA 02109",
+    "categories": [
+      "Home Service"
+    ],
+    "phone": "(781) 536-7459",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "f91577267df243b7d345d36c",
+    "name": "Remodeling Contractor Boston",
+    "address": "8 Faneuil Hall Market Pl, Boston, MA 02109",
+    "categories": [
+      "Bathroom Contractor",
+      "General Contractor"
+    ],
+    "phone": "(888) 554-5018",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4fe0d2d4e4b066c01a1fd0ee",
+    "name": "Dello Russo General Contractors",
+    "address": "304 North St, Boston, MA 02113",
+    "categories": [
+      "Office"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "68572d5d969e4565d0488a88",
+    "name": "CMB Contractors",
+    "address": "237 Albany St, Boston, MA 02118",
+    "categories": [
+      "General Contractor"
+    ],
+    "phone": "(857) 265-3999",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "3c670f16bb66402951bceb92",
+    "name": "Square Biz General Contractors",
+    "address": "141 Spring St, Cambridge, MA 02141",
+    "categories": [
+      "General Contractor"
+    ],
+    "phone": "(781) 363-6556",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "c8b6738a2fef481a5f6a064d",
+    "name": "Performance Roofing Contractor",
+    "address": "50 Terminal St, Boston, MA 02129",
+    "categories": [
+      "Roofer"
+    ],
+    "phone": "(617) 433-1524",
+    "email": "sales@roofingbostonma.net",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 40,
+    "reason": "no website"
+  },
+  {
+    "fsq_id": "5127e843ebcaa12328de3c38",
+    "name": "Boston Home Remodeling Contractors",
+    "address": "553 Main Street, Boston, MA 02129",
+    "categories": [
+      "Structure"
+    ],
+    "phone": "(617) 221-3321",
+    "social": {
+      "twitter": "bostonmahome"
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5fa98316cc420c1442494bff",
+    "name": "Pro1 Masonry Contractors of Boston MA",
+    "address": "Boston, MA 02127",
+    "categories": [
+      "Structure"
+    ],
+    "phone": "(617) 295-7377",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "104d11d13d674cf595bb897f",
+    "name": "Vozella Anthony S Electrical Contractors",
+    "address": "63 Broadway, Chelsea, MA 02150",
+    "categories": [
+      "Electrician",
+      "General Contractor"
+    ],
+    "phone": "(617) 889-0849",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "5fa585760284c3688449a4dd",
+    "name": "Pro1 Masonry Contractors of Boston MA",
+    "address": "605 Dorchester Ave, Boston, MA 02127",
+    "categories": [
+      "Structure"
+    ],
+    "phone": "(617) 295-7377",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "43ef0fb412a84269120da99b",
+    "name": "B & F Contractors",
+    "address": "90 Prospect St, Somerville, MA 02143",
+    "categories": [
+      "General Contractor"
+    ],
+    "phone": "(617) 625-3637",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "15e669a800154d28bf137d28",
+    "name": "Galaxy Electrical Contractors",
+    "address": "452 Bennington St, Boston, MA 02128",
+    "categories": [
+      "Electrician",
+      "General Contractor"
+    ],
+    "phone": "(617) 569-2205",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "5fa5179fff866a1658be6723",
+    "name": "A1 Boston Flooring Contractors",
+    "address": "1135 Harrison Ave, Boston, MA 02119",
+    "categories": [
+      "Structure"
+    ],
+    "phone": "(857) 226-3030",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "7d8436632b3348c62e6ac6bb",
+    "name": "Krc Marble & Granite Contractors",
+    "address": "78 Maverick St, Chelsea, MA 02150",
+    "categories": [
+      "General Contractor"
+    ],
+    "phone": "(617) 887-0666",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "5f434ff3191a1f6ab96cde71",
+    "name": "Massachusetts Demolition Contractors",
+    "address": "101 Flint St, Somerville, MA 02145",
+    "categories": [
+      "Home Service"
+    ],
+    "phone": "(617) 915-3793",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "573b15b5498e24a7f7c29b04",
+    "name": "Mr. Contractors Revolutions Inc.",
+    "address": "General Contractor, Chelsea, MA 02150",
+    "categories": [
+      "Construction Supplies Store"
+    ],
+    "phone": "(781) 544-4269",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "54379b79498e646d14b80d7c",
+    "name": "Ribeiro Inc. Electrical Contractor",
+    "address": "Somerville, MA 02143",
+    "categories": [
+      "Electronics Store"
+    ],
+    "phone": "(857) 253-1973",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "7d60350deda74ca5d2fadfb3",
+    "name": "Tecta America Roofing",
+    "address": "101 Federal St, Boston, MA 02110",
+    "categories": [
+      "Roofer"
+    ],
+    "phone": "(800) 841-4000",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "5357d2c5498efe80c8ddf61c",
+    "name": "PMJ Roofing & Siding",
+    "address": "228 E St, Boston, MA 02127",
+    "categories": [
+      "Office"
+    ],
+    "phone": "(774) 287-0075",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "22d7e82b2864a87b055df4aa",
+    "name": "Green Roofing Co.",
+    "address": "151 Old Colony Ave, South Boston, MA 02127",
+    "categories": [
+      "Roofer"
+    ],
+    "phone": "(857) 302-3584",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "e46c776c22e54671a2700b25",
+    "name": "East Boston Roofing and Gutters",
+    "address": "217 Princeton St, Boston, MA 02128",
+    "categories": [
+      "Roofer"
+    ],
+    "phone": "(508) 816-5716",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "7f545df153b04629b25fa9ee",
+    "name": "Fernald Roofing Co.",
+    "address": "691 E 4th St, Boston, MA 02127",
+    "categories": [
+      "General Contractor",
+      "Roofer"
+    ],
+    "phone": "(617) 268-8820",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "6a2c451ad8707aad5ccdb66e",
+    "name": "Able Roofing and Construction",
+    "address": "36 Franklin St, Somerville, MA 02145",
+    "categories": [],
+    "phone": "(617) 207-5294",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "58523309561ded4b82738ee7",
+    "name": "Tulsa Roofing Experts",
+    "address": "S. Kennedy Hall, 115 Hemenway St#136, Boston, MA 02115",
+    "categories": [
+      "Structure"
+    ],
+    "phone": "(617) 682-7898",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "c6142b8f6ec6f6034124a586",
+    "name": "Roofing Shingle by Shingle",
+    "address": "1100 Massachusetts Ave, Dorchester, MA 02125",
+    "categories": [
+      "Roofer"
+    ],
+    "phone": "(857) 302-3196",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "55aeffcf498e7d2fe8d59915",
+    "name": "Brothers Roofing Company",
+    "address": "111 Shurtless St, Chelsea, MA 02150",
+    "categories": [
+      "Home Service",
+      "Construction Supplies Store"
+    ],
+    "website": "",
+    "phone": "(617) 270-0461",
+    "email": "brothersroofing15@gmail.com",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 45,
+    "reason": "no website, social-only signals"
+  },
+  {
+    "fsq_id": "147ce693ab16476f8ccba350",
+    "name": "Com-Ton Sheet Metal & Roofing",
+    "address": "29 Clapp St, Boston, MA 02125",
+    "categories": [
+      "Roofer"
+    ],
+    "phone": "(617) 282-1869",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "574b3c24498e44675b57ddaf",
+    "name": "Chapel Roofing",
+    "address": "7525 Paragon Rd. #751763, Centerville, MA 45459",
+    "categories": [
+      "Home Service"
+    ],
+    "phone": "(937) 660-6915",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "760589a1634f57738291f712",
+    "name": "Capital Roofing Guys",
+    "address": "3 Prescott St, Somerville, MA 02143",
+    "categories": [],
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "55b0d2d7498eb1723fad71e5",
+    "name": "Boston Roofing",
+    "address": "50 Blue Hill Ave, Boston, MA 02119",
+    "categories": [
+      "Structure"
+    ],
+    "phone": "(617) 361-4779",
+    "email": "boston.roofing@yahoo.com",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 45,
+    "reason": "no website, social-only signals"
+  },
+  {
+    "fsq_id": "68e462654b43175698d4be37",
+    "name": "Cambridge MA Epoxy Flooring",
+    "address": "250 Harvard St, Cambridge, MA 02138",
+    "categories": [
+      "Carpet and Flooring Contractor"
+    ],
+    "phone": "(857) 574-4769",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "6422d0b1e2741e46273a7b46",
+    "name": "Boston Quality Flooring",
+    "address": "Chelsea, MA 02150",
+    "categories": [
+      "Home Service"
+    ],
+    "phone": "(857) 227-1092",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "640fef6772a3691493e29ca0",
+    "name": "Boston Epoxy Flooring Systems",
+    "address": "12 Logan St, Boston, MA 02119",
+    "categories": [
+      "Home Service"
+    ],
+    "phone": "(617) 917-2805",
+    "social": {
+      "twitter": "epoxyboston"
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5b444f70da2e00002ce43190",
+    "name": "Painting and Coating Worker",
+    "address": "3793 Christie Way, Charlestown, MA 02129",
+    "categories": [
+      "Business Service"
+    ],
+    "phone": "(978) 839-0127",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "55e87d05498e817a5657e49d",
+    "name": "High Quality Painting",
+    "address": "6 W Eagle St, Boston, MA 02128",
+    "categories": [
+      "Office"
+    ],
+    "phone": "(781) 605-9360",
+    "email": "henry.galan@aol.com",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 45,
+    "reason": "no website, social-only signals"
+  },
+  {
+    "fsq_id": "598a05291bc7046cf7b20250",
+    "name": "The Boston Painting Co",
+    "address": "444 E 3rd St Unit 270712, Boston, MA 02127",
+    "categories": [
+      "Miscellaneous Store"
+    ],
+    "phone": "(781) 680-5066",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "58acbc448cb34e4252ab721b",
+    "name": "Massachusetts Painting",
+    "address": "25 Main Street, Wakefield, MA 01880",
+    "categories": [
+      "Business Center"
+    ],
+    "phone": "(617) 454-4887",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "6479e0570895fd134339fa93",
+    "name": "Michelle Coutinho Painting",
+    "address": "Chelsea, MA 02150",
+    "categories": [
+      "Home Service"
+    ],
+    "phone": "(617) 458-5485",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4e8f0981f5b910ae60b60163",
+    "name": "SMFA Painting Studio",
+    "address": "",
+    "categories": [
+      "College and University"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5912bbadd4cc9844b3b8c767",
+    "name": "VR Painting Maintenance Service",
+    "address": "250 Congress Ave Unit 25, Chelsea, MA 02150",
+    "categories": [
+      "Home Service"
+    ],
+    "phone": "(857) 888-6892",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "75bc8a263f7f4168024926d7",
+    "name": "McM Painting Co.",
+    "address": "61 Clapp St, Dorchester, MA 02125",
+    "categories": [
+      "Painter"
+    ],
+    "phone": "(617) 288-7277",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "536cb898498eee8af10d5989",
+    "name": "Painting Studio",
+    "address": "Boston, MA",
+    "categories": [
+      "Public Art"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "69408ab5b9c5366b7b58cb8d",
+    "name": "N&S Painting",
+    "address": "18 Bow St, Somerville, MA 02143",
+    "categories": [
+      "Construction Supplies Store"
+    ],
+    "phone": "(617) 221-4064",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "621cdcc0dda85a16a248724e",
+    "name": "Castaneda Painting & Tree Service",
+    "address": "129 Springvale Ave, Chelsea, MA 02150",
+    "categories": [
+      "Home Service"
+    ],
+    "phone": "(857) 417-1771",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "2410d126c9344e9cc0a7a275",
+    "name": "CAC Painting Co.",
+    "address": "14 Leland St, Somerville, MA 02143",
+    "categories": [
+      "Painter"
+    ],
+    "phone": "(617) 291-7518",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "623ac513be9e5b59bd0a8db8",
+    "name": "The Painting Company Of Boston Company Of Boston",
+    "address": "165 Middlesex Ave #1039, Somerville, MA 02145",
+    "categories": [
+      "Home Service"
+    ],
+    "phone": "(617) 553-6484",
+    "social": {
+      "twitter": "paintingsboston"
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "50e0152db0ed37cdd6d52de1",
+    "name": "A Moving Affair",
+    "address": "Prince Street, Boston, MA 02113",
+    "categories": [
+      "Moving Target"
+    ],
+    "phone": "(517) 256-8747",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "6808c379f932a446c84668d0",
+    "name": "Vector Moving Boston",
+    "address": "50 Milk St, Bostoz, MA 02110",
+    "categories": [
+      "Mover"
+    ],
+    "phone": "(857) 397-4457",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "e51c27f4d32641810a3dbc5b",
+    "name": "Moving Help - Pack Em And Stack Em Movers",
+    "address": "39 Boylston St, Boston, MA 02116",
+    "categories": [
+      "Mover"
+    ],
+    "phone": "(857) 264-2868",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "54478bb8498ed3636fc9386a",
+    "name": "Boston Moving",
+    "address": "40 Boylston St Apt 308, Boston, MA 02116",
+    "categories": [
+      "Moving Target"
+    ],
+    "phone": "(671) 922-2260",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "51444a6745b06f2b58340052",
+    "name": "Boston Moving Star",
+    "address": "30 Newbury St Ste 3, Boston, MA 02116",
+    "categories": [
+      "Moving Target"
+    ],
+    "phone": "(617) 690-7972",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "b3377f9a154cfcac381d18b3",
+    "name": "Aviv Moving & Storage",
+    "address": "6 Tremont St, Charlestown, MA 02129",
+    "categories": [
+      "Business and Professional Services"
+    ],
+    "phone": "(617) 783-1191",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4c3dff1f704c96bcef1d9c50",
+    "name": "Father & Son Moving & Storage",
+    "address": "50 Tufts St, Charlestown, MA 02129",
+    "categories": [
+      "Mover"
+    ],
+    "phone": "(617) 262-5666",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "b7e3331f778a4fe9a1e0eb6a",
+    "name": "Carlos Moving & Clean Out",
+    "address": "89 Everett St, Boston, MA 02128",
+    "categories": [
+      "Mover"
+    ],
+    "phone": "(617) 410-8516",
+    "email": "breuerwilliam@yahoo.com",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 40,
+    "reason": "no website"
+  },
+  {
+    "fsq_id": "595e43b4c824ae6362549cf0",
+    "name": "Boston Moving Services by Bell Air",
+    "address": "177 Huntington Ave Ste 17, Boston, MA 02115",
+    "categories": [
+      "Transportation Service"
+    ],
+    "phone": "(617) 410-8820",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5177dde5e4b04e802a9e75bf",
+    "name": "blue line moving target",
+    "address": "Boston, MA",
+    "categories": [
+      "Metro Station"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "67cdf03794f10a1c51951560",
+    "name": "Paradise Moving & Storage",
+    "address": "529 Main St, Boston, MA 02129",
+    "categories": [
+      "Mover"
+    ],
+    "phone": "(617) 602-8112",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "53aa9013498ea2d3a5c4aa4e",
+    "name": "Moving Era",
+    "address": "99 Norway St, Boston, MA 02115",
+    "categories": [
+      "Moving Target"
+    ],
+    "phone": "(617) 710-1990",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4fbae291e4b0de8be872fddd",
+    "name": "Moving Walkway",
+    "address": "Boston, MA 02128",
+    "categories": [
+      "Moving Target"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4bfc141be9d8c9287502b2c7",
+    "name": "Gentle Giant Moving Company",
+    "address": "29 Harding St, Somerville, MA 02143",
+    "categories": [
+      "Office"
+    ],
+    "phone": "(617) 661-3333",
+    "email": "boxes@gentlegiant.com",
+    "social": {
+      "twitter": "gentlegiantmove"
+    },
+    "needs_website_or_automation": true,
+    "need_score": 45,
+    "reason": "no website, social-only signals"
+  },
+  {
+    "fsq_id": "4b4165a6f964a5203ec625e3",
+    "name": "Inman Square Hardware Inc",
+    "address": "1337 Cambridge St, Cambridge, MA 02139",
+    "categories": [
+      "Locksmith",
+      "Hardware Store",
+      "Electronics Store"
+    ],
+    "website": "",
+    "phone": "(617) 491-3405",
+    "email": "aptk@comcast.net",
+    "social": {
+      "facebook_id": "430907156953578",
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 45,
+    "reason": "no website, social-only signals"
+  },
+  {
+    "fsq_id": "64e5a2aabd28074f24a9855e",
+    "name": "RG Expert Locksmith",
+    "address": "414 Tremont St, Boston, MA 02116",
+    "categories": [
+      "Locksmith"
+    ],
+    "phone": "(617) 363-9108",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5b9766c26e4650002c39cf35",
+    "name": "Boston Quick Locksmith",
+    "address": "Boston, MA, Boston, MA 02114",
+    "categories": [
+      "Locksmith"
+    ],
+    "phone": "(866) 698-6299",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "583f08c3e6160c69fd90efd7",
+    "name": "Downtown Locksmith",
+    "address": "76 Summer St (Otis Street), Boston, MA 02110",
+    "categories": [
+      "Locksmith"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "60bd97a80504e45504896c72",
+    "name": "Door Lock Boston",
+    "address": "Boston, MA 02114",
+    "categories": [
+      "Locksmith"
+    ],
+    "phone": "(617) 729-4452",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "577cf6fd498ecd2e23ee4987",
+    "name": "Boston Locksmith Services",
+    "address": "69 Charles St, Boston, MA 02114",
+    "categories": [
+      "Locksmith"
+    ],
+    "phone": "(857) 770-1700",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "55584098498e21bba65e7df0",
+    "name": "Bursky Locksmith Auto",
+    "address": "Serving Area, Boston, MA 02118",
+    "categories": [
+      "Locksmith"
+    ],
+    "phone": "(617) 514-0220",
+    "social": {
+      "twitter": "burskyautolocks"
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4cc5c37a82388cfac2b37735",
+    "name": "Mass Ave Locksmith",
+    "address": "125 Saint Botolph St, Boston, MA 02115",
+    "categories": [
+      "Locksmith"
+    ],
+    "phone": "(617) 247-9779",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4d794aa715b988bf3b5c48f6",
+    "name": "Affordable Locksmith Service",
+    "address": "347 West 1st Street, Boston, MA 02127",
+    "categories": [
+      "Locksmith"
+    ],
+    "phone": "(617) 861-3812",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "53c74eb4498e3c8496b13a4c",
+    "name": "Somerville Secure Locksmiths",
+    "address": "14 McGrath Hwy #121, Somerville, MA 02143",
+    "categories": [
+      "Locksmith"
+    ],
+    "phone": "(617) 401-8138",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "690ace5b14cda668ce93c153",
+    "name": "SherlockLock",
+    "address": "110 K St Unit 4, Boston, MA 02127",
+    "categories": [
+      "Locksmith"
+    ],
+    "phone": "(857) 767-6797",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5578629f498e93b58528560f",
+    "name": "Best Locksmith Cambridge",
+    "address": "277 Broadway, Cambridge, MA 02139",
+    "categories": [
+      "Locksmith"
+    ],
+    "phone": "(617) 337-3896",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "55dd8dc7498e57d15deb4f45",
+    "name": "Boston Locksmith",
+    "address": "Serving Area, Cambridge, MA 02116",
+    "categories": [
+      "Locksmith"
+    ],
+    "phone": "(857) 400-7876",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "55d307e0498ed9c4b249d149",
+    "name": "Bursky Locksmith Cambridge",
+    "address": "Serving Area, Cambridge, MA 02139",
+    "categories": [
+      "Locksmith"
+    ],
+    "phone": "(617) 765-0109",
+    "social": {
+      "twitter": "burskycambridge"
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "53eeee29498eec00f034f4ac",
+    "name": "Cambridge Locksmith Services",
+    "address": "929 Massachusetts Ave, Cambridge, MA 02139",
+    "categories": [
+      "Locksmith"
+    ],
+    "phone": "(617) 300-0349",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "54576f45498ee281f07c9b27",
+    "name": "24 Hour Locksmith Cambridge MA",
+    "address": "1627 Cambridge St, Cambridge, MA 02138",
+    "categories": [
+      "Locksmith"
+    ],
+    "phone": "(617) 390-8983",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5785d39a498e5b6508424a0a",
+    "name": "Somerville Locksmith",
+    "address": "57 Oxford St, Somerville, MA 02143",
+    "categories": [
+      "Locksmith"
+    ],
+    "phone": "(857) 997-4312",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "53eee5a7498e5cbc62a13811",
+    "name": "Brookline Pro Locksmiths",
+    "address": "20 Chapel St, Brookline, MA 02446",
+    "categories": [
+      "Locksmith"
+    ],
+    "phone": "(617) 250-8624",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4f9ed782e4b02aa9c1df4566",
+    "name": "NBSS Locksmithing",
+    "address": "12 Channel St, Boston, MA 02210, Boston, MA 02210",
+    "categories": [
+      "Trade School",
+      "Locksmith"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "3a3814cf50c74a6588c99c2c",
+    "name": "Peter Paul Landscaping",
+    "address": "50 Walford Way, Charlestown, MA 02129",
+    "categories": [
+      "Landscaper and Gardener"
+    ],
+    "phone": "(617) 242-5406",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "d8ce5e68a5444f763916f850",
+    "name": "Swift Landscaping",
+    "address": "170 Windsor St, Cambridge, MA 02139",
+    "categories": [
+      "Landscaper and Gardener"
+    ],
+    "phone": "(617) 571-2581",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "3de24489007040a6e182000b",
+    "name": "Alvaro Ochoa Landscaping",
+    "address": "36 Prescott St, Boston, MA 02128",
+    "categories": [
+      "General Contractor",
+      "Landscaper and Gardener"
+    ],
+    "phone": "(617) 594-4862",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4db313c2f7b121c29f2ea3e9",
+    "name": "Alejandro's Landscaping",
+    "address": "621 E 3rd St, Boston, MA 02127",
+    "categories": [
+      "Construction Supplies Store"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "6053b0304256b977fffd3c41",
+    "name": "Thunder Landscaping Corp",
+    "address": "86 Central Ave, Chelsea, MA 02150",
+    "categories": [
+      "Construction Supplies Store"
+    ],
+    "phone": "(857) 258-3835",
+    "email": "thunderlandscapingcorp@hotmail.com",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 45,
+    "reason": "no website, social-only signals"
+  },
+  {
+    "fsq_id": "1923fbf151e840c7b6376014",
+    "name": "Edward's Landscaping & Snow",
+    "address": "396 Putnam Ave, Cambridge, MA 02139",
+    "categories": [
+      "Landscaper and Gardener"
+    ],
+    "phone": "(617) 308-6833",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "67cce7952452487c58b0cc93",
+    "name": "P & J Pest Control",
+    "address": "61 Lawrence St, Charlestown, MA 02129",
+    "categories": [
+      "Pest Control Service"
+    ],
+    "phone": "(617) 241-9555",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4e6d56f5d1647053b9a6df47",
+    "name": "Amtrak Control Center",
+    "address": "Boston, MA",
+    "categories": [
+      "Office"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4c98c044f419a093a3307288",
+    "name": "Record Control Center ~ MGH",
+    "address": "Founders House Rm 880, Boston, MA 02114",
+    "categories": [
+      "Office"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4fd53dcce4b0f4325d61cd75",
+    "name": "Passport Control",
+    "address": "Terminal E (BOS Airport), Boston, MA 02128",
+    "categories": [
+      "Border Crossing"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4c892d0d944e224bfc832285",
+    "name": "launch control World HQ",
+    "address": "580 Harrison Ave, Boston, MA 02118",
+    "categories": [
+      "Office"
+    ],
+    "phone": "",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "57487f97498ee469040050e7",
+    "name": "WMBR B-Control",
+    "address": "3 Ames St (Memorial Drive), Cambridge, MA 02142",
+    "categories": [
+      "College Lab"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "51a4c5e3498ef9768684f1ea",
+    "name": "MIT NRL Control Room",
+    "address": "Cambridge, MA",
+    "categories": [
+      "College Lab"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4fd96666e4b0b3e28de8a55d",
+    "name": "Distrigas Dock Control",
+    "address": "Everett, MA 02149",
+    "categories": [
+      "Structure"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4f9c4ed4e4b08ea03965588c",
+    "name": "Air Traffic Control Tower",
+    "address": "Airport Rd (BOS Airport), Boston, MA 02128",
+    "categories": [
+      "Structure"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5b40f2308b98fd002c19d344",
+    "name": "Peston",
+    "address": "Somerville, MA 02143",
+    "categories": [
+      "Boutique"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4f5b8ceae4b053fd67cb174f",
+    "name": "Gardner Museum Control Room",
+    "address": "4 Palace Rd, Boston, MA 02115, Boston, MA 02115",
+    "categories": [
+      "Scenic Lookout"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "535e5325498ee18e82e2dfad",
+    "name": "HMS CSC Control Room",
+    "address": "Boston, MA",
+    "categories": [
+      "IT Service"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4ee3b8d10e61681b958ec9dd",
+    "name": "Salsa y Control",
+    "address": "678 Broadway, Chelsea, MA 02150",
+    "categories": [
+      "Dance Studio"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4f865a34e4b0a7faca3e963b",
+    "name": "Mission Control",
+    "address": "Somerville, MA 02143",
+    "categories": [
+      "Music Venue"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "55499eb2498e9d764c043ec8",
+    "name": "Top Boston Criminal Lawyer",
+    "address": "60 State St (Suite 700), Boston, MA 02109",
+    "categories": [
+      "Law Office"
+    ],
+    "phone": "(617) 592-9883",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5014bc7145b0d929687b3e76",
+    "name": "Lawyers for Tax Relief",
+    "address": "85 Tremont Street #671, Boston, MA 02108",
+    "categories": [
+      "Law Office",
+      "Financial Service",
+      "Legal Service"
+    ],
+    "phone": "(888) 605-5618",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4f0afe4c0039c4c8db8acbb5",
+    "name": "IRS Federal Tax Relief Lawyers",
+    "address": "41 Union St Ste 20, Boston, MA 02108",
+    "categories": [
+      "Law Office",
+      "Financial Service",
+      "Legal Service"
+    ],
+    "phone": "(888) 661-0213",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "52726364498e560ca50b46f4",
+    "name": "The Berg Tax Lawyers",
+    "address": "45 School St #2, Boston, MA 02108",
+    "categories": [
+      "Law Office",
+      "Financial Service",
+      "Legal Service"
+    ],
+    "phone": "(617) 221-7614",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4ecd144a0aafc1474650c043",
+    "name": "U.S. Citizenship and Immigration Services",
+    "address": "Boston, MA 02109",
+    "categories": [
+      "Government Building"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "55b76d10498ef470fccc302c",
+    "name": "Polices, Lawyers, Judges, Bullies with Power",
+    "address": "Clio, MI 48420",
+    "categories": [
+      "Community College"
+    ],
+    "phone": "(810) 964-4787",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "67299bf3199d1644b3435022",
+    "name": "DiBella Law Injury and Accident Lawyers",
+    "address": "100 Cambridge St (14th Floor), Boston, MA 02114",
+    "categories": [
+      "Legal Service"
+    ],
+    "phone": "(617) 663-0665",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "9ae2ff7ad0d94ae1afa8b657",
+    "name": "Sugrue Michael P Lawyer",
+    "address": "53 State St, Boston, MA 02109",
+    "categories": [
+      "Law Office"
+    ],
+    "phone": "(617) 570-8298",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "6830e12688f84746c0492dc6",
+    "name": "Robert M Hale Lawyer",
+    "address": "53 State St, Boston, MA 02109",
+    "categories": [
+      "Law Office"
+    ],
+    "phone": "(617) 570-1252",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "5cb8323a54454b914f4830d0",
+    "name": "Legal Immigration Institute",
+    "address": "14 Beacon St, Boston, MA 02108",
+    "categories": [
+      "Law Office"
+    ],
+    "phone": "(617) 367-7780",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "b9569d0f53144a631dc3f28e",
+    "name": "Notopoulos Alex A Jr Lawyer",
+    "address": "1 Post Office Sq, Boston, MA 02109",
+    "categories": [
+      "Law Office"
+    ],
+    "phone": "(617) 338-2810",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "c2f09601724a4b8d3fdfc553",
+    "name": "Edington Judith G H Lawyer",
+    "address": "1 Post Office Sq, Boston, MA 02109",
+    "categories": [
+      "Law Office"
+    ],
+    "phone": "(617) 338-2800",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "516806feb6037776c5561699",
+    "name": "Charles P Charpentier Lawyer",
+    "address": "1 Post Office Sq, Boston, MA 02109",
+    "categories": [
+      "Law Office"
+    ],
+    "phone": "(617) 451-0203",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "bf6b5309ba9e3f0644a60205",
+    "name": "Boston Lawyer Massachusetts Laws Attorneys",
+    "address": "101 Federal St, Boston, MA 02110",
+    "categories": [
+      "Legal Service"
+    ],
+    "phone": "(888) 437-7747",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "a75ae3d814e14734e2e833d8",
+    "name": "Edmund Polubinski Jr Lawyer",
+    "address": "600 Atlantic Ave, Boston, MA 02210",
+    "categories": [
+      "Law Office"
+    ],
+    "phone": "(617) 951-2100",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "3163c6b786a9451ca20df92d",
+    "name": "Divorce Lawyer",
+    "address": "198 Tremont St, Boston, MA 02116",
+    "categories": [
+      "Law Office"
+    ],
+    "phone": "(617) 446-3921",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "570caf78cd105e165aba0576",
+    "name": "Boston Immigration Visa Attorneys",
+    "address": "292 Newbury St #152, Boston, MA 02115",
+    "categories": [
+      "Law Office"
+    ],
+    "phone": "(617) 209-3003",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "62b7c8e5514c2e60b0a9e801",
+    "name": "Champion Mesothelioma Lawyer",
+    "address": "605 Dorchester Ave, Boston, MA 02127",
+    "categories": [
+      "Law Office"
+    ],
+    "phone": "(617) 751-6533",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "521100c58bbded26d567f6d6",
+    "name": "criminal defense lawyer",
+    "address": "45 Prospect St, Cambridge, MA 02139",
+    "categories": [
+      "Law Office"
+    ],
+    "phone": "(617) 475-0581",
+    "social": {
+      "twitter": "jcolawfirm"
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "56850efb498e90d877b9ae0b",
+    "name": "Personal Injury Attorney Lawyer",
+    "address": "45 E Cottage St, Dorchester, MA 02125",
+    "categories": [
+      "Law Office"
+    ],
+    "phone": "(214) 841-7771",
+    "social": {
+      "twitter": "rosssantner"
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4b5b3ffaf964a5205cee28e3",
+    "name": "Somerville Veteran's Rink",
+    "address": "581 Somerville Avenue, Somerville, MA 02143",
+    "categories": [
+      "Skating Rink"
+    ],
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "55550c81498e985065bc2cc4",
+    "name": "Mann Law Firm PC",
+    "address": "1 State St Ste 1500, Boston, MA 02109",
+    "categories": [
+      "Law Office"
+    ],
+    "website": "",
+    "phone": "(508) 270-0500",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "59c0f2a9029a550935e97285",
+    "name": "Savitz Law Firm",
+    "address": "6 Beacon St Ste 900, Boston, MA 02108",
+    "categories": [
+      "Law Office"
+    ],
+    "phone": "(617) 723-7111",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "591eb51a4aa3f8189f1a36ab",
+    "name": "Savitz Law Firm",
+    "address": "6 Beacon St Ste 900, Boston, MA 02108",
+    "categories": [
+      "Financial Service",
+      "Legal Service"
+    ],
+    "phone": "(617) 723-7111",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5b1c001a0d8a0f002ca38e4e",
+    "name": "Lown Law Firm",
+    "address": "50 Congress Street, Suite 600, Boston, MA 02109",
+    "categories": [
+      "Law Office",
+      "Financial Service",
+      "Legal Service"
+    ],
+    "website": "",
+    "phone": "(617) 676-7339",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "53f63b2f498e1548115190c0",
+    "name": "11 Design Firm",
+    "address": "Boston, MA",
+    "categories": [
+      "Design Studio"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "6568148bbfd4192018bfca5f",
+    "name": "Cashman Law Firm",
+    "address": "100 State St #900, Boston, MA 02109",
+    "categories": [
+      "Law Office"
+    ],
+    "phone": "(978) 306-7549",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "500eb691e4b0294018f29d5d",
+    "name": "urbellis, fieldstiel law firm",
+    "address": "Boston, MA 02110",
+    "categories": [
+      "Law Office"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "59de517fdff81533d2a8baf6",
+    "name": "Boston Injury Law Firm",
+    "address": "20 Park Plz, Boston, MA 02116",
+    "categories": [
+      "Financial Service",
+      "Legal Service"
+    ],
+    "phone": "(617) 948-2503",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "58d65eacccce317ab014a7af",
+    "name": "VRS Law Firm",
+    "address": "20 Park Plz, Boston, MA 02116",
+    "categories": [
+      "Miscellaneous Store"
+    ],
+    "phone": "(617) 372-9322",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "a726599539244794177e1b1e",
+    "name": "Accountants in Boston",
+    "address": "127 Congress St, Boston, MA 02110",
+    "categories": [
+      "Accounting and Bookkeeping Service"
+    ],
+    "phone": "(978) 566-9385",
+    "email": "reynoldbostonmasslocal@gmail.com",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 40,
+    "reason": "no website"
+  },
+  {
+    "fsq_id": "79d0586c53e34f04f727680c",
+    "name": "Snow Wayne Accountant",
+    "address": "201 Main St, Charlestown, MA 02129",
+    "categories": [
+      "Manufacturer"
+    ],
+    "phone": "(617) 242-3100",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "0ddd93f702c444c9c037ddaa",
+    "name": "Robert P Rivet Certified Public Accountant",
+    "address": "464 Commonwealth Ave, Boston, MA 02215",
+    "categories": [
+      "Accounting and Bookkeeping Service"
+    ],
+    "phone": "(617) 266-5100",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4eedb1b16d8617738dce22e9",
+    "name": "IRS Tax Problems Attorneys",
+    "address": "88 Blackstone St Ste 35, Boston, MA 02109",
+    "categories": [
+      "Law Office",
+      "Financial Service",
+      "Legal Service"
+    ],
+    "phone": "(888) 459-1676",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4f0ae1880039c4c8db873de9",
+    "name": "IRS Tax Relief Specialists",
+    "address": "15 Beacon St Ste 30, Boston, MA 02108",
+    "categories": [
+      "Financial Service",
+      "Legal Service"
+    ],
+    "phone": "(888) 661-0211",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "50e81f49ebca46a880422a54",
+    "name": "A.C Tax Lien Lawyers, Inc.",
+    "address": "1 Federal St, Boston, MA 02110",
+    "categories": [
+      "Law Office"
+    ],
+    "phone": "(617) 870-4376",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4eec994f754a43ac20c62696",
+    "name": "IRS Tax Levy Attorneys",
+    "address": "150 Richmond St Ste 102, Boston, MA 02109",
+    "categories": [
+      "Law Office",
+      "Financial Service",
+      "Legal Service"
+    ],
+    "phone": "(800) 453-5204",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "511257f845b0b3cde98c1b8c",
+    "name": "Aldridge Tax Lawyers",
+    "address": "151 Richmond St #7, Boston, MA 02109",
+    "categories": [
+      "Law Office"
+    ],
+    "phone": "(617) 410-6752",
+    "email": "taxattorneyla001@yahoo.com",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 40,
+    "reason": "no website"
+  },
+  {
+    "fsq_id": "5193af9babd8c52fa4b3ccfa",
+    "name": "Boston's IRS Tax Relief Lawyers",
+    "address": "181 Cambridge St #7, Boston, MA 02114",
+    "categories": [
+      "Law Office",
+      "Financial Service",
+      "Legal Service"
+    ],
+    "phone": "(413) 749-5815",
+    "email": "taxsettlementga74@yahoo.com",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 40,
+    "reason": "no website"
+  },
+  {
+    "fsq_id": "50f973e28302eb7aadbaeaee",
+    "name": "Steinman Tax Law Help",
+    "address": "181 Cambridge St #7, Boston, MA 02114",
+    "categories": [
+      "Law Office"
+    ],
+    "phone": "(617) 996-0731",
+    "email": "taxattorneylosk9@yahoo.com",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 40,
+    "reason": "no website"
+  },
+  {
+    "fsq_id": "f453bb2c292f46f55428e940",
+    "name": "Rozsa Tax Enterprises",
+    "address": "145 Tremont St, Boston, MA 02111",
+    "categories": [
+      "Accounting and Bookkeeping Service"
+    ],
+    "phone": "(857) 445-0201",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "5d9a3d8d08f17c0008be3e00",
+    "name": "Tax Attorneys of Boston",
+    "address": "151 Tremont St (Suite #10 ,), Boston, MA 02111",
+    "categories": [
+      "Financial Service",
+      "Legal Service"
+    ],
+    "phone": "(617) 315-2381",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5cd2037f4ac28a002c0e6ce2",
+    "name": "Boston Tax International",
+    "address": "500 Commercial St # 4FL, Boston, MA 02109",
+    "categories": [
+      "Law Office",
+      "Financial Service",
+      "Legal Service"
+    ],
+    "phone": "(508) 250-6954",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4f0ed6dcc2eeb8e9e163fba6",
+    "name": "IRS Tax Lien Help",
+    "address": "44 Charles St Ste 77, Boston, MA 02114",
+    "categories": [
+      "Financial Service",
+      "Legal Service"
+    ],
+    "phone": "(888) 661-0218",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "afaa780053e7444fb8544b54",
+    "name": "Beantown IRS Tax Advisors",
+    "address": "121 Mount Vernon St, Boston, MA 02108",
+    "categories": [
+      "Law Office"
+    ],
+    "phone": "(617) 410-6662",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "50faa91145b000b7620b25e6",
+    "name": "El Chuco's IRS Tax Help Attorneys",
+    "address": "121 Mount Vernon St, Boston, MA 02108",
+    "categories": [
+      "Law Office",
+      "Financial Service",
+      "Legal Service"
+    ],
+    "phone": "(617) 410-6662",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4eea2efde5e83b43198f8d95",
+    "name": "IRS Problem Tax Attorneys",
+    "address": "160 Charles St Ste 1254, Boston, MA 02114",
+    "categories": [
+      "Law Office",
+      "Financial Service",
+      "Legal Service"
+    ],
+    "phone": "(888) 541-9709",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4f05ad4aa17c48afb211d646",
+    "name": "Income Tax Problems Specialists",
+    "address": "151 Sumner Street, Suite 12, Boston, MA 02128",
+    "categories": [
+      "Financial Service",
+      "Legal Service"
+    ],
+    "phone": "(888) 661-0216",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "2645f31df8da40dc1101756e",
+    "name": "Barcelos Tax & Financial Services",
+    "address": "31 Maverick Sq, Boston, MA 02128",
+    "categories": [
+      "Accounting and Bookkeeping Service"
+    ],
+    "phone": "(617) 567-7938",
+    "email": "cmartinez@coraltravel.com",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 40,
+    "reason": "no website"
+  },
+  {
+    "fsq_id": "98590f722d3b49ea2cc0c530",
+    "name": "Sweeney Tax Consulting",
+    "address": "33 Bremen St, Boston, MA 02128",
+    "categories": [
+      "Accounting and Bookkeeping Service"
+    ],
+    "phone": "(978) 360-0540",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4f05c125a17c48afb213d7b5",
+    "name": "IRS Tax Help Services",
+    "address": "1303 Washington Street, Suite 17, Boston, MA 02118",
+    "categories": [
+      "Office"
+    ],
+    "phone": "(888) 661-0217",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4eea15c2754a186843d393c3",
+    "name": "Back Tax Relief Attorneys",
+    "address": "53 Huntington Ave Ste B, Boston, MA 02199",
+    "categories": [
+      "Law Office",
+      "Office",
+      "Financial Service"
+    ],
+    "phone": "(888) 604-2522",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4eea36b7d5fbf4932af4e2d6",
+    "name": "IRS Tax Help Attorneys",
+    "address": "239 Newbury St Ste 918, Boston, MA 02116",
+    "categories": [
+      "Law Office",
+      "Financial Service",
+      "Legal Service"
+    ],
+    "phone": "(800) 640-9619",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "51df724f5019a566f80996d6",
+    "name": "McNabb's Tax Lawyers",
+    "address": "239 Newbury St #3, Boston, MA 02116",
+    "categories": [
+      "Law Office",
+      "Financial Service",
+      "Legal Service"
+    ],
+    "phone": "(617) 431-3895",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "522e8fb404934550bf76d452",
+    "name": "Bryant Tax Law Group",
+    "address": "444 Sumner St #3, Boston, MA 02128",
+    "categories": [
+      "Law Office",
+      "Office",
+      "Financial Service"
+    ],
+    "phone": "(617) 221-7613",
+    "email": "taxdebt0336@yahoo.com",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 40,
+    "reason": "no website"
+  },
+  {
+    "fsq_id": "4eec778f6d8617738dab4496",
+    "name": "Income Tax Help Attorneys",
+    "address": "300 Northern Ave Ste 172, Boston, MA 02210",
+    "categories": [
+      "Law Office",
+      "Financial Service",
+      "Legal Service"
+    ],
+    "phone": "(888) 331-5642",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "66dcd604ea0e6154f00c73ee",
+    "name": "Boston Mobile Notary & Apostille Service",
+    "address": "867 Boylston St Ste 500, Boston, MA 02116",
+    "categories": [
+      "Notary"
+    ],
+    "phone": "(617) 203-8755",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "b1348bac585e470d07cf1f12",
+    "name": "Servicios Notariales Hernandez",
+    "address": "65 Broadway, Somerville, MA 02145",
+    "categories": [
+      "Notary"
+    ],
+    "phone": "(617) 764-3276",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "dd43803c1e214566a4a97508",
+    "name": "Aon Risk Solutions",
+    "address": "1 Federal St Fl 19, Boston, MA 02110",
+    "categories": [
+      "Insurance Agency"
+    ],
+    "phone": "(617) 457-7666",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "208f1d71c4ec4a4bba1c6cbd",
+    "name": "Alemu World Insurance Agency",
+    "address": "471 Columbus Ave, Boston, MA 02116",
+    "categories": [
+      "Insurance Agency"
+    ],
+    "phone": "(617) 236-5924",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "5e5dcde0bc2757000727a555",
+    "name": "Medicare Insurance Boston",
+    "address": "385 W Broadway, Boston, MA 02127",
+    "categories": [
+      "Insurance Agency"
+    ],
+    "phone": "(857) 219-0108",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4fecab89e4b008df5deb23e8",
+    "name": "Atlanric Charter Insurance",
+    "address": "New Chardon St, Boston, MA 02114",
+    "categories": [
+      "Office"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "8e9c98cdc4e24040cb9fbf4b",
+    "name": "Boltz Peter D Insurance Agency",
+    "address": "185 Devonshire St, Boston, MA 02110",
+    "categories": [
+      "Insurance Agency"
+    ],
+    "phone": "(617) 426-4422",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4dd534ad1f6ec4e0bb8b5de4",
+    "name": "Homesite Insurance Group",
+    "address": "Boston, MA",
+    "categories": [
+      "Office"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "629a2d095b90a6388c71697b",
+    "name": "Freight Broker Training Online School",
+    "address": "11 Edinboro St, Boston, MA 02111",
+    "categories": [
+      "Adult Education"
+    ],
+    "phone": "(267) 356-4499",
+    "social": {
+      "twitter": "broker_school"
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5159a01a8302a6672896cacb",
+    "name": "Lendmark Mortgage Corporation",
+    "address": "60 State St #700, Boston, MA 02109",
+    "categories": [
+      "Financial Service",
+      "Legal Service"
+    ],
+    "phone": "(617) 904-9548",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "370625d0b9cf426bbf9bf51a",
+    "name": "New Equity Mortgage",
+    "address": "230 Congress St, Boston, MA 02110",
+    "categories": [
+      "Loans Agency"
+    ],
+    "phone": "(617) 459-4492",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "2d810fbd2d2741256fdb3613",
+    "name": "Sun Mortgage Co.",
+    "address": "128 Lincoln St, Boston, MA 02111",
+    "categories": [
+      "Loans Agency"
+    ],
+    "phone": "(617) 482-5168",
+    "email": "sun.mortgage@verizon.net",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 40,
+    "reason": "no website"
+  },
+  {
+    "fsq_id": "4f32781119836c91c7dad1ce",
+    "name": "Mlw Mortgage Consulting",
+    "address": "127 South St, Boston, MA 02111",
+    "categories": [
+      "Restaurant"
+    ],
+    "website": "",
+    "phone": "(617) 451-7227",
+    "social": {
+      "facebook_id": "126317654090192"
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "f7290508742540f62f220a98",
+    "name": "Cronerstone Properties",
+    "address": "60 State St, Boston, MA 02109",
+    "categories": [
+      "Real Estate Agency"
+    ],
+    "phone": "(617) 850-0004",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4bccba6a511f95217a88b3c7",
+    "name": "Winthrop Realty Trust",
+    "address": "7 Bulfinch Pl (New Chardon St), Boston, MA 02114",
+    "categories": [
+      "Real Estate Agency"
+    ],
+    "phone": "(617) 570-4614",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4f29961ce4b01c87687311a2",
+    "name": "PF North End Realty",
+    "address": "197 Portland St, Boston, MA 02114",
+    "categories": [
+      "Real Estate Agency"
+    ],
+    "phone": "",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "519259e6498e88f22bccf6ab",
+    "name": "First Boston Realty",
+    "address": "Boston, MA 02116",
+    "categories": [
+      "Real Estate Agency",
+      "Advertising Agency"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5afdd740b9ac38002cbcb8b7",
+    "name": "AGRE",
+    "address": "121 Main St, Boston, MA 02129",
+    "categories": [
+      "Real Estate Agency"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4cea7389948f224bd77efb5d",
+    "name": "Dr. Morgan Chiropractor",
+    "address": "90 Everett Ave, Chelsea, MA 02150",
+    "categories": [
+      "Chiropractor"
+    ],
+    "phone": "(617) 887-2730",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "6363f443614bed2aaa830fbc",
+    "name": "Khalsa Chiropractic",
+    "address": "376 Boylston St, Boston, MA 02116",
+    "categories": [
+      "Chiropractor"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "652178c918d0b06c2060eee1",
+    "name": "Boston Spine & Performance",
+    "address": "715 Boylston St, Boston, MA 02116",
+    "categories": [
+      "Chiropractor"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "09354695611a4a547e6fe299",
+    "name": "Sullivan Chiropractic & Rehabilitation",
+    "address": "377 W Broadway, Boston, MA 02127",
+    "categories": [
+      "Chiropractor"
+    ],
+    "phone": "(617) 464-0900",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "66202514a833b72ba470261c",
+    "name": "Wellness In Motion",
+    "address": "294 Massachusetts Ave, Cambridge, MA 02139",
+    "categories": [
+      "Chiropractor"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "73e09ed01e18012f487f54d8",
+    "name": "Back & Neck Treatment Center",
+    "address": "778 Broadway, Chelsea, MA 02150",
+    "categories": [
+      "Chiropractor"
+    ],
+    "phone": "(617) 889-0717",
+    "social": {
+      "facebook_id": "146157292095995"
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5c7e73e5180b910039ad4cab",
+    "name": "Yasir Boston Chiropractor",
+    "address": "575 Boylston St Fl 4, Boston, MA 02116",
+    "categories": [
+      "Health and Beauty Service"
+    ],
+    "phone": "(617) 221-9988",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5c80f55d73fe25002cc41168",
+    "name": "Rafiq Boston Chiropractor",
+    "address": "575 Boylston St Fl 4, Boston, MA 02116",
+    "categories": [
+      "Health and Beauty Service"
+    ],
+    "phone": "(617) 221-5544",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5d646c3e7a83cc0007be91bb",
+    "name": "Joint Ventures PT",
+    "address": "63 Melcher St, Boston, MA 02210",
+    "categories": [
+      "Physical Therapy Clinic"
+    ],
+    "phone": "(617) 536-1161",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "e8ffcdf97106461922f920d3",
+    "name": "Second Wind Physical Therapy & Sports Medicine",
+    "address": "115 Porter St, East Boston, MA 02128",
+    "categories": [
+      "Physical Therapy Clinic"
+    ],
+    "phone": "(617) 569-2929",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "5fdd368d219761049556d4da",
+    "name": "Justine Beauchamp, PT, DPT, PCES",
+    "address": "386 W Broadway Fl 1, Boston, MA 02127",
+    "categories": [
+      "Physical Therapy Clinic"
+    ],
+    "phone": "(617) 752-4672",
+    "email": "southboston@baystatept.com",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 45,
+    "reason": "no website, social-only signals"
+  },
+  {
+    "fsq_id": "5fdd3648c53d085f5be593de",
+    "name": "Matt Donovan, PT, DPT",
+    "address": "316 Huntington Ave, Boston, MA 02115",
+    "categories": [
+      "Physical Therapy Clinic"
+    ],
+    "phone": "(617) 449-7381",
+    "email": "huntingtonave@baystatept.com",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 45,
+    "reason": "no website, social-only signals"
+  },
+  {
+    "fsq_id": "68caf3a3a571db1bc492c228",
+    "name": "Back 9 Physical Therapy and Performance",
+    "address": "350 Massachusetts ave (Blanche st), Cambridge, MA 02139",
+    "categories": [
+      "Physical Therapy Clinic"
+    ],
+    "phone": "(617) 802-8036",
+    "social": {
+      "twitter": "back9_pt"
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4c4b6618712ac928bcfed56c",
+    "name": "Sasa Massage Therapy",
+    "address": "Boston, MA 02111",
+    "categories": [
+      "Massage Clinic"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4f0145acf9abd5b391dbd786",
+    "name": "Archstone North Point Massage Room",
+    "address": "1 Leighton St, Cambridge, MA 02141",
+    "categories": [
+      "Massage Clinic"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4cf801ef069c60fc886ebcc8",
+    "name": "John Davis Therapeutic Massage",
+    "address": "581 Boylston St (Dartmouth Street), Boston, MA 02116",
+    "categories": [
+      "Massage Clinic"
+    ],
+    "phone": "(617) 719-7476",
+    "email": "john@johndavislmt.com",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 45,
+    "reason": "no website, social-only signals"
+  },
+  {
+    "fsq_id": "4e09c860483b98d4171f7947",
+    "name": "Turning Point Acupuncture",
+    "address": "186 Hampshire St, Cambridge, MA 02139",
+    "categories": [
+      "Acupuncture Clinic"
+    ],
+    "phone": "(781) 367-8060",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5267b5dc498e13264d0491c9",
+    "name": "Lunder Building -  LL2 Acupuncture Clinic",
+    "address": "Boston, MA",
+    "categories": [
+      "Acupuncture Clinic"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5148d185e4b0d24a428c29ba",
+    "name": "Dr. Kwok Lap Wong Chinese Medicine & Acupuncture",
+    "address": "200 Lincoln St Ste 302, Boston, MA 02111",
+    "categories": [
+      "Acupuncture Clinic"
+    ],
+    "phone": "(617) 542-2727",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "50d229cbe4b0e555f7341c5d",
+    "name": "Sheng Chiu Acupuncture",
+    "address": "890 Washington St, Boston, MA 02111",
+    "categories": [
+      "Acupuncture Clinic"
+    ],
+    "phone": "(617) 695-0698",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "60e5d1c735eaf81421db2298",
+    "name": "Your Wellness Acupuncture",
+    "address": "137 Newbury St, Boston, MA 02116",
+    "categories": [
+      "Acupuncture Clinic"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5553693c498e5dafd7b044cc",
+    "name": "Cambridge Acupuncture Association",
+    "address": "1525 Cambridge St, Cambridge, MA 02139",
+    "categories": [
+      "Doctor's Office",
+      "Acupuncture Clinic",
+      "Structure"
+    ],
+    "website": "",
+    "phone": "(617) 354-3945",
+    "email": "lipaichang@verizon.net",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 45,
+    "reason": "no website, social-only signals"
+  },
+  {
+    "fsq_id": "694071a998a16e23d345c868",
+    "name": "Refresh Physical Therapy",
+    "address": "27 School St, Boston, MA 02108",
+    "categories": [
+      "Sports Medicine Clinic"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4c93747d905b236a29fc7402",
+    "name": "MGH Therapy",
+    "address": "175 Cambridge St (Dewey St), Boston, MA 02114",
+    "categories": [
+      "Medical Center"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4bfa8ad48d30d13a81b70318",
+    "name": "Drupal Therapy Computech",
+    "address": "99 Bedford St, Boston, MA 02111",
+    "categories": [
+      "Trade School"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4be9d2c0b3352d7fb87454d2",
+    "name": "Vision North",
+    "address": "77 N Washington St, Boston, MA 02114",
+    "categories": [
+      "Optometrist",
+      "Eyecare Store"
+    ],
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "5069ff4ee4b0147b9ef6b52d",
+    "name": "Neuro-ophthalmology",
+    "address": "Boston, MA 02114",
+    "categories": [
+      "Optometrist"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "500727c0e4b09f953c76839c",
+    "name": "Ophthalmic Plastic Surgery Office",
+    "address": "243 Charles St #1080, Boston, MA 02114",
+    "categories": [
+      "Optometrist"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "64fa0e4f34505511bd5da241",
+    "name": "Back Bay Eye Care",
+    "address": "31 Saint James Ave Ste 135, Boston, MA 02116",
+    "categories": [
+      "Optometrist"
+    ],
+    "phone": "(617) 936-4027",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4c9a2e1dd4b1b1f753f1cd35",
+    "name": "Mass Eye And Ear",
+    "address": "465 Medford St, Boston, MA 02129",
+    "categories": [
+      "Optometrist",
+      "Doctor's Office"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4cf95b4cd7206ea8a2503269",
+    "name": "Fashion Optique",
+    "address": "710 Commonwealth Ave, Boston, MA 02215",
+    "categories": [
+      "Optometrist",
+      "Eyecare Store"
+    ],
+    "phone": "(617) 262-3145",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4d92020ed7b1236a2b0e3d38",
+    "name": "Boston Eye",
+    "address": "930 Commonwealth Ave (Pleasent), Boston, MA 02215",
+    "categories": [
+      "Optometrist"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "57505f1e498e23d47b503b6e",
+    "name": "Dr. Shomali Optometric Eye Care",
+    "address": "18 Tremont St, Boston, MA 02108",
+    "categories": [
+      "Eyecare Store",
+      "Fashion Accessories Store",
+      "Optometrist"
+    ],
+    "website": "",
+    "phone": "(617) 426-3236",
+    "email": "eyecare10@drshomali.com",
+    "social": {
+      "facebook_id": "158359670859736",
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 45,
+    "reason": "no website, social-only signals"
+  },
+  {
+    "fsq_id": "512badbbe4b0964b26d8af07",
+    "name": "Massachusetts Eye and Ear Longwood",
+    "address": "Boston, MA 02115",
+    "categories": [
+      "Doctor's Office",
+      "Optometrist"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "57a4bed2498e10ef40a8f320",
+    "name": "Patriot Care",
+    "address": "21 Milk St, Boston, MA 02109",
+    "categories": [
+      "Alternative Medicine Clinic"
+    ],
+    "phone": "(617) 500-1375",
+    "email": "servicedirectory494@gmail.com",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 45,
+    "reason": "no website, social-only signals"
+  },
+  {
+    "fsq_id": "538c9fdb498e0e59cb364ca2",
+    "name": "newbury reflexology and bodyworks",
+    "address": "297 Newbury St, Boston, MA 02115",
+    "categories": [
+      "Massage Clinic"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4b58d757f964a5202b6e28e3",
+    "name": "Langham garage",
+    "address": "1 Post Office Sq, Boston, MA 02109",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "69409cea62a48a51b80d9e35",
+    "name": "Ben's Auto Body Repair Shop",
+    "address": "10 Everett St, East Boston, MA 02128",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "phone": "(617) 567-9469",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "3022a096296d43dbcb99a10b",
+    "name": "AAA Road Service",
+    "address": "10 Drydock Ave, Boston, MA 02210",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "phone": "(617) 531-0663",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4f4574d24fc6f9aaa8d9495e",
+    "name": "Boston Sand & Gravel Garage",
+    "address": "40 Bunker Hill Industrial Park, Charlestown, MA 02129",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4dbed3fa93a08f9274f4bd81",
+    "name": "Portside Truck & Auto Repair",
+    "address": "Boston, MA",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4fad1f45e4b0c811feb59833",
+    "name": "Advanced Tire & Car Care Centers",
+    "address": "185 Broadway, Cambridge, MA 02139",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "phone": "(617) 864-8989",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4e80e7def790ca664308cee5",
+    "name": "Somerville  Auto Service",
+    "address": "Warren St, Somerville, MA 02143",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4bc35239f8219c7481e6b510",
+    "name": "Pat's Towing",
+    "address": "160 McGrath Hwy, Somerville, MA 02143",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4ab9740ef964a520707f20e3",
+    "name": "Andrew Square Garage",
+    "address": "480 Dorchester Ave (Middle Street), Boston, MA 02127",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "phone": "(617) 269-0900",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "50fadb5ce4b0c9eea90aac65",
+    "name": "Kery's Auto Service",
+    "address": "480 Dorchester Ave, Boston, MA 02127",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "phone": "(617) 268-2820",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5006a242e4b05210d879532e",
+    "name": "L St Auto",
+    "address": "41 L St, South Boston, MA 02127",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "phone": "(617) 268-7774",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4bb9fdf198c7ef3b558a3202",
+    "name": "Phil's Towing",
+    "address": "333 Webster Ave, Cambridge, MA 02141",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "phone": "(617) 547-0680",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4dad743f4b2271d46ba5c494",
+    "name": "MBTA Charlestown - Bennett Garage",
+    "address": "Arlington Ave, Charlestown, MA 02129",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "5b19ab19dd8442002c3687fe",
+    "name": "Nick’s Foreign Car Center",
+    "address": "64 Webster Ave, Somerville, MA 02143",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "phone": "(617) 764-0314",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4c5443fa479fc928d6bed792",
+    "name": "Ride & Shine",
+    "address": "150 Alford St, Everett, MA 02149",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4db6e3a91e7248d135d1f987",
+    "name": "Union Gulf",
+    "address": "Somerville, MA",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4efdd41bc2eea47e91da54e3",
+    "name": "Univercity Lock",
+    "address": "Eli Sapir (6 Kelly road #2), Cambridge, MA 02139",
+    "categories": [
+      "Automotive Repair Shop",
+      "Home (private)"
+    ],
+    "phone": "(617) 600-6755",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4bc9f7feb6c49c7468638f91",
+    "name": "MOS Gift Shop",
+    "address": "1 Museum Of Science Driveway, Boston, MA 02114",
+    "categories": [
+      "Gift Store"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4c336d0766e40f4744fac78b",
+    "name": "Richard's Barber Shop",
+    "address": "2 Center Plz (Government Center), Boston, MA 02108",
+    "categories": [
+      "Barbershop"
+    ],
+    "phone": "(617) 227-7765",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4ff5c0e3e4b02b97148ae049",
+    "name": "Aquarium Gift Shop",
+    "address": "Boston, MA 02110",
+    "categories": [
+      "Gift Store"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "2fb92c88a43c410a9f97fd92",
+    "name": "Collector's Shop",
+    "address": "32 Tremont St, Boston, MA 02108",
+    "categories": [
+      "Hobby Store"
+    ],
+    "phone": "(617) 367-2646",
+    "email": "collectorsshopinc@verizon.net",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 40,
+    "reason": "no website"
+  },
+  {
+    "fsq_id": "5ada8922a92d98045fee2ffa",
+    "name": "APAM Swap Shop",
+    "address": "Boston, MA 02109",
+    "categories": [
+      "Office"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4be087bf854f95210a9a2ba5",
+    "name": "Court Square Smoke Shop",
+    "address": "15 Court Sq (Lobby), Boston, MA 02108",
+    "categories": [
+      "Smoke Shop"
+    ],
+    "phone": "(617) 742-1261",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "504f5fcde4b0994349e1486e",
+    "name": "Faneuil Hall Gift Shop",
+    "address": "Boston, MA 02109",
+    "categories": [
+      "Gift Store"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "68f7d353671eec6d012329ef",
+    "name": "Boston Tradesman Coffee Shop",
+    "address": "Boston, MA 02109",
+    "categories": [
+      "Coffee Shop"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4fcf94857beb0903d88b3510",
+    "name": "Shop Small Boston",
+    "address": "1 School St, Boston, MA 02108",
+    "categories": [
+      "Arts and Entertainment"
+    ],
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "54ad6791498eb5c21e4cf162",
+    "name": "Suffolk University Ram Print Shop",
+    "address": "73 Tremont St, Boston, MA 02108",
+    "categories": [
+      "College Library"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "50c4a6317043c7e508add000",
+    "name": "American Express Holiday Gift Card Shop",
+    "address": "Merchant's Row, Boston, MA 02109",
+    "categories": [
+      "Miscellaneous Store"
+    ],
+    "social": {
+      "twitter": "americanexpress"
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "2ebaa3cb6662419ae4d09c05",
+    "name": "Columbo Yogurt Shop",
+    "address": "200 Faneuil Hall Market Pl, Boston, MA 02109",
+    "categories": [
+      "Ice Cream Parlor",
+      "Restaurant"
+    ],
+    "phone": "(617) 227-2926",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "51f2873f498e24f570e3a761",
+    "name": "North Country Angler Fly Shop",
+    "address": "2888 White Mountain Highway, North Conway, MA 03860",
+    "categories": [
+      "Hobby Store"
+    ],
+    "phone": "(603) 356-6000",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4f32846319836c91c7df84b6",
+    "name": "Bills Coffee Shop",
+    "address": "19 Staniford St, Boston, MA 02114",
+    "categories": [
+      "Coffee Shop"
+    ],
+    "website": "",
+    "phone": "(617) 523-5481",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "5d8ccbf40089da000804222e",
+    "name": "Grow Supply Shop",
+    "address": "6 Liberty Sq # 2253, Boston, MA 02109",
+    "categories": [
+      "Medical Lab"
+    ],
+    "phone": "(866) 730-4059",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4bcf3fd6b221c9b654a8d1d0",
+    "name": "Theo's Sandwich Shop",
+    "address": "2 Oliver St, Boston, MA 02109",
+    "categories": [
+      "Sandwich Spot"
+    ],
+    "phone": "(617) 338-5900",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "671bb5064cd09e1a8ab50ff9",
+    "name": "Vape City Smoke Shop",
+    "address": "Boston, MA 02113",
+    "categories": [
+      "Vape Store"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "66ec178778b8854ff40b211e",
+    "name": "Luma's Coffee Shop",
+    "address": "1 Federal St, Boston, MA 02110",
+    "categories": [
+      "Coffee Shop"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "68bb70fda9f06e7579c1cd29",
+    "name": "Monica’s Pasta Shop",
+    "address": "Boston, MA 02109",
+    "categories": [
+      "Italian Restaurant"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4a89baa8f964a520d50820e3",
+    "name": "Your Smoothie and Ice Cream Shop",
+    "address": "48 Winter St, Boston, MA 02108",
+    "categories": [
+      "Ice Cream Parlor"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "6313188d9ac58d50695439f3",
+    "name": "Boston Ever Clear Auto Glass",
+    "address": "1 Washington, St Boston, MA 02108",
+    "categories": [
+      "Car Dealership"
+    ],
+    "phone": "(857) 437-3935",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "121f600722b04b34353c0549",
+    "name": "Free Estimates Auto Glass",
+    "address": "1 Court St, Boston, MA 02108",
+    "categories": [
+      "Automotive Repair Shop",
+      "Car Parts and Accessories"
+    ],
+    "phone": "(857) 317-5617",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "652294fb8e8f76432e385d95",
+    "name": "Southie Mobile Detailing",
+    "address": "12 Piedmont St Apt 5, Boston, MA 02116",
+    "categories": [
+      "Automotive Service"
+    ],
+    "phone": "(617) 744-4174",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "6310e84b16ab477396bc2a96",
+    "name": "A+ Certified Auto Glass of Boston",
+    "address": "6 Liberty Sq, Boston, MA 02109",
+    "categories": [
+      "Car Dealership"
+    ],
+    "phone": "(636) 206-8108",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "66c6470aad02e565d0d7f206",
+    "name": "Touch Of Class Mobile Detailing INC",
+    "address": "1 Washington Mall, Boston, MA 02108",
+    "categories": [
+      "Automotive Service"
+    ],
+    "phone": "(617) 704-2230",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5861688e8f0be461c0061b6f",
+    "name": "Auto Glass Today Boston",
+    "address": "103 Arch St, Boston, MA 02110",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "phone": "(617) 390-7857",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "601a4132680ee86403a2e15a",
+    "name": "Progressive Auto Insurance Boston",
+    "address": "32 Garden St, Boston, MA 02114",
+    "categories": [
+      "Insurance Agency"
+    ],
+    "phone": "(857) 419-5724",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "54b5263a498eb8943cc58754",
+    "name": "American Auto Transport INC",
+    "address": "14 Phillips Street, Boston, MA 02114",
+    "categories": [
+      "Transportation Service"
+    ],
+    "phone": "(888) 506-3992",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "311e10223e7c4363511d26bf",
+    "name": "R & R Auto of Needham",
+    "address": "745 Atlantic Ave, Boston, MA 02111",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "phone": "(617) 449-5444",
+    "email": "needhamcollision@yahoo.com",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 40,
+    "reason": "no website"
+  },
+  {
+    "fsq_id": "5cd2e4b9724750002cee6548",
+    "name": "Auto Leasing Boston",
+    "address": "45 Newbury St, Boston, MA 02116",
+    "categories": [
+      "Car Dealership"
+    ],
+    "phone": "(617) 932-7400",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "61d2c69d67cb2802672f7911",
+    "name": "Auto Glass Repair of Boston",
+    "address": "374 Congress St #3005, Boston, MA 02210",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "phone": "(617) 925-5314",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "72a76bc783c24d32a07a38a9",
+    "name": "Everett Auto Parts Co.",
+    "address": "266 Beacon St, Boston, MA 02116",
+    "categories": [
+      "Car Parts and Accessories"
+    ],
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "21f51c1d923043c8b9261012",
+    "name": "Mechanic Technician Auto",
+    "address": "160 Liverpool St, Boston, MA 02128",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "phone": "(617) 561-0111",
+    "social": {
+      "facebook_id": "110722395656516"
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "6940991562a48a51b80c4b50",
+    "name": "Continental Auto Body",
+    "address": "157 Liverpool St, Boston, MA 02128",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "phone": "(617) 567-9188",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "601ac0e5a1620b402cc97c09",
+    "name": "American National Auto Body",
+    "address": "9 Geneva St, Boston, MA 02128",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "phone": "(617) 567-6100",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4f6e7fc9e4b0e428435cf164",
+    "name": "A & M Auto Body",
+    "address": "Boston, MA 02128",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "566def40498e54e77d4b5047",
+    "name": "Vinny's Auto Sport",
+    "address": "196 Mons O'Brien Hwy, Cambridge, MA 02143",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "51ba1b45498e0cefc0693e6d",
+    "name": "MIT - AUTO-ID & Sending Solutions Expo",
+    "address": "75 Amherst St, Cambridge, MA 02142",
+    "categories": [
+      "Event Space"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "69406afe98a16e23d32d0262",
+    "name": "Doug’s auto",
+    "address": "317 Maverick St, Boston, MA 02128",
+    "categories": [
+      "Automotive Repair Shop"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4b9b82caf964a520030c36e3",
+    "name": "Boston Auto Port",
+    "address": "100 Terminal St, Charlestown, MA 02129",
+    "categories": [
+      "Harbor or Marina"
+    ],
+    "phone": "(617) 242-2300",
+    "social": {
+      "facebook_id": "187633724580638",
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "652298e01ae2e05732bc8bd1",
+    "name": "Seaport Sparkle Mobile Detailing",
+    "address": "95 P St, Boston, MA 02127",
+    "categories": [
+      "Automotive Service"
+    ],
+    "phone": "(617) 744-4188",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4b5224c4f964a520276b27e3",
+    "name": "Super Shine Car Wash",
+    "address": "Boston, MA 02127",
+    "categories": [
+      "Car Wash and Detail"
+    ],
+    "website": "",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4e5e2addd1640a5975c5d937",
+    "name": "Soogie's Car Wash",
+    "address": "",
+    "categories": [
+      "Car Wash and Detail"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "500eb299e4b062ee00396a79",
+    "name": "Simply 2 Impress",
+    "address": "361 Binney St, Cambridge, MA 02139",
+    "categories": [
+      "Car Wash and Detail"
+    ],
+    "phone": "(617) 597-3887",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4c3732e6dfb0e21e4648aca8",
+    "name": "Squikee Clean Car Wash",
+    "address": "425 Bremen Street, East Boston, MA 02128",
+    "categories": [
+      "Car Wash and Detail"
+    ],
+    "phone": "(617) 567-7603",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4b4ca023f964a520fdb726e3",
+    "name": "Fenway Car Wash",
+    "address": "1325 Boylston St (Brookline Ave), Boston, MA 02215",
+    "categories": [
+      "Car Wash and Detail"
+    ],
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "69409ae462a48a51b80cf136",
+    "name": "Sheehan Truck Washing",
+    "address": "887 E 4th St, South Boston, MA 02127",
+    "categories": [
+      "Car Wash and Detail"
+    ],
+    "phone": "(617) 268-4679",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4c6eb88f10faa143df8af168",
+    "name": "Car Wash Rt 99",
+    "address": "Charlestown, MA 02129",
+    "categories": [
+      "Car Wash and Detail"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4bdb06453904a5937e56489e",
+    "name": "Sunshine Car Wash",
+    "address": "Boston, MA",
+    "categories": [
+      "Car Wash and Detail"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+
+  {
+    "fsq_id": "1ead62be48ae49283ee7e263",
+    "name": "Family Auto Body",
+    "address": "88 E Elm St, Everett, MA 02149",
+    "categories": [
+      "Automotive Repair Shop",
+      "Car Wash and Detail"
+    ],
+    "phone": "(617) 381-4667",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "50ccb4d2e4b0a8af85d3ec0d",
+    "name": "Charlestown Veterinary Hospital",
+    "address": "24 Roland St, Charlestown, MA 02129",
+    "categories": [
+      "Veterinarian",
+      "Pet Service"
+    ],
+    "phone": "(617) 625-0090",
+    "email": "contact@charlestownvet.com",
+    "social": {
+      "facebook_id": "320805894651195",
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 45,
+    "reason": "no website, social-only signals"
+  },
+  {
+    "fsq_id": "4ce1f96098ab6a31342863e1",
+    "name": "Winter Hill Veterinary Clinic",
+    "address": "257 Broadway, Somerville, MA 02145",
+    "categories": [
+      "Veterinarian"
+    ],
+    "phone": "(617) 623-5075",
+    "email": "info@animalshelter.org",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 40,
+    "reason": "no website"
+  },
+  {
+    "fsq_id": "5f84ad1ab70817260c693afc",
+    "name": "The Pet Vet - North End",
+    "address": "Boston, MA 02114",
+    "categories": [
+      "Veterinarian"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "62c5f51bd998903ac1fe4a2d",
+    "name": "Bond Vet",
+    "address": "117 Autumn Ln, Boston, MA 02210",
+    "categories": [
+      "Veterinarian"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "ac1aa1b789ec4c9e558ef114",
+    "name": "Springtime",
+    "address": "310 Cambridge St, Cambridge, MA 02141",
+    "categories": [
+      "Veterinarian"
+    ],
+    "phone": "(617) 661-1113",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "50006e7ce4b021927d1a08d2",
+    "name": "Alliance for Animals Mobile Action Clinic",
+    "address": "232 Silver St (E Street), South Boston, MA 02127",
+    "categories": [
+      "Veterinarian"
+    ],
+    "phone": "(617) 268-7800",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "51f2dc09498eff4502a8b985",
+    "name": "Charlestown Vet Clinic",
+    "address": "24 Roland St, Charlestown, MA 02129",
+    "categories": [
+      "Veterinarian"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "66f19e7ee993fa2dfecdea1f",
+    "name": "Boston Veterinary Clinic",
+    "address": "50 Hood Park Dr (Rutherford Ave), Boston, MA 02129",
+    "categories": [
+      "Veterinarian"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+
+  {
+    "fsq_id": "54cf294b498e696f2488e595",
+    "name": "Brandy Pete's",
+    "address": "Boston, MA",
+    "categories": [],
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4e45686d183849317e67af72",
+    "name": "Les petits coins",
+    "address": "",
+    "categories": [
+      "Event Space"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "6940791598a16e23d35c4f3d",
+    "name": "Wright Choice Grooming",
+    "address": "3 Center Plz, Boston, MA 02108",
+    "categories": [
+      "Health and Beauty Service"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "a7034d67cead49a3af2e0eb9",
+    "name": "Phillipes Peter M",
+    "address": "1 Boston Pl, Boston, MA 02108",
+    "categories": [
+      "Law Office"
+    ],
+    "phone": "(617) 557-5952",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "5c951eb76adbf5002cd23ce9",
+    "name": "Peterman’s Boards and Bowls",
+    "address": "Boston, MA 02109",
+    "categories": [
+      "Gift Store"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "63e3b0bdd6285961e1426df3",
+    "name": "Red Dog Pet Resort & Spa",
+    "address": "Boston, MA 02114",
+    "categories": [
+      "Pet Service"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "51a106cf498e63885cd1ba8d",
+    "name": "La Chic Dog Grooming",
+    "address": "Boston, MA",
+    "categories": [
+      "Miscellaneous Store"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5f4756c0704690529c3f3c97",
+    "name": "La Chic Professional Dog and Cat Grooming Salon",
+    "address": "316 Main St, Boston, MA 02129",
+    "categories": [
+      "Pet Service"
+    ],
+    "phone": "(617) 242-0300",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4cc81d73a32bb1f7dd27aca8",
+    "name": "Pet Spa",
+    "address": "Somerville, MA",
+    "categories": [
+      "Spa"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5fb2535543f3f9770b5ea55a",
+    "name": "Mobile Pet Grooming Pros",
+    "address": "350 Harrison Avenue, Unit 3-210, Boston, MA 02118",
+    "categories": [
+      "Travel and Transportation"
+    ],
+    "phone": "(339) 220-4559",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4e183f77ae6092c2764fb68a",
+    "name": "Pet Port",
+    "address": "Terminal C (BOS Airport), Boston, MA 02128",
+    "categories": [
+      "Dog Park"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4fb65fe0e4b0be3c19651730",
+    "name": "Back Pet Area",
+    "address": "Boston, MA 02128",
+    "categories": [
+      "Dog Park"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "6940994962a48a51b80c6085",
+    "name": "Global Pet Mover",
+    "address": "1 Harborside Dr, East Boston, MA 02128",
+    "categories": [
+      "Pet Supplies Store"
+    ],
+    "phone": "(978) 228-2443",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "52cd800f11d288c2c005369c",
+    "name": "BIDMC Shapiro Radiology - PET/CT",
+    "address": "330 Brookline Ave, Boston, MA 02215",
+    "categories": [
+      "Hospital"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "684f169f59d3f64cce932a4e",
+    "name": "Homewood Suites Pet Area",
+    "address": "Chelsea, MA 02150",
+    "categories": [
+      "Dog Park"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "1cb36b73ce304f0977f21e88",
+    "name": "Petersen & Suchecki",
+    "address": "44 School St, Boston, MA 02108",
+    "categories": [
+      "Law Office"
+    ],
+    "phone": "(617) 367-3200",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4da88a64cda119a2c9005b73",
+    "name": "Super Duck - Boarding Area",
+    "address": "127-199 Constitution Rd, Boston, MA 02129",
+    "categories": [
+      "Boat or Ferry"
+    ],
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "19876062db58423ffb50af38",
+    "name": "A Aadams Statewide Glass & Boarding",
+    "address": "599 Albany St, Boston, MA 02118",
+    "categories": [
+      "Doors and Windows Contractor"
+    ],
+    "phone": "(617) 421-1616",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4f845ff6e4b034e28a44f81f",
+    "name": "RiverDog Daycare",
+    "address": "321 Somerville Ave, Somerville, MA 02143",
+    "categories": [
+      "Pet Supplies Store"
+    ],
+    "phone": "(857) 998-3343",
+    "social": {
+      "twitter": "riverdogdaycare"
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4ba4f16bf964a52051c638e3",
+    "name": "Carleton Court Dog Park",
+    "address": "Carleton Court, Boston, MA 02116",
+    "categories": [
+      "Dog Park"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4c63048beb82d13a60d206d6",
+    "name": "Hot Dog Stand",
+    "address": "Boston, MA",
+    "categories": [
+      "American Restaurant"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "652d862a2ca0d83d9355958e",
+    "name": "Kong dog Quincy Market",
+    "address": "206 S Market St #2125, Boston, MA 02109",
+    "categories": [
+      "Fast Food Restaurant"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4c37955191bd9521af8100a9",
+    "name": "Boston Common Dog Run",
+    "address": "Tremont St (at Park St), Boston, MA 02108",
+    "categories": [
+      "Dog Park"
+    ],
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "51939a6d498e57eaf5ac30d4",
+    "name": "Richmond Street Dog Park",
+    "address": "Opp. 108 Richmond St., Boston, MA 02113",
+    "categories": [
+      "Dog Park"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4cf9e08120fe3704c7d049f8",
+    "name": "The Dog House",
+    "address": "317 Hanover St, Boston, MA 02113",
+    "categories": [
+      "Lounge"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4c335e83ac0ab7136bbb1c1e",
+    "name": "Dog n' Claw",
+    "address": "1 Central Wharf Boston, Boston, MA 02110",
+    "categories": [
+      "Seafood Restaurant",
+      "Hot Dog Joint"
+    ],
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "a45ed23f64994eaeb2d8c3a5",
+    "name": "The Punk Rock Dog",
+    "address": "1 Grove St, Boston, MA 02114",
+    "categories": [
+      "Pet Sitting and Boarding Service"
+    ],
+    "phone": "(617) 678-9399",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "5619dac2498e5051a9fd0e9c",
+    "name": "Boston's Best Dog Walkers",
+    "address": "Boston, MA",
+    "categories": [
+      "Pet Service"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4fc27714e4b09af80b8112a6",
+    "name": "Dakota Puffin Dog Boutique",
+    "address": "Charles st, Boston, MA 02108",
+    "categories": [
+      "Pet Supplies Store"
+    ],
+    "phone": "(617) 624-9624",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4db880ba0437609120ed26fe",
+    "name": "Skeeter's Dog Park",
+    "address": "Tremont St and Warrenton St., Boston, MA 02116",
+    "categories": [
+      "Dog Park"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4c2a1815fe6e2d7f56d0553c",
+    "name": "Charles st Dog Park",
+    "address": "Boston, MA 02116",
+    "categories": [
+      "Dog Park"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4e5ef3051838f725527dc553",
+    "name": "North Point Dog Park",
+    "address": "Education St (Museum Way), Cambridge, MA 02141",
+    "categories": [
+      "Dog Park"
+    ],
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4f18b8fee4b00ed35321bdee",
+    "name": "North Point Dog Park (Small one)",
+    "address": "1 Northpoint Boulevard (1 Earhart Street), Cambridge, MA 02141",
+    "categories": [
+      "Dog Park"
+    ],
+    "phone": "",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4f268ddbe4b04d36dff50755",
+    "name": "The Secret Dog Park",
+    "address": "Memorial, Charlestown, MA 02129",
+    "categories": [
+      "Park"
+    ],
+    "phone": "",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5c69eff89cadd9002c831be4",
+    "name": "Seaport Square Dog Park",
+    "address": "Seaport Square, Boston, MA 02210",
+    "categories": [
+      "Dog Park"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "62b9bc16d7ef721e1ed588df",
+    "name": "Child Street Dog Park",
+    "address": "Child Street, Cambridge, MA 02141",
+    "categories": [
+      "Dog Park"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5cef2fefdbde1100255961fa",
+    "name": "Dog Wash",
+    "address": "345 Harrison Ave (William E Mullins Way), Boston, MA 02118",
+    "categories": [
+      "Pet Service"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "551c6896498e8097c53e4fc6",
+    "name": "Channel Center Dog Park",
+    "address": "Boston, MA",
+    "categories": [
+      "Dog Park"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4bfc0909b5cd2d7fe9f630fb",
+    "name": "Doggie Daytrippers Small Dog Daycare",
+    "address": "526 Dorchester Ave, South Boston, MA 02127",
+    "categories": [],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5159bbd6e4b0648154b6c6cd",
+    "name": "Kendall Square Dog Park",
+    "address": "Cambridge, MA",
+    "categories": [
+      "Dog Park"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4e2cbfc76284b96d7b8d69b1",
+    "name": "Lacey's Dog Park By The River",
+    "address": "Cambridge, MA",
+    "categories": [
+      "Dog Park"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5cb77f9e9d74680039542e42",
+    "name": "Dog Run @ Waterside",
+    "address": "505 Congress St (Silverline Way), Boston, MA 02210",
+    "categories": [
+      "Dog Park"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5f1aa35eac7d6f07a45a65ea",
+    "name": "Jackie Little House Daycare",
+    "address": "141 WEST BROADWAY, South Boston, MA 02127",
+    "categories": [
+      "Daycare"
+    ],
+    "phone": "(617) 268-0451",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "505db7dfe4b023e43fff4757",
+    "name": "Canine Companion Doggie Day Care",
+    "address": "Chelsea, MA 02150",
+    "categories": [
+      "Dog Park"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "498ee2bc61cf46e2871245ba",
+    "name": "Little Wonders Daycare Center",
+    "address": "779 Huntington Ave, Boston, MA 02115",
+    "categories": [
+      "Daycare"
+    ],
+    "phone": "(617) 232-3994",
+    "social": {
+      "facebook_id": "117396764988921"
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "fe15f8d9407448805b3816cc",
+    "name": "Mulberry Child Care & Preschool",
+    "address": "117 Atlantic Ave, Boston, MA 02110",
+    "categories": [
+      "Daycare"
+    ],
+    "phone": "(617) 248-9775",
+    "email": "klcinvestors@klcorp.com",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 40,
+    "reason": "no website"
+  },
+  {
+    "fsq_id": "5143724ae4b052fd87a69ce5",
+    "name": "The Handcuff",
+    "address": "660 Washington St, Boston, MA 02111",
+    "categories": [
+      "Daycare"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4df242ae52b100c2d7f5cbb6",
+    "name": "TCC",
+    "address": "210 Bent St, Cambridge, MA 02141",
+    "categories": [
+      "Daycare"
+    ],
+    "phone": "(617) 252-0001",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5e396701289a2c00081e2606",
+    "name": "Sweet Angels WeeCare",
+    "address": "133 Havre St Apt 2, East Boston, MA 02128",
+    "categories": [
+      "Daycare"
+    ],
+    "phone": "(617) 829-9720",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4f74be28e4b0250b7199678c",
+    "name": "Fenway Bark",
+    "address": "Boston, MA 02215",
+    "categories": [
+      "Daycare"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4bc0a0304cdfc9b65e1d9321",
+    "name": "Russell J. Call Children's Center",
+    "address": "1 Fencourt St, Boston, MA 02115",
+    "categories": [
+      "Daycare"
+    ],
+    "phone": "(617) 373-3929",
+    "social": {
+      "twitter": "nuadmissions"
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5e38f6ec798a250008de2c0b",
+    "name": "Sweet Family WeeCare",
+    "address": "11 Governor Winthrop Rd # 1, Somerville, MA 02145",
+    "categories": [
+      "Daycare"
+    ],
+    "phone": "(339) 215-8379",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5e367c8b0d366a0008d57559",
+    "name": "Mis Trimeros Easos WeeCare",
+    "address": "82 Blossom St Apt 1, Chelsea, MA 02150",
+    "categories": [
+      "Daycare"
+    ],
+    "phone": "(339) 201-5353",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "50e232b6e4b028f66a264efa",
+    "name": "Worsnops Foreceps",
+    "address": "Somerville, MA 02143",
+    "categories": [
+      "Daycare"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "63e508a05f0d363d6f168ac9",
+    "name": "Little Lovage",
+    "address": "Boston, MA",
+    "categories": [
+      "Child Care Service"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5e330df5167c1c00079ba2bc",
+    "name": "Clean Sky WeeCare",
+    "address": "1776 Washington St Apt 3B, Boston, MA 02118",
+    "categories": [
+      "Child Care Service"
+    ],
+    "phone": "(617) 744-4052",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4c581353b7a31b8d799651da",
+    "name": "Millenium Day Care",
+    "address": "Boston, MA 02116",
+    "categories": [
+      "Education"
+    ],
+    "phone": "(617) 728-3666",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "dfdb6ac47b72643e43bd6a67",
+    "name": "Shining Star Day Care Center",
+    "address": "80 Border St, East Boston, MA 02128",
+    "categories": [
+      "Child Care Service"
+    ],
+    "phone": "(617) 567-0047",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "269b4c3ba66d4c1c62a4ea35",
+    "name": "Shining Star Day Care Center",
+    "address": "80 Border St, Boston, MA 02128",
+    "categories": [
+      "Education"
+    ],
+    "phone": "(617) 567-0047",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4ab77950f964a520f17920e3",
+    "name": "King Open Preschool",
+    "address": "870 Cambridge, Cambridge, MA 02139",
+    "categories": [
+      "Preschool"
+    ],
+    "phone": "(617) 349-6078",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "64ff76d42e71643df97db127",
+    "name": "Dandelion Montessori",
+    "address": "38 Bow St, Somerville, MA 02143",
+    "categories": [
+      "Preschool"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4f7af6a2e4b0bd4c7c2498e5",
+    "name": "Shaugnessy Famil Center At Laboure",
+    "address": "Boston, MA 02210",
+    "categories": [
+      "Nursery School"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "504f9657e4b0694f63ca260e",
+    "name": "Boston University Children's Center",
+    "address": "32 Harry Agganis Way, Boston, MA 02215",
+    "categories": [
+      "Nursery School",
+      "Education"
+    ],
+    "phone": "(617) 353-3413",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4e4a72b6a80997a2dbf1ea17",
+    "name": "Tutoring",
+    "address": "",
+    "categories": [
+      "College Classroom"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4fc41a91e4b0264dfd4bfd66",
+    "name": "Kaplan Tutoring",
+    "address": "Boston, MA 02113",
+    "categories": [
+      "College Classroom"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "ea23dfe419d649b29348b982",
+    "name": "Positive Edge Tutoring",
+    "address": "711 Atlantic Ave, Boston, MA 02111",
+    "categories": [
+      "Tutoring Service",
+      "Education"
+    ],
+    "phone": "(800) 601-2261",
+    "email": "info@positiveedgetutoring.com",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 40,
+    "reason": "no website"
+  },
+  {
+    "fsq_id": "681b318c4b756f646e09e67f",
+    "name": "Einstein Tutoring",
+    "address": "68 Harrison Ave Ste 605 #113061, Boston, MA 02111",
+    "categories": [
+      "Child Care Service"
+    ],
+    "phone": "(949) 355-2193",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "518e32f7498eb3a9a45b88c7",
+    "name": "BHCC Tutoring Center",
+    "address": "Boston, MA",
+    "categories": [
+      "Student Center"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "517499e4e4b02cd2cb0a0902",
+    "name": "MIT Tutoring Services Room",
+    "address": "Cambridge, MA",
+    "categories": [
+      "College Academic Building"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "591ccf709deb7d0f69f07072",
+    "name": "Boston Children's Chorus",
+    "address": "Boston, MA 02127",
+    "categories": [
+      "Music School"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4cdd7a98c409b60c27b2e01a",
+    "name": "Tapout Boston Training Center",
+    "address": "60 Canal St, Boston, MA 02114",
+    "categories": [
+      "Martial Arts Dojo"
+    ],
+    "phone": "(617) 248-1515",
+    "email": "info@boston.tapouttc.com",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 45,
+    "reason": "no website, social-only signals"
+  },
+  {
+    "fsq_id": "69409f97b9c5366b7b8f71bd",
+    "name": "KEEL Gear",
+    "address": "1750 Washington St, Boston, MA 02118",
+    "categories": [
+      "Martial Arts Dojo"
+    ],
+    "phone": "(617) 306-0070",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4e276c9545ddfe8f9de82530",
+    "name": "Sliiime swole factory",
+    "address": "Boston, MA",
+    "categories": [
+      "Martial Arts Dojo"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4bba63cc935e952196162890",
+    "name": "C.W. Taekwondo",
+    "address": "285 Green Street (Pearl Street), Middlesex County, MA 02139",
+    "categories": [
+      "Martial Arts Dojo"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4defa4f5fa76c1ceac973d20",
+    "name": "House of the Rising Fun",
+    "address": "92 School St, Somerville, MA 02143",
+    "categories": [
+      "Martial Arts Dojo"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4bc3a29d461576b05af07e32",
+    "name": "Basement Boxing",
+    "address": "Middlesex County, MA",
+    "categories": [
+      "Martial Arts Dojo"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5d409be645a63e00080fbadb",
+    "name": "Gre.Co",
+    "address": "Boston, MA 02210",
+    "categories": [
+      "Greek Restaurant"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "50fca0cfe4b052c5a395cfe8",
+    "name": "The cafe",
+    "address": "Taj Boston Hotel (15 arlington street), Boston, MA 02108",
+    "categories": [
+      "American Restaurant",
+      "Indian Restaurant"
+    ],
+    "phone": "(617) 598-5255",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4aa41189f964a520234520e3",
+    "name": "Brookline Lunch",
+    "address": "9 Brookline St, Cambridge, MA 02139",
+    "categories": [
+      "Breakfast Spot"
+    ],
+    "phone": "(617) 354-2983",
+    "email": "letters@tech.mit.edu",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 40,
+    "reason": "no website"
+  },
+  {
+    "fsq_id": "5790254d498e4630f7b00b51",
+    "name": "Bao Bao Bakery",
+    "address": "84 Harrison Ave, Boston, MA 02111",
+    "categories": [
+      "Bakery"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4b0036d9f964a520903b22e3",
+    "name": "101 Bakery",
+    "address": "56 Beach St (at Tyler St), Boston, MA 02111",
+    "categories": [
+      "Bakery",
+      "Snack Place"
+    ],
+    "phone": "(617) 451-9988",
+    "email": "101bakery@gmail.com",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 40,
+    "reason": "no website"
+  },
+  {
+    "fsq_id": "645824779a0a8c140dee2411",
+    "name": "Bread O’life Bakery",
+    "address": "Boston, MA 02109",
+    "categories": [
+      "Bakery"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4d7e51199df3f04d8f3ec294",
+    "name": "A. Boschetto's Bakery",
+    "address": "158 Salem St (btwn Prince St. & Sheafe St.), Boston, MA 02113",
+    "categories": [
+      "Bakery"
+    ],
+    "phone": "(617) 523-9350",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "68020b5c5120840d9af4ba9f",
+    "name": "Flour Bakery + Cafe",
+    "address": "1B Charles St, Boston, MA 02114",
+    "categories": [
+      "Bakery",
+      "Café"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "62a4d12d1af4a60a744edb3f",
+    "name": "Taiwan Bakery",
+    "address": "56 Beach St (Tyler st), Boston, MA 02111",
+    "categories": [
+      "Bakery"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "65980177d7d06754d3ddfc3b",
+    "name": "Mia’s Brooklyn Bakery",
+    "address": "70 Pier 4 Blvd, Boston, MA 02210",
+    "categories": [
+      "Bakery"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4f32b48f19836c91c7f1a451",
+    "name": "Rudis Bistro Cafe and Catering",
+    "address": "30 Rowes Wharf, Boston, MA 02110",
+    "categories": [
+      "Restaurant"
+    ],
+    "website": "",
+    "phone": "(617) 330-7656",
+    "email": "sales@rudisrestocafe.com",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 40,
+    "reason": "no website"
+  },
+  {
+    "fsq_id": "4e4e4ed7bd4101d0d7a75865",
+    "name": "Pappas Pizzeria",
+    "address": "49 Mount Auburn Pl, Cambridge, MA 02138",
+    "categories": [
+      "Pizzeria"
+    ],
+    "phone": "(617) 497-4849",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4f32839c19836c91c7df3719",
+    "name": "Rebecca's Cafe and Catering",
+    "address": "51 Melcher St, Boston, MA 02210",
+    "categories": [
+      "Restaurant"
+    ],
+    "website": "",
+    "phone": "(617) 523-1431",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "bf8e2a003a6a7f7abd7d3c05",
+    "name": "Cucurullo Catering",
+    "address": "30 Newbury St, Boston, MA 02116",
+    "categories": [
+      "Caterer"
+    ],
+    "phone": "(617) 776-7455",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "6940710398a16e23d343438f",
+    "name": "East Meets West Catering",
+    "address": "212 Northern Ave, Boston, MA 02210",
+    "categories": [
+      "Caterer"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4f321bef19836c91c7b6c8bb",
+    "name": "Marias Gourmet Catering",
+    "address": "43 Gore St, Cambridge, MA 02141",
+    "categories": [
+      "Restaurant"
+    ],
+    "website": "",
+    "phone": "(617) 876-3344",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "554a4b5a498ebba807aa057f",
+    "name": "CHARLTON'S CATERING",
+    "address": "90 Everett St #2, Boston, MA 02128",
+    "categories": [
+      "Bakery"
+    ],
+    "phone": "(617) 480-1190",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "5a1c4877f0b4903bc94023bb",
+    "name": "Salt Creek Catering",
+    "address": "Cambridge, MA 02142",
+    "categories": [
+      "Food and Beverage Service"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "55d5d614498e1d008ad41111",
+    "name": "Joseph's catering at front of The Midtown Hotel",
+    "address": "220 Huntington Ave (The Midtown Hotel), Boston, MA 02115",
+    "categories": [
+      "Food Truck"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4f323af719836c91c7c30285",
+    "name": "Seasonal Table Catering",
+    "address": "421 Marlborough St, Boston, MA 02115",
+    "categories": [
+      "Restaurant"
+    ],
+    "website": "",
+    "phone": "(617) 236-5210",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "38df135fc48a4f7cbaff25fd",
+    "name": "Oliveira & Silva Catering",
+    "address": "2 Marney St, Cambridge, MA 02141",
+    "categories": [
+      "Caterer"
+    ],
+    "phone": "(857) 413-7167",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "6940545665d559314ac4ab3e",
+    "name": "Feast and The Fable Catering",
+    "address": "32 Cambridge St, Charlestown, MA 02129",
+    "categories": [
+      "Caterer"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4f325ae819836c91c7cf9aa8",
+    "name": "Jaks Cafe and Catering",
+    "address": "36 Northampton St, Boston, MA 02118",
+    "categories": [
+      "Restaurant"
+    ],
+    "website": "",
+    "phone": "(617) 427-8777",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "c2754cdc6efe44fb0e524058",
+    "name": "Mise En Place Catering",
+    "address": "201 Somerville Ave, Somerville, MA 02143",
+    "categories": [
+      "Caterer"
+    ],
+    "phone": "(508) 451-0829",
+    "email": "events@misecatering.com",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 40,
+    "reason": "no website"
+  },
+  {
+    "fsq_id": "4f322ceb19836c91c7bd968e",
+    "name": "Family Affair Catering",
+    "address": "130 Newmarket Sq, Boston, MA 02118",
+    "categories": [
+      "Restaurant"
+    ],
+    "website": "",
+    "phone": "(617) 541-4222",
+    "social": {},
+    "needs_website_or_automation": true,
+    "need_score": 55,
+    "reason": "no website, no email"
+  },
+  {
+    "fsq_id": "4e04e708b61cf748612fc725",
+    "name": "Sola Cafe And Catering",
+    "address": "350 mass ave (Sydnet st), Cambridge, MA 02139",
+    "categories": [
+      "American Restaurant"
+    ],
+    "phone": "(617) 576-7652",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "4c0a6b8b009a0f47814de9bf",
+    "name": "Different Tastes Catering",
+    "address": "103 Broadway  Chelsea, MA 02150-2608 Between Beaco, Chelsea, MA 02150",
+    "categories": [
+      "BBQ Joint"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "580aad4338fac33b7a7772e7",
+    "name": "Corner Cafe",
+    "address": "62 Harrison Ave, Boston, MA 02111",
+    "categories": [
+      "Bakery"
+    ],
+    "phone": "(617) 338-1988",
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  },
+  {
+    "fsq_id": "6254a2a98211954e6af5145b",
+    "name": "Fuji HSP",
+    "address": "Boston, MA",
+    "categories": [
+      "Sushi Restaurant"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "needs_website_or_automation": true,
+    "need_score": 60,
+    "reason": "no website, no email, social-only signals"
+  }
+]

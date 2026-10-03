@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Business Results</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #f6f4f0;
+        --card: #ffffff;
+        --ink: #1f1d1a;
+        --muted: #6c655b;
+        --accent: #1b6ef3;
+        --border: #e3ddd4;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        font-family: "Source Serif 4", "Times New Roman", serif;
+        color: var(--ink);
+        background:
+          radial-gradient(1200px 600px at 10% -20%, #fff 0%, rgba(255, 255, 255, 0) 60%),
+          radial-gradient(900px 500px at 100% 0%, #f3efe8 0%, rgba(243, 239, 232, 0) 70%),
+          var(--bg);
+      }
+      header {
+        padding: 32px 24px 16px;
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+      }
+      h1 {
+        margin: 0;
+        font-size: 32px;
+        letter-spacing: -0.02em;
+      }
+      .toolbar {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 16px;
+        align-items: center;
+        font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
+        color: var(--muted);
+      }
+      .toolbar label {
+        display: inline-flex;
+        gap: 8px;
+        align-items: center;
+        font-size: 14px;
+      }
+      .status {
+        font-size: 13px;
+      }
+      main {
+        padding: 0 24px 40px;
+      }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 16px;
+      }
+      .card {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 16px;
+        padding: 16px;
+        display: grid;
+        gap: 10px;
+        box-shadow: 0 10px 30px rgba(31, 29, 26, 0.08);
+      }
+      .name {
+        font-size: 20px;
+        margin: 0;
+      }
+      .address {
+        margin: 0;
+        color: var(--muted);
+        font-size: 14px;
+      }
+      .categories {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px;
+      }
+      .chip {
+        font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
+        font-size: 12px;
+        padding: 4px 8px;
+        border-radius: 999px;
+        border: 1px solid var(--border);
+        background: #faf8f5;
+      }
+      .contact {
+        display: flex;
+        gap: 8px;
+        align-items: center;
+        font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
+        font-size: 14px;
+      }
+      .contact a {
+        color: var(--accent);
+        text-decoration: none;
+        border-bottom: 1px dashed rgba(27, 110, 243, 0.4);
+      }
+      .contact a:hover {
+        border-bottom-style: solid;
+      }
+      .empty {
+        padding: 24px;
+        border: 1px dashed var(--border);
+        border-radius: 16px;
+        background: rgba(255, 255, 255, 0.6);
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Business Results</h1>
+      <div class="toolbar">
+        <span id="status" class="status"></span>
+      </div>
+    </header>
+    <main>
+      <section id="grid" class="grid"></section>
+      <div id="empty" class="empty" hidden>No results to show.</div>
+    </main>
+    <script>
+      const grid = document.getElementById("grid");
+      const emptyState = document.getElementById("empty");
+      const status = document.getElementById("status");
+
+      const safeText = (value) => (value == null ? "" : String(value));
+
+      const render = (items) => {
+        grid.innerHTML = "";
+        const filtered = items.filter((item) => safeText(item.email).trim() !== "");
+
+        filtered.forEach((item) => {
+          const card = document.createElement("article");
+          card.className = "card";
+
+          const name = document.createElement("h2");
+          name.className = "name";
+          name.textContent = safeText(item.name) || "Unnamed";
+
+          const address = document.createElement("p");
+          address.className = "address";
+          address.textContent = safeText(item.address) || "Address not listed";
+
+          const categories = document.createElement("div");
+          categories.className = "categories";
+          (item.categories || []).forEach((cat) => {
+            const chip = document.createElement("span");
+            chip.className = "chip";
+            chip.textContent = safeText(cat);
+            categories.appendChild(chip);
+          });
+
+          const contactRow = document.createElement("div");
+          contactRow.className = "contact";
+          const emailLink = document.createElement("a");
+          const emailValue = safeText(item.email).trim();
+          emailLink.href = `mailto:${emailValue}`;
+          emailLink.textContent = emailValue;
+          contactRow.appendChild(emailLink);
+
+          card.appendChild(name);
+          card.appendChild(address);
+          if (categories.childNodes.length) {
+            card.appendChild(categories);
+          }
+          card.appendChild(contactRow);
+          grid.appendChild(card);
+        });
+
+        emptyState.hidden = filtered.length !== 0;
+        status.textContent = `${filtered.length} of ${items.length} shown`;
+      };
+
+      const loadData = async () => {
+        status.textContent = "Loading...";
+        try {
+          const res = await fetch("business_result.json", { cache: "no-store" });
+          if (!res.ok) {
+            throw new Error(`HTTP ${res.status}`);
+          }
+          const data = await res.json();
+          if (!Array.isArray(data)) {
+            throw new Error("JSON root is not an array.");
+          }
+          const sorted = data.slice().sort((a, b) => {
+            const aCat = safeText((a.categories || [])[0]).toLowerCase();
+            const bCat = safeText((b.categories || [])[0]).toLowerCase();
+            return aCat.localeCompare(bCat);
+          });
+          render(sorted);
+        } catch (err) {
+          status.textContent = "Failed to load business_result.json.";
+          emptyState.hidden = false;
+          emptyState.textContent =
+            "Open this file through a local web server if the browser blocks file access.";
+        }
+      };
+
+      loadData();
+    </script>
+  </body>
+</html>
